@@ -1,5 +1,4 @@
 // kate: font Liberation Sans; font-size 16; syntax None; bom off;
-
 .bookmark diagnosis
 + Hunting Mallory
 
@@ -525,36 +524,84 @@ You can observe Mallory from different angles:
 
 Given the model of psychopath as profession, at what age does psychopathy start, and end? And can we see the traits of psychopathy in juveniles, and senior citizens?
 
-The question is important because the traits run in families. If you want to understand someone fully, you must study his relatives. These will be of all ages. If you are in a relationship with someone, you are in one with his parents. That is, his biological parents, and those who raised him.
+The question is valid because the traits run in families. To understand someone fully, look at the family members. These will be of all ages. If you are in a relationship with someone, you are in one with his parents. That is, his biological parents, and those who raised him.
 
-It is also important because Mallory often has children. If psychopaths make up 4% of the population, then almost 10% of families are affected. Statistically, half Mallory's children become like him.
+It is also important because Mallory often has children. If psychopaths make up 4% of the population, then 8% of families are affected. Statistically, half of Mallory's children become like him. I've explained my hypothesis that active psychopathy need an incubating environment to differentiate.
 
-- psychopathy as profession, so 15 or so to retirement
-- what about children and retired?
+This means that if we can recognize the traits in the parent, and in the children, we can intervene. I'll explore the ifs and hows of this in more detail in [#escape]. Let's say you are in a position to do something, and your first question is, "is this child growing up to be like his parent?"
 
-children:
-- bullies, not bullied
-- one parent visibly narcissist and/or abusive
-- chaotic background, probably divorced
-- early experiments in criminality
-- charm and sincerity
-- strange emotional displays (uncalibrated?)
+The traits of psychopathy in children are well studied. Yet the focus is on aggression. For instance, Dr. David Rettew in his talk [https://www.med.uvm.edu/ahec/downloads/School_Nurse_GrandroundsJan10.pdf "Sociopathic Behavior in Children"], refers to "aggression" 36 times. In effect he equates aggression with psychopathy. For sure, some psychopaths are aggressive and violent. Yet it is not a defining trait.
 
-retired:
-- relic hoarders
-- solitary with circle of admirers
-- using children/relatives for support
-- often ill yet not seriously so
+Indeed, the bulk of successful psychopaths are rarely violent. Their aggression lives under the surface. They do not often punch or kick. They smile, and they whisper. Only when they feel violence is more effective, when they have no other options, will they use it. And even then, they will use verbal and emotional violence first. Above all, a psychopath's violence is pragmatic and targeted.
 
+I'd expect young Mallory to show a sharp learning curve in hiding his predatory nature. I'd expect to see him learn to make others like them. I'd expect him to practice on smaller, weaker children, when no-one was watching. I'd expect his teachers to adore him.
+
+The model of young psychopaths as out-of-control future delinquents seems so wrong. To model little Mallory as acting on primitive impulse, unsocialized and dysfunctional, is a model without hope. We only make it worse when we frame child psychopathy as a "medical problem," to be treated with drugs and therapy.
+
+Mallory the adult started young and sharpened his talents on his schoolmates. He learned to not get caught. So here is my list of traits for young Mallory, before and during differentiation:
+
+* He is charming and can be angelic. His teachers tend to adore him.
+
+* He is popular with other children, dominant, and independent.
+
+* He teases and bullies smaller and younger children for fun.
+
+* He is not afraid of larger children, nor of disapproval. He does what he likes.
+
+* He despises the school rules, though he avoids getting into trouble.
+
+* He may lead a small gang of other children. They experiment with breaking the rules.
+
+* He asks other children to give him their toys, and other possessions, and they do.
+
+* He steals from other children, and takes small items in shops. He knows this is wrong.
+
+* If you ask other children what he is like, no-one can really tell you.
+
+* He never asks others how they are doing or what they are feeling.
+
+* He is no more likely to show violence and aggression than other children.
+
+* His empathy does not develop. He laughs when others fall and hurt themselves.
+
+* He is chaotic with his and others' possessions. He does not enjoy organized order.
+
+* On line, he stalks and bullies those he feels are vulnerable.
+
+* His family shows chaos and narcissism in one parent.
+
+What about old Mallory? At what age does a psychopath retire? The bulk of old psychopaths die in their beds, surrounded by family. Mallory's genes make her more resistant to cancer, heart disease, diabetes, and other illness. She manages, to her last breath, to draw her family in to support and look after her.
+
+I wrote that psychopaths divide and torture their children. One of the benefits, if you are Mallory, is that you can keep your scapegoats around for decades, serving you.
+
+The seductress disappeared when Mallory hit 45 or so. She tries to keep the interest going with plastic surgery and cosmetics. It often just makes her look more and more grotesque. She pays no attention to others' advice. She is never wrong.
+
+If you look at older Mallory you may see these traits:
+
+* She is surrounded by her children, who look after her. They will ignore or despise their other parent. It is Mallory who is the center of attention.
+
+* People exist to serve her. This goes beyond her children. She collects a circle of admirers who look after her.
+
+* She does nothing for other people: no charity work, no community work. She despises her neighbors.
+
+* Her main hobby is watching television soap operas. She does not keep house plants or cats. If her family give her a companion dog, it becomes sick or disturbed.
+
+* She hoards relics: photographs, clothes, old possessions. Her home is not tidy and functional. It is chaotic and full of arbitrary things left for years in the same spots.
+
+* She may be frail and on the verge of hospitalization for years, decades. Her retirement is punctuated by ill health. Yet she lives to a surprising age.
+
+* She leaves no inheritance to her children. Maybe she never worked. Or, if she had wealth, she may leave it to a charity, to teach her children a lesson.
+
+* She feels no reason to talk to her family unless she needs something.
 
 ++ Conclusions
 
-Is there a single reliable way to tell if a given person is a psychopath? The answer is "no." It depends so much on the state of your relationship with the person, and the context. All your data are lies. Every accusation and observation is wrong or biased. The truth only emerges after time, as the average of many errors.
+In this chapter I've explained where and how to spot Mallory. Is there a //single// reliable way to tell if a given person is a psychopath? The answer is "no." It depends so much on the state of your relationship with the person, and the context. All your data are lies. Every accusation and observation is wrong or biased. The truth only emerges after time, as the average of many errors.
 
 Can we spot psychopaths in the wild? Yes, we can. It is even quite simple. Watch groups and couples in public settings. Observe without opinion. You will see the narcissists, the rule breakers, the charmers and the mimics. You will see some people always triggering others, yet rarely responding. This is how psychopaths spot and avoid others "playing their game."
 
 Except it's not that simple. Prey and predator are in a constant arms race. We can predict that some ants will evolve to imitate their spider parasites. We can predict that some social humans can and must play the psychopath game. Predator mimicry is an interesting idea, and I'll come back to it later.
 
-In the next chapter I'll get back to serious business and explain how to break up with Mallory.
+In the next chapter I'll get back to serious business and explain how to break out of a psychopathic relationship without long-lasting trauma.
 
 

@@ -1,18 +1,11 @@
 // kate: font Liberation Sans; font-size 16; syntax None; bom off;
-.bookmark intervention
-+ Intervention
+.bookmark escape
++ Escape from Jonestown
 
 So you are entangled with Mallory, you've guessed correctly what he is, and you've confirmed with . This knowledge is only the starting point for what comes next. Mallory is not a mosquito that you can swipe off with one hand. For one thing he is as large and strong as you, and is holding on with both hands. For another, he has infected you with a kind of mental malaria, a deep and entrenched trauma.
 
 If you want to become happy again, it is not enough to leave. As I explained in the preface, avoidance leads to depression. You must decode that trauma, and undo the damage. Working with a therapist who knows Mallory can help. Yet you are there, in your brain, every day. You are by far the best person to do this, if you decide you want to. I will explain how in the next chapter, [#escape].
 
-.bookmark treatment
-+ Treatment
-
-
-// kate: font Liberation Sans; font-size 16; syntax None; bom off;
-.bookmark escape
-+ Escape from Jonestown
 
 There are two usual outcomes for Alice. Either she goes through the wringer and emerges used and broken. Or, she recognizes what is happening, earlier on in the game, and escapes. Since Mallory carefully targets those least likely to fight back, the odds are against Alice.
 
