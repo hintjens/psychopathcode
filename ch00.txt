@@ -28,7 +28,11 @@ It was in my book [http://cultureandempire.com Culture & Empire] that I began to
 
 In Culture & Empire I also looked at conflict as a force for change.
 
+<<<<<<< HEAD
 We dream of peace and stability. Yet throughout history the most ambitious leaps forward have arisen from conflict and chaos. We build a world of human rights. We work to protect the environment. We build legal systems and courts and police forces to protect prosperity and peace. You may not realize this from the daily news, yet globally, [https://en.wikipedia.org/wiki/The_Better_Angels_of_Our_Nature violence falls every year, and always has].
+=======
+We dream of peace and stability. Yet history shows the most ambitious leaps forward coming from conflict and chaos. We build a world of human rights. We work to protect the environment. We build legal systems and courts and police forces to protect prosperity and peace. You may not realize this from the daily news, yet globally, [https://en.wikipedia.org/wiki/The_Better_Angels_of_Our_Nature violence falls every year.] It always has.
+>>>>>>> Chapter 5: finished edits.
 
 Humans are not good, or evil. We are survivors. We do whatever it takes to reproduce and make sure our children flourish. Most of us succeed by working together. Some of us prosper by cheating others. I call these the "good actors" and the "bad actors."
 
@@ -74,4 +78,4 @@ We also ask what counter-adaptations might exist in social humans (the non-psych
 
 As far as possible I've worked from repeated observations, verifiable research, and consensus. I've stayed away from speculation and opinion for its own sake. Having said that, I do tell a lot of stories and some are more fantastic than others.
 
-Truth is an absolute we cannot reach, but only make better approximations towards. Sometimes that takes large leaps and informed guesses. Sometimes we must be willing think in unorthodox directions. I make many hypotheses, and state them as if they are facts. I apologize in advance for that style. I apologize also for the speculation that I've gotten wrong. I hope the parts which turn out to be right make it worthwhile.
+Truth is an absolute we cannot reach, only make better approximations to. Sometimes that takes large leaps and informed guesses. Sometimes we must be willing think in unorthodox directions. I make many hypotheses, and state them as if they are facts. I apologize in advance for that style. I apologize also for the speculation that I've gotten wrong. I hope the parts which turn out to be right make it worthwhile.
