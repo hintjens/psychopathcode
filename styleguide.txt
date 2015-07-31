@@ -1,0 +1,77 @@
+-- needs spaces to work with Wikidot
+ad hoc
+
+brainwashing
+burnout (n)
+burn out (v)
+
+cafe should be café
+Chapter 1, Chapter 2, etc.
+choke hold
+cost gravity
+criss-cross
+cybercafé
+
+dead end (n)
+dead-end (adj)
+decision-maker (n)
+digital society
+
+EASSy
+email
+
+fiber-optic
+
+high-tech (adj)
+
+the Industrial Age
+industrial-age (adj)
+Industrial Revolution
+industrial society
+
+landmass
+
+mass-market (adj)
+multicolored
+
+on-line (adj)
+on line
+US
+1990's (not 1990s or 90's)
+
+remix, remixability
+
+set up (v)
+set-up (adj, n)
+side effect
+smartphone
+Social Architect
+Social Architecture
+sub-Saharan Africa
+
+takeover (n)
+time scale
+twentieth century
+
+up-front (adj)
+US
+
+versus
+videocassette
+vice president
+
+Web
+website
+well formed (adj)
+well-formed (adv)
+well-known (adj)
+West African coast
+
+zero-cost (adj)
+
+period and comma always inside quotes
+one to nine; 10, 11, 12, etc.
+
+€, not EUR  shift-ctrl-U 20AC
+
+Eliminate: but, really, very, stuff, things, just, maybe, always, never, absolutely, went

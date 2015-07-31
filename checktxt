@@ -1,0 +1,53 @@
+#! /bin/bash
+#   Checks text for known style faults
+
+mistakes='
+cafe
+adhoc
+chokehold
+deadend
+fibre
+hightech
+[0-9][0-9]s
+sideeffect
+smart.phone
+timescale
+20th
+upfront
+vs
+vice-president
+web.site
+USD
+EUR
+JPY
+whistle-blower
+whistleblower
+para-military
+neighbour
+colour
+odour
+the\sthe\s
+'
+for term in $mistakes; do
+    egrep --color " $term| ${term^}" ch*.txt
+done
+
+#   Other poor constructions
+egrep --color "^[^>].*, but " ch*.txt
+egrep --color "^[^>].*[^,] but " ch*.txt
+egrep --color " online" ch*.txt
+egrep --color "todo" ch*.txt
+egrep --color "\", " ch*.txt
+egrep --color "\"\. " ch*.txt
+egrep --color " - " ch*.txt
+
+#   Check length of paragraphs
+for file in ch*.txt; do
+    line=0
+    for length in `awk '{print length}' $file`; do
+        let line=line+1
+        if [ $length -gt 777 ]; then
+            echo "$file:$line: line contains $length chars"
+        fi
+    done
+done

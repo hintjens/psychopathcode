@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package unique-identifier="uid">
+<metadata>
+  <dc-metadata xmlns:dc="http://purl.org/metadata/dublin_core" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+    <dc:Title>The Psychopath Code: Cracking the Predators that Stalk Us</dc:Title>
+    <dc:Language>en-us</dc:Language>
+    <dc:Identifier id="uid">978-1-5143420-2-2</dc:Identifier>
+    <dc:Creator>Hintjens, Pieter</dc:Creator>
+    <dc:Publisher>iMatix Global Services</dc:Publisher>
+    <dc:Subject BISACCode="POL035000">Psychology</dc:Subject>
+    <dc:Description></dc:Description>
+    <dc:Date>12/06/2015</dc:Date>
+  </dc-metadata>
+
+  <x-metadata>
+    <output encoding="utf-8" content-type="text/x-oeb1-document"></output>
+    <EmbeddedCover>../cover/cover-kindle.jpg</EmbeddedCover>
+    <SRP Currency="USD">2.99</SRP>
+  </x-metadata>
+</metadata>
+<manifest>
+  <item id="toc" media-type="text/x-oeb1-document" href="psycho_toc.html"></item>
+  <item id="text" media-type="text/x-oeb1-document" href="psycho.html"></item>
+</manifest>
+
+<spine>
+  <itemref idref="toc"/>
+  <itemref idref="text"/>
+</spine>
+
+<tours></tours>
+<guide></guide>
+</package>

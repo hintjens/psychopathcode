@@ -1,0 +1,6 @@
+*.odt
+*.pdf
+*.md
+output/
+*.epub
+*.mobi

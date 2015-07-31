@@ -1,0 +1,297 @@
+// kate: font Liberation Sans; font-size 16; syntax None; bom off;
+.bookmark cats
++ Belling the Cats
+
+We come to the last article in this series before I wrap the lot up as a book. I've still got a lot to talk about. So I'm going to conduct an interview with myself. Think of this as The Transcript of The Podcast of The Conclusion of The Book.
+
+//Hi Pieter, thanks for joining us. I'm going to ask you a few questions about your upcoming book, "The Psychopath Code," and your research on psychopaths. Is that OK?//
+
+[Shrugs] Sure. Glad to be here, wherever this is...
+
+//You seem to have a good handle on psychopaths, sociopaths, anti-social personalities, and the like. Your stories are interesting, to say the least. Yet you speculate a lot, and you're not properly qualified to talk about psychopaths, are you? How do we know you're not complete bullshit?//
+
+We don't. The best I can hope for is "not proven wrong, yet." This is basic science. You take the observable data, you read the literature, you build new models that better explain your observations, and then you try to prove those models wrong. If you can't prove a model wrong, use it, until you get a better one. It starts with data and models. After that, it's a matter of brute force and time.
+
+//How did you get your data and theories?//
+
+Look around you, what do you see? People, lots of people. And look closely, over time, and you'll see patterns emerge. We're all different mixes of a finite set of patterns. And these patterns aren't random. They're driven by economics, the need to survive, as one individual of a social species. Once you start decoding our social instincts, like wanting to belong in a group, or seeking approval from others, or making jokes... [inaudible] once you peel off the layers, you start to see there are good and there are bad actors.
+
+It's not that people are a mix of good and bad. It's that most people strive their whole lives to belong, to be part of society, to be normal, and so on. And there are others who seem to strive their whole lives to rebel, not in a nice way. They don't respect rules, they're dishonest, they use sex like a weapon, and they mostly seem to get away with it, playing the victim and blaming other people.
+
+And then we see that much of what we consider as modern human culture seems to emerge from the ancient fight between these two opposing strategies. This is I guess the core theory of my book, and it was a revelation for me.
+
+//Why you? I mean, thousands of people are researching this area. What makes you special?//
+
+If you read [http://cultureandempire.com Culture & Empire], you'll see I tend to slice across disciplines to find simplified grand theories. It's what I'm good at, it comes from a nomadic professional life where either you can come into a project, and see the big picture rapidly and accurately, or you starve. These theories don't need to be entirely true. All models are wrong at some level. As long as it's possible to improve, or disprove a theory, then it's better than no theory, or a magical theory (which you can't even prove wrong).
+
+So for instance, "psychopaths are evil" or "psychopaths are sick" are model that are useless, and cannot be proven false. "Evil" is a relative concept. "Sick" means we search for a cure. Whereas "psychopaths operate logically, as parasites or predators of social humans" is useful (it lets us predict psychopath behavior and reduce the damage they do) and can be proven false (find psychopaths who help others and contribute more than they take.)
+
+As for my motivation and goals, I wanted a set of tools I could use in real life, for myself and my friends and family. The classic advice to anyone entangled with a psychopath is "leave." Yet that's pretty useless. If people haven't left, there are reasons for that. If you decode those reasons, and address them, then you can in my opinion (and experience) give people the tools to cut themselves free, and then leave.
+
+So when I look at the human predator-prey or parasite-host relationship, I'm asking, "how did this evolve, what are the patterns, how exactly do they work, and how can we disable them?" I've found evolutionary psychology gives some of the best answers to anthropological questions. Who we are is a long, old story. Decoding it is fun, and it seems useful.
+
+//Where do you find psychopaths?//
+
+I've become a kind of detective, on the lookout for interesting cases. I start to think that often when you see something strange, there's a psychopath lurking somewhere. It often looks bland until you ask a few questions, and then more and more you see a swirling cloud of chaos and pain, and this person in the middle.
+
+It can be difficult for the people affected to recognize what's going on. I explained why this is. Our psychology is tilted towards hiding personal problems. We're ashamed to admit we're not in control of our lives. We're often afraid to ask for help. However when someone steps into the room and says, "you know, all this mess may not be accidental, nor inevitable. There are people who make this happen on purpose. Have you ever considered that Person X is acting deliberately, so they can profit from you?"
+
+//Why are you so adamant that psychopaths are not mentally ill?//
+
+Ah, this is one thing psychologists, psychiatrists, and courts seem to agree on. Personality disorders are not mental illnesses. Psychopaths //may also// be mentally ill, and [http://www.ncbi.nlm.nih.gov/pubmed/10375148 there seems to be] some comorbidity between psychopathy and schizophrenia, and many symptoms of schizophrenia are common (though often well hidden) in psychopaths: delusions of grandeur, paranoia, lack of emotion, inability to engage with others.
+
+Certainly if you define "normality" as being like most people, then psychopaths are abnormal. Yet so are tall, or short, or pale, or smart people. Species normality is a horrid goal. Diversity is good. Yet it has to be functional.
+
+If a psychopath shows himself or herself truly unable to function, then they can be treated as mentally ill or handicapped. In the worst cases that means drugs and physical isolation. There are psychopaths that are so predatory, so damaging to other people, that they must be kept isolated. At this point, "irredeemable and violently criminal" and "incurably and violently disturbed" are the same.
+
+However, a diagnosis of schizophrenia is used as a form of incarceration. In the USA, if you're black you are [http://www.ncbi.nlm.nih.gov/pubmed/15160786 four times more likely] to get this diagnosis, than if you are white. This is a huge margin of error, and casts a lot of doubt on clinical accuracy. We wouldn't accept that fuzziness for bullet wounds or cancer. "Oh, you're bleeding profusely from a huge hole in your side. Probably a cold! Take two aspirin and a day off work!"
+
+In contrast, when it comes to general diagnoses of personality disorders, you're [http://www.biomedcentral.com/1471-244X/10/33 less likely to be diagnosed with a PD if you're black]. Why? Such diagnoses are ordered by judges. Black defendants are (I suspect, lacking figures) more likely to be treated as criminals, whereas whites, Asians, and Hispanics have more chance at a psychiatric examination.
+
+Meanwhile, the vast majority of psychopaths never go before a judge, or if they do, they get off with minor convictions that are quickly forgotten. Similarly, no psychologist or psychiatrist ever sees them. It's this massive under-the-surface psychopathy that I'm interested in understanding, exposing, and neutralizing.
+
+Whereas their victims, now there we do see mental illness. We see long term depression, PTSD, suicide attempts, and successful suicides. Depression has different causes. Mostly environmental (shit happened to me) or social (people hurt me). Psychopaths definitely play a large role in the second, and arguably also in the first group.
+
+And you //can// treat people who are affected by psychopathy. I've witnessed this many times. It takes an injection of awareness, so the victims can refocus and stop blaming themselves. Then, ways out and happier futures, so they change from "guilty" to victim" to "survivor." This often ignites what is a smoldering conflict, so the sufferer has to be armed to fight, and win.
+
+You don't get any of this by focusing on the psychopath in isolation. Ditto for the other personality disorders. They are essentially about hurting other people. Observe that, model it, and you can alleviate a lot of the pain and suffering.
+
+One final problem with "psychopath" is that we're so hesitant to use this term. When I first started doing my detective thing, and postulating that certain individuals, here and there, were psychopaths, the reaction from others was "must you pathologize him/her?"
+
+//So the term is difficult? Are there better terms?//
+
+All medical and criminal labels are loaded with the biases of their origins. "Psychopath" is the cleanest term yet it's so strong that I can imagine being taken to court for calling someone this. I've used that term in the book title and text, to not fragment the concept more than it already is. Yet that term often leads to rabbit hole discussions like "why not 'sociopath'" or "such a diagnosis must come from a medical professional."
+
+The French-Canadian author [http://isabellenazare-aga.com/ Isabelle Nazare-Aga] coined the term "manipulator," and writes in her 1997 book //Les manipulateurs sont parmis nous//:
+
+> Sympathetic, seductive, reserved, and yet tyrannic, manipulators use various means to get what they want. Moving softly, our closest -- parents, partners, acquaintances, colleagues -- manage to make us feel guilty, inadequate, and full of doubt. Who are these manipulators? How do they keep us in their grip? Are they aware of what they are doing? Are their victims responsible, in some measure? How do we protect ourselves from these emotional terrorists?
+
+The French also use the term //pervers narcissiques// (narcissistic perversion), invented by Paul-Claude Racamier in 1986 or so. I'm not sure the "perversion" works as a model, it seems rooted in a moralistic notion of normality, where there are "good decent" people, and then there are "perverts" of different flavors.
+
+I've used "bad actor" a lot in this book, and in my work on line. That's my way of identifying someone as a psychopath without invoking the arguments over terminology and qualifications.
+
+There are other terms we can plausibly use depending on context: "predator," "tyrant," "narcissist," "parasite," "cheat," "emotional terrorist," "bully," "professional liar," "professional victim," and so on. However, my advice is to use "psychopath" consistently, unless you want to lighten the mood a little.
+
+//You've described psychopathy as a natural phenomenon. Does that make it right?//
+
+Nature is filled with phenomena we treat as problems to be solved. "Natural" does not mean "sacred." Psychopathy is natural and arguably inevitable and essential in a complex social species. That doesn't mean we should accept the damage it causes. Being a charming liar, as such, is fine. Causing emotional trauma to others is not, at least in my social human view of the world.
+
+It is perhaps ironic that in order to understand psychopathy we have to step outside our humanity, and see life for what it is, a complex machine playing out intricate strategies. And then to solve psychopathy, we depend on our humanity as our guide.
+
+The alternative is to allow pain to affect us and our nearest, and come out all bitter and twisted, cursing the gods for their roguish pranks.
+
+//Are you bitter and twisted?//
+
+[Laughs] I don't think so. To be honest I found it kind of exhilarating, specially when I got better at spotting and dealing with psychopaths. This is one core lesson: ignorance is pain. When you know person X is probably lying all the time, it's quite OK to deal with. The real pain comes from the disappointment of bad bets and failed expectations, based on lies. Knowledge is power. Even the simple knowledge that 4% of people are lifelong bad actors... even that's a powerful thing.
+
+So this was the point of the book: collect the data and theories I've got so far, present them and let people try them, break them, improve them. From my own practical experience it seems the models and tools work. Yet they're a step in a direction. If we can agree the direction seems right, we can take more steps, and build finer tools.
+
+//So what is the next step then?//
+
+Ah, this is where it gets tricky. I'd say, go out and find yourself a psychopath or two, and start experimenting on them. Except that is crazy advice, and possibly dangerous. Please don't! Look around, and the chances are you will find a psychopath within arm's reach. If one in 25 is a psychopath, and psychopaths work on 3-5 people at any time, then there's a one-in-six chance you are hosting a psychopath, socially, at work, or at home.
+
+If you work for a large organization, the chance increases dramatically. For many people their employer is The psychopath in their lives. Some of the tools will work, some won't. They may get you fired. Your mileage may vary.
+
+Anyhow, if you are unfortunate enough to be that one-in-six, diagnose your psychopath, and then observe, and then slowly intervene and then slowly try to wrest control of the relationship back. If you have a close friend or family member in this situation, buy them this book, and try to coach them through it. It can be horribly difficult to escape that sense of permanent panic we have when trapped with a psychopath. A friendly coach is one good answer.
+
+//It sounds like a cult. Are you trying to start a cult?//
+
+That's exactly the kind of accusation a psychopath would make. Are you sure you're not a psychopath?
+
+//Yeah, you got me... Have you felt that panic?//
+
+Of course, that's how I know how deep that hole can be.
+
+Different story. A long time ago, my team built software for a big Nigerian brewery. Lagos was stunning: huge, chaotic, filled with energy. On weekends we'd relax on a beach, I think it was Lekki, with our African friends, drink beer, eat //suya// beef, and watch the waves.
+
+The water was dangerous. The beach is steep, so waves crash hard, and pull you back into the ocean. One Saturday, a visiting European executive decided to swim. In front of dozens of managers, all terrified, he waded into the sea. I was younger and stupider than I am now, so I joined him. Then several waves broke at once, and we were dragged off our feet and pulled under.
+
+In a few seconds we were already ten meters from shore, spitting out sand and seaweed and getting our breath back. He could obviously swim well, and in those days I swam kilometers every week. Yet the water was pulling us further from the beach. For some reason I shouted, "sideways!" and pointed. He yelled back and we kicked off and swam out of the rip current, then back to the beach.
+
+//So that guy was a psychopath? Is that what you're saying?//
+
+No, it's a story about how ignorance plus stupidity can kill you. Rip currents aren't large. Obviously the entire ocean isn't moving, only little threads and swirls. However if you try to swim back to shore, you will die from exhaustion. Catch your breath, swim sideways, and in five minutes you're safe on land. I'd read that somewhere, and that one piece of knowledge saved our lives.
+
+It is the same when a psychopath attacks you, whether it's early in the game, or late and the mask is long gone.  Psychopaths start young, and work hard to improve their hunting technique. We social humans, we're like mice, scurrying through the tiny corridors of our lives. We barely have time to react when the fangs and claws hit us. We get dragged out into the wild ocean where the next stop is Antartica. No-one can jump in to save us, even if they're paying attention, which most people aren't.
+
+The hardest part is to not panic, and to not react instinctively. Instead, to take a moment to think it through, and then move sideways. Over time this becomes easier. The fight-or-flight adrenalin response does not go away, so you try to learn to ignore it.
+
+//Can you fight a psychopath head-on? Or do you drown?//
+
+When a psychopath is trying to drag you down, the usual instinct is to not fight. We try to //normalize// the situation, to make it good again, and that is what makes it worse. That's when we drown. So fighting back, deliberately and consciously, seems to be the fastest way out. You take control of the relationship, you put the predator into a metaphorical cage, or force them away, and you recover your mental strength.
+
+This is hard. The predator behaviors evolved specifically to push our mental buttons. So it takes conscious effort, practice, and above all, working with other people. That's our superpower: other people. Do not forget that, and do not make your life a personal struggle. Share your problems and answers, you'll be surprised how much support you get, and how much you can learn.
+
+//When you fight back, doesn't it make the psychopath act worse?//
+
+Strangely, no. Someone once said, "every question is a test, and the answer is always No." Psychopaths operate outside the law, if not in deed then in spirit. They respect no higher authorities, only force. Remember the Ben Franklin effect, where you ask people for small favors and then they like you more? The flip side is that when we (including psychopaths) mistreat people, and they don't fight back, we treat them even worse afterwards.
+
+There is the risk of escalation and violence. This can be terrifying. I'm sure in some cases it can be fatally dangerous. Mostly though, the psychopath risks more than you do through escalation. A public fight attracts other people. It attracts authorities and investigations. All predators are vulnerable in similar ways: injury or exposure means they can't hunt. In human terms, this means psychopaths have to stay hidden.
+
+//So psychopaths are afraid of being exposed?//
+
+Yes. All vampires have their fears. I'd say this the number one background worry of any psychopath: "//what proof do they have?//" A solid file showing a history of breaking the rules and bullying people: this is sunlight and garlic. Psychopaths need secrecy and privacy to misbehave and get away with it, decade after decade.
+
+When you realize you're facing one or more psychopaths, collect evidence, slowly and carefully. This applies to all cases where psychopaths operate, from death squads and genocide to domestic abuse. Collect incontestable proof. Use such material cautiously, only when you need to and when you know it will have an effect. Exposure is a card you can play only once.
+
+//Do you have tips for collecting evidence?//
+
+Emails are good evidence in most courts, which not everyone realizes. So are photos and videos. Audio recordings can be helpful in some cases. Impartial eye-witness statements are good. You have to be careful in a he-said-she-said situation. A psychopath will have the more dramatic accusations, and be ludicrously convincing. I've seen cops spin on their heels and start threatening the victims of violence, based on thirty seconds talking to the perpetrator.
+
+You can get cheap audio recorders that look like USB sticks. Video recorders hidden in watches, pens, and pendants. Or, keep your smartphone handy, and use its audio or video recorder. If you ever get into a physical confrontation, then recording a psychopath can have a dramatic effect, as they may react violently and without warning to what they see as a threat.
+
+Sometimes that's what you want. Provoking a psychopath to anger (real or acted) can be a good way to get them to reveal themselves. They will make threats and accusations. The threats are often extraordinary, and meaningless, until you realize they project threats they see as real //to themselves//. And the accusations can be laughable, until you realize they have accidentally said something they are trying to keep secret. I call this "threat harvesting."
+
+//What else are psychopaths afraid of?//
+
+Not a lot. A bigger psychopath, or at least someone who acts like a bigger psychopath.
+
+//Can you teach me how to act like a "bigger psychopath"?//
+
+What makes you think I would know? [Chuckles]
+
+OK, I can explain what I know. First, you have to be able to act like an arrogant narcissist who owns every room they walk in to. This is easier for some of us than others. You dress slightly too well, you interrupt people, you smile a little too much, and you hold eye contact, you ignore people as they talk to you. Second, you turn certain of the psychopath's tools against them. Do this precisely, and you can more or less convince a predator that you are the same kind, and worse.
+
+You see, psychopaths have predictable instincts like all animals. You shine a laser pointer near a cat, and the cat will be entranced and try to catch the bright red dot. It will keep trying until it's physically exhausted, or mentally burnt-out. Every cat, unless they're blind or way too old. Don't do this, by the way. It's a kind of torture.
+
+You speak of money to a psychopath and they get perky. Speak of large amounts of money possibly coming in the future and they'll chase that idea like a red dot. The more tangible the false bait, the more they'll chase it. This is how many psychopaths bait other people, yet they're not immune to it. You can scam any con artist, once you know their game, and if you want nothing from them.
+
+Psychopaths also tend to be paranoid. It's normal when 96% of your fellow species hate you //ex animo//, from the heart. This makes psychopaths vulnerable to certain kinds of suggestion, such as they're being spied on, followed, or framed by unspecified people.
+
+With patience and some nerve, and an accurate diagnosis, you can lead psychopaths around like cats with a laser pointer. This is sometimes the only way to expose them: to provoke them to make self-defeating claims or attacks that you can record, tape, or get in writing.
+
+//Are you saying, it's OK to deceive and manipulate psychopaths?//
+
+If someone tries to sink their soul-draining fangs into you or yours, I think you're justified in using whatever force you need, to make them stop and/or go away. This includes lying, threats and false promises, indeed the whole psychopath play-book up to violence of different forms. As necessary. Don't break the law, or if you do, make sure you can show self-defense.
+
+//So you mean, we should all become secondary psychopaths...//
+
+Please no! [laughs] Psychopaths are //horrid// to be around. They hurt everyone they touch. What I'm saying is, if a predator comes into your life and attacks you or your friends or family, strike back with force and drive it away. That's  different from becoming a predator yourself.
+
+//Can you lie to a psychopath?//
+
+Psychopaths are hard to lie to. They seem to read minds, and they know every possible lie like a musician knows chords. Lying to a psychopath is a bit like passing a lie-detector test. Start by assuming that every conversation is an interrogation. You're not a psychopath, so you will sweat and tremble and stutter. You can't avoid that.
+
+Rule number one is: control the conversation. Try to start conversations instead of waiting. Drag it out as long as you want it to last. Fill the conversation with tedious, boring detail. Alice does not care about your life. If she's talking, she has a plan in her mind, an agenda. Every time you hijack the thread, you're making it harder for her. End the conversation when you're ready, and then go "no contact" until you decide you want to talk again.
+
+Number two, //truths are lies that are accidentally true//. Every sentence you say is a potential time bomb, so telling the truth should scare you far more than making up lies. It doesn't matter how minor. What you ate for breakfast, the city where you were born... such details are bullets in the hands of someone determined to hurt you. So as a matter of habit, learn to give nothing of value in conversations. Do not discuss your real friends, money, or significant events. Tremble and sweat all the time, lie more than half the time, about grand and yet irrelevant topics, and you'll overload your psychopath's senses.
+
+Don't do this in writing, or in front of neutral witnesses. If you're accused of lying, deny it, shrug and change the subject. Smile and hold eye contact. After many months, you will find yourself less stressed. Eventually you may learn to lie without showing any detectable signs.
+
+//This all seems like a lot of work, even dangerous... is it worth it?//
+
+It can be hard work, yes. I believe it's worse to let psychopaths roam free in our professional and social lives. That creates a lot more pain, even if it's often hidden. It's the child-in-the-cellar syndrome. Many of us are locked in cellars, so to speak. We don't want to open that door for fear of what we might see or have to do. And the world doesn't see us, and our pain remains private.
+
+What I've learned is that climbing those stairs, pushing at that door, and confronting the brutes on the other side is the right thing to do. And "confronting" means fighting, even hurting and damaging them. It is hard work, and it can be dangerous, yet the alternative is worse. There is no peace with a tyrant. To live or work with a psychopath is to live in occupied lands. It is dismal, gray, with the constant threat of violence, and the total loss of freedom.
+
+I've found, over the last years as I wrote this book and internalized its lessons, that confronting bad actors also made me generally happier in life. I'm pretty sure that psychopathy is an all-or-nothing strategy. We are all bad actors at times in our lives. However most of us try hard to self-correct. It's enough to tell most people: "not cool!," show them an alternative, and they will stop. Psychopaths don't self-correct. Instead they get better at not getting caught.
+
+So understanding these two paths of human nature, one can speak to people according to what path they are on. To the good actors, one gives order and structure, power, freedom, and protection from the bad actors. To bad actors, one gives the stick.
+
+//Don't you start seeing "psychopaths" everywhere?//
+
+Well, they are everywhere! Whether we can learn to see them accurately, I'm not sure. It //seems// to work: look a little closer, and you see little dramas. Men and women who dress better than they need to; who have too much confidence; sometimes solitary, sometimes surrounded by a admirers or a love-sick partner. It looks predatory, unbalanced.
+
+You see such characters, and you get to see how they talk to other people. Especially unimportant people. Do they say "thank you" to the person serving them, or do they not even see them? For me, watching people and asking, "does he or she trigger your psychopath detector, and if so, why?" turns every day into a trip to the safari park.
+
+//You've written that it's hard to spot psychopaths without getting involved with them in some way. Yet you're also claiming you can spot them at a distance. Which is it?//
+
+OK, hard, yet not impossible. You have to develop senses that are mostly asleep. With time you can do this, and get better at it. Obviously narcissists stand out, that's the whole point. To spot more subtle psychopaths, put people into unfamiliar situations and see how they respond.
+
+I once organized an impromptu barbecue for a meetup, and invited everyone to bring food and drink. Some people brought random food they'd obviously bought cheap at the last minute. Some people carefully marinated meat and made salads and brought enough food for a family. And some people brought exactly one portion, their own. This last group cooked their food, then ate it, alone and without even token sharing.
+
+It's also interesting how different contexts seem to attract or repel psychopaths. There are not many narcissists in the public swimming pools. A lot more in gyms. Not many in the parent-teacher association. A few more at graduation ceremonies. Not many in open source software events. A few more in commercial conferences. Not many at the animal shelter. A lot in the horse clubs.
+
+You need time and patience to be sure. Psychopaths put a million years of effort into their presentation, their masks. It's hard work and sooner or later they will lapse, and you will see their real faces.
+
+//This seems... cynical and dehumanising//
+
+On the contrary, like I said, it brings clarity, and a better balance into relationships. I've also coached others through their own struggles. It's gratifying to see people switch from enabling an abusive relationship to disabling it, and getting back their power. I also think this slow process of decoding psychopathy and learning how to deal with it is key to saving our planet from ecological disaster.
+
+//Haha, good one! Wait, wut, you're serious? Explain that, please!//
+
+Yes. I'm going to rant now. Psychopathy is destroying our ecosystem and threatening our species.
+
+I don't mean individual psychopaths are going around peeing in the water. Over the last centuries there's been a slow steady growth of networks that are clearly psychopathic in nature, and which benefit a clearly psychopathic elite.
+
+We know that our lives of luxury are paid for in pain, yet we're on the other side of that cellar door, helping to keep it shut. I can rant about this for ages. Our racist immigration policies; our commercialization of oppression to keep fruit, oil, and minerals flowing cheaply; our demand for ever-cheaper chicken, beef, and pork; our obsession with cars, material possessions, money, status... this is psychopathic behavior.
+
+Large chunks of western urban life are a pyramid scheme for secondary psychopathy. Buy a larger car and you can bully other people on the road! Buy our booze and you can play narcissist for an evening! It's the epitome of the American Dream, isn't it? It's a core technique of cults: sure it hurts today, yet one day you'll rise up, and be on top of the others! Accept! Vote! Believe!
+
+With better technology we became able to //really// damage the ecosystem. I do believe in technology, when used by good actors to improve society. Not when it's used to rape the oceans for food, and lands for minerals, which mostly end up sent back to the same countries, as garbage.
+
+In the 21st century, the psychopaths who run these networks seem increasingly well organized. Politics seems dead in much of the west. Classic news is propaganda, and organized opposition to the status-quo becomes an act of war. It  starts to feel like velvet occupation, mainly in the US, and increasingly in its allies.
+
+The simplest explanation is not a grand "Oh, let's do this!" conspiracy. It is enough that generations of wealthy psychopaths have learned to tolerate and help each other, pushed by a common view of humanity divided into fellow predators, helpers, and prey. Racism and sexism -- the eternal wedge issues -- divide us and keep us from recognizing a common problem. Every time race or gender is mentioned in the news, we argue like children of a narcissist.
+
+That shocking gap between the super-rich-and-powerful and the rest of us (all colors and genders) looks like a strong sign that the old balance of power is sliding the wrong way. Our species has thrived on the conflict between cheaters and collaborators. For sure, we've destroyed many ecosystems before, and escaped to new ones. Yet today we are within sight of real, and inescapable disaster.
+
+There are many reasons for the imbalance of power, which I explored in [http://cultureandempire.com Culture & Empire]. One large reason is that while our predators have gotten extremely good at understanding and applying large-scale psychology, the rest of us have not kept up. We've become complacent, naive, and overall rather too trusting. We like our luxuries. We've become complicit.
+
+So we either re-assert the balance, or we risk the failure of our planet's ecosystems, and our future as a species. That's my opinion.
+
+You cannot ask a psychopath, "please take less." You cannot negotiate with such minds. You cannot even trust their logic of self-preservation. Psychopaths are so disconnected from reality they can be hugely self-destructive. Since we cannot walk away from our planet, we have to face down our psychopaths and force them to behave better.
+
+We have to tackle psychopathy like a widespread and damaging global disease. The disease is not the psychopathy itself. To be clear, I'm not calling for genetic screening, incarceration, isolation, eugenics, nor any form of persecution of individuals or their genes.
+
+Apart from anything else, history has taught us how easily psychopaths take control of such tools to fragment society, and gain more power. More importantly, we cannot and should not be trying to stop the Red Queen's race that defines our species.
+
+The disease is the damage to people and to the environment. That's it. The abuse has to end, and we have to wake up, globally, from this stupid fantasy that we can all be rich and beautiful and powerful. The very concepts of riches and beauty and power over others are the lies of narcissism. Want nothing, stop believing the endless propaganda telling us we need wealth, beauty, and power to exist, and we become immune to those lies.
+
+This is impossible to do. I'm talking about reforming the human species. No, that's the wrong word. //Liberating the human species//. Still, we have many great achievements, and I'm optimistic.
+
+//You like the grand rant, don't you! Do you think we can come to peaceful co-existence with our predators?//
+
+Yes, it's inevitable. No, it's impossible. Honestly, I don't know.
+
+Sometimes that cellar door is impossibly out of reach. Yet we are an adjective-defying species.
+
+Let me take two reasons for optimism. The first is that observation that psychopaths work more on instinct than social humans. Psychopaths disconnect from humanity in specific ways, and at an early age. While social humans learn to think and survive as tiny parts of endless networks of minds, psychopaths sit outside those networks. It can seem like two species.
+
+Psychopaths can seem extraordinarily smart, and yet make very stupid mistakes. The reason is they can't properly access knowledge coming from those networks. They focus on getting others to do the hard work for them. Yet their proxies inevitably get depressed and confused.
+
+Humanity has in a way beaten evolution because our social networks can evolve and adapt rapidly. Our brains evolved for an African landscape of 100,000 years ago. And yet we aren't comfortable with change, we actively seek it out and use it to drive our collective hive mind forwards.
+
+What this means is that psychopaths, while born with astonishing talents, cannot evolve at the same speed as social humanity. Psychopaths are an evolutionary sitting target. As mice, plural, we can become the bigger psychopath. Knowledge is power. We can share our experiences and theories, we can decode the psychopath's natural talents, and eventually we can bell our cats.
+
+There is nothing grand about this. Many diseases have fallen to improved scientific knowledge. The difference here is that this particular disease is widely distributed and works mostly on a personal level. And it only works on the unprepared mind. When you understand the psychopath's magic tricks, they lose most of their effect.
+
+Whether it's one country "liberating" another for its diamonds or oil, or a man casually picking up and jettisoning sexual partners, we see the same pattern over and over. Understand psychopaths, and global politics becomes much more transparent.
+
+Knowledge is power, spread it widely, it cannot be taken away.
+
+The second thing is digital technology. We spend more and more time on-line, and this trend isn't going to slow down. It's been said, and I agree, that on-line trolls are psychopaths. Disgusting, of course, to use forums to bait and target people. Yet wait... is this better or worse than having those same kids out in the streets, learning more direct kinds of emotional violence?
+
+I'm fairly sure that a significant slice of young male psychopaths are addicted to massively-multiplayer on-line games and web forums, where they have an inexhaustible supply of people to mess with. Young female psychopaths... well, if I had to guess, I think they're obsessed with selfies, vines, and Facebook.
+
+Totally harmless? No. People do get hurt, even die. It can be extraordinarily hurtful when even a few trolls descend on you, let alone a brigade of them. Yet this pain can be reduced and I think eventually prevented by education and technical measures like a "Make this person invisible to me" button everywhere.
+
+So while you can't negotiate peace with a virus, you can develop vaccinations and immunity, and render it harmless.
+
+//Do you have anything good to say about psychopaths?//
+
+I'll say one thing: your average psychopath does put a lot of effort into their game. Whether it's at the gym, or shopping, or texting, calling, and emailing people, or simply walking to the corner shop and back: they do this with //real energy//.
+
+And you can divert that energy and use it in interesting ways. For instance, to motivate a group of people, few stories work as well as a convincing bad guy. This is human nature. A good cause gets mild applause. A real bad guy gets us off our bums and on the road.
+
+Psychopaths have been the kickers in the pinball machine of my life. They can be so awful that getting away from them has often sent me in the most interesting directions. There's nothing quite like a psychopath for ripping your conventions and comforts to shreds. Survive that, and you can travel light and free.
+
+Psychopaths are often strong, fearless, and robust compared to social humans. They don't seem to get depressed. Like their charisma, these are admirable traits, if used to help people. Used to hurt and damage others, not so much.
+
+Also,... I mean apart from contributing to the very existence of humanity since the start, pushing social humanity to invent language, music, art, humor, and great food, what have psychopaths ever done for us?
+
+//Nothing! [laughs] I want to ask a serious question now. If you had to give five top tips for surviving the psychopaths in your office or home or street, what would you say?//
+
+OK, here goes:
+
+# Seek strength in numbers; don't let tyrants divide and conquer. Resist the temptation to feel racism and sexism, jealousy, and hate. Feel love for everyone, even the tyrant. Then rise up together when the time is right.
+# Invest in positives: good music, happy pastimes, useful work, and so on. Focus on accomplishments with other people. Protect these investments from the marauding psychopath, by any means necessary.
+# Provide subtitles to those around you. I mean, don't hesitate to explain every weirdness in terms of "classic psychopath, let me explain..." Subtitles take away most of the stress.
+# Move to happiness, and teach others to do the same. //Nothing//, no commitment, nor promise, nor expectation that it "will get better" should hold you in a place of unhappiness.
+# Document mercilessly. Keep logs, notes, photos, videos, emails, anything. Organize these into a digital file that would satisfy a judge, and back that up securely and safely. It's your weapon of last resort.
+
+And of course buy or steal the book for everyone you know.
+
+//This must have been a difficult book to write...//
+
+Some stories write themselves.

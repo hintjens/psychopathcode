@@ -1,0 +1,77 @@
+// kate: font Liberation Sans; font-size 16; syntax None; bom off;
+.bookmark preface
++ Preface
+
+There are some scary people around. People who take what they want, using their charm and wits. Con men and women. Professional liars. They take from friends, colleagues, family and strangers. They never apologize, or feel sorry for the people they hurt. They often have criminal careers. We call them by many names. Narcissist. Anti-social. Sociopath. CEO. And more and more, we call them Psychopath.
+
+What is wrong with these people? Maybe they had cold and distant parents. Maybe they suffered abuse, as children. Maybe they have something broken in them, a chemical imbalance, or evil demons.
+
+Can we identify them? If we study them in prisons and hospitals and boardrooms, can we learn to spot them in the wild? And what is going on in their minds? Are they aware of the damage they do? Do they sleep at night? These are some of the questions I try to answer in this book.
+
+++ Avoid or Confront?
+
+If ex-partner might have been a psychopath, this book will bring back memories. It will cause you to feel strong emotions. You may want to avoid reading it, to not remember your experiences. This is a common and understandable reaction. The dominant opinion about trauma is that re-thinking our experiences stops the healing process.
+
+Yet to avoid is to be helpless. And helplessness leads us to depression. I have talked for hundreds of hours with other survivors of psychopathic relationships. I've listened to their stories of endless emotional bullying, deceit, manipulation, theft. I've shared my own stories. And I've told the stories that I tell in this book. What psychopaths are. How they think. Where they get their power. What they look like. And most of all, how to fight back.
+
+Our experiences are all so similar. It is as if every psychopath on Earth read the same handbook. When I talk about psychopaths with a new group, at least a quarter of them light up. "You're speaking of my ex," they say. I explain how I learned to deal with such people, past and present. "You should write a book," they tell me. "I'm doing that," I reply.
+
+My advice is to embrace your past. Don't avoid it. Confront it and understand it. Then use that new knowledge to become a stronger, happier person. This is why I wrote this book. I wanted explain psychopathy in a positive way. Not that psychopaths are nice people. They are as nice as a nail through the hand. Yet if you can get to the end, I promise you a picture of psychopathy that changes everything.
+
+++ How this Book Came to Be
+
+I'm a geek who writes software, articles, and books. My degree was in computer science. I studied psychology only a little at university. It's not the usual starting point for a book about psychopaths. So let me explain how it came to this.
+
+Over my career I've worked with thousands of people. I've built hundreds of teams, and many small businesses, not-for-profits, and on-line communities. I've had to learn human nature. Some lessons are obvious. Some are well hidden. We are such a complex species. And yet it is possible to decode, understand, and predict human nature.
+
+It was in my book [http://cultureandempire.com Culture & Empire] that I began to write about psychology. My expertise and what fascinates me is social psychology. That is, how groups work, and how people work within groups. It is the core of my work in open source community building. Software is all about people, it turns out.
+
+In Culture & Empire I also looked at conflict as a force for change.
+
+We dream of peace and stability. Yet history shows the most ambitious leaps forward coming from conflict and chaos. We build a world of human rights. We work to protect the environment. We build legal systems and courts and police forces to protect prosperity and peace. You may not realize this from the daily news, yet globally, [https://en.wikipedia.org/wiki/The_Better_Angels_of_Our_Nature violence falls every year, and always has].
+
+Humans are not good, or evil. We are survivors. We do whatever it takes to reproduce and make sure our children flourish. Most of us succeed by working together. Some of us prosper by cheating others. I call these the "good actors" and the "bad actors."
+
+As I finished Culture & Empire, I was facing some bad actors in my personal life. Being a writer, I didn't run away, and I didn't deny what was going on. Instead I started taking notes and conducting small experiments. It is not every day you get live psychopaths to play with.
+
+I found that my work in social psychology was incomplete. I'd focused on the good actors, and only skimmed the surface of bad actors. Yet these two strategies are not alternatives. They intertwine and work together in a long and mysterious arms race. This arms race lies at the core of what it means to "be human."
+
+There is a lot of material about psychopaths on the web. It is a topic that [https://www.google.com/trends/explore#q=psychopaths%2C%20psychopath%2C%20sociopath&cmpt=q&tz=Etc%2FGMT-2 is trending year on year]. There are thousands of stories from those affected. There is research from psychologists and psychiatrists. There are papers from criminologists, and from on-line dating experts. There are even blogs and forums written by diagnosed psychopaths.
+
+There are some huge questions that have no agreed answer. To start with, what causes psychopathy? Can we cure it, and do we even want to try? Can we identify psychopaths "in the wild," that is, without a psychiatric examination? Are they always violent and dangerous, and if not, what factors affect that? Is it a spectrum of behavior, like intelligence? Or is psychopathy more binary, like gender? How do psychopaths think and operate? Can we protect ourselves from them?
+
+The authority on psychopaths is Dr. Robert Hare, and I use the term as he defines it. [http://en.wikipedia.org/wiki/Psychopathy_Checklist His checklist] focuses on males and misses many female psychopaths. Classic psychopath research focused on convicted criminals: habitual law breakers, and violent offenders. Only recently have researchers started looking at the "successful" psychopaths. These are the ones who hide in the general population.
+
+The available material points to a large presence of psychopaths in the general population. It seems much higher than the classic 1% estimate. There are also more female psychopaths than experts have counted. Some estimates are as high as 10%. An accurate figure seems to be around 4% of both genders, and this is the figure I'll use.
+
+I've also come to think psychopaths also hide behind certain personality disorders. Those are: narcissistic, borderline, and histrionic PD. When you include these, the picture becomes clearer and more detailed. As a plus we get usable models for managing the damage caused by these disorders.
+
+In theory, personality disorders like borderline are treatable with medication and therapy. In practice, that does not work well, or at all. It is the same for diagnosed psychopaths (those with "anti-social personality disorder"). Therapy seems to make them more skilled at manipulating people.
+
+What can work is to limit and work to repair the damage that psychopaths do. Like bullies at school, psychopaths do not suffer from depression. It is family, friends, and colleagues who pay the cost. Once you see the process behind the psychopaths' impact craters, you can intervene.
+
+So this book focuses on that process, how to recognize it, how it works, and how to disable it.
+
+I'm not a qualified psychologist or psychiatrist. I cannot argue from authority. What I can do is develop models and test them on the psychopaths I have access to. I can test them against unusual situations from the past. And I can test them through other people who find themselves entangled with psychopaths.
+
+I've spent years reading the literature, forums, books, articles. Anything that can shine a light on this mystery of these strange fellow humans, and how they work. I've talked to hundreds of people about the topic. That includes psychologists who specialize in abuse, and developmental disorders. It includes people who have survived abusive partners. People who have tried to kill themselves to escape. People whose parents were abusive and fit the profile of psychopaths.
+
+I've used these models to build gardens of sanity in my personal and professional lives. Those who work with me know that our on-line communities are above all //happy// places. This is no accident. It comes from long, careful work to keep bad actors at bay.
+
+++ Disorder or Adaptation?
+
+Some researchers have suggested that [http://justnotsaid.blogspot.be/2013/11/sociopathy-as-evolutionarily-adaptive.html psychopathy is an adaptation], rather than a disorder. I had the same idea many years ago when involved with a young woman. She was in treatment for borderline personality disorder. She moved from job to job, always blaming others. Her life was a long story of abusive parents, ex-partners, and friends.
+
+She lived in a cloud of chaos and emotional pain. Yet it was others who always showed the real hurt. No matter how bad the situation got, she was able to find a way out, and new people to play with. Behind her, she left a trail of damage and trauma. She was on medication, which she rarely took. She had a therapist, whom she later seduced. The "sufferer" always got what she wanted.
+
+Above all, she was //predatory// in a confident and innocent way. It took me a long time to realize I'd been sleeping with a psychopath. She wore the mask of "borderline" to be a more successful victim. At the time I also took notes. They documented my descent into an alternate universe. In a relationship with a psychopath, our core laws of social conduct are gone. In their place grows something alien and hungry.
+
+There are already plenty of people studying psychopathy-as-a-disorder.  I wanted to explore psychopathy-as-an-adaptation because it fit my data better. Further, it seemed to lead to more positive, and useful conclusions.
+
+To model psychopathy as an adaptation rather than a disorder opens a door to a new world. Our questions change. We ask what struggle pushed this evolution. We ask what the specific adaptations are, in fact. Do psychopaths have longer teeth? Sharper claws? Or less obvious talents?
+
+We also ask what matching adaptations might exist in social humans (the non-psychopath majority). We ask, "Could the psychopath-social relationship in fact be a predator-prey story?" And the answer turns out to be an emphatic "Yes, of course!" We ask, "How old is this story?" and the answer is, "Millions of years."
+
+As far as possible I've worked from repeated observations, verifiable research, and consensus. I've stayed away from speculation and opinion for its own sake. Having said that, I do tell a lot of stories and some are more fantastic than others.
+
+Truth is an absolute we cannot reach, only make better approximations to. Sometimes that takes large leaps and informed guesses. Sometimes we must be willing think in unorthodox directions. I make many hypotheses, and state them as if they are facts. I apologize in advance for that style. I apologize also for the speculation that I've gotten wrong. I hope the parts which turn out to be right make it worthwhile.

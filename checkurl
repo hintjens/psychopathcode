@@ -1,0 +1,12 @@
+#! /bin/sh
+#   Checks all URLs in text; run after making changes
+
+for URL in `egrep -o "http?://\S+" ch*.txt | cut -f2- -d":" | sort -u`; do
+    if curl --output /dev/null --silent --head --fail "$URL"; then
+        echo -n "."
+    else
+        echo ""
+        echo "E: $URL not found"
+        egrep -l $URL ch*.txt
+    fi
+done

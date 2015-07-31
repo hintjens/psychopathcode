@@ -1,0 +1,51 @@
+#   Culture & Empire
+FILENAME=main
+AUTHOR=Pieter Hintjens
+TITLE=The Psychopath Code
+SUBTITLE=Cracking the Predators that Stalk Us
+TITLENOTE=
+
+#   Page dimensions in cm
+WIDTH=13.97
+HEIGHT=21.59
+TOP=1.4
+BOTTOM=1.4
+INSIDE=2.3
+OUTSIDE=1.4
+
+#   Fonts
+HEADERFONT=EB Garamond
+BODYFONT=EB Garamond
+TEXTHEIGHT=90%
+TEXTSIZE=11pt
+
+#   Copyright page
+EDITION=Edition 0.1: 15 June 2015
+ISBN=ISBN 978-1514342022
+DEDICATION=For my children
+COPYRIGHT=Copyright © 2015 Pieter Hintjens
+LICENSE=Free to share and remix under CC-BY-SA-3.0
+TRADEMARKS="The Psychopath Code" is a trademark of Pieter Hintjens
+PUBLISHER=Published by Pieter Hintjens
+CREDITS1=
+CREDITS2=Cover by westinCovers, www.westincovers.com. Fonts: Kontrapunkt (Bo Linnemann, Kontrapunkt A/S), Existence (Yeah Noah), DJ Gross (SDFonts), EB Garamond (Georg Duffner)
+
+#   Build index
+#INDEX=../index.txt
+
+#   Body content
+HEADER=The Psychopath Code
+BREAKS=chapter
+
+#   Content
+../ch00.txt
+../ch01.txt
+../ch02.txt
+../ch03.txt
+../ch04.txt
+../ch05.txt
+../ch06.txt
+../ch07.txt
+../ch08.txt
+../ch09.txt
+
