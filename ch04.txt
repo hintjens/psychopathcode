@@ -1,4 +1,4 @@
-// kate: font Liberation Sans; font-size 16; syntax None; bom off;
+// kate: font Liberation Sans; font-size 16; syntax None; bom off; indent-mode none;
 .bookmark consumption
 + The Feeding
 

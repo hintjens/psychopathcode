@@ -1,4 +1,4 @@
-// kate: font Liberation Sans; font-size 16; syntax None; bom off;
+// kate: font Liberation Sans; font-size 16; syntax None; bom off; indent-mode none;
 .bookmark diagnosis
 + Hunting Mallory
 
@@ -324,6 +324,8 @@ If you start a close relationship with with Mallory, you may see better-hidden t
 
 * He is a hypocrite: if you assert yourself, he answers with violence. Your needs do not count, yet his are untouchable. If you question this, you are assaulting him. He can cite your crimes against him like a poem.
 
+* He does not ascribe emotions to inanimate objects. Alice and Bob feel their phone is "unhappy" when it is less than half charged, and "happy" when it is 100% charged. Mallory does not do this.
+
 * He does not keep his possessions in order. He has no emotional bond to physical objects, neither to people. He is reckless with items. He keeps precious family heirlooms together with trash. If he does clean, it is to sterilize, not create order.
 
 * He prefers dramas to horror movies. Dramas show him emotional scenes that he can watch and learn from. Horror movies play on a fear of monsters that he does not share.
@@ -352,6 +354,8 @@ Often you will recall other traits about Mallory, years later. These tend to be 
 
 * She often plays the victim, yet the details are vague and flexible. Often her struggles are the fault of her spouse, employer, or children. Her portrayal is perfect, award-winning.
 
+* She is a social climber. She may come from poverty, yet she ends in the highest circles of society. She does this by using people to get to their contacts, over and over.
+
 * She is an expert in reading others' emotional states. She knows when someone is lying. She knows what people want to hear. She cannot smell warm bread or clean sheets, yet she can smell fear.
 
 * She collects a cloud of followers and admirers. These come and go. People who stay with her for the long term tend to be burnt-out, depressed or suicidal. Her opinion of her admirers is black and white. She does not get in touch with old friends.
@@ -367,6 +371,10 @@ Often you will recall other traits about Mallory, years later. These tend to be 
 * She does not self-regulate her behavior to keep others happy. That means, when others are unhappy she does not consider that she may be to blame. Others' happiness is not her problem. Only if she is up against a wall does she make some gesture of sympathy.
 
 * She tends to think on her feet and never move backwards. You rarely see her ponder. This makes her seem clever and resourceful. She rarely ask others for advice. If she appears to do this, it is in fact to recruit allies in some conflict.
+
+* She does not learn, over her life. While she appears to be successful, she repeats the same errors of judgment over and over. Depending on context, this may land her in serious trouble.
+
+* She promotes herself as supremely moral, and may use religious or social crusades as cover. She is stridently against social deviants, and the first to call for harsh punishments.
 
 * She is confident in almost all situations. When she does trip up, it can be dramatic. She never expects to get caught.  Yet she is solitary and can make large misjudgments.
 

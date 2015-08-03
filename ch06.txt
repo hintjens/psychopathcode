@@ -1,147 +1,336 @@
-// kate: font Liberation Sans; font-size 16; syntax None; bom off;
+// kate: font Liberation Sans; font-size 16; syntax None; bom off; indent-mode none;
 .bookmark escape
 + Escape from Jonestown
 
-So you are entangled with Mallory, you've guessed correctly what he is, and you've confirmed with . This knowledge is only the starting point for what comes next. Mallory is not a mosquito that you can swipe off with one hand. For one thing he is as large and strong as you, and is holding on with both hands. For another, he has infected you with a kind of mental malaria, a deep and entrenched trauma.
+So far I've explained the predator model of psychopathy. I've used it to draw a picture of Mallory in many different situations. If you have read and practiced the previous chapters, you are now equipped. You understand how Mallory stalks, attacks, captures, and consumes its prey. You understand how Mallory thinks. You can start to predict how Mallory will respond in any given situation.
 
-If you want to become happy again, it is not enough to leave. As I explained in the preface, avoidance leads to depression. You must decode that trauma, and undo the damage. Working with a therapist who knows Mallory can help. Yet you are there, in your brain, every day. You are by far the best person to do this, if you decide you want to. I will explain how in the next chapter, [#escape].
+What if you believe you are that prey? You have poured your life into a relationship based on lies. You are asking yourself, what next? When you live in a permanent fog, even small steps are terrifying.
 
+This chapter is for you then. I'm going to explain how to lift that fog, and rebuild your life. It is not going to be an easy project. If you spent years in a relationship with Mallory, it will take you years to become whole again. My goal with this chapter is to teach you several things:
 
-There are two usual outcomes for Alice. Either she goes through the wringer and emerges used and broken. Or, she recognizes what is happening, earlier on in the game, and escapes. Since Mallory carefully targets those least likely to fight back, the odds are against Alice.
+* How to stop Mallory from doing more damage.
 
-Once Alice has bonded with Mallory, there is no easy defense. The longer she stays with him, the deeper the bond and the more difficult the escape.
+* How to repair the damage that Mallory has done.
 
-Alice may escape. She may take the children and run. She may pack her bags and go to a safe house, or stay with relatives. She may slowly rebuild her life. Yet fleeing, she takes her trauma with her. It can take her years to recover. I know psychopath escapees who a decade later, still suffer from PTSD.
+* How to become a stronger person than you were before.
 
-This is the problem. After a certain point, Mallory's focused, determined abuse has changed Alice. The damage does not cure itself.
+* How to help others who find themselves in the same place.
 
-Walking away stops things getting worse. Yet it does not make them better.
+It is not enough to remove Mallory from your life. As the victim of abuse, you are vulnerable to future abusers. You must break the cycle and use your experience to become immune to the next psychopath who stalks you.
 
-++ The "Just Leave!" Fallacy
+This advice is above all meant for those entangled with Mallory. If you are reading this and thinking of a friend or relative, please buy them a copy of this book.
 
-When you talk to those who are entangled with psychopaths whether it was personal or professional, your will often feel anger and irritation at their refusal to leave. It is the classic advice to anyone who reports abusive behaviour from their spouse or workmates or boss. And the classic response is "I can't," followed by a list of excuses and rationalizations that leave the advisor shrugging and saying, "well, it's your grave."
+++ The Paper Cup
 
-However obvious it may seem, the advice to "leave" is based on ignorance of how the psychopath's grip actually works. It assumes the only two options are leave and heal, or stay and suffer, whereas there is a third option that I believe is more effective for many if not most cases. Finally it ignores the reality of many situations where the victim or victims simply //cannot// leave.
+Consider a relationship as a paper cup. Most people ask, "is the cup half full, or half empty?" Mallory sees the paper cup as something to knock over. He waits for Alice to place the cup back upright, and fill it a little. Then he knocks it over again, and curses Alice for her clumsiness. She apologizes and starts again to refill it.
 
-Often, the abusive relationship is entangled in a group, or family. Leaving the psychopath means leaving that group. This can be unacceptably costly. It's a calculation that cults depend on, starting with "ignore your relatives, //we// are your family now," and ending with, "if you don't accept our love, we'll kick you out and you will be all alone."
+Again Mallory knocks the cup over, tearing a hole into it. Alice repairs the hole with tape. Mallory takes a knife and rips more holes into the cup. Alice repairs those too.
 
-I've been in groups where it is clear (now) that there was a psychopath leading the charge towards madness. By the time I'd understood what was going on, my investment was so heavy that to leave required impossible mental gymnastics. Partly, it is the "sunk costs" fallacy, of course. There was not going to be any return on that investment. It was already lost. However, leaving would also have meant cutting off contact with the rest of the group.
+It continues like this until the cup is one huge ugly mess of tape. Alice has run out of tape several times. She has put her life savings into repairing that damn cup. And yet every time it seems OK again, Mallory smashes it to the floor.
 
-One reason some mothers stay with abusive husbands is not that they're stupid, or that they enjoy the abuse. It is to protect their children. Yes, a court may award the mother full custody. And yet that's a gamble. A court may as well believe the psychopath's stories -- "she's a drug addict," "she beats the children," "she abuses them sexually, your honour" -- and hand the children over to their abusive parent. This happens, and the good parent's reaction of staying close and protecting her children is natural and logical.
+The worst part is that Alice can't see Mallory doing this. He seems so innocent, and insistent that it was her fault. It makes her feel terrible and useless. Still as long as the cup holds water, that is what matters.
 
-Psychopaths are dangerous in their utter disregard for the cost to others of their actions. It is not so much that they are unpredictable. It is that they will do the unthinkable to maintain their self-image of power. Some psychopaths, when confronted and faced with disgrace can be extremely violent to their own children. The logic is one of, "if I can't have this toy, then no-one will!"
+The cup is by far the most important thing in Alice's life and she does //everything// possible to repair it. Her friends and family keep telling her, "leave the cup!" yet she cannot. All that work! The cup is her life, she tells herself as she refills it.
 
-Let's re-examine the //modus operandi// of a predator. Entangling the victim isn't incidental damage. Rather, it is the core glue of the abusive bond. The relationship between the victim and the abuser is one of increasing investment to compensate for increasing abuse. The worse the abuse, the deeper and harder the bond. Even when the victim knows they are being badly abused, their mind often insists that the relationship can be saved, with a //little more effort.//
+Mallory's power comes from that cup and the resources Alice pours into it. He always leaves Alice a way to repair things. If she does walk out, he will do and say what he must to get her back.
 
-This process is, I believe, similar if not identical to how cults enslave their victims. To free someone from a cult you typically have to take them by force. True, people leave abusive cults, and that is usually when they have nothing left to give, and their mind gives up trying to normalize the relationship. That can take years, decades, even an entire lifetime.
+If Alice does cut Mallory off, reject his apologies, and walk away, she leaves as a victim. She leaves a large part of her identity in that cup. It obsesses her, and she tries to block it from her mind. Any mention of the past brings her to tears. Her friends and family become tired of her moods and depression. She will heal, most often, yet it will take far longer than it should.
 
-The process is also similar to addiction, where one takes increasing doses of abuse to try to recreate a "super normality" that never actually existed. Similarly, kicking an addiction can be a long difficult process, requiring mental realignment as much, or more, than physical adjustment.
+The helplessness is itself a prison. Alice never stopped feeling that the cup was important. She had to make the choice between it, and her own sanity. Her failure to make it work becomes her burden. She thinks she is a failure, doomed to be alone.
 
-Like a drug, the psychopath's power depends on a narrative. Alice (the psychopath) says, "I will love you," or "I will make you rich," or "I will make you young again," or whatever Bob (the target) desperately wants. It's this narrative that Bob invests in, and Alice dangles, out of reach. The first hit is free, and from then on Bob pays in blood.
+So now, consider another ending. One day Alice spots Mallory smashing the cup. Or, someone tells her what he is doing. She watches as he creates chaos, and she watches herself trying to fix it. Something clicks in her mind and she decides to change the game.
 
-Saying "leave!" to a Bob is like saying "stop!" to an alcoholic or smoker or compulsive gambler. As if this was a new notion! The usual and paradoxical outcome is to alienate the Bob from advice giver, and drive them back into the arms of their Alice. At least that's one person who understands them.
+Mallory throws the cup to the floor and mocks her. She examines him and sees no love, no affection. She leaves the cup on the floor and gets back to her life. Mallory shouts at her to pick it up, and she ignores him. Or maybe, for once, she lets the rage flow through her, and shouts back at him.
 
-However, our minds are rarely in total agreement and most addicts know they have a problem, even if they can't face it. There is a small sceptical voice. Give that voice leverage, and we've found the first step to freedom. Rather than dismiss the struggle the victim goes through every day, it's more helpful to acknowledge and support that struggle.
+His power comes from her obedience. He ramps up, and tries to crush her rebellion. At first she is afraid. He does terrify her. Yet she holds her ground and keeps watching him. It takes months of confrontations, and then she realizes that he is backing down. His threats are violent and rich, yet he does not carry them out.
 
-The simple idea that "this person you are with is a manipulator who traps you with false promises and lies, so they can steal everything from you" can be powerful, especially when the proof is laid out bare, again and again over time. Psychopaths carefully guide their subjects along a path where "do what I say" is the only option. They do this through a host of mind control techniques that I'll come to later. The counter-narrative suddenly opens a new path, one of resistance.
+Little by little he loses his power over her. And she feels her power returning. She looks better. Her hair and skin are healthier. Her friends tell her how she is looking great. She meets a man at work who seems nice. It's a bit soon, she tells him, and he backs off, and they become friends.
 
-And now we come to the second reason why "leave" isn't sufficient. That struggle, and the development of resistance, is key to reasserting the victim's power, and move them from "victim" to "survivor" and then to "winner." A psychopath does damage on many fronts, yet the most profound and long-lasting damage is the annihilation of their targets' identity, self-image, and power. It is one thing to be robbed of one's wallet. It is another to told for years, "you are worthless," as psychopaths are wont to do to their children and partners and colleagues.
+One day, Mallory has gone. Disappeared, without a note or a trace. She isn't surprised. He's become silent, and impatient. Lots of phone calls. Other things going on. She tidies up, and whistles a small tune to herself. It's a nice sunny day outside.
 
-This is simple psychology and almost a caricature: only by confronting our worst fears can we overcome them. To the victim of an abusive relationship, their abuser has supernatural powers, bordering on the demonic. Running away, even if it were possible, changes nothing about that. It leaves the victim with all their fear, hate, and self-loathing. The damage can remain for a long time.
+++ The Survivor's Burden
 
-On the other hand, confronting, exposing, and beating the psychopath in one's life changes everything. When I've suggested this to people, the typical answer is, "//are you insane?//" We've been taught by popular fiction that psychopaths are violent, lethally dangerous, even casually murderous. What kind of advice is "stay and fight" to someone faced with a violent knife-wielding murderer?
+Let's conduct a virtual experiment. Bob is in a relationship with Mallory. It has lasted some time. He worships her, and cannot see the harm she is doing to him. So one night we send in a commando team. The masked men take Bob by force, bundle him into an unmarked van, and race off. They drive to a new city, open the van door, and set Bob onto the pavement. "You're free now!" they tell him, and vanish.
 
-It turns out that the psychopath's violence is -- like their love, their jealousy, and their anger -- a convincing yet essentially empty lie. For sure, there are violent people, and there are violent psychopaths. There may even be a correlation, though I believe other factors may be more significant.
+What happens to Bob next? Does he thank us with gratitude, and find a new place to live. Does he pick up where he was before Mallory came into his life? What if Bob was in a cult compound? What if he was working for a nasty, exploitative business?
 
-However, once you accept the model of "psychopath as predator" rather than "psychopath as mentally ill," it becomes easy to predict the psychopath's behaviour, when faced with resistance. First, anger and threats, both extremely convincing and frightening to the unaware. If those do not work, then some action to prove their seriousness. If that has no effect, then backing off and changing focus.
+We know the answer. Bob immediately returns to where he was. Whatever was keeping him there in the first place pulls him right back.
 
-The level of action is determined by culture and economics. What's the cost and benefit of teaching someone a lesson? On the one hand we have the fruits, whether they are compliance, money, sex, or time. On the other hand, we have escalating risks of exposure, confrontation with the authorities, and rupture of the bond.
+So, we can fine-tune the experiment. Let's "deprogram" Bob, giving him the time to kick his dependency on Mallory. We have done this experiment in real life many times, with other kinds of addicts. We cut them off from their drug supply, force them to go sober.
 
-A natural predator cannot afford even minor injuries. A cow with a broken leg can still eat grass. A lion with a broken leg will starve. This defines the level of violence a predator will exercise. It will choose the easier prey. It will not fight another predator except to survive (and reproduce, which is close). It will use bluff and noise to intimidate, yet will flee from a real fight.
+The result is just the same. Bob goes back to the source of his pain as fast as he can. If he learns something, it is to avoid those midnight commandos.
 
-And so it is with psychopaths. Of course they can deal violence and death, if it's a matter of survival. Yet often the risks aren't worth the potential benefits. If the victim is physically isolated, e.g. in a cult compound or cellar, or if they are young, or old, they are vulnerable, and "fight back" is terrible advice. However mostly the "victim" is an adult, capable of walking out the door, or calling the police, or fighting back in any number of ways.
+This is the first problem with telling Bob to leave Mallory. He won't listen. And if you use force to make him leave, you must continue to use force to keep him away.
 
+Let's now imagine Bob accepts your advice and leaves. Or, more likely, Mallory has used up Bob and kicks him out or walks away. Or some other crisis forces the situation to end. Bob does not walk away a healed person. Instead, he takes with him a massive burden.
 
-+ The Vampire Slayer
+The survivors' burden often translates into long-term depression, suicide, and relapse. It is not well understood by most people. I'll break it down into smaller pieces:
 
-In my last article I presented my tool kit for detecting psychopaths and dealing with them. I call this DOIT, for the main tools: diagnosis, observation, intervention, and treatment. I've already covered diagnosis and observation, which go together. In this article I'll cover intervention and treatment, which also go together.
+* //Unresolved mental damage//. Mallory has broken down Bob's sense of self. It took thousands of small transactions, each negative in a different way. Often the individual transactions look harmless. Yet the balance is real, structural damage to Bob social mind. I explained in [#consumption] how and why Mallory does this.
+
+* //Loss of power//. Mallory has isolated Bob. Alone, Bob is and feels weak and vulnerable. He fears social contact. He stays indoors. He has nightmares, and dreads confronting Mallory on every street corner. His fear may never go away.
+
+* //Economic damage//. Mallory has stripped Bob of his assets. Without savings, it is much harder for Bob to take risks. He avoids new opportunities. He must repay debts created by Mallory. He may end up in real poverty, and suffer the consequences of that.
+
+* //Failure to externalize//. Mallory has taught Bob that he is the guilty party, and she the victim. Bob takes this reality with him. He never understood how Mallory manipulated him. He accepts that he is a bad person, and then projects that onto any new relationship he tries to form.
+
+* //Blaming the victim//. Like Mallory, other people try to explain Bob's trauma in terms his own mind or upbringing. They insist on putting the blame on him. You sought it, he hears. You stayed when you could leave, they repeat. He accepts the majority verdict that he chose to suffer.
+
+* //Survivor's guilt//. Bob knows that Mallory is still hurting others, while he "escaped." He feels responsible, and gets stuck in cycles of guilt and self-hate. He has difficulty in making new relationships, so remains alone. He remains vulnerable to drug abuse and suicide.
+
+* //Shame and social stigma//. Bob's behavior during and after his relationship with Mallory disturbs others. He is anxious and depressed, needy and insecure. She has blamed him in public, with lurid detail of his crimes. People consider him tainted. At least, he has bad judgment. At worst, he is the offender.
+
+* //Lack of alternative relationships//. Mallory has cut Bob off from other people, by demanding exclusivity and attacking alternatives. A sudden rupture is like losing a bad job. The shock of being alone makes Bob vulnerable to looking for a replacement for what he knows. That is, another Mallory.
+
+* //Lifetime risk of relapse//. Drug addicts and abuse victims are at high risk of relapse, all their lives. Bob spends years looking for another Mallory. He still sees himself as worthless and her as the only person who accepted him. He dreams of the euphoria she gave him.
+
+All these add up to one thing. Bob is in real long-term danger, and few people are capable of helping him. If he is lucky he will find a psychologist who understands complex PTSD. Most authorities no longer blame a woman for her abusive partners. It is still harder for men to find that sympathy.
+
+++ Russia Syndrome
+
+Some damage is forever. Lost years, lost money, and lost opportunities are gone.
+
+Yet some damage is fixable. Of the above items, the one that drives all the others is the failure to externalize. It is Alice's own view of what happened that keeps her in such trouble. All the other aspects stem from that, and reinforce themselves in vicious cycles.
+
+So let's break this down. What key things does Alice believe about her relationship with Mallory, that are wrong?
+
+* That she desired it and made it happen. Thus, that she has some inescapable need to be with abusive people.
+
+* That she failed to help Mallory, and make the relationship work. Thus, she failed in the main goal of her relationship.
+
+* That people dislike her with good reason, and only Mallory accepted and loved her. Thus, she prefers her past over her present.
+
+* That she is weak, afraid, needy, and stupid. Thus, she will fail in any new relationship or project.
+
+* That she can succeed by being more like Mallory. That is, more aggressive, manipulative, and dishonest.
+
+You can see this kind of thinking at many scales. It affects individuals, and it affects whole cultures. Look at a country like Russia and you see a nation believing all these things. It is not part of the "Russian character," if such a thing could exist. It is the result of a long history of psychopaths like Lenin.
+
+Ask almost anyone why Russians get such bad leaders. The answer is always "because they want or deserve it." Even Russians say this, in all seriousness. I call this Russia Syndrome. For Alice to heal, she must get cure her Russia Syndrome. To do this she must externalize her story, and see what actually happened. A predator attacked her, and hurt her.
+
+I'm sure there are many ways to externalize, and cure Russia Syndrome. The fastest and most effective way I know is to confront Mallory, and defeat him. I'll explain in detail what this involves. First let's deal with the inevitable choruses of "are you insane?" When I speak of confronting abuse instead of fleeing it, I often get that reaction. The reaction comes from several assumptions that appear to be wrong.
+
+The first argument tends to be an appeal to free choice. We assume Alice can, and so must, escape. I've explained why this is a fallacy. Even if Alice realizes, "Mallory may be a psychopath," often she cannot just leave. The bonds are deep, and they override conscious decision-making. Alice may be a child, living with a psychopathic parent. Alice may share children with Mallory. Then she may face the agonizing choice of saving herself, or staying with them. Alice may live behind a wall.
+
+The second argument is appeal to authority. "If Mallory is a psychopath like you say, then just tell the police. They will arrest him and save you." This assumes Mallory is silent and cannot tell lies that outshine Alice's truths. Which he can, and will. It assumes authority is honest and fair. It assumes Mallory cannot charm authority to get all the sympathy he needs. Authority is often more likely to punish Alice than save her.
+
+The final and overriding argument is one of immediate danger. We assume that Alice risks injury and death if she stays with Mallory. Thus, Alice must get away from Mallory as fast as she can. I'll explain why this also a fallacy, at least in most cases.
+
+++ Sticks and Stones May Break My Bones
+
+We make a major assumption about psychopaths in popular fiction, and in clinical research. The assumption repeats over and over. It defines how the police and courts deal with Mallory. It defines how we try to help Bob in his struggle to free himself from Mallory.
+
+The assumption is: //the main danger from psychopaths is physical.//
+
+Yes, psychopaths can inflict physical damage to others. Between 1-2% of men and women experience domestic violence in a year. 20-25% experience it during their lifetimes. Yet this is neither exclusive to psychopaths, nor is it the worst damage they do. The assumption is almost valid, yet is not.
+
+Mallory does do real damage. Yet for every physical assault, she delivers hundreds of non-physical blows. These are emotional, social, and economic. She is much more likely to drive her victims to suicide, than to murder them. When you look at psychopathy as a disease that damages Alice and Bob, it becomes obvious. A parasite or predator must find a balance. Mallory must work in stealth. Overt activity leads to detection.
+
+Only failed, incompetent, or damaged psychopaths resort to physical violence, let alone murder. We saw that serial killers appear to be a tiny subset of psychopaths with a specific form of brain injury. We know that the bulk of psychopaths hide all their lives in the general population. These are the successful ones.
+
+Mallory's mask of violence is a convincing yet thin lie. For sure, there are violent people, and there are violent psychopaths. Mallory will be violent when it works. Yet Mallory is above all pragmatic about hiding and surviving.
+
+A predator cannot afford even minor injuries. A cow with a broken leg can still eat grass. A lion with a broken leg will starve. This defines the level of violence a predator will exercise. It will choose the easier prey. It will not fight another predator except to survive or reproduce. It will use bluff and noise to intimidate, yet will flee from a real fight.
+
+And so it is with Mallory. Of course she can deal violence, if it is a matter of survival. Yet often the risks aren't worth the potential benefits. If Bob is in a cult compound or cellar, or if he is young, or old, he is vulnerable, and "confront" is bad advice. If Bob is an adult, then Mallory sees any number of ways that he could fight back and hurt her.
+
+We have this stubborn association of psychopathy with aggression and violence. It looks like silent collective hysteria over our ancient predators. "OMG psychopaths!" I believe this is fear, not data, talking.
+
+Why am I arguing against this assumption? Because it takes us in many wrong directions. Above all it misleads us about how to deal with Mallory and the damage she causes.
+
+Here are some of the mistaken paths we've taken when dealing with psychopathy in the past:
+
+* We used violent criminals as our main source for data about Mallory. This is changing, yet it remains the classic source of data. We under-counted psychopaths, and believed most of them to be male. We did not study how Mallory hides and operates in general society. We did not look at her silent victims.
+
+* We used aggression as a tell-tale when looking at juveniles and families. This leads to "treatments" like medication and anti-aggression therapy for at-risk youngsters. We do not consider that Mallory learns to hide from an early age.
+
+* We disregard many forms violence in the home. We punish a parent for slapping a child. Yet we tolerate Mallory's long term emotional abuse and neglect of those around her.
+
+* We often ignore the victims of abuse unless there is provable physical violence. Law enforcement and courts tend to dismiss other forms of abuse, if home life looks "normal."
+
+* We do not intervene in obvious cases, such as cults and other abusive organizations. Again, we assume that adults are capable of defending themselves. The State only intervenes when there is serious injury, death, or children affected.
+
+* We hesitate to apply the "psychopath" label, since it brings such negative connotations. That means we strive to treat Mallory the same as we treat Bob. This doctrine of equivalence leads us to assign blame to both parties.
+
+* If we do conclude, "Mallory is a psychopath," our reaction is hysteria. We in effect scream "run away!" at Bob, as if he was not already doing his best. We have no tools for understand how Bob got to where he is and why he stays there.
+
+* We assume the risk from a psychopath is physical. That is, if Mallory has not yet hurt Bob, so far so good. We tell him to leave, and we hope she does not murder him in his sleep.
+
+* We assume that leaving removes the risk. If Bob does leave, we expect him to resume normal life. If he remains depressed, we blame him. If he does not recover, we abandon him. If Bob does not leave Mallory, we assume he's staying by choice. Again, we blame him and in the end we abandon him.
+
+* We may provide support to Bob, yet only if Mallory used physical violence. Alice may find help if she turns it into an issue of women's rights. If Bob asks for help for emotional abuse, he will find a stone wall, even mockery.
+
+I've explained how Mallory hides and operates. I've explained why Alice and Bob are normal people who get caught in a trap. Why they stay put. Why they seem to accept their situation. I've explained in detail, every single step of the process, from both sides. It is clear that Alice and Bob lose control over their lives quite early on in the process. If they stay with Mallory, it is not from free will.
+
+I've also explained the damage that Mallory does to Bob and Alice, and how deep it goes. I've explained how and why this can end in depression, self-harm and suicide.
+
+Let's assume you are Alice or Bob. I've shown Mallory to be a slow predator who uses mind-control techniques. She uses these techniques to isolate, restrain, and silence you. The next step is to explain how to undo these techniques and fix your Russian Syndrome.
 
 ++ Four Steps to Freedom
 
-Before we start, please note that I am not a qualified psychologist. What I present comes from research and practice in the field, not formal teaching. Dealing with psychopaths, and helping others deal with them, has become an ongoing part-time occupation. If you find yourself the victim of abuse, be it at home or at work, please reach out for help. Counselling and victim support is widely available, if you can bring yourself to ask for it.
+Undoing Mallory's damage is a slow and delicate process. I'll break it into four steps to make it easier to understand. These steps are: Diagnose, Observe, Inhibit, and Terminate. You can remember these steps with the acronym "DOIT":
 
-Let me take these four tools one by one again:
+* //Diagnose//: where you ask the question, "am I dealing with a psychopath?" and come to a "yes" answer if that is the case.
 
-* //Diagnosis//: we aim to answer the question, "is this person or group the subject of an assault, slow or fast, by a psychopath?" We're diagnosing the victims, not the aggressor. The damage done by psychopaths follows regular patterns, which we can look for, and then when we've eliminated other possible causes, come to "there's a psychopath here somewhere" as diagnosis.
+* //Observe//: where you learn to observe Mallory and keep notes. The goal is to decode his behavior and understand how he has been controlling the situation. You move away from cooperation, and towards passive resistance.
 
-* //Observation//: next, we ask, "who is the psychopath?" It is typically a single individual, well hidden in layers of misdirection and apparent suffering. Only by slow and careful observation, and elimination of all other possibilities, can you conclude that a particular person is a psychopath. Hasty conclusions are dangerous, both because the accusation is so serious, and because it can be so easy to miss the real culprit.
+* //Inhibit//: where you learn to recognize and block Mallory's patterns of control. Mallory depends on you to keep repairing the cup. You stop enabling him, and then move towards active resistance.
 
-* //Intervention//: having a working theory that "person X is a bad actor," we start to develop a strategy of disablement. Psychopaths depend on the active cooperation of their victims, also called "enabling." Remove that, and their con game slowly falls apart.
+* //Terminate//: where you take back control of the relationship, and then end it on your own terms. You understand that there is no cup, and never was.
 
-* //Treatment//: again, I speak of treating the victims, not the psychopath. There is no "cure" for being born and raised as a predator. However, for those being drained of their life blood, there is a route to recovery, based on changing the balance of knowledge and power, against the psychopath.
+Before we start, please realize: this takes time. You need to make time to repair your life. It takes time to learn and understand new ideas. It takes time to apply these to your relationship with Mallory. It could take six months, a year, two years, or longer. It depends on how deep the damage is.
 
-None of this is easy, or rapid. On relationship forums, there is a classic cry for help. "We've been together for about a year, and suddenly he (or she) has totally changed." The 12-month period from Jekyll to Hyde seems common. A well-adjusted psychopath works slowly and carefully. Adult humans are not easy prey: we are all the descendants of survivors, well-equipped to detect cheats and liars, and brutal in dealing with the obvious ones.
+Let me explain what you can expect and have to abandon, as possible outcomes:
 
-If it takes a year or more for a psychopath to ensnare someone in the long cons that they weave, then it will take a year or more to escape that and recover. Whether you are trying to shake yourself free, or someone else, you have to develop patience and resilience. These are useful skills in any case. They're vital when untangling the psychopath's web.
+* You will not get sincere remorse, ever. If you need this to move on, learn to stop needing it.
 
-++ Outcomes
+* You will not get the love, money, power, or whatever else Mallory promised you.
 
-I've defined "freedom," in other writing, as "the ability to do interesting things with other people." As long as you are in a psychopathic relationship, you are captive. You will spend your available time and resources on that relationship, with no significant return.
-
-However, more pragmatically, let me go through what you can expect, and more importantly, have to abandon, as possible outcomes:
-
-* You will not get sincere apologies, ever. If you need this to move on, learn to stop needing it.
-* You will not get the love, money, power, or whatever else it was promised.
 * You will not get your money or time back. Accept the losses, and look ahead, not back.
-* You will not change a psychopath, nor help them, nor "cure" them.
+
 * You will not get a deal, or compromise, or negotiated settlement. Every deal is a lie.
+
+* You will not change Mallory, nor help him, nor "cure" him, nor punish him.
+
+* You can change Mallory's behavior towards you or a group, by changing how you or a group treat Mallory.
+
+* You can force Mallory to leave you or a group alone, by making it expensive and risky for him to stay.
+
+* You can staunch your losses of money, time, and resources, by refusing to give into Mallory.
+
+* You can take full control of your relationship with Mallory.
+
+* You can break and disable Mallory, even to the point where he cannot hurt others.
+
 * You may be able to salvage pieces of whatever projects you were investing in.
-* You can stop the loss of money, time, and resources.
+
 * You can learn deep and useful lessons about your own and others' psychology.
-* You can change a psychopath's behaviour towards you or a group.
-* You can force a psychopath to leave you or a group alone.
-* You can break a psychopath, temporarily, if you are particularly determined.
-* You can heal the stress trauma that comes from prolonged loss of resources and freedom.
-* You can help other people move through the same process as you.
 
-It can help to be explicit about your goals, both to yourself, and to others, and to keep measuring where you are, with respect to your goals, over time.
+* You can externalize your story and understand what happened.
 
-++ The Crystal Skull
+* You can help others move through the same process as you.
 
-I said other factors than "is a psychopath" may determine a psychopath's tendency to violence. One that seems to pop-up regularly is culture of origin. I find this particular story fascinating and illuminating. Psychopaths are, as I've explained, hyper-social and yet inherently cut-off from the social networks that surround them. That same person who is excellent at reading people, is unable to accurately understand the person they are reading. Even as they maintain dozens of intense conversations in parallel, shifting voice and face to suit each peer, they operate heavily on built-in assumptions and general guesses.
+Be explicit in defining your goals, both to yourself, and to others. Once you write down your goals, you can measure your progress over time. This will help you during the many moments when you doubt yourself.
 
-This shows as a fairly consistent level of paranoia and pre-emptive aggression that is decoupled from real events, and can be comically wrong. It is like a car driver, isolated in his or her cabin, predicting how aggressive other drivers will be. A driver who over-estimates will be constantly honking their horn, gesticulating at others, and getting into pointless accidents. A driver who under-estimates will be shouted at by other drivers for going too slowly, or acting "stupidly."
+++ The Resistance
 
-I believe that psychopaths learn their level of aggression and paranoia (that is, how aggressive others are likely to be) when they are growing up, and this crystallizes in their minds perhaps around 18. After that, it seems fixed, no matter how much trouble it causes for the psychopath.
+We covered Diagnose and Observe in [#diagnosis]. Now I will explain the Inhibit step.
 
-In other words, a psychopath who grows up in a relatively violent, unstable culture -- say a poor inner city, or a corrupt developing country -- is calibrated for that culture. As long as they stay there, they will respond accurately to others, even they aren't actually reading each person's intentions. If they move to relatively peaceful environment, they will be constantly over-reacting, over-threatening, and over-acting. Likewise, the psychopath who grows up in a peaceful culture will be overwhelmed in a more violent culture.
+The goal of Inhibit is to block Mallory's patterns of behavior. The abusive bond is a curious thing. Even though one party seems in control, the other must cooperate. This is the "enabling" we see in psychopathic families. When Mallory is in a marriage with children, her spouse often acts as enabler. He excuses Mallory, hides conflict from outsiders, and tells the children "it is normal."
 
-This story is backed up by some studies of prison populations, that show a higher proportion of immigrants. However there can be so many reasons for that, including basic economic realities. Immigrant men tend to leave their professional networks behind, and poverty breeds crime.
+Individuals enable their abuser when they normalize the situation. In my Paper Cup story, every time Alice resets and repairs the cup, she is trying to make things "normal" again. This is how she enables Mallory.
 
-++ What Does Alice Feel?
+To inhibit is the opposite of enable. It is to make it more and more difficult for Mallory to rule. Inhibiting works both in solitary relationships, and in group settings.
 
-It's worth discussing what emotions a psychopath feels, since they can act the victim spectacularly well. It can be hard to feel no sympathy for someone who projects perfect sincerity and fragility. And a psychopath puts on their rage face and threatens you with violence and retribution, it is the face of a roaring tiger.
+We can break down Inhibit into separate actions. Each of these addresses a different aspect of Mallory's behavior. I'll summarize these first:
 
-It is all fake. Internally, the psychopath has no anger, jealousy, fear, loneliness, hate, love, or self-pity. The fly on the wall will see Alice switch emotions fluently depending on whom she is talking to. She'll show exuberant affection, and then flip to cold, hard anger, and then go neutral if there's no-one to talk to. The significance is this: when you deal with a social brain, you can talk to its emotional states. You can talk to a sad person, a happy person, an angry person, these are real and sincere. However when dealing with a psychopathic brain, the emotions you see are meant to misdirect and manipulate you. If you talk to them, you lose.
+* //Redefine the Narrative//. Mallory depends on her false Narrative. You replace her broken promises with a more accurate model of your relationship.
 
-A psychopath has two sincere emotions as far as I can tell. One is "go," the joy of success. The other is "stop," the sense of being blocked and having to find another route. There may be a twinge of frustration when "go" switches to "stop," yet it's almost imperceptible.
+* //Fix the economics//. Mallory depends on you refilling the cup every time she demands it. You stop doing that, and staunch the loss of money, time, and other resources.
 
-I once confronted a psychopath with physical evidence of his plans and lies, collected from an email server. He first declared that my accusations were outlandish. I showed him the evidence and told him we had two years of logs (it was only a few months, I was bluffing). His face gave a tiny twinge of confusion, the fraction of a second, followed by a tiny pause as he seemed to recalculate, and then he smiled and shrugged and said it didn't matter.
+* //Collect evidence//. Mallory depends on privacy, your poor memory, and your forgiving nature to distort history. You repair that by keeping a journal and collecting material evidence against her.
 
-Knowing that the psychopath is an essential liar, you can ignore their emotional comedy and talk instead to their "stop" / "go" emotions. You can raise enough doubt and risk of pain that they back off. You can misdirect them with false leads and possibilities. You can make them put on mask after mask, until they are exhausted. Once you've decoded the psychopath, you can play all kinds of games with them, if you're that kind of person, and have nothing better to do.
+* //Provide subtitles//. Mallory depends on her charm and fluid lying to confuse others. You prevent that by explaining to others what Mallory is doing, and why, as it happens.
 
-++ Fighting Your Way Out
+* //Create consequences//. Mallory depends on your fear to escape serious consequences. You teach her that you are willing and able to create consequences for her.
 
-You'd think there are lots of possible strategies for freeing yourself or a friend or loved one from a psychopath's embrace. However it doesn't look like that. Obviously, if "run away" is an option, you take it. However it typically doesn't work like that. If you come to the point where you even have to ask "how do I get myself/him/her out of this situation?" then the bond is already made, the hooks are sunk, and the remaining question is usually, "how bad is this going to get before it gets better?"
++++ Redefining the Narrative
 
-If you have successfully diagnosed the situation and identified the psychopath, then you can warn others and start to disable the psychopath. If you are helping someone else, then they must go through the same thinking process of "this is an abusive situation" and "person X is doing this //on purpose//," and then they can also move to Intervention and Treatment.
+I explained in [#capture] how "every psychopathic relationship has the same structure. At the heart, Mallory places a core of lies and promises... The Narrative." To untangle your relationship with Mallory you must decode and redefine the Narrative.
 
-Let me break these two tools into smaller pieces so we can look at concrete, tangible actions to take. Start with Intervention:
+It can be difficult for so many reasons. The Narrative usually has elements of truth. These are small, yet real, and Mallory uses them to push through larger packages of lies. The best Narratives stem from our lust for sex, money, and power. They're hard to discredit because we so //want to believe.//
 
-* Redefine the narrative -- replacing the broken promises with a more accurate model.
-* Fix the economics -- staunching the loss of money, time, and other resources.
-* Collect evidence -- arming yourself against the psychopath's reality distortion.
-* Create consequences -- encouraging the psychopath to feel "stop."
+Let me give some examples of Narratives, to draw you a clearer picture:
+
+* Mallory is taking money from Bob, using sex and emotional violence to keep him hooked. The Narrative is, "you want me because I'm a difficult woman. Surviving me makes you a powerful man. Keep giving me expensive gifts and I will be yours." The first statement is true. All that follows are lies. Mallory is cheating on Bob, wasting his money, and will leave him as soon as she can move to a wealthier contact of his.
+
+* Mallory has convinced Alice to become her house slave. Alice works for free and Mallory bullies her into thinking this is normal. The Narrative is, "I paid to bring you to this country. I am now your family and you must do what I tell you to. Obey and I will protect you." Again, the first statement is true and the rest are lies. Mallory will abandon Alice without papers or money as soon as she becomes too large to lock up.
+
+* Mallory has convinced Bob to join his project. Bob is working unpaid and Mallory demands more and more from Bob. The Narrative is, "this is an important project. You are serving humanity. I am your glorious and infallible leader. If you suffer, that is normal." The first statement might be true. Mallory is good at finding causes. The rest are lies. Mallory will steal Bob's work, drain him, and blame him for any failures.
+
+* Mallory has convinced Alice to move in together. She invests her savings, and they plan expensive renovations together. The Narrative is, "this is our house. You are investing in our future. I will be a loving and caring husband. If I'm sometimes moody, it is your fault." Again, a truth followed by lies. Alice will go bankrupt before she wakes up and realizes Mallory invested little if anything, and has cheated on her since the start.
+
+To untangle the Narrative, there is a small yet powerful mantra that you use. You repeat this to yourself whenever you look at past, or present events. The mantra is: "Mallory is lying." You must assume that every statement Mallory utters is false. He may sometimes tell the truth. That is accidental and irrelevant. When it mattered, and often when it did not, he lied.
+
+This takes practice. You need the opportunity to watch Mallory as he talks to you, or others. You feel his sincerity like a warm glow. You hear his words. You watch his face. Now you repeat your mantra: "Mallory is lying."
+
+You may ask //why// he lies about often obvious things, or how he can lie so well. There are answers, which I've already provided. His lies, even the flagrant ones, are how he bullies people into accepting his authority. He isn't inventing, when he lies. Instead, he's honestly telling a story that just happens to be false.
+
+The power of this mantra is that it forces Mallory to work harder to be accepted. It works especially well in a group. Mallory's aura of sincerity is like diamond: hard yet fragile. If you can prove a single lie, then you can teach others the same mantra. From then on, the Narrative starts to fall apart.
+
+If you are alone with Mallory, you must put yourself outside the Narrative in order to see the lies. This is difficult. You must want nothing, and believe nothing. That means switching off all the responses that brought you to this place. It means accepting that your investments are lost.
+
+Once you can see the lies, the next step is to see the truth. What are Mallory's real intentions? The sad thing is you already know them. They are your deepest fears, the ones you've pushed aside since the first day. Mallory intends to use you and then throw you away. He intends to use your network to climb up the social ladder. He intends to empty your savings, and those of your family.
+
+Mallory cares about one person, himself. He will do whatever benefits him, without limit and without remorse. If he is not worse it is because that would be counter-productive. Your relationship is a sham, window dressing to hide the crimes. Can it be so simple and so nakedly brutal? Yes, it can be, and is.
+
+So now you have a new Narrative. You could never have made the relationship work. Every time you invested in it, you made it worse. You unknowingly encouraged him. You fed him and reinforced his bad behavior. So this is your next action. You stop feeding Mallory.
+
++++ Fixing the Economics
+
+Whether or not you see life in terms of cold economic decisions, Mallory definitely does. She will play with people for practice, yet when she creates an extended relationship, it is for her profit. Unlike a win-win social relationship, Mallory always builds win-lose relationships.
+
+You should be able to measure how much it is costing you to give Mallory that profit. You can count your time, money, and cost of lost opportunities. It is worth putting a dollar figure on the damage, if you can bear to do this. Mallory has worked hard to make you undervalue yourself, so don't be shy about adding zeros. It is not for a court, just for your own sanity.
+
+Your next step is to close the taps. I call this "disabling."
+
+There is passive disabling, and active disabling. Use both, as you gain confidence and courage.
+
+Passive disabling has a mantra. This is: "Every question is a test, and the answer is always No."
+
+Mallory has a classic pattern of extracting resources from you. First she asks for a small favor, something marginal. Then she creates a problem that you must solve, and leaves it on the table for a while. Then she comes with a solution, in the form of a larger favor you must provide. If you do not agree to the larger favor she puts on an anger mask and brings the relationship to crisis.
+
+By refusing the small favor, you break the pattern. Mallory has no backup. If she creates a crisis over a marginal issue she appears to be unstable. If she asks again you just refuse again. If she asks for something different, you refuse again.
+
+You can refuse in different ways. An outright "no" is fine, if you can find the confidence. Alternatively you can say "perhaps" and then fail to deliver for other reasons. However to feign incompetence is less healthy than rejecting Mallory's request outright.
+
+When Mallory threatens you, observe and take notes. Compare her threats to her actual actions. You will see that she rarely if ever does what she promises. When she is in fact violent, she does not give you warning.
+
+Active disabling also has a mantra. This is: "If it is not locked down, be prepared to lose it."
+
+Once you recognize Mallory, you must assume she will take whatever she wants. This means money and assets, for sure. It also means contacts, employees, documents, secrets. She may explain this using "yours, ours, mine" logic. Or she may deny it and blame someone else.
+
+You must consider what assets you have that Mallory could divert. If you are business partners, and you are not in full control of accounts and decision making, abandon it. If you own property together, consult a lawyer. If you have joint accounts, close them. If she has access to your credit cards, get new ones. If she knows your passwords, change them.
+
+If you live with Mallory you must be extremely careful. Since she is mostly opportunistic, it is just a matter of locking things up. Do not be shy about using large locks, and hide the keys well. Do your research on identity theft. She may take out loans in your name, faking your signature. Assume she steals your mail. If she is technically skilled, assume she hacks your computer and web accounts.
+
+If Mallory is in your social circle, leave no money on the table. Do expect her to use your friends and contacts. Warn them, and keep your most important contacts away from her.
+
+When you start disabling Mallory, she starts to get hungry. This makes her more aggressive, and scary. Yet it also makes it much easier to expose her.
+
+As you secure your boundaries, you make it easier to catch Mallory when she violates them. This brings us to the next action, which is to collect evidence of her violations of norms and laws.
+
++++ Collecting Evidence
+
+Psychopaths are geniuses at using rules the wrong way. "Here are these complex rules which apply to you, yet not to me because I'm special," is the classic story. It is strange how few people question such unfairness. Perhaps we've learned it from school and work. Good rules are simple, and apply to everyone equally. Luckily, no matter what a psychopath claims or argues, most of society works this way. This means that if you document a psychopath's rule violations over time, you can gain significant leverage over the situation.
+
+This is vitally important when the psychopath realizes you are actively attacking them, and strikes back with loud, convincing stories of your wrong doings. You must expect this, and not take it personally when it happens. When you respond, do so carefully and minimally, with material evidence. While you may be tempted to make a dramatic exposure, it's wiser to play only the cards you must, to win each round.
+
+First, you keep a diary or log. This gives you dates and key events for later reference. It is a good balance against the reality distortion and gas lighting that psychopaths use to befuddle people. It also teaches you to listen actively and try to take a more neutral point of view.
+
+Second, use email. A good tactic is to email Mallory with a summary of an agreement (which Mallory has no intention of honouring), and ask if you understood correctly. Save that thread for later.
+
+Third, use audio and video recordings if you are in face-to-face encounters. This is essential if there is any kind of verbal or physical violence. Making secret audio recordings is easy, though Mallory will tend to realize you're recording the conversation. You can use your phone, or buy cheap USB pen drive audio recorders on Amazon.com. Do backup your recordings quickly and safely, and label them for future reference.
+
+In some jurisdictions, recordings aren't valid as evidence in court unless there's mutual consent. You may even be prosecuted for invasion of privacy, if you make them. That may be a good trade-off. You can also simply ask Mallory, "I'm going to record everything, is that OK with you?" and record her agreeing to that.
+
+Psychopaths depend on secrecy and privacy to distort reality. Moving discussions into public view, keeping recordings, and even being open about this can change the dynamics of a situation quite considerably. Psychopaths will change their behavior dramatically when they realized they were being watched, and the larger and more neutral the audience, the better in most cases.
+
++++ Providing Subtitles
+
+* You can teach others, so that after every incident, instead of excusing Mallory, you explain her behaviour.
+
+
++++ Create Consequences
+
+I've said that psychopaths are pragmatic about costs and benefits, and you can raise the costs of occupation, so to speak. Collecting evidence is a large part of this. If you tell a psychopath, "I have (unspecified) evidence that will be used against you at some future point," you will get bluster and aggression in return. However, you will start to affect their behaviour and plans.
+
+You must keep in mind that Mallory has no fear of punishment or authority. "You will get in trouble" is not a significant threat, and can even be a challenge that's hard to resist.  Exposure and public humiliation is a much more powerful consequence, if you have the material to back it up. You must have given Mallory the benefit of the doubt many times, not once. If you are exposing criminal acts, the outcome may be prison time. If you are exposing severe professional misconduct, you may be ending someone's career.
+
+Since a psychopath is usually bluffing when they make threats, they'll assume you are too. If you want to change their behaviour you must therefore prove yourself willing and able to act on your evidence. Play your cards slowly, and keep them hidden until you must show them. Mallory is paranoid, so if you are vague about what exactly you have, it amplifies your threat.
+
+Conflicts with psychopaths do often end with the police and courts. This can be stressful for you if you are unused to it. For a psychopath, it's like going to the supermarket, they simply don't fear authority. The law can seem quite random, yet it is a system like any other. You do want to collect evidence and learn what kinds of facts are interesting. If you are in an extended conflict, you build a case slowly, by accumulating police complaints, letters, and so on. It is the same as evicting a tenant who does not pay, in a country like Belgium with tenant-friendly laws.
+
 
 And then we can break down Treatment into specifics:
 
@@ -150,7 +339,7 @@ And then we can break down Treatment into specifics:
 * Invest in self -- creating alternatives and inner strengths.
 * Move to exit -- and working at that until you are free.
 
-None of these are one-day exercises. As I said, it all takes time. During that time, you'll be under persistent, sustained attack from Alice, particularly if she realizes what you are doing. Few threats are as real to a psychopath as a person determined to unmask them. And when a psychopath sees danger, they react strongly and dramatically. You need to learn to keep your nerve and not buckle.
+None of these are one-day exercises. As I said, it all takes time. During that time, you'll be under persistent, sustained attack from Mallory, particularly if she realizes what you are doing. Few threats are as real to a psychopath as a person determined to unmask them. And when a psychopath sees danger, they react strongly and dramatically. You need to learn to keep your nerve and not buckle.
 
 > "We start out feeling afraid of something, then that fear makes us feel weak, then that weakness makes us angry, and then we start to hate." -- Cracked.com, [https://www.youtube.com/watch?v=pWq8j0yXkMI#t=273 "4 Terrifying Psychology Lessons Behind Famous Movie Monsters"]
 
@@ -160,77 +349,24 @@ It is probably impossible to turn off the "fight or flee" response as long as yo
 
 You must first ground your own emotions, and you can then see the other person's attempts to manipulate you. When you don't feel weak and lonely, then excess attention becomes visible as flattery. When you have no fear, then threats show themselves as empty statements.
 
-In each of these phases you can see different behavioral traits. Extreme charm and attention during seduction. Extreme brutality and neglect during wrecking. Although Alice is quite systematic in her tactics, and predictable once you know she's a psychopath, she is a shape-shifter. At some level, there is no Alice, rather a sort of anti-Bob.
+In each of these phases you can see different behavioral traits. Extreme charm and attention during seduction. Extreme brutality and neglect during wrecking. Although Mallory is quite systematic in her tactics, and predictable once you know she's a psychopath, she is a shape-shifter. At some level, there is no Mallory, rather a sort of anti-Bob.
 
-
-+++ Redefine the Narrative
-
-All psychopathic relationships depend on a narrative, a web of promises and threats that keep Bob transfixed and compliant. Think of a knife, with a tiny tip of truth, and a blade and handle of lies. The small truth pricks the skin, and the lies slice the flesh open. Like any con game, it only works when you accept the package.
-
-There is a small mantra you can repeat to yourself, when talking to a psychopath: //they are lying//. You should assume every statement that has any significance at all is false. You should want nothing, and believe nothing. In this mental state you can begin to see Alice's real goals more clearly. Usually they will be glaringly obvious.
-
-Let's say you're working with someone who promises you fame and fortune, yet at every turn is creating alliances with people who attack you. Once you stop wanting the fame and fortune, you may see that the person intends to steal your work, and then blame you.
-
-Or, imagine a man who inherits a large fortune, and an attractive woman who falls in love with him. She convinces him to leave his wife and children to live a life of True Love. Once the man stops wanting the exciting sex and relationship drama, he may see that she really wants to steal his fortune.
-
-The best narratives are based on sex and money, and are incredibly hard to negate. We so //want// to believe. However like I said, most of us have a sceptical voice, so when the narrative does pop, it usually happens rapidly. And in its place remains the truth, that Alice was looking out only for herself, and was manipulating everyone else.
-
-+++ Fix the Economics
-
-Once you have fixed the narrative, you can start to fix the economics. Whether or not you see life in terms of cold economic decisions, the psychopath you are confronting most definitely does. Psychopaths will play with people for practice, yet any extended relationship is for profit, one way or another. Once you have an accurate narrative that explains what Alice is actually after, you can close the taps.
-
-You can resist passively by refusing or failing to go along with whatever plans and schemes the psychopath creates. You delay, fumble, and in general become a useless hindrance. You can then progress to simple refusal. Remember: every question is a test, and the answer is "no." As you start to refuse, Alice will threaten you with dire consequences. You hold your ground, walk away, and make notes of the discussion.
-
-I call this "disabling," after the common pattern of "enabler" in families with one psychopathic-slash-narcissistic parent. Enabling a psychopath means excusing them when they attack others, and placating them when they attack you. Enabling is appeasement, a swear word on many lips, and for good reasons. Disabling a psychopath has several good outcomes:
-
-* You can starve Alice of the resources she needs, as she typically has no other sources of income.
-* You can teach others, so that after every incident, instead of excusing Alice, you explain her behaviour.
-* You can collect documentation on violations of norms and codes of conduct.
-* You will start to force Alice to look elsewhere for people to con and steal from.
-
-Concretely, if you have any kind of financial exposure to the psychopath, fix it. If you are business partners and you are not in full control, get out. If the psychopath is your partner, parent, or child, close any joint accounts, hide your credit cards, and take all necessary measures against identity theft, loans in your name, and so on. If the psychopath is working a social circle, leave no money on the table. In general terms, be extremely paranoid about your money, papers, and possessions. Don't be shy about using locks, redirecting your mail. If the psychopath is technically skilled, assume they will try to hack your email and other accounts.
-
-+++ Collect Evidence
-
-Psychopaths are geniuses at using rules the wrong way. "Here are these complex rules which apply to you, yet not to me because I'm special," is the classic story. It is strange how few people question such unfairness. Perhaps we've learned it from school and work. Good rules are simple, and apply to everyone equally. Luckily, no matter what a psychopath claims or argues, most of society works this way. This means that if you document a psychopath's rule violations over time, you can gain significant leverage over the situation.
-
-This is vitally important when the psychopath realizes you are actively attacking them, and strikes back with loud, convincing stories of your wrong doings. You must expect this, and not take it personally when it happens. When you respond, do so carefully and minimally, with material evidence. While you may be tempted to make a dramatic exposure, it's wiser to play only the cards you must, to win each round.
-
-First, you keep a diary or log. This gives you dates and key events for later reference. It is a good balance against the reality distortion and gas lighting that psychopaths use to befuddle people. It also teaches you to listen actively and try to take a more neutral point of view.
-
-Second, use email. A good tactic is to email Alice with a summary of an agreement (which Alice has no intention of honouring), and ask if you understood correctly. Save that thread for later.
-
-Third, use audio and video recordings if you are in face-to-face encounters. This is essential if there is any kind of verbal or physical violence. Making secret audio recordings is easy, though Alice will tend to realize you're recording the conversation. You can use your phone, or buy cheap USB pen drive audio recorders on Amazon.com. Do backup your recordings quickly and safely, and label them for future reference.
-
-In some jurisdictions, recordings aren't valid as evidence in court unless there's mutual consent. You may even be prosecuted for invasion of privacy, if you make them. That may be a good trade-off. You can also simply ask Alice, "I'm going to record everything, is that OK with you?" and record her agreeing to that.
-
-Psychopaths depend on secrecy and privacy to distort reality. Moving discussions into public view, keeping recordings, and even being open about this can change the dynamics of a situation quite considerably. Psychopaths will change their behaviour dramatically when they realized they were being watched, and the larger and more neutral the audience, the better in most cases.
-
-+++ Create Consequences
-
-I've said that psychopaths are pragmatic about costs and benefits, and you can raise the costs of occupation, so to speak. Collecting evidence is a large part of this. If you tell a psychopath, "I have (unspecified) evidence that will be used against you at some future point," you will get bluster and aggression in return. However, you will start to affect their behaviour and plans.
-
-You must keep in mind that Alice has no fear of punishment or authority. "You will get in trouble" is not a significant threat, and can even be a challenge that's hard to resist.  Exposure and public humiliation is a much more powerful consequence, if you have the material to back it up. You must have given Alice the benefit of the doubt many times, not once. If you are exposing criminal acts, the outcome may be prison time. If you are exposing severe professional misconduct, you may be ending someone's career.
-
-Since a psychopath is usually bluffing when they make threats, they'll assume you are too. If you want to change their behaviour you must therefore prove yourself willing and able to act on your evidence. Play your cards slowly, and keep them hidden until you must show them. Alice is paranoid, so if you are vague about what exactly you have, it amplifies your threat.
-
-Conflicts with psychopaths do often end with the police and courts. This can be stressful for you if you are unused to it. For a psychopath, it's like going to the supermarket, they simply don't fear authority. The law can seem quite random, yet it is a system like any other. You do want to collect evidence and learn what kinds of facts are interesting. If you are in an extended conflict, you build a case slowly, by accumulating police complaints, letters, and so on. It is the same as evicting a tenant who does not pay, in a country like Belgium with tenant-friendly laws.
 
 +++ Regain Control
 
 By now we are moving to active resistance, and towards taking control of the situation. Psychopaths have specific weaknesses -- like their paranoia -- that you can learn, and then use. They are arrogant and their superiority complex makes them careless. They are unused to any form of attack or active resistance, and they will respond viscerally, dramatically, and often stupidly. And they will tend to repeat the same responses over and over, almost mechanically. Psychopaths are like actors: dramatically creative and yet unable to see beyond their stage.
 
-So you have stopped reacting to Alice's provocations and promises, and started to decode how she works. The next step is to take the lead. You can do this in numerous ways. As a basis, you control the start and end of every conversation. You choose when to talk. You choose when to stop talking. If Alice tries to start a conversation, you "have things to do." If Alice forces her way into your space and begins making noise, you ignore her. If she insists, you leave.
+So you have stopped reacting to Mallory's provocations and promises, and started to decode how she works. The next step is to take the lead. You can do this in numerous ways. As a basis, you control the start and end of every conversation. You choose when to talk. You choose when to stop talking. If Mallory tries to start a conversation, you "have things to do." If Mallory forces her way into your space and begins making noise, you ignore her. If she insists, you leave.
 
 Now, you can set the tone of any exchange. You can be friendly and generous, or cold and hostile. At all times, be deliberate and conscious of your words and emotions. In face-to-face discussions, using a hidden audio recorder helps. In written discussions, realize that every word you say is open to scrutiny.
 
-Let's look at two specific strategies for controlling a conversation that you do not want to, or cannot, end. First, randomization, where you overload Alice with irrelevant detail about topics she does not expect to discuss. Second, provocation, where you deliberately antagonize Alice in order to record her saying something violently idiotically. Ironically, I learned both these strategies by watching psychopaths control other people.
+Let's look at two specific strategies for controlling a conversation that you do not want to, or cannot, end. First, randomization, where you overload Mallory with irrelevant detail about topics she does not expect to discuss. Second, provocation, where you deliberately antagonize Mallory in order to record her saying something violently idiotically. Ironically, I learned both these strategies by watching psychopaths control other people.
 
 Randomization means taking some arbitrary topic and discussing in intense detail. You must sincerely want to discuss the topic. A psychopath works with averages, knowing how people will respond in conversation, and typically thinking several moves ahead, like a chess grandmaster. When you leap around in unpredictable directions, they lose their grip, feel "stop," and tend to withdraw. You won't see psychopaths playfully retorting to a topic they do not control.
 
-Provocation sounds dangerous, yet as I explained, psychopaths are creatures of bluff. The goal here is to kick off their visceral response, and to record it. You can often provoke a psychopath easily, by saying "no" to a request, without explanation. You can also accuse them of violation of whatever social contracts they are breaking, and threaten them with exposure. Do make sure you are recording, if you do this. You will often get only one chance, as the next time, Alice will have a story to answer that accusation.
+Provocation sounds dangerous, yet as I explained, psychopaths are creatures of bluff. The goal here is to kick off their visceral response, and to record it. You can often provoke a psychopath easily, by saying "no" to a request, without explanation. You can also accuse them of violation of whatever social contracts they are breaking, and threaten them with exposure. Do make sure you are recording, if you do this. You will often get only one chance, as the next time, Mallory will have a story to answer that accusation.
 
-In a confrontation, you must have full control over your emotions. If you respond with anger, or hate, or self-pity to the inevitable threats and accusations, you have lost it. Alice will shotgun accusations and slander against you and watch you intensely. When you react even microscopically, she sees it. So expect hurtful accusations against you, and yours.
+In a confrontation, you must have full control over your emotions. If you respond with anger, or hate, or self-pity to the inevitable threats and accusations, you have lost it. Mallory will shotgun accusations and slander against you and watch you intensely. When you react even microscopically, she sees it. So expect hurtful accusations against you, and yours.
 
 +++ Build Alliances
 
@@ -250,28 +386,28 @@ This takes time, and evidence that cannot be faked or challenged. There are risk
 
 +++ Invest in Self
 
-Those trapped in a psychopathic relationship often end up in bad shape. The slave, feed, and wreck phases of the relationship are corrosive to Bob's sense of identity. When you ask Bob "how's it going?" his answers revolve around Alice. "She's in a good mood today," or "crazy day today." Bob seems little more than a puppet, reacting to Alice's every whim. And if Alice isn't there, Bob is empty and passive.
+Those trapped in a psychopathic relationship often end up in bad shape. The slave, feed, and wreck phases of the relationship are corrosive to Bob's sense of identity. When you ask Bob "how's it going?" his answers revolve around Mallory. "She's in a good mood today," or "crazy day today." Bob seems little more than a puppet, reacting to Mallory's every whim. And if Mallory isn't there, Bob is empty and passive.
 
 We can reverse this process of destruction of self, making us more resistant to manipulation, able to fight back, and to imagine and construct better futures than "more of this pain." As the tools of mind control come in many shapes -- and I'll explain these in a further article on psychopaths -- there are many ways to invest in self:
 
-* Rebuild relationships that broke as you engaged deeper and deeper with Alice.
-* Build private space and time where Alice cannot create chaos, or try to take control.
-* Start new projects that provide plausible alternatives for the toxic, failed projects you invested in with Alice.
+* Rebuild relationships that broke as you engaged deeper and deeper with Mallory.
+* Build private space and time where Mallory cannot create chaos, or try to take control.
+* Start new projects that provide plausible alternatives for the toxic, failed projects you invested in with Mallory.
 * Find positives in your situation. Every day can be a valuable lesson, if you are able to learn.
 * Turn your emotion and pain into creative art, music, dance, photography, or writing.
-* Use this creative process to create positive energy, and happy moments. It's both good for you, and confusing and distasteful to Alice.
+* Use this creative process to create positive energy, and happy moments. It's both good for you, and confusing and distasteful to Mallory.
 
 When I said psychopaths are lazy, that isn't true in all senses. They will work extraordinarily hard at their core skills of hiding, stalking, feeding, slaving, and so on. They will invest massively in organizing people simply to be able to control and exploit them. It is an irony of psychopathy that this energy can produce positive and creative outcomes. Many impressive feats have been accomplished by people driven to desperation to escape the psychopath in their lives.
 
 +++ Move to Exit
 
-The last move in solving this complex puzzle is to create exits, and move towards them. You are only as trapped as you believe you are (unless Alice has you physically restrained). When you can imagine a future past the psychopathic relationship, then you can create it. Whether it takes weeks, or years, the path to freedom is defined by your own imagination, and determination.
+The last move in solving this complex puzzle is to create exits, and move towards them. You are only as trapped as you believe you are (unless Mallory has you physically restrained). When you can imagine a future past the psychopathic relationship, then you can create it. Whether it takes weeks, or years, the path to freedom is defined by your own imagination, and determination.
 
 As soon as you can, you end the relationship with the psychopath. In the best cases it's about ten seconds after you realize, "this person is rather more selfish than normal." In the worst cases, it takes years to undo a professional or personal relationship that has woven deep into your life. No matter: once the relationship is over, you walk away and not talk to them again.
 
 In forums on abusive relationships this is called "no contact," or NC. That means ignoring emails, phone calls, and chats. It can mean changing your phone number, and keeping off social networks. If you do share children, you work with an intermediary, e.g. child care centre, to avoid ever seeing your ex. If you are in the same company, you ask for a different location.
 
-I believe that if you've regained control of the relationship, that Alice will generally ignore you once you're gone. However, some flavours of psychopaths don't let go easily, and NC is a valuable tool for cutting them off.
+I believe that if you've regained control of the relationship, that Mallory will generally ignore you once you're gone. However, some flavours of psychopaths don't let go easily, and NC is a valuable tool for cutting them off.
 
 ++ Breaking the Cycles of Abuse
 
@@ -320,6 +456,19 @@ Clearly Alex, who is mostly thinking about the possibility of sex with Brita, is
 Many years later, a now wiser and less reproductively stressed Alex meets Brita again. They chat and have a coffee. Later, Brita once again says she has to leave. Alex feels the smallest kick of self-pity and conducts a small internal dialogue. "OK, self-pity, what's your theory?" he asks. Self-pity answers, "if you cry, she might give you a hug. Then, sex!" Alex mocks self-pity's theory. "Did that ever work?" Self-pity grudgingly shakes its head and goes away.
 
 That is the general approach. Let me now list the main negative emotions and their classic patterns:
+
+happiness
+sadness
+fear
+anger
+disgust
+surprise
+jealousy
+loneliness
+self-pity
+guilt
+shame
+
 
 * **Self-pity**: a cry for adult affection. Self-pity will rapidly turn to anger as our imaginary adult fails to comfort us. The theory is, "I'm under seven years old." This is the easiest emotion to name and debunk.
 

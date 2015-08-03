@@ -1,4 +1,4 @@
-// kate: font Liberation Sans; font-size 16; syntax None; bom off;
+// kate: font Liberation Sans; font-size 16; syntax None; bom off; indent-mode none;
 .bookmark capture
 + Attack and Capture
 
@@ -452,7 +452,7 @@ While emotions are powerful social signals, they affect our senses and behavior.
 
 Since they affect our awareness, they also make us vulnerable. If Mallory makes us happy, we like her. If Mallory make us jealous of someone, we start to hate that person. If Mallory makes us afraid, we will do what she demands.
 
-To see clearly, and to resist Mallory's attacks, we must control our own emotions. Controlling your emotions is as hard as faking them. I'm sure there are many techniques. I call my technique "grounding." It works by identifying and resolving emotions one by one.
+To see clearly, and to resist Mallory's attacks, we must control our own emotions. Controlling your emotions is as hard as faking them. I'm sure there are many techniques. I call my technique "grounding." It works by identifying and resolving emotions one by one. I'll explain grounding in detail in [#escape]. For now, here is a summary.
 
 The basis for grounding is that emotions are distinct, yet trigger in chains. Fear of being alone may trigger jealousy of others. That may trigger anger, which in turn triggers shame. The result is a soup of emotions, dominated by anger and shame. We can learn to identify the strongest emotion, shame, and sense what triggered it.
 
@@ -462,13 +462,13 @@ To fake an emotion you do the same in reverse. Start with a belief or hypothesis
 
 Grounding works in real-time, when you are in a difficult situation. It You do not need peace and quiet. It does take practice, for most people.
 
-It can help you deal with people who antagonize you, in real life and online. A common root belief is, "feeling this emotion will make them behave better." That is false with trolls and psychopaths.
+It can help you deal with people who antagonize you, in real life and online. A common root belief is, "feeling and expressing this emotion will get them to behave better." That is false with trolls and psychopaths.
 
 ++ Situational Awareness
 
 The focus on others is a form of active meditation. Mallory usually wants you to focus only on her, so she can push your buttons. That only works if you are unaware and lost in your own thoughts. It is good to search for others' motivations. It is also good to understand the situations you find yourself in.
 
-This means active listening and watching. Even among strangers, the most valuable data about someone comes from other people. It is a good question to ask: "so how long do you know each other, and how did you meet?" When you observe how one person affects a group, you can tell a lot about them. This is much harder when it is just the two of you.
+This means active listening and watching. Even among strangers, the most valuable data about a person comes from other people. It is a good question to ask: "so how long do you know each other, and how did you meet?" When you observe how one person affects a group, you can tell a lot about them. This is much harder when it is just the two of you.
 
 So situational awareness is social awareness. Each person tells you their stories, and you build small theories of each person. Other people add weight to these theories, or falsify them. You throw away the theories that break, keep the ones that work. This sounds like a lot of effort. Yet it's just a set of small habits you can teach yourself, over months and years.
 
