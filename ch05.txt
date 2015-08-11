@@ -20,7 +20,7 @@ A hunter must know the terrain. I've already explained //how// Mallory hunts. Ap
 
 ++ The Project Group
 
-The project group is an informal social group with some goal. Project groups exist in culture, non-profit, arts, technology.   A classic project group has a small set of organizers, and a larger set of members. The organizers set the rules and manage the group. Members join and leave at will, driven by their own schedule. Members may pay a fee, and their work is not compensated. Members who stay longer may become organizers. The group has clear goals, and regular meetings.
+The project group is an informal social group with some goal. Project groups exist in culture, non-profit, arts, technology. A classic project group has a small set of organizers, and a larger set of members. The organizers set the rules and manage the group. Members join and leave at will, driven by their own schedule. Members may pay a fee, and their work is not compensated. Members who stay longer may become organizers. The group has clear goals, and regular meetings.
 
 Project groups are vulnerable to bad actors by default. Their founders must take explicit steps to protect the group. Otherwise, Mallory can waltz in on a cloud of charisma and chaos.
 
@@ -376,7 +376,7 @@ Often you will recall other traits about Mallory, years later. These tend to be 
 
 * She promotes herself as supremely moral, and may use religious or social crusades as cover. She is stridently against social deviants, and the first to call for harsh punishments.
 
-* She is confident in almost all situations. When she does trip up, it can be dramatic. She never expects to get caught.  Yet she is solitary and can make large misjudgments.
+* She is confident in almost all situations. When she does trip up, it can be dramatic. She never expects to get caught. Yet she is solitary and can make large misjudgments.
 
 ++ Neurophysical Traits
 
@@ -384,11 +384,13 @@ Psychopaths do have measurable neurophysical traits. These are not accurate psyc
 
 Keeping this in mind, I'll explore these traits. They do help us to model and understand psychopathy:
 
-* Mallory has a poor sense of smell. Mahmut and Stevenson  [http://www.researchgate.net/publication/258845871_The_Relationship_Between_Psychopathy_and_Olfactory_Tasks_Sensitive_to_Orbitofrontal_Cortex_Function_in_a_Non-criminal_Student_Sample found that] "higher degrees of psychopathy were significantly associated with poorer olfactory discriminative ability." In humans, the sense of smell works together with emotions. Mallory does not process social emotions and so his poor sense of smell fits the puzzle well.
+* Mallory has a poor sense of smell. Mahmut and Stevenson [http://www.researchgate.net/publication/258845871_The_Relationship_Between_Psychopathy_and_Olfactory_Tasks_Sensitive_to_Orbitofrontal_Cortex_Function_in_a_Non-criminal_Student_Sample found that] "higher degrees of psychopathy were significantly associated with poorer olfactory discriminative ability." In humans, the sense of smell is handled by the machinery for social emotions. Mallory does not process social emotions and so his poor sense of smell fits the puzzle well.
 
 * He has [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3166523/ high testosterone levels]. This helps him act dominant. It makes him more attractive to potential sexual partners. It hints that psychopath genes correlate with genes for physical strength and good health.
 
 * He is better looking than average. [http://www.toddkshackelford.com/downloads/Shackelford-Larsen-JPSP-1997.pdf Shackelford and Larsen have shown] that "psychopathic individuals have greater [facial] symmetry." Facial symmetry is a key indicator of good health during embryonic development. That shouts "great genes!" It may be real, or psychopath genes may be regulating facial development. In other words, doing what psychopath genes do, which is to cheat.
+
+* His pupils do not shrink when watches someone who is sad. This effect is called [https://en.wikipedia.org/wiki/Sadness#Pupil_empathy pupil empathy]. It correlates with emotional empathy. When we are sad our pupils shrink. When we watch someone who is sad, we also feel sad.
 
 Do genes cluster together? Indeed they do. At the least they can sit on the same chromosome. They may express in chains, so that genes depend on each other. So one gene can act as the key to unlock a series of other genes.
 
@@ -516,7 +518,7 @@ This is why hunting Mallory is so valuable. Every time you cross paths with a ps
 
 Observing Mallory is like [http://www.wikihow.com/Watch-Wildlife watching wildlife]. You choose your place and time, and do your research. Dress right, and blend in to your surroundings. Be calm and still and wait. Approach your subject with care, or view from a safe distance if you can. Identify behaviors as you observe them, and note of behaviors that are new to you. Above all, use a journal:
 
->  Note the types of creatures you see and their characteristics, and jot down what they are doing and where. Make sketches or take pictures and paste them into your journal. Once you return from the field, review your journal and do some more research to answer any questions that came up during your observations.
+> Note the types of creatures you see and their characteristics, and jot down what they are doing and where. Make sketches or take pictures and paste them into your journal. Once you return from the field, review your journal and do some more research to answer any questions that came up during your observations.
 
 You can observe Mallory from different angles:
 
@@ -536,7 +538,7 @@ These questions are valid because the traits run in families. To know someone, l
 
 They are also important because Mallory often has children. If psychopaths make up 4% of the population, then 8% of families have a psychopathic parent. Half of Mallory's children become like him, on average. I've explained my hypothesis that adult psychopathy needs an incubating environment to differentiate.
 
-This means that if we can recognize the traits in the parent, and in the children, we can intervene. I'll explore the ifs and hows of this in more detail in [#escape]. Let's say you are in a position to do something. Your main question is, "is this child growing up to be  Mallory?"
+This means that if we can recognize the traits in the parent, and in the children, we can intervene. I'll explore the ifs and hows of this in more detail in [#escape]. Let's say you are in a position to do something. Your main question is, "is this child growing up to be Mallory?"
 
 The traits of psychopathy in children are well studied. Yet the focus is on aggression. For instance, Dr. David Rettew in his talk [https://www.med.uvm.edu/ahec/downloads/School_Nurse_GrandroundsJan10.pdf "Sociopathic Behavior in Children"], refers to "aggression" 36 times. In effect he equates aggression with psychopathy. For sure, some psychopaths are aggressive and violent. Yet it is not a defining trait.
 
@@ -611,5 +613,3 @@ In this chapter I've explained where and how to spot Mallory. Is there a //singl
 Can we spot psychopaths in the wild? Yes, we can. It is even quite simple. Watch groups and couples in public settings. Observe without opinion. You will see the narcissists, the rule breakers, the charmers and the mimics. You will see some people always triggering others, yet rarely responding. This is how psychopaths spot and avoid others "playing their game."
 
 Except it's not that simple. Prey and predator are in a constant arms race. We can predict that some ants will evolve to imitate their spider parasites. We can predict that some social humans can and must play the psychopath game. Predator mimicry is an interesting idea, and I'll come back to it later.
-
-In the next chapter I'll get back to serious business. I will explain how to break out of a psychopathic relationship without long-lasting trauma.

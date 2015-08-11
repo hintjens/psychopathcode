@@ -1,1 +1,7 @@
 // kate: font Liberation Sans; font-size 16; syntax None; bom off; indent-mode none;
+.bookmark postface
++ Postface
+
+Thanks!
+
+Pieter Hintjens, Brussels,

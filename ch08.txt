@@ -1,297 +1,225 @@
 // kate: font Liberation Sans; font-size 16; syntax None; bom off; indent-mode none;
-.bookmark cats
-+ Belling the Cats
+.bookmark redqueen
++ Children of the Fight
 
-We come to the last article in this series before I wrap the lot up as a book. I've still got a lot to talk about. So I'm going to conduct an interview with myself. Think of this as The Transcript of The Podcast of The Conclusion of The Book.
+I've looked at the predatory life cycle of psychopaths and how they hunt, capture, and consume their prey, which is to say you and me. In this chapter I'm going to explain for once and for all how psychopathy evolved in humans. More than that, I'm going to argue that psychopathy, or rather the arms race between social collaborators and psychopaths has (and presumably still is) a prime force in our species' evolution.
 
-//Hi Pieter, thanks for joining us. I'm going to ask you a few questions about your upcoming book, "The Psychopath Code," and your research on psychopaths. Is that OK?//
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130541
 
-[Shrugs] Sure. Glad to be here, wherever this is...
+> Immature stages of the lycaenid butterfly, Maculinea, are social parasites of ants, living within the brood chambers of the ant colony where they solicit and receive care from workers.
 
-//You seem to have a good handle on psychopaths, sociopaths, anti-social personalities, and the like. Your stories are interesting, to say the least. Yet you speculate a lot, and you're not properly qualified to talk about psychopaths, are you? How do we know you're not complete bullshit?//
+> It was recently demonstrated that the key to Maculinea attention and social status within the colony was not their semiochemicals that mimic the cuticular hydrocarbons of their hosts, rather it was their ability to produce stridulations that mimic those of the queen ant thereby interfering with their host’s acoustical communication system. To date, Maculinea is the only known insect that uses also the acoustic channel to parasitize ants.
 
-We don't. The best I can hope for is "not proven wrong, yet." This is basic science. You take the observable data, you read the literature, you build new models that better explain your observations, and then you try to prove those models wrong. If you can't prove a model wrong, use it, until you get a better one. It starts with data and models. After that, it's a matter of brute force and time.
+> Among social parasites of ants, the ant nest beetles (Coleoptera, Carabidae, Paussini) stand out as arguably the most ecologically fascinating and phenotypically bizarre [15]. Ant nest beetles are obligate myrmecophiles during all life stages and are fully integrated into their host ant society through means of hacking the hosts’ chemical communication [4,5,16,17]. The ant nest beetles of the genus Paussus are known to deliver appeasement chemicals stored in trichomes adorning their body [18] to their host ants and in return receive full access to the colony and its bounty. Once integrated, adult Paussus move throughout the colony at will and prey upon the adult ants and especially their brood, surprisingly never eliciting aggression from the ants [5]. This symbiosis has resulted in one of the most stunning examples of rapid adaptive radiation known to date [15].
 
-//How did you get your data and theories?//
+> Unlike Maculinea butterflies, Paussus depends on ants during all stages of its development, thus adaptations for social parasitism must be innervated in both adults and their virtually immobile immatures [19]. Furthermore, Paussus adults interact directly with the queen in intimate ways previously unknown in myrmecophiles [5].
 
-Look around you, what do you see? People, lots of people. And look closely, over time, and you'll see patterns emerge. We're all different mixes of a finite set of patterns. And these patterns aren't random. They're driven by economics, the need to survive, as one individual of a social species. Once you start decoding our social instincts, like wanting to belong in a group, or seeking approval from others, or making jokes... [inaudible] once you peel off the layers, you start to see there are good and there are bad actors.
+> That Paussus are able to prey upon brood and adults alike and interact with the queen without eliciting any aggressive behavior from the ants (including those being preyed upon!) [4,5] demonstrates the shear sophistication of their masquerade parasitism and suggests that Paussus have utilized another channel beyond chemical mimicry to achieve their hierarchical standing among their hosts.
 
-It's not that people are a mix of good and bad. It's that most people strive their whole lives to belong, to be part of society, to be normal, and so on. And there are others who seem to strive their whole lives to rebel, not in a nice way. They don't respect rules, they're dishonest, they use sex like a weapon, and they mostly seem to get away with it, playing the victim and blaming other people.
+> The presence of stridulatory organs in Paussus has long been known [20–23] but only recently described in detail and interpreted as a mechanism possibly evolved to interact with ants [24].
 
-And then we see that much of what we consider as modern human culture seems to emerge from the ancient fight between these two opposing strategies. This is I guess the core theory of my book, and it was a revelation for me.
+> We tested this hypothesis by conducting a thorough investigation of the stridulation and behaviour of Paussus favieri and its host ant, Pheidole pallidula. We first characterized the acoustic signals of Paussus favieri and worker, soldier and queen castes of its host ant, Pheidole pallidula. We next analysed ants’ responses to Paussus stridulations by playback experiments and found that the ants react to Paussus sounds, which demonstrates that Paussus stridulations convey an interspecific message. More unexpected, however, was the finding that Paussus beetles were able to produce at least three different acoustical signals that elicited different responses in the ants. We show that Paussus favieri is not only able to mimic ants’ stridulations but can also “speak” three different “languages”, each corresponding to sounds produced by different ant castes, including the queen, to direct host ant behaviours. In effect, Paussus utilizes modular acoustical mimicry to achieve the highest hierarchical status of the colony.
 
-//Why you? I mean, thousands of people are researching this area. What makes you special?//
+> In presenting this new finding regarding adult beetles we document that Paussus has evolved the most sophisticated acoustical behaviour for social parasitism known to date.
 
-If you read [http://cultureandempire.com Culture & Empire], you'll see I tend to slice across disciplines to find simplified grand theories. It's what I'm good at, it comes from a nomadic professional life where either you can come into a project, and see the big picture rapidly and accurately, or you starve. These theories don't need to be entirely true. All models are wrong at some level. As long as it's possible to improve, or disprove a theory, then it's better than no theory, or a magical theory (which you can't even prove wrong).
 
-So for instance, "psychopaths are evil" or "psychopaths are sick" are model that are useless, and cannot be proven false. "Evil" is a relative concept. "Sick" means we search for a cure. Whereas "psychopaths operate logically, as parasites or predators of social humans" is useful (it lets us predict psychopath behavior and reduce the damage they do) and can be proven false (find psychopaths who help others and contribute more than they take.)
+++ The Million Years War
 
-As for my motivation and goals, I wanted a set of tools I could use in real life, for myself and my friends and family. The classic advice to anyone entangled with a psychopath is "leave." Yet that's pretty useless. If people haven't left, there are reasons for that. If you decode those reasons, and address them, then you can in my opinion (and experience) give people the tools to cut themselves free, and then leave.
+emotional dating: 13 million years
 
-So when I look at the human predator-prey or parasite-host relationship, I'm asking, "how did this evolve, what are the patterns, how exactly do they work, and how can we disable them?" I've found evolutionary psychology gives some of the best answers to anthropological questions. Who we are is a long, old story. Decoding it is fun, and it seems useful.
+Emotions are a social language. It is an old language that predates speech. We know this because all humans show and feel the main emotions the same way. Except one subfamily, the psychopaths, who do not speak this language. Our cousin species, like chimpanzees, show at least happiness, sadness, fear, rage, and despair, and read these in others. This tells us that our common ancestors 13 million years ago already had these emotions.
 
-//Where do you find psychopaths?//
+The purpose of this language is clear: to signal our mental and physical state to other humans. We can trace the roots of this language going back hundreds of millions of years, to the evolution of parental care in animals. We can see parallel evolution of social languages in insect species like ants.
 
-I've become a kind of detective, on the lookout for interesting cases. I start to think that often when you see something strange, there's a psychopath lurking somewhere. It often looks bland until you ask a few questions, and then more and more you see a swirling cloud of chaos and pain, and this person in the middle.
+Every emotion thus works in a specific way, to tell other people something and to ask them to respond. For any given emotion there are a set of valid emotional responses. We produce these using empathy, which is really just the other half of the emotional circuit. Alice shows fear in face and body, Bob reads this, and his empathy make him also feel fear. Emotions and empathy live together.
 
-It can be difficult for the people affected to recognize what's going on. I explained why this is. Our psychology is tilted towards hiding personal problems. We're ashamed to admit we're not in control of our lives. We're often afraid to ask for help. However when someone steps into the room and says, "you know, all this mess may not be accidental, nor inevitable. There are people who make this happen on purpose. Have you ever considered that Person X is acting deliberately, so they can profit from you?"
+Psychopaths are perfect readers of emotion. They know precisely what Alice and Bob are feeling. Yet they do not speak this social language. They do not use empathy to react. They do not feel the emotion. It is not a deficit, or disorder. The lack of empathy is what lets the psychopath hunt and hurt others without being crippled by empathic responses.
 
-//Why are you so adamant that psychopaths are not mentally ill?//
+So now we see another purpose for social emotions: to catch liars. When someone is hurt we will help them. If they fake hurt, we will not help them. For the social mind, the language is a to-and-fro check of honesty. We have evolved a series of lie detectors, by routing control of certain physical functions through the emotions. Or rather, through the amygdala, insula, and anterior cingulate cortex, where emotions live. These functions include, at least: our sense of smell, the iris muscle, facial muscles, blood flow to various parts of our body, and pain.
 
-Ah, this is one thing psychologists, psychiatrists, and courts seem to agree on. Personality disorders are not mental illnesses. Psychopaths //may also// be mentally ill, and [http://www.ncbi.nlm.nih.gov/pubmed/10375148 there seems to be] some comorbidity between psychopathy and schizophrenia, and many symptoms of schizophrenia are common (though often well hidden) in psychopaths: delusions of grandeur, paranoia, lack of emotion, inability to engage with others.
+If a mind does not process emotions in exactly the right way, it cannot produce the matching physical signals. It cannot respond in the "correct" way to others' emotions. Psychopaths have evolved at least the ability to control facial muscles, body language, and voice in perfect mimicry. Psychopaths do feel at least three emotions: go, stop, and rage. The first two are like asocial versions of happiness and sadness. Rage is the fighting emotion, and possibly the oldest of all.
 
-Certainly if you define "normality" as being like most people, then psychopaths are abnormal. Yet so are tall, or short, or pale, or smart people. Species normality is a horrid goal. Diversity is good. Yet it has to be functional.
+My hypothesis is that psychopathy and its alternative emotional circuits evolved at the same time as our social emotions. That puts the origins of psychopathy at least 13 million years ago. Further, that many people have the genes for both sets of circuits. What develops out of childhood depends on other genes, and context. Lack of empathy is still not a psychopath test. In some non-psychopaths, the emotional circuits do not develop properly.
 
-If a psychopath shows himself or herself truly unable to function, then they can be treated as mentally ill or handicapped. In the worst cases that means drugs and physical isolation. There are psychopaths that are so predatory, so damaging to other people, that they must be kept isolated. At this point, "irredeemable and violently criminal" and "incurably and violently disturbed" are the same.
+Dr Robert Hare started describing psychopaths as social predators in [https://www.psychologytoday.com/articles/199401/charming-psychopath his 1994 article in Psychology Today], "This Charming Psychopath -- How to spot social predators before they attack." In this article and most of his work, he focused on identifying psychopaths, designing his famous "Psychopath Checklist."
 
-However, a diagnosis of schizophrenia is used as a form of incarceration. In the USA, if you're black you are [http://www.ncbi.nlm.nih.gov/pubmed/15160786 four times more likely] to get this diagnosis, than if you are white. This is a huge margin of error, and casts a lot of doubt on clinical accuracy. We wouldn't accept that fuzziness for bullet wounds or cancer. "Oh, you're bleeding profusely from a huge hole in your side. Probably a cold! Take two aspirin and a day off work!"
+In 2014, [http://www.chinastrategies.com/ Stefan H. Verstappen], in his booklet [http://www.chinastrategies.com/wp-content/uploads/2014/10/defenseagainstpsychopath.pdf Defense Against The Psychopath], took the predator analogy further, and suggested that psychopaths are using a "cheating strategy." We know psychopaths cheat, sure. Yet as a //strategy//? That starts to get interesting.
 
-In contrast, when it comes to general diagnoses of personality disorders, you're [http://www.biomedcentral.com/1471-244X/10/33 less likely to be diagnosed with a PD if you're black]. Why? Such diagnoses are ordered by judges. Black defendants are (I suspect, lacking figures) more likely to be treated as criminals, whereas whites, Asians, and Hispanics have more chance at a psychiatric examination.
+As I was finishing this chapter, Daniel N. Jones, of the University of Texas at El Paso, and principal investigator at the Dark-Triad and Corporate Crime Laboratory, [http://aeon.co/magazine/science/animal-deception-illuminates-the-human-variety/ wrote more on the cheating strategy:]
 
-Meanwhile, the vast majority of psychopaths never go before a judge, or if they do, they get off with minor convictions that are quickly forgotten. Similarly, no psychologist or psychiatrist ever sees them. It's this massive under-the-surface psychopathy that I'm interested in understanding, exposing, and neutralizing.
+> Some predators are fast, mobile and wide-ranging, executing their deceptions on as many others as they can; they resemble human psychopaths. Others are slow, stalking their prey in a specific, strategic (almost Machiavellian) way... There is a never-ending arms race between the deceiver and the deceived among most living things.
 
-Whereas their victims, now there we do see mental illness. We see long term depression, PTSD, suicide attempts, and successful suicides. Depression has different causes. Mostly environmental (shit happened to me) or social (people hurt me). Psychopaths definitely play a large role in the second, and arguably also in the first group.
+Predators deceive their prey as a core strategy. Human predators cheat their victims as a core strategy. It is the same thing. Animal models are essential to understanding and predicting human behavior, mainly because we're so slow to look at ourselves honestly. Our self-analysis is polluted by magical theories like "free will" and "consciousness" which can neither be improved, nor disproved. However we have no trouble dissecting animal behavior without such distractions.
 
-And you //can// treat people who are affected by psychopathy. I've witnessed this many times. It takes an injection of awareness, so the victims can refocus and stop blaming themselves. Then, ways out and happier futures, so they change from "guilty" to victim" to "survivor." This often ignites what is a smoldering conflict, so the sufferer has to be armed to fight, and win.
+What I've done in this book is take the predator model as a backbone onto which all the rest can hang. We start with predators that cheat their way through the human social universe, and all the rest can be derived from that. Everything we know about psychopaths, from the charm to the brutality to the lies, makes sense in the predator/cheat model.
 
-You don't get any of this by focusing on the psychopath in isolation. Ditto for the other personality disorders. They are essentially about hurting other people. Observe that, model it, and you can alleviate a lot of the pain and suffering.
+As with all good models, we can also use the predator model to predict and to explore further. One rich area that [https://www.google.be/search?q=psychopath+arms+race&oq=psychopath+arms+race no-one else seems to have explored yet], is that arms race between predator and prey.
 
-One final problem with "psychopath" is that we're so hesitant to use this term. When I first started doing my detective thing, and postulating that certain individuals, here and there, were psychopaths, the reaction from others was "must you pathologize him/her?"
+Can we agree that there is in fact an arms race? The Wikipedia [https://en.wikipedia.org/wiki/Predation article on predation] says:
 
-//So the term is difficult? Are there better terms?//
+> The relationship between predator and prey is typically beneficial to the predator, and detrimental to the prey species. Sometimes, however, predation has indirect benefits to the prey species, though the individuals preyed upon themselves do not benefit. This means that predator and prey species are in an evolutionary arms race to maximize their respective abilities to obtain food or avoid being eaten. This interaction has resulted in a vast array of adaptations in both groups.
 
-All medical and criminal labels are loaded with the biases of their origins. "Psychopath" is the cleanest term yet it's so strong that I can imagine being taken to court for calling someone this. I've used that term in the book title and text, to not fragment the concept more than it already is. Yet that term often leads to rabbit hole discussions like "why not 'sociopath'" or "such a diagnosis must come from a medical professional."
+Dr Hare has been refining his checklist for more than 20 years. It is not a moving target: he has been telling us quite clearly, "psychopaths are highly predictable and similar in profound ways."
 
-The French-Canadian author [http://isabellenazare-aga.com/ Isabelle Nazare-Aga] coined the term "manipulator," and writes in her 1997 book //Les manipulateurs sont parmis nous//:
+Predators do obviously have to learn and practice. Twin studies show that psychopathy is highly heritable, yet not inevitable even in those who have the genes. Circumstance switches on those genes.
 
-> Sympathetic, seductive, reserved, and yet tyrannic, manipulators use various means to get what they want. Moving softly, our closest -- parents, partners, acquaintances, colleagues -- manage to make us feel guilty, inadequate, and full of doubt. Who are these manipulators? How do they keep us in their grip? Are they aware of what they are doing? Are their victims responsible, in some measure? How do we protect ourselves from these emotional terrorists?
+Once switched on, however, the psychopath's tools are consistent, almost universal. There is the consistent hide-hunt-attack-capture-feed-wreck cycle. At each point in the cycle there is the consistent use of instinctive triggers to push the victim in the right direction. There are the consistently strong abilities for mimicry, fabrication, conversation, and shape shifting. One second, a crying victim. The next, a dominant bully. The next, a consoling friend.
 
-The French also use the term //pervers narcissiques// (narcissistic perversion), invented by Paul-Claude Racamier in 1986 or so. I'm not sure the "perversion" works as a model, it seems rooted in a moralistic notion of normality, where there are "good decent" people, and then there are "perverts" of different flavors.
+These genes did not emerge overnight. How far back? When did the first psychopath smile deceitfully at another person and say, "trust me!" Well, we've learned recently that the oldest stone tools [http://www.the-scientist.com/?articles.view/articleNo/43066/title/Oldest-Stone-Tools-Discovered/ go back an astounding 3.3 million years], suggesting that the human mind has been evolving for at least that long, even if recognizable "modern" humans date to perhaps 200,000 years ago.
 
-I've used "bad actor" a lot in this book, and in my work on line. That's my way of identifying someone as a psychopath without invoking the arguments over terminology and qualifications.
+The significance of a stone tool production chain, with cores, flakes, and anvils goes beyond the mental capacity of a single Australopithecus. It suggests that there was a social structure where some individuals specialized in making tools, and others in using the tools for hunting, cleaning meat, breaking bones, cutting wood, or whatever. A social structure like that means some form of trade between individuals. And whenever there is trade, there are cheats.
 
-There are other terms we can plausibly use depending on context: "predator," "tyrant," "narcissist," "parasite," "cheat," "emotional terrorist," "bully," "professional liar," "professional victim," and so on. However, my advice is to use "psychopath" consistently, unless you want to lighten the mood a little.
 
-//You've described psychopathy as a natural phenomenon. Does that make it right?//
 
-Nature is filled with phenomena we treat as problems to be solved. "Natural" does not mean "sacred." Psychopathy is natural and arguably inevitable and essential in a complex social species. That doesn't mean we should accept the damage it causes. Being a charming liar, as such, is fine. Causing emotional trauma to others is not, at least in my social human view of the world.
 
-It is perhaps ironic that in order to understand psychopathy we have to step outside our humanity, and see life for what it is, a complex machine playing out intricate strategies. And then to solve psychopathy, we depend on our humanity as our guide.
+By luck or perhaps from personal experience Bram Stoker drew a remarkably accurate picture of the psychopath, if you accept that turning into bats or smoke... are not meant to be taken literally. It's a metaphor, and a good one. Vampires come in the night, dressed to kill, and slowly suck the life out of you, even as they seduce you with their charm and sexuality. They do not kill outright. Rather, they turn you into weak copies of themselves. They are powerful and animalistic and they can read your thoughts, even as you frantically try to escape. And the best tension is human versus vampire, with vampire-on-vampire conflict as cherry topping. As for the garlic, and crucifixes, and stakes through the heart, let's accept that poor Bram was being wishful here.
 
-The alternative is to allow pain to affect us and our nearest, and come out all bitter and twisted, cursing the gods for their roguish pranks.
+While vampires are mythical, I have enjoyed arguing that [http://hintjens.com/blog:18 real-life trolls are essential for community organization]. So it struck me one day, reading about another social species, that there was a story here about how and why psychopathy evolved. Please don't take this as science. It's a metaphor or parable. The story is ironically about real vampires.
 
-//Are you bitter and twisted?//
+++ The Vampire Underground
 
-[Laughs] I don't think so. To be honest I found it kind of exhilarating, specially when I got better at spotting and dealing with psychopaths. This is one core lesson: ignorance is pain. When you know person X is probably lying all the time, it's quite OK to deal with. The real pain comes from the disappointment of bad bets and failed expectations, based on lies. Knowledge is power. Even the simple knowledge that 4% of people are lifelong bad actors... even that's a powerful thing.
+It starts, our story, almost halfway back to the mass extinction of dinosaurs at the end of the Cretaceous period, 65 million years ago. We travel 30 million years back to the Oligocene, a time when the tropical jungles of the Eocene began to give way to our present day Miocene period.
 
-So this was the point of the book: collect the data and theories I've got so far, present them and let people try them, break them, improve them. From my own practical experience it seems the models and tools work. Yet they're a step in a direction. If we can agree the direction seems right, we can take more steps, and build finer tools.
+The world cooled, and the first permanent ice sheets formed over the continent of Antarctica. And the tropical jungles covering the globe shrank, and shrank, until there remained only a belt around the equator. These jungles were filled with life. It was a time of mega fauna: giant penguins, and ancestors of elephants, rhinos, camels, cows, and horses.
 
-//So what is the next step then?//
+On these animals fed blood sucking insects that burrowed through hair, hide, feathers, scales and skin. And to feed on these insects came the bats, a highly successful family distantly related to dolphins and whales. Some bats ate fruit, and some hunted small birds or reptiles. And some followed the rich carpet of blood sucking insects, to specialize in parasite removal.
 
-Ah, this is where it gets tricky. I'd say, go out and find yourself a psychopath or two, and start experimenting on them. Except that is crazy advice, and possibly dangerous. Please don't! Look around, and the chances are you will find a psychopath within arm's reach. If one in 25 is a psychopath, and psychopaths work on 3-5 people at any time, then there's a one-in-six chance you are hosting a psychopath, socially, at work, or at home.
+These bats landed on birds, reptiles, or mammals, and picked off the ticks and leeches. They grew to depend on rich red blood as the main part of their diet, and they evolved a graceful ability to land and feed without disturbing the larger citizens of the jungles they landed on.
 
-If you work for a large organization, the chance increases dramatically. For many people their employer is The psychopath in their lives. Some of the tools will work, some won't. They may get you fired. Your mileage may vary.
+And as it sometimes happens, the cops turned into criminals. Did it start as an innocent "just one lick, what could go wrong?" No matter, soon enough the bats weren't so interested in removing blood suckers, as in taking blood themselves. Their mouths evolved sharp teeth, to slice little holes without pain. Their tongues evolved into little straws that could sip delicately. And their hands evolved into grips that could hold tight, even if their host woke up and shook their body, annoyed.
 
-Anyhow, if you are unfortunate enough to be that one-in-six, diagnose your psychopath, and then observe, and then slowly intervene and then slowly try to wrest control of the relationship back. If you have a close friend or family member in this situation, buy them this book, and try to coach them through it. It can be horribly difficult to escape that sense of permanent panic we have when trapped with a psychopath. A friendly coach is one good answer.
+The vampire bats learned to share, as birds do, their food with their young. Feeding on insects is one thing. Digging holes into large animals while balancing upside down is something else, not easy for the younger bats. Mothers shared with juveniles too young to hunt for themselves. Vampire bat families grew into large colonies dominated by females, mostly sisters and cousins, while the males flitted around the outside.
 
-//It sounds like a cult. Are you trying to start a cult?//
+As the technique of meal sharing spread, adult bats also learned to share with each other, creating an interesting economy of mutual need. A vampire bat that doesn't find food for two or three nights in a row will die of starvation. A lucky bat can gorge itself, yet it cannot store fat. Extra weight is unacceptable for a flying animal. The best strategy for storing blood is to "lend" it to unlucky bats in the hope of getting it back on a bad luck night.
 
-That's exactly the kind of accusation a psychopath would make. Are you sure you're not a psychopath?
+Sharing blood meals removes much of the risk of an unstable food supply. More generous bats would be surrounded by more relatives, and so increase their own chances of survival. The genes for sharing behavior spread and became dominant. However in every economy, some players will try to cheat. It is basic game theory. So along with the selfish genes for altruism, came the selfish genes for fraud and trickery.
 
-//Yeah, you got me... Have you felt that panic?//
+It doesn't take a huge genetic leap, simply some slowing of development, so the adult looks and acts more juvenile. It's a trick we see in other species too, like humans and dogs. An adult dog that shows floppy ears and wagging tail will look like a big puppy, and disarm the competitive instinct in other dogs. A human that shows large round eyes and strong emotions looks like a big child, and provokes sympathy and care-giving from other humans.
 
-Of course, that's how I know how deep that hole can be.
+And so as the mainstream of vampire bats developed a mutual sharing culture, a minority got better and better at cheating. The sharing bats didn't of course take it lying down. Or, rather hanging upside down. Rather, they fought back by evolving ways to detect and fight cheats. This again is how it works in game theory, the natural law of algorithms evolving and competing for survival.
 
-Different story. A long time ago, my team built software for a big Nigerian brewery. Lagos was stunning: huge, chaotic, filled with energy. On weekends we'd relax on a beach, I think it was Lekki, with our African friends, drink beer, eat //suya// beef, and watch the waves.
+When sharing blood, instead of doing the polite "I vomit, you swallow" thing, the sharing bats started to also groom each other, and chat with little bat squeaks. Vampire bat society is remarkably tight and cohesive. Bats keep track of their relatives, and more to the point, their relationships. It's the only way to detect cheats: retain a memory of transactions. The successful strategy is to start by sharing, and then to switch by denying, once a cheat is detected. Obvious cheats will be outcast, and rapidly die.
 
-The water was dangerous. The beach is steep, so waves crash hard, and pull you back into the ocean. One Saturday, a visiting European executive decided to swim. In front of dozens of managers, all terrified, he waded into the sea. I was younger and stupider than I am now, so I joined him. Then several waves broke at once, and we were dragged off our feet and pulled under.
+The cheaters didn't die out though. Instead, they got better at their own game. Cheating vampire bats don't simply come and beg for food. They start by talking, chattering, and faking the social grooming, without sharing food. Enough chatter and it starts to feel real. Over the years, cheaters got better and better at mimicry, able to fake voices and act injured, weak, vulnerable, young, innocent.
 
-In a few seconds we were already ten meters from shore, spitting out sand and seaweed and getting our breath back. He could obviously swim well, and in those days I swam kilometers every week. Yet the water was pulling us further from the beach. For some reason I shouted, "sideways!" and pointed. He yelled back and we kicked off and swam out of the rip current, then back to the beach.
+This slow, relentless arms race is a classic [http://en.wikipedia.org/wiki/Red_Queen_hypothesis Red Queen's Race] between a species and its parasites. This is a race where both parties run as fast as they can, simply to stay still. The conflict between honest and cheating vampire bats has run for millions of years, with neither side winning. Indeed, neither side can win. This story carries a deep irony, which is my real point in telling it. Yes, I wanted to provide a model for the evolution of psychopathy. More though, vampire bat society is highly social, and successful. There are many species of bats, and few species of vampire bats. That is, the vampire bats dominate their niches almost completely. The vampire bat species is driven to success, not failure, by its parasitic cheaters.
 
-//So that guy was a psychopath? Is that what you're saying?//
+While it is tempting to frame this as a fight between Good and Evil, morality does not work as an analytic tool. The species expresses two prime strategies, in genes and in culture, that have competed at equilibrium for millions of years. All vampire bats carry the genes, to some degree. And in a consistent, small percentage of cases, a bat is born with sufficient talent to make the leap to the dark side. It is an all-or-nothing strategy. One cannot be a half-hearted psychopath, and succeed.
 
-No, it's a story about how ignorance plus stupidity can kill you. Rip currents aren't large. Obviously the entire ocean isn't moving, only little threads and swirls. However if you try to swim back to shore, you will die from exhaustion. Catch your breath, swim sideways, and in five minutes you're safe on land. I'd read that somewhere, and that one piece of knowledge saved our lives.
+If you eliminated the psychopath genes from the bat genome, you would get a tame, docile species that would die out in a single generation. I suspect that the same genes carrying the talents for psychopathy are also vital for other purposes. Nature is sneaky that way. Perhaps, and this notion makes me giggle, as defense against psychopathy, in the sharing bats.
 
-It is the same when a psychopath attacks you, whether it's early in the game, or late and the mask is long gone.  Psychopaths start young, and work hard to improve their hunting technique. We social humans, we're like mice, scurrying through the tiny corridors of our lives. We barely have time to react when the fangs and claws hit us. We get dragged out into the wild ocean where the next stop is Antartica. No-one can jump in to save us, even if they're paying attention, which most people aren't.
+Now I'll claim that as it is in vampire bats, so it is in that extraordinarily social species, humanity.
 
-The hardest part is to not panic, and to not react instinctively. Instead, to take a moment to think it through, and then move sideways. Over time this becomes easier. The fight-or-flight adrenalin response does not go away, so you try to learn to ignore it.
+++ The Eusocial Apex
 
-//Can you fight a psychopath head-on? Or do you drown?//
+Vampire bats are part of the larger family of New World leaf nosed bats. It's curious how the vampire's fruit and insect eating cousins are much less social, roosting in small groups, while the vampire bats roost in colonies of up to a thousand bats. Looking at the ape family, and humans, we see much the same thing. Humans are hyper-social. We live in colonies of hundreds, thousands, millions. And like the vampire bats, we depend on a delicate economy of mutual sharing to survive risk.
 
-When a psychopath is trying to drag you down, the usual instinct is to not fight. We try to //normalize// the situation, to make it good again, and that is what makes it worse. That's when we drown. So fighting back, deliberately and consciously, seems to be the fastest way out. You take control of the relationship, you put the predator into a metaphorical cage, or force them away, and you recover your mental strength.
+In his 2012 book "The Social Conquest of the Earth," Edward Wilson described humans as [http://en.wikipedia.org/wiki/Eusociality eusocial apes], where our divisions of labor, overlapping generations, and cooperative care of young give us a "superpower" that no other species can achieve.
 
-This is hard. The predator behaviors evolved specifically to push our mental buttons. So it takes conscious effort, practice, and above all, working with other people. That's our superpower: other people. Do not forget that, and do not make your life a personal struggle. Share your problems and answers, you'll be surprised how much support you get, and how much you can learn.
+The vision of humans as eusocial apes is elegant and fitting. There are other social animals, like ants, yet these cannot scale as humans do. No matter what tribes we come from, we will work together. Whereas ants are a hierarchy, loyal to a queen, humans form networks of relationships, sometimes hierarchical yet more dominantly, diverse relationships between individuals and groups. Those relationships aren't arbitrary. They are driven by meticulous accounting of credit and debt, of genes, food, shelter, sex, information, time, and so on.
 
-//When you fight back, doesn't it make the psychopath act worse?//
+The mental tools we have developed to track these relationships are sophisticated and practically define us as "human". We can remember faces for a lifetime. We can mentally balance the accounting for relationships with fifty to a hundred people. We can rapidly gage the relative value of any favor or item, in a given place or time. That roast chicken you shared with me for lunch is worth three beers tomorrow, or one in two weeks' time. We remember cheats, forever, and we do not forgive them. We have imagination, so we can plan how to work together. We have language, to exchange knowledge. We have faces, to express our emotions. The list goes on and on and on.
 
-Strangely, no. Someone once said, "every question is a test, and the answer is always No." Psychopaths operate outside the law, if not in deed then in spirit. They respect no higher authorities, only force. Remember the Ben Franklin effect, where you ask people for small favors and then they like you more? The flip side is that when we (including psychopaths) mistreat people, and they don't fight back, we treat them even worse afterwards.
+Ask what it means to be "human" and the answer is, "other people".
 
-There is the risk of escalation and violence. This can be terrifying. I'm sure in some cases it can be fatally dangerous. Mostly though, the psychopath risks more than you do through escalation. A public fight attracts other people. It attracts authorities and investigations. All predators are vulnerable in similar ways: injury or exposure means they can't hunt. In human terms, this means psychopaths have to stay hidden.
+Humans evolved all these genes during a period of severe climate shifts that hammered our environment over and over during the last million years. As we survived through near-extinction bottlenecks that made us all close cousins, we survived disaster after disaster by working together. Our society evolved from being dependent on nature, and based on individuals and small family groups, to being self-hosting through technology, and based on limitless eusociality and knowledge sharing.
 
-//So psychopaths are afraid of being exposed?//
+And driving this evolution was the parallel evolution of cheater genes that developed talents for exploiting others and giving nothing in return. If psychopathy was a symptom of modern life, or a mental illness, we would see strong variations around the globe, as we see for heart disease, diabetes, malaria. However, it shows at the same rate across the world, in all populations. This means it cannot be a recent thing. We see a long-standing balance of power, that predates humanity's expansion out of Africa. And, we will see the visible signs of this arms race in our own genes and behavior.
 
-Yes. All vampires have their fears. I'd say this the number one background worry of any psychopath: "//what proof do they have?//" A solid file showing a history of breaking the rules and bullying people: this is sunlight and garlic. Psychopaths need secrecy and privacy to misbehave and get away with it, decade after decade.
+++ The Secret Languages of Empathy
 
-When you realize you're facing one or more psychopaths, collect evidence, slowly and carefully. This applies to all cases where psychopaths operate, from death squads and genocide to domestic abuse. Collect incontestable proof. Use such material cautiously, only when you need to and when you know it will have an effect. Exposure is a card you can play only once.
+Let's run with my hypothesis that psychopath and eusociality co-evolved as a Red Queen's Race. Vampire bats evolved social grooming, recognition of other individuals, even basic speech according to some. What have humans evolved? What aspects of our nature and culture are in fact defenses against psychopaths?
 
-//Do you have tips for collecting evidence?//
+Firstly, by definition of being a eusocial species, we work well together. This ability is the greatest real threat to any predator: unmasking, and permanent containment. We have a built-in sense of fairness, and we react with collective hostility to thieves and cheats. Our abilities to join in a fight, and to keep long social memories of such fights, is a heavy deterrent to predators.
 
-Emails are good evidence in most courts, which not everyone realizes. So are photos and videos. Audio recordings can be helpful in some cases. Impartial eye-witness statements are good. You have to be careful in a he-said-she-said situation. A psychopath will have the more dramatic accusations, and be ludicrously convincing. I've seen cops spin on their heels and start threatening the victims of violence, based on thirty seconds talking to the perpetrator.
+Having identified a person or a family as "bad" or "evil" or "crazy" (and here is the benefit of such simplistic labels), we can warn others to avoid them. The more we learn, and the better we can communicate, the more accurate our information. "This man is a charming liar who manipulates women into sex, and men into lending him money. That woman gets people to look after her by playing the victim in every situation. That man is a bad business partner: he will steal clients and staff without scruple. This woman will take your money, then sleep with your best friends. These people have built an entire culture of lies and theft. This woman prefers married men." And so on.
 
-You can get cheap audio recorders that look like USB sticks. Video recorders hidden in watches, pens, and pendants. Or, keep your smartphone handy, and use its audio or video recorder. If you ever get into a physical confrontation, then recording a psychopath can have a dramatic effect, as they may react violently and without warning to what they see as a threat.
+However, social knowledge is often biased and itself vulnerable to hijack by the same person we're talking to ("he cheated on me first, that's why I'm such a messed up person... can you fix me?"). The software security business calls this a "man in the middle attack." By definition we cannot trust the person we talk to. They tend to distort what they say in their own favor. So we have evolved techniques to verify the authenticity of the people we're talking to.
 
-Sometimes that's what you want. Provoking a psychopath to anger (real or acted) can be a good way to get them to reveal themselves. They will make threats and accusations. The threats are often extraordinary, and meaningless, until you realize they project threats they see as real //to themselves//. And the accusations can be laughable, until you realize they have accidentally said something they are trying to keep secret. I call this "threat harvesting."
+These techniques range from the charming to the profound and shocking. What I say next may shift your view. Disclaimer: these are hypotheses, thank you. Use with caution.
 
-//What else are psychopaths afraid of?//
+Let's start with a simple case: shyness, and blushing. When a young person blushes in embarrassment at some personal comment, their brain are saying, "my supramarginal gyrus is extremely active, and makes me afraid of rejection. Here, let me demonstrate..." Blushing is an evolved mechanism meant to show, authentically, that the blusher is not a psychopath. A psychopath does not blush and cannot fake it. Failure to blush in a situation that demands it is a red flag. Exaggerated blushing is a flapping white flag.
 
-Not a lot. A bigger psychopath, or at least someone who acts like a bigger psychopath.
+Waving white flags is dangerous, however. While it proves a person's eusocial credentials, it also exposes them to any psychopaths who might be watching. So blushing is of limited use except for young people who haven't developed stronger defenses. One of those is to wave fake red flags. Predators don't like to hunt other predators, it is a waste of time and possibly even dangerous. Thus some eusocials can act superficially like psychopaths, with charm, ability to read and manipulate people, and so on. A small dose of those same talents that make a full blown psychopath carry some immunity.
 
-//Can you teach me how to act like a "bigger psychopath"?//
+++ The Sense of Humor
 
-What makes you think I would know? [Chuckles]
+I've often wondered where we humans got our sense of humor. It serves no apparent evolutionary purpose. I do not like the answer, "not everything in our nature has to have an evolutionary reason." That is like saying, "the reason birds can fly is that not every object has to obey the laws of physics". Yes, everything in our nature must have, and does have, an evolutionary reason, and searching for this can often lead us to enlightenment. So it is with humor.
 
-OK, I can explain what I know. First, you have to be able to act like an arrogant narcissist who owns every room they walk in to. This is easier for some of us than others. You dress slightly too well, you interrupt people, you smile a little too much, and you hold eye contact, you ignore people as they talk to you. Second, you turn certain of the psychopath's tools against them. Do this precisely, and you can more or less convince a predator that you are the same kind, and worse.
+Humor is built in, a human universal, visible in children from a young age. Babies giggle with joy when they play with their parents. We instinctively trust people who can make us laugh, and distrust those who don't like our jokes, or seem to lack a sense of humor. We use humor more in stressful situations. We value original humor and reward the "telling" more than the joke itself. In our horror films, the monsters don't ever laugh, except in that terrible creepy way that scares young children. Monsters certainly don't make puns, let alone tell fart jokes.
 
-You see, psychopaths have predictable instincts like all animals. You shine a laser pointer near a cat, and the cat will be entranced and try to catch the bright red dot. It will keep trying until it's physically exhausted, or mentally burnt-out. Every cat, unless they're blind or way too old. Don't do this, by the way. It's a kind of torture.
+A joke is a funny thing. Every joke, even puns, depends on a mystery. We don't tell the mystery. That would be "explaining the joke". Rather, we tell the joke and then we wait for the other person to "get it". When they get it, they laugh, and we laugh, and the ritual handshake is complete. It's not enough to simply laugh, either. Both parties must laugh at the right moment, not too soon, not too late. The laugh must last long enough. It must not be too loud, nor too soft. Such a precise thing, the humor protocol! Tell me again this is not carefully engineered.
 
-You speak of money to a psychopath and they get perky. Speak of large amounts of money possibly coming in the future and they'll chase that idea like a red dot. The more tangible the false bait, the more they'll chase it. This is how many psychopaths bait other people, yet they're not immune to it. You can scam any con artist, once you know their game, and if you want nothing from them.
+There's a man I know well who cannot laugh properly. He laughs well, the right volume, and at the right time, yet he will laugh too long, so you imagine he is being deliberately mocking. Except he sincerely does not know how much he should laugh. He gets the joke, yet not its proportions. He laughs wrong. And he has does not tell jokes.
 
-Psychopaths also tend to be paranoid. It's normal when 96% of your fellow species hate you //ex animo//, from the heart. This makes psychopaths vulnerable to certain kinds of suggestion, such as they're being spied on, followed, or framed by unspecified people.
+What is going on here? I believe that humor is in fact an empathy detector. Psychopaths don't have empathy, for the same reason that fish don't have feathers. Empathy is a eusocial mechanism. It is a tool in our brain, seated in the supramarginal gyrus (as far as I know), which guesses and measures how much other people appreciate us. When someone around us is unhappy, we feel unhappy. When someone around us is angry, we feel afraid. When someone around us is happy and laughing, we feel happy and want to laugh too.
 
-With patience and some nerve, and an accurate diagnosis, you can lead psychopaths around like cats with a laser pointer. This is sometimes the only way to expose them: to provoke them to make self-defeating claims or attacks that you can record, tape, or get in writing.
+The point of empathy is that as eusocials, we need this feedback to know how well we're doing in building the relationships we depend on for survival. Whereas, a psychopath measures success differently, and having empathy and feelings would cripple their game.
 
-//Are you saying, it's OK to deceive and manipulate psychopaths?//
+Every joke has a hidden story that we can only read if we're empathetic with the teller. Lacking empathy, psychopaths cannot decode the mystery, and so cannot laugh properly. Thus psychopaths either do not laugh, or they laugh too much, or they laugh too long. So psychopaths prefer opening situations where humor isn't an option, like noisy nightclubs, business functions, and electronic messages.
 
-If someone tries to sink their soul-draining fangs into you or yours, I think you're justified in using whatever force you need, to make them stop and/or go away. This includes lying, threats and false promises, indeed the whole psychopath play-book up to violence of different forms. As necessary. Don't break the law, or if you do, make sure you can show self-defense.
+Humor doesn't work perfectly, none of our psychopath detectors do. You won't a laugh from someone who's filled with self-pity or jealousy, no matter how well you tell the joke. There are a whole range of reasons our sense of humor can be switched off temporarily, or even permanently for innocent reasons. Particularly, victims of abuse will not laugh much. Not laughing is not a red flag.
 
-//So you mean, we should all become secondary psychopaths...//
+And psychopaths do blend in like the professional con artists they are. When they notice people laughing, and realize someone has told a joke, they may simply keep smiling, laughing gently, as if the entire situation was comedic. This can work. However, we tend to treat those who laugh too much with even more suspicion than those who don't laugh at all.
 
-Please no! [laughs] Psychopaths are //horrid// to be around. They hurt everyone they touch. What I'm saying is, if a predator comes into your life and attacks you or your friends or family, strike back with force and drive it away. That's  different from becoming a predator yourself.
+++ The History of Art
 
-//Can you lie to a psychopath?//
+So while we prefer people who laugh "naturally," and blush "innocently," if we are too harsh in filtering out potential friends, partners, or colleagues, we end up alone. Thus we have a myriad of other subtle tools for detecting psychopaths behind their masks. One that is most interesting to me, because it practically defines "being human" is a clear extension of our sense of humor, a more sophisticated language of empathy. That is, art.
 
-Psychopaths are hard to lie to. They seem to read minds, and they know every possible lie like a musician knows chords. Lying to a psychopath is a bit like passing a lie-detector test. Start by assuming that every conversation is an interrogation. You're not a psychopath, so you will sweat and tremble and stutter. You can't avoid that.
+By "art" I mean the creation of works that serve no functional purpose except to cause an emotional response in the audience. As with comedy, we reward originality more than technical brilliance. As with comedy, we enjoy art more in company than alone. And as with comedians, we praise and respect artists, though artistic talent has zero obvious survival value. Finally, we measure artists by their track record: one success isn't enough. That could be faked, stolen, or accidental. Whereas for scientists or athletes, one victory can last a lifetime.
 
-Rule number one is: control the conversation. Try to start conversations instead of waiting. Drag it out as long as you want it to last. Fill the conversation with tedious, boring detail. Alice does not care about your life. If she's talking, she has a plan in her mind, an agenda. Every time you hijack the thread, you're making it harder for her. End the conversation when you're ready, and then go "no contact" until you decide you want to talk again.
+Artistic talent is so widespread that it plays on every street corner for pennies. Yet we respect it deeply. Above all, we expect art to make us "feel" something. And we ask this of others: "how does it make you feel?," and we watch their faces intently as they answer. Isn't this kind of weird?
 
-Number two, //truths are lies that are accidentally true//. Every sentence you say is a potential time bomb, so telling the truth should scare you far more than making up lies. It doesn't matter how minor. What you ate for breakfast, the city where you were born... such details are bullets in the hands of someone determined to hurt you. So as a matter of habit, learn to give nothing of value in conversations. Do not discuss your real friends, money, or significant events. Tremble and sweat all the time, lie more than half the time, about grand and yet irrelevant topics, and you'll overload your psychopath's senses.
+Some evolutionary psychologists have argued that humans use art like some extravagant nest building birds do. That is, a display of talent that serves to show, "I am strong enough to afford this waste of time." Like the peacock's tail, it shows the excess resources of the artist. It does indeed take great investments of time and effort to make successful creative works.
 
-Don't do this in writing, or in front of neutral witnesses. If you're accused of lying, deny it, shrug and change the subject. Smile and hold eye contact. After many months, you will find yourself less stressed. Eventually you may learn to lie without showing any detectable signs.
+However, unlike the nests of the bower birds, or the peacock's tail, we do not create art as part of a mating ritual. Rather, we create as a public statement: "this is me, look upon my works!" It is not peacocking, if there's no ritual sex for the winners. And the best artists are not fat and happy and strong. They are starving, desperate, and filled with trauma and pain. A large, expensive car is peacocking. A series of weird paintings is not.
 
-//This all seems like a lot of work, even dangerous... is it worth it?//
+And here is one thing about psychopaths: they do not engage in artistic creation. They do not draw, paint, sculpt or carve. They do not take photographs, except of themselves and their possessions. They do not cook for pleasure, invent recipes, or make their own bread as a hobby. They do not create music, though they can be excellent performers of others' work. It is a curious thing, when you first see it, and it matches the psychopath's general lack of a sense of humor.
 
-It can be hard work, yes. I believe it's worse to let psychopaths roam free in our professional and social lives. That creates a lot more pain, even if it's often hidden. It's the child-in-the-cellar syndrome. Many of us are locked in cellars, so to speak. We don't want to open that door for fear of what we might see or have to do. And the world doesn't see us, and our pain remains private.
+There is a whole class of activities we call "hobbies," that we engage in passionately and yet which have, again, no obvious survival value. I cannot believe that "relaxing after work" counts, as there were no 9-to-5 jobs in prehistory. Yet look at how people describe their hobbies, and you see three kinds. There are the "working with or for others on unpaid activities" hobbies that most people do. There are the collection hobbies some people focus on, perhaps to satisfy their need for control over a chaotic world. And then there are the vacuous pseudo-hobbies that psychopaths engage in: traveling, eating out, meeting new people, shopping.
 
-What I've learned is that climbing those stairs, pushing at that door, and confronting the brutes on the other side is the right thing to do. And "confronting" means fighting, even hurting and damaging them. It is hard work, and it can be dangerous, yet the alternative is worse. There is no peace with a tyrant. To live or work with a psychopath is to live in occupied lands. It is dismal, gray, with the constant threat of violence, and the total loss of freedom.
+Creativity is another secret language of empathy. It tells the world, "friend or foe? Look at this and tell me you feel something!," and the viewer responds, or fails the test. It is precisely like telling a joke. Like a great joke, a great creative work must speak from and to the supramarginal gyrus, telling half a story that only a eusocial can complete and "get".
 
-I've found, over the last years as I wrote this book and internalized its lessons, that confronting bad actors also made me generally happier in life. I'm pretty sure that psychopathy is an all-or-nothing strategy. We are all bad actors at times in our lives. However most of us try hard to self-correct. It's enough to tell most people: "not cool!," show them an alternative, and they will stop. Psychopaths don't self-correct. Instead they get better at not getting caught.
+A young child learns to draw at school, and takes their works back to their parents. These gifts are not materially useful, and yet they are highly important. The child watches their parent's reaction, and when they see joy at the squished faces and strange colors, the child also feels joy. They share the moment, confirming each others' eusocial humanity. "See, mommy, I'm normal. Please don't reject me!"
 
-So understanding these two paths of human nature, one can speak to people according to what path they are on. To the good actors, one gives order and structure, power, freedom, and protection from the bad actors. To bad actors, one gives the stick.
+We create for others. We create to make other people feel something. Usually, it's happiness, though sometimes it's loss, sadness, or other emotions. A creative act is a message of empathy. And we measure the quality of our art as we do our humor: by its originality, and thus its authenticity.
 
-//Don't you start seeing "psychopaths" everywhere?//
+Which is why imitative art is "fake," why engineering isn't art, why fast food feel "cheap," why we don't explain jokes, and why an artist cannot explain the "point" of his or her work. It is a test, and if you don't know the answer, that itself is significant. It's why a pile of bricks in the Tate Gallery is worth a million pounds. That's the joke.
 
-Well, they are everywhere! Whether we can learn to see them accurately, I'm not sure. It //seems// to work: look a little closer, and you see little dramas. Men and women who dress better than they need to; who have too much confidence; sometimes solitary, sometimes surrounded by a admirers or a love-sick partner. It looks predatory, unbalanced.
+Psychopaths may buy or steal art, and may learn to cook and paint. They may collect others' work on a huge scale. They may learn the language of art appreciation, and demonstrate their love of art with extravagance that can be monumental. They like to buy expensive clothes. They enjoy movies that explain how people work, and they despise horror movies because they see caricatures of their own world view. This is perhaps why young people enjoy taking their dates to such films.
 
-You see such characters, and you get to see how they talk to other people. Especially unimportant people. Do they say "thank you" to the person serving them, or do they not even see them? For me, watching people and asking, "does he or she trigger your psychopath detector, and if so, why?" turns every day into a trip to the safari park.
+++ The Lead Stinger
 
-//You've written that it's hard to spot psychopaths without getting involved with them in some way. Yet you're also claiming you can spot them at a distance. Which is it?//
+During the competition between the two faces of human nature, the psychopath genes didn't wait idly to be selected out of the gene pool. Rather, they did what genes do, when faced with pressure: they explored for opportunities for profit, and when they found such spaces, they expanded into them. This includes vulnerable points in the creative process. Such as, the delivery of art to an audience.
 
-OK, hard, yet not impossible. You have to develop senses that are mostly asleep. With time you can do this, and get better at it. Obviously narcissists stand out, that's the whole point. To spot more subtle psychopaths, put people into unfamiliar situations and see how they respond.
+At some point, art needs a presenter, and here the psychopath gains a pedestal. That talent for emotional imagination and projection lets a psychopath take art and turn it into an "experience" that is much easier to digest.
 
-I once organized an impromptu barbecue for a meetup, and invited everyone to bring food and drink. Some people brought random food they'd obviously bought cheap at the last minute. Some people carefully marinated meat and made salads and brought enough food for a family. And some people brought exactly one portion, their own. This last group cooked their food, then ate it, alone and without even token sharing.
+Most people are a bit narcissistic. Indeed, most of us are a bit psychopathic. What matters is the degree. The psychopath does not switch it off, and spends a life in pursuit of self, living a fantasy VIP world, filled with casual sex, drug use, and random opportunistic crime.
 
-It's also interesting how different contexts seem to attract or repel psychopaths. There are not many narcissists in the public swimming pools. A lot more in gyms. Not many in the parent-teacher association. A few more at graduation ceremonies. Not many in open source software events. A few more in commercial conferences. Not many at the animal shelter. A lot in the horse clubs.
+If you know the music business at all, you'll recognize the psychopaths. They are the lead singers, the Faces. They're the ones who get their name on the cover and poster. They borrow from everyone and do not pay back. They use people like toys, to play with, break, and discard.
 
-You need time and patience to be sure. Psychopaths put a million years of effort into their presentation, their masks. It's hard work and sooner or later they will lapse, and you will see their real faces.
+Creating live, improvised music is an interesting experience, and another of those psychopath filters. It is hard to improvise when you //know// you are superior to the people around you. Improvising requires letting go of your ego, something psychopaths cannot do, except by force. Psychopaths can be technically excellent musicians, yet they will not join a jam session unless they can dominate.
 
-//This seems... cynical and dehumanising//
+There are countless examples of musicians who are clearly psychopaths. These are the "one hit wonders," who get a single album or hit, thanks to work done by unseen producers and writers, and then fade into history. A psychopath cannot hold a group together, does not write their own songs, cannot work well with others. They typically move from gig to gig, borrowing money and favors as they go, until they have nowhere left to hunt.
 
-On the contrary, like I said, it brings clarity, and a better balance into relationships. I've also coached others through their own struggles. It's gratifying to see people switch from enabling an abusive relationship to disabling it, and getting back their power. I also think this slow process of decoding psychopathy and learning how to deal with it is key to saving our planet from ecological disaster.
+The extreme histrionic behavior shown by many performers doesn't look, at first sight, like psychopathic behavior. After all, giving a good show doesn't do any harm. However being able to bend an entire event to one's personal benefit is a psychopathic trait. So I think histrionic talent is probably a more recent development in the psychopathic gene consortium, evolved as a way to turn art back to its benefit.
 
-//Haha, good one! Wait, wut, you're serious? Explain that, please!//
+++ Conclusions
 
-Yes. I'm going to rant now. Psychopathy is destroying our ecosystem and threatening our species.
+In this article I've stated the hypothesis that bad actors are an essential friction for good ones. That human culture and society, language and the large brain are driven by the need to share knowledge and resources, and work together. And that these are the result of a million year arms' race with the cheaters we call "psychopaths" (or narcissist, Machiavellian, sociopath).
 
-I don't mean individual psychopaths are going around peeing in the water. Over the last centuries there's been a slow steady growth of networks that are clearly psychopathic in nature, and which benefit a clearly psychopathic elite.
+This theory, which I'll brand the "Two Actors Hypothesis," has some interesting correlations that let us speculate on the nature of intelligence. Humanity is not the only social species. My friend Wesley remarked, when I explained this theory to him, that Orcas (killer whales) are also highly social and have large brains. We've seen the vampire bat story. There are other social animals too: mole rats, dolphins, dogs and wolves, gorillas, ants, bees, wasps, and termites.
 
-We know that our lives of luxury are paid for in pain, yet we're on the other side of that cellar door, helping to keep it shut. I can rant about this for ages. Our racist immigration policies; our commercialization of oppression to keep fruit, oil, and minerals flowing cheaply; our demand for ever-cheaper chicken, beef, and pork; our obsession with cars, material possessions, money, status... this is psychopathic behavior.
+The Two Actors Hypothesis should be easy to disprove. We find a social species that has no bad actors, and where social behavior cannot be cleanly explained in terms of filters and weapons against bad actors.
 
-Large chunks of western urban life are a pyramid scheme for secondary psychopathy. Buy a larger car and you can bully other people on the road! Buy our booze and you can play narcissist for an evening! It's the epitome of the American Dream, isn't it? It's a core technique of cults: sure it hurts today, yet one day you'll rise up, and be on top of the others! Accept! Vote! Believe!
+Social species show different levels of sociality. What they have in common is the strategy of risk sharing though other individuals of the same family or species. It is clear that sociality is a repeating pattern for risk sharing. Indeed, you could argue that it is inevitable that social behavior will emerge over and over, in the spectrum of life. And together with sociality, will come cheating. It is inevitable. Even ants have [http://news.nationalgeographic.com/news/2009/01/090109-cheating-ants.html their bad actors].
 
-With better technology we became able to //really// damage the ecosystem. I do believe in technology, when used by good actors to improve society. Not when it's used to rape the oceans for food, and lands for minerals, which mostly end up sent back to the same countries, as garbage.
+And bad actors provide the friction that forces sociality towards ever an more sophisticated culture. Humans have music and fancy food, and ants have pheromones. The arms race is inevitable. It may run slowly as in insects with limited capacity for added software, or it may run rapidly, as it has in mammals.
 
-In the 21st century, the psychopaths who run these networks seem increasingly well organized. Politics seems dead in much of the west. Classic news is propaganda, and organized opposition to the status-quo becomes an act of war. It  starts to feel like velvet occupation, mainly in the US, and increasingly in its allies.
+Mammal sociality is software based, so to speak, and social mammals like orcas and humans have developed larger and larger brains, driven by the needs of sociality. If it's good to remember five faces, it's better to remember five thousand. If one psychopath filter is good, a hundred are better. Thus human intelligence, like that of the toothed whales, is driven by that ancient arms race between the good and the bad actor algorithms.
 
-The simplest explanation is not a grand "Oh, let's do this!" conspiracy. It is enough that generations of wealthy psychopaths have learned to tolerate and help each other, pushed by a common view of humanity divided into fellow predators, helpers, and prey. Racism and sexism -- the eternal wedge issues -- divide us and keep us from recognizing a common problem. Every time race or gender is mentioned in the news, we argue like children of a narcissist.
+Psychopaths are not sick or broken people. I do consider them to cause mental illness in others, in the form of depression, PTSD, and suicidal urges. I respect all life, and every actor is essentially innocent. However my goal with this hypothesis is to provide strategies for dealing more effectively with bad actors, before, during, and after that vampire's embrace.
 
-That shocking gap between the super-rich-and-powerful and the rest of us (all colors and genders) looks like a strong sign that the old balance of power is sliding the wrong way. Our species has thrived on the conflict between cheaters and collaborators. For sure, we've destroyed many ecosystems before, and escaped to new ones. Yet today we are within sight of real, and inescapable disaster.
+++ Further Reading
 
-There are many reasons for the imbalance of power, which I explored in [http://cultureandempire.com Culture & Empire]. One large reason is that while our predators have gotten extremely good at understanding and applying large-scale psychology, the rest of us have not kept up. We've become complacent, naive, and overall rather too trusting. We like our luxuries. We've become complicit.
-
-So we either re-assert the balance, or we risk the failure of our planet's ecosystems, and our future as a species. That's my opinion.
-
-You cannot ask a psychopath, "please take less." You cannot negotiate with such minds. You cannot even trust their logic of self-preservation. Psychopaths are so disconnected from reality they can be hugely self-destructive. Since we cannot walk away from our planet, we have to face down our psychopaths and force them to behave better.
-
-We have to tackle psychopathy like a widespread and damaging global disease. The disease is not the psychopathy itself. To be clear, I'm not calling for genetic screening, incarceration, isolation, eugenics, nor any form of persecution of individuals or their genes.
-
-Apart from anything else, history has taught us how easily psychopaths take control of such tools to fragment society, and gain more power. More importantly, we cannot and should not be trying to stop the Red Queen's race that defines our species.
-
-The disease is the damage to people and to the environment. That's it. The abuse has to end, and we have to wake up, globally, from this stupid fantasy that we can all be rich and beautiful and powerful. The very concepts of riches and beauty and power over others are the lies of narcissism. Want nothing, stop believing the endless propaganda telling us we need wealth, beauty, and power to exist, and we become immune to those lies.
-
-This is impossible to do. I'm talking about reforming the human species. No, that's the wrong word. //Liberating the human species//. Still, we have many great achievements, and I'm optimistic.
-
-//You like the grand rant, don't you! Do you think we can come to peaceful co-existence with our predators?//
-
-Yes, it's inevitable. No, it's impossible. Honestly, I don't know.
-
-Sometimes that cellar door is impossibly out of reach. Yet we are an adjective-defying species.
-
-Let me take two reasons for optimism. The first is that observation that psychopaths work more on instinct than social humans. Psychopaths disconnect from humanity in specific ways, and at an early age. While social humans learn to think and survive as tiny parts of endless networks of minds, psychopaths sit outside those networks. It can seem like two species.
-
-Psychopaths can seem extraordinarily smart, and yet make very stupid mistakes. The reason is they can't properly access knowledge coming from those networks. They focus on getting others to do the hard work for them. Yet their proxies inevitably get depressed and confused.
-
-Humanity has in a way beaten evolution because our social networks can evolve and adapt rapidly. Our brains evolved for an African landscape of 100,000 years ago. And yet we aren't comfortable with change, we actively seek it out and use it to drive our collective hive mind forwards.
-
-What this means is that psychopaths, while born with astonishing talents, cannot evolve at the same speed as social humanity. Psychopaths are an evolutionary sitting target. As mice, plural, we can become the bigger psychopath. Knowledge is power. We can share our experiences and theories, we can decode the psychopath's natural talents, and eventually we can bell our cats.
-
-There is nothing grand about this. Many diseases have fallen to improved scientific knowledge. The difference here is that this particular disease is widely distributed and works mostly on a personal level. And it only works on the unprepared mind. When you understand the psychopath's magic tricks, they lose most of their effect.
-
-Whether it's one country "liberating" another for its diamonds or oil, or a man casually picking up and jettisoning sexual partners, we see the same pattern over and over. Understand psychopaths, and global politics becomes much more transparent.
-
-Knowledge is power, spread it widely, it cannot be taken away.
-
-The second thing is digital technology. We spend more and more time on-line, and this trend isn't going to slow down. It's been said, and I agree, that on-line trolls are psychopaths. Disgusting, of course, to use forums to bait and target people. Yet wait... is this better or worse than having those same kids out in the streets, learning more direct kinds of emotional violence?
-
-I'm fairly sure that a significant slice of young male psychopaths are addicted to massively-multiplayer on-line games and web forums, where they have an inexhaustible supply of people to mess with. Young female psychopaths... well, if I had to guess, I think they're obsessed with selfies, vines, and Facebook.
-
-Totally harmless? No. People do get hurt, even die. It can be extraordinarily hurtful when even a few trolls descend on you, let alone a brigade of them. Yet this pain can be reduced and I think eventually prevented by education and technical measures like a "Make this person invisible to me" button everywhere.
-
-So while you can't negotiate peace with a virus, you can develop vaccinations and immunity, and render it harmless.
-
-//Do you have anything good to say about psychopaths?//
-
-I'll say one thing: your average psychopath does put a lot of effort into their game. Whether it's at the gym, or shopping, or texting, calling, and emailing people, or simply walking to the corner shop and back: they do this with //real energy//.
-
-And you can divert that energy and use it in interesting ways. For instance, to motivate a group of people, few stories work as well as a convincing bad guy. This is human nature. A good cause gets mild applause. A real bad guy gets us off our bums and on the road.
-
-Psychopaths have been the kickers in the pinball machine of my life. They can be so awful that getting away from them has often sent me in the most interesting directions. There's nothing quite like a psychopath for ripping your conventions and comforts to shreds. Survive that, and you can travel light and free.
-
-Psychopaths are often strong, fearless, and robust compared to social humans. They don't seem to get depressed. Like their charisma, these are admirable traits, if used to help people. Used to hurt and damage others, not so much.
-
-Also,... I mean apart from contributing to the very existence of humanity since the start, pushing social humanity to invent language, music, art, humor, and great food, what have psychopaths ever done for us?
-
-//Nothing! [laughs] I want to ask a serious question now. If you had to give five top tips for surviving the psychopaths in your office or home or street, what would you say?//
-
-OK, here goes:
-
-# Seek strength in numbers; don't let tyrants divide and conquer. Resist the temptation to feel racism and sexism, jealousy, and hate. Feel love for everyone, even the tyrant. Then rise up together when the time is right.
-# Invest in positives: good music, happy pastimes, useful work, and so on. Focus on accomplishments with other people. Protect these investments from the marauding psychopath, by any means necessary.
-# Provide subtitles to those around you. I mean, don't hesitate to explain every weirdness in terms of "classic psychopath, let me explain..." Subtitles take away most of the stress.
-# Move to happiness, and teach others to do the same. //Nothing//, no commitment, nor promise, nor expectation that it "will get better" should hold you in a place of unhappiness.
-# Document mercilessly. Keep logs, notes, photos, videos, emails, anything. Organize these into a digital file that would satisfy a judge, and back that up securely and safely. It's your weapon of last resort.
-
-And of course buy or steal the book for everyone you know.
-
-//This must have been a difficult book to write...//
-
-Some stories write themselves.
+Animal models also hold out hope for long term social integration of psychopaths, by providing them with environments that satisfy their hunting urges without allowing them to hurt others. If that sounds far-fetched, consider complex and sometimes violent multi-player video games, and their appeal to psychopaths. In games like EVE Online, there are [http://www.theverge.com/2014/1/29/5356498/eve-online-battle-sees-200000-dollars-worth-of-spaceships-destroyed massive conspiracies, deceits, raids, and battles] that end in hundreds of thousands of dollars worth of damage.

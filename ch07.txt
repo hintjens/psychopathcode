@@ -1,209 +1,526 @@
 // kate: font Liberation Sans; font-size 16; syntax None; bom off; indent-mode none;
-.bookmark redqueen
-+ Children of the Fight
+.bookmark escape
++ Escape from Jonestown
 
-I've looked at the predatory life cycle of psychopaths and how they hunt, capture, and consume their prey, which is to say you and me. In this chapter I'm going to explain for once and for all how psychopathy evolved in humans. More than that, I'm going to argue that psychopathy, or rather the arms race between social collaborators and psychopaths has (and presumably still is) a prime force in our species' evolution.
+So far I've explained the predator model of psychopathy. I've used it to draw a picture of Mallory in many different situations. If you have read and practiced the previous chapters, you are now equipped. You understand how Mallory stalks, attacks, captures, and consumes its prey. You understand how Mallory thinks. You can start to predict how Mallory will respond in any given situation.
 
-http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130541
+What if you believe you are that prey? You have poured your life into a relationship based on lies. You are asking yourself, what next? When you live in a permanent fog, even small steps are terrifying.
 
-> Immature stages of the lycaenid butterfly, Maculinea, are social parasites of ants, living within the brood chambers of the ant colony where they solicit and receive care from workers.
+This chapter is for you then. I'm going to explain how to lift that fog, and rebuild your life. It is not going to be an easy project. If you spent years in a relationship with Mallory, it will take you years to become whole again. My goal with this chapter is to teach you several things:
 
-> It was recently demonstrated that the key to Maculinea attention and social status within the colony was not their semiochemicals that mimic the cuticular hydrocarbons of their hosts, rather it was their ability to produce stridulations that mimic those of the queen ant thereby interfering with their host’s acoustical communication system. To date, Maculinea is the only known insect that uses also the acoustic channel to parasitize ants.
+* How to stop Mallory from doing more damage.
 
-> Among social parasites of ants, the ant nest beetles (Coleoptera, Carabidae, Paussini) stand out as arguably the most ecologically fascinating and phenotypically bizarre [15]. Ant nest beetles are obligate myrmecophiles during all life stages and are fully integrated into their host ant society through means of hacking the hosts’ chemical communication [4,5,16,17]. The ant nest beetles of the genus Paussus are known to deliver appeasement chemicals stored in trichomes adorning their body [18] to their host ants and in return receive full access to the colony and its bounty. Once integrated, adult Paussus move throughout the colony at will and prey upon the adult ants and especially their brood, surprisingly never eliciting aggression from the ants [5]. This symbiosis has resulted in one of the most stunning examples of rapid adaptive radiation known to date [15].
+* How to repair the damage that Mallory has done.
 
-> Unlike Maculinea butterflies, Paussus depends on ants during all stages of its development, thus adaptations for social parasitism must be innervated in both adults and their virtually immobile immatures [19]. Furthermore, Paussus adults interact directly with the queen in intimate ways previously unknown in myrmecophiles [5].
+* How to become a stronger person than you were before.
 
-> That Paussus are able to prey upon brood and adults alike and interact with the queen without eliciting any aggressive behavior from the ants (including those being preyed upon!) [4,5] demonstrates the shear sophistication of their masquerade parasitism and suggests that Paussus have utilized another channel beyond chemical mimicry to achieve their hierarchical standing among their hosts.
+* How to help others who find themselves in the same place.
 
-> The presence of stridulatory organs in Paussus has long been known [20–23] but only recently described in detail and interpreted as a mechanism possibly evolved to interact with ants [24].
+It is not enough to remove Mallory from your life. As the victim of abuse, you are vulnerable to future abusers. You must break the cycle and use your experience to become immune to the next psychopath who stalks you.
 
-> We tested this hypothesis by conducting a thorough investigation of the stridulation and behaviour of Paussus favieri and its host ant, Pheidole pallidula. We first characterized the acoustic signals of Paussus favieri and worker, soldier and queen castes of its host ant, Pheidole pallidula. We next analysed ants’ responses to Paussus stridulations by playback experiments and found that the ants react to Paussus sounds, which demonstrates that Paussus stridulations convey an interspecific message. More unexpected, however, was the finding that Paussus beetles were able to produce at least three different acoustical signals that elicited different responses in the ants. We show that Paussus favieri is not only able to mimic ants’ stridulations but can also “speak” three different “languages”, each corresponding to sounds produced by different ant castes, including the queen, to direct host ant behaviours. In effect, Paussus utilizes modular acoustical mimicry to achieve the highest hierarchical status of the colony.
+This advice is above all meant for those entangled with Mallory. If you are reading this and thinking of a friend or relative, please buy them a copy of this book.
 
-> In presenting this new finding regarding adult beetles we document that Paussus has evolved the most sophisticated acoustical behaviour for social parasitism known to date.
+++ The Paper Cup
 
+Consider a relationship as a paper cup. Most people ask, "is the cup half full, or half empty?" Mallory sees the paper cup as something to knock over. He waits for Alice to place the cup back upright, and fill it a little. Then he knocks it over again, and curses Alice for her clumsiness. She apologizes and starts again to refill it.
 
-++ The Million Years War
+Again Mallory knocks the cup over, tearing a hole into it. Alice repairs the hole with tape. Mallory takes a knife and rips more holes into the cup. Alice repairs those too.
 
-Dr Robert Hare started describing psychopaths as social predators in [https://www.psychologytoday.com/articles/199401/charming-psychopath his 1994 article in Psychology Today], "This Charming Psychopath -- How to spot social predators before they attack." In this article and most of his work, he focused on identifying psychopaths, designing his famous "Psychopath Checklist."
+It continues like this until the cup is one huge ugly mess of tape. Alice has run out of tape several times. She has put her life savings into repairing that damn cup. And yet every time it seems OK again, Mallory smashes it to the floor.
 
-In 2014, [http://www.chinastrategies.com/ Stefan H. Verstappen], in his booklet [http://www.chinastrategies.com/wp-content/uploads/2014/10/defenseagainstpsychopath.pdf Defense Against The Psychopath], took the predator analogy further, and suggested that psychopaths are using a "cheating strategy." We know psychopaths cheat, sure. Yet as a //strategy//? That starts to get interesting.
+The worst part is that Alice can't see Mallory doing this. He seems so innocent, and insistent that it was her fault. It makes her feel terrible and useless. Still as long as the cup holds water, that is what matters.
 
-As I was finishing this chapter, Daniel N. Jones, of the University of Texas at El Paso, and principal investigator at the Dark-Triad and Corporate Crime Laboratory, [http://aeon.co/magazine/science/animal-deception-illuminates-the-human-variety/ wrote more on the cheating strategy:]
+The cup is by far the most important thing in Alice's life and she does //everything// possible to repair it. Her friends and family keep telling her, "leave the cup!" yet she cannot. All that work! The cup is her life, she tells herself as she refills it.
 
-> Some predators are fast, mobile and wide-ranging, executing their deceptions on as many others as they can; they resemble human psychopaths. Others are slow, stalking their prey in a specific, strategic (almost Machiavellian) way... There is a never-ending arms race between the deceiver and the deceived among most living things.
+Mallory's power comes from that cup and the resources Alice pours into it. He always leaves Alice a way to repair things. If she does walk out, he will do and say what he must to get her back.
 
-Predators deceive their prey as a core strategy. Human predators cheat their victims as a core strategy. It is the same thing. Animal models are essential to understanding and predicting human behavior, mainly because we're so slow to look at ourselves honestly. Our self-analysis is polluted by magical theories like "free will" and "consciousness" which can neither be improved, nor disproved. However we have no trouble dissecting animal behavior without such distractions.
+If Alice does cut Mallory off, reject his apologies, and walk away, she leaves as a victim. She leaves a large part of her identity in that cup. It obsesses her, and she tries to block it from her mind. Any mention of the past brings her to tears. Her friends and family become tired of her moods and depression. She will heal, most often, yet it will take far longer than it should.
 
-What I've done in this book is take the predator model as a backbone onto which all the rest can hang. We start with predators that cheat their way through the human social universe, and all the rest can be derived from that. Everything we know about psychopaths, from the charm to the brutality to the lies, makes sense in the predator/cheat model.
+The helplessness is itself a prison. Alice never stopped feeling that the cup was important. She had to make the choice between it, and her own sanity. Her failure to make it work becomes her burden. She thinks she is a failure, doomed to be alone.
 
-As with all good models, we can also use the predator model to predict and to explore further. One rich area that [https://www.google.be/search?q=psychopath+arms+race&oq=psychopath+arms+race no-one else seems to have explored yet], is that arms race between predator and prey.
+So now, consider another ending. One day Alice spots Mallory smashing the cup. Or, someone tells her what he is doing. She watches as he creates chaos, and she watches herself trying to fix it. Something clicks in her mind and she decides to change the game.
 
-Can we agree that there is in fact an arms race? The Wikipedia [https://en.wikipedia.org/wiki/Predation article on predation] says:
+Mallory throws the cup to the floor and mocks her. She examines him and sees no love, no affection. She leaves the cup on the floor and gets back to her life. Mallory shouts at her to pick it up, and she ignores him. Or maybe, for once, she lets the rage flow through her, and shouts back at him.
 
-> The relationship between predator and prey is typically beneficial to the predator, and detrimental to the prey species. Sometimes, however, predation has indirect benefits to the prey species, though the individuals preyed upon themselves do not benefit. This means that predator and prey species are in an evolutionary arms race to maximize their respective abilities to obtain food or avoid being eaten. This interaction has resulted in a vast array of adaptations in both groups.
+His power comes from her obedience. He ramps up, and tries to crush her rebellion. At first she is afraid. He does terrify her. Yet she holds her ground and keeps watching him. It takes months of confrontations, and then she realizes that he is backing down. His threats are violent and rich, yet he does not carry them out.
 
-Dr Hare has been refining his checklist for more than 20 years. It is not a moving target: he has been telling us quite clearly, "psychopaths are highly predictable and similar in profound ways."
+Little by little he loses his power over her. And she feels her power returning. She looks better. Her hair and skin are healthier. Her friends tell her how she is looking great. She meets a man at work who seems nice. It's a bit soon, she tells him, and he backs off, and they become friends.
 
-Predators do obviously have to learn and practice. Twin studies show that psychopathy is highly heritable, yet not inevitable even in those who have the genes. Circumstance switches on those genes.
+One day, Mallory has gone. Disappeared, without a note or a trace. She isn't surprised. He's become silent, and impatient. Lots of phone calls. Other things going on. She tidies up, and whistles a small tune to herself. It's a nice sunny day outside.
 
-Once switched on, however, the psychopath's tools are consistent, almost universal. There is the consistent hide-hunt-attack-capture-feed-wreck cycle. At each point in the cycle there is the consistent use of instinctive triggers to push the victim in the right direction. There are the consistently strong abilities for mimicry, fabrication, conversation, and shape shifting. One second, a crying victim. The next, a dominant bully. The next, a consoling friend.
+++ The Survivor's Burden
 
-These genes did not emerge overnight. How far back? When did the first psychopath smile deceitfully at another person and say, "trust me!" Well, we've learned recently that the oldest stone tools [http://www.the-scientist.com/?articles.view/articleNo/43066/title/Oldest-Stone-Tools-Discovered/ go back an astounding 3.3 million years], suggesting that the human mind has been evolving for at least that long, even if recognizable "modern" humans date to perhaps 200,000 years ago.
+Let's conduct a virtual experiment. Bob is in a relationship with Mallory. It has lasted some time. He worships her, and cannot see the harm she is doing to him. So one night we send in a commando team. The masked men take Bob by force, bundle him into an unmarked van, and race off. They drive to a new city, open the van door, and set Bob onto the pavement. "You're free now!" they tell him, and vanish.
 
-The significance of a stone tool production chain, with cores, flakes, and anvils goes beyond the mental capacity of a single Australopithecus. It suggests that there was a social structure where some individuals specialized in making tools, and others in using the tools for hunting, cleaning meat, breaking bones, cutting wood, or whatever. A social structure like that means some form of trade between individuals. And whenever there is trade, there are cheats.
+What happens to Bob next? Does he thank us with gratitude, and find a new place to live. Does he pick up where he was before Mallory came into his life? What if Bob was in a cult compound? What if he was working for a nasty, exploitative business?
 
+We know the answer. Bob immediately returns to where he was. Whatever was keeping him there in the first place pulls him right back.
 
+So, we can fine-tune the experiment. Let's "deprogram" Bob, giving him the time to kick his dependency on Mallory. We have done this experiment in real life many times, with other kinds of addicts. We cut them off from their drug supply, force them to go sober.
 
+The result is just the same. Bob goes back to the source of his pain as fast as he can. If he learns something, it is to avoid those midnight commandos.
 
-By luck or perhaps from personal experience Bram Stoker drew a remarkably accurate picture of the psychopath, if you accept that turning into bats or smoke... are not meant to be taken literally. It's a metaphor, and a good one. Vampires come in the night, dressed to kill, and slowly suck the life out of you, even as they seduce you with their charm and sexuality. They do not kill outright. Rather, they turn you into weak copies of themselves. They are powerful and animalistic and they can read your thoughts, even as you frantically try to escape. And the best tension is human versus vampire, with vampire-on-vampire conflict as cherry topping. As for the garlic, and crucifixes, and stakes through the heart, let's accept that poor Bram was being wishful here.
+This is the first problem with telling Bob to leave Mallory. He won't listen. And if you use force to make him leave, you must continue to use force to keep him away.
 
-While vampires are mythical, I have enjoyed arguing that [http://hintjens.com/blog:18 real-life trolls are essential for community organization]. So it struck me one day, reading about another social species, that there was a story here about how and why psychopathy evolved. Please don't take this as science. It's a metaphor or parable. The story is ironically about real vampires.
+Let's now imagine Bob accepts your advice and leaves. Or, more likely, Mallory has used up Bob and kicks him out or walks away. Or some other crisis forces the situation to end. Bob does not walk away a healed person. Instead, he takes with him a massive burden.
 
-++ The Vampire Underground
+The survivors' burden often translates into long-term depression, suicide, and relapse. It is not well understood by most people. I'll break it down into smaller pieces:
 
-It starts, our story, almost halfway back to the mass extinction of dinosaurs at the end of the Cretaceous period, 65 million years ago. We travel 30 million years back to the Oligocene, a time when the tropical jungles of the Eocene began to give way to our present day Miocene period.
+* //Unresolved mental damage//. Mallory has broken down Bob's sense of self. It took thousands of small transactions, each negative in a different way. Often the individual transactions look harmless. Yet the balance is real, structural damage to Bob social mind. I explained in [#consumption] how and why Mallory does this.
 
-The world cooled, and the first permanent ice sheets formed over the continent of Antarctica. And the tropical jungles covering the globe shrank, and shrank, until there remained only a belt around the equator. These jungles were filled with life. It was a time of mega fauna: giant penguins, and ancestors of elephants, rhinos, camels, cows, and horses.
+* //Loss of power//. Mallory has isolated Bob. Alone, Bob is and feels weak and vulnerable. He fears social contact. He stays indoors. He has nightmares, and dreads confronting Mallory on every street corner. His fear may never go away.
 
-On these animals fed blood sucking insects that burrowed through hair, hide, feathers, scales and skin. And to feed on these insects came the bats, a highly successful family distantly related to dolphins and whales. Some bats ate fruit, and some hunted small birds or reptiles. And some followed the rich carpet of blood sucking insects, to specialize in parasite removal.
+* //Economic damage//. Mallory has stripped Bob of his assets. Without savings, it is much harder for Bob to take risks. He avoids new opportunities. He must repay debts created by Mallory. He may end up in real poverty, and suffer the consequences of that.
 
-These bats landed on birds, reptiles, or mammals, and picked off the ticks and leeches. They grew to depend on rich red blood as the main part of their diet, and they evolved a graceful ability to land and feed without disturbing the larger citizens of the jungles they landed on.
+* //Failure to externalize//. Mallory has taught Bob that he is the guilty party, and she the victim. Bob takes this reality with him. He never understood how Mallory manipulated him. He accepts that he is a bad person, and then projects that onto any new relationship he tries to form.
 
-And as it sometimes happens, the cops turned into criminals. Did it start as an innocent "just one lick, what could go wrong?" No matter, soon enough the bats weren't so interested in removing blood suckers, as in taking blood themselves. Their mouths evolved sharp teeth, to slice little holes without pain. Their tongues evolved into little straws that could sip delicately. And their hands evolved into grips that could hold tight, even if their host woke up and shook their body, annoyed.
+* //Blaming the victim//. Like Mallory, other people try to explain Bob's trauma in terms his own mind or upbringing. They insist on putting the blame on him. You sought it, he hears. You stayed when you could leave, they repeat. He accepts the majority verdict that he chose to suffer.
 
-The vampire bats learned to share, as birds do, their food with their young. Feeding on insects is one thing. Digging holes into large animals while balancing upside down is something else, not easy for the younger bats. Mothers shared with juveniles too young to hunt for themselves. Vampire bat families grew into large colonies dominated by females, mostly sisters and cousins, while the males flitted around the outside.
+* //Survivor's guilt//. Bob knows that Mallory is still hurting others, while he "escaped." He feels responsible, and gets stuck in cycles of guilt and self-hate. He has difficulty in making new relationships, so remains alone. He remains vulnerable to drug abuse and suicide.
 
-As the technique of meal sharing spread, adult bats also learned to share with each other, creating an interesting economy of mutual need. A vampire bat that doesn't find food for two or three nights in a row will die of starvation. A lucky bat can gorge itself, yet it cannot store fat. Extra weight is unacceptable for a flying animal. The best strategy for storing blood is to "lend" it to unlucky bats in the hope of getting it back on a bad luck night.
+* //Shame and social stigma//. Bob's behavior during and after his relationship with Mallory disturbs others. He is anxious and depressed, needy and insecure. She has blamed him in public, with lurid detail of his crimes. People consider him tainted. At least, he has bad judgment. At worst, he is the offender.
 
-Sharing blood meals removes much of the risk of an unstable food supply. More generous bats would be surrounded by more relatives, and so increase their own chances of survival. The genes for sharing behavior spread and became dominant. However in every economy, some players will try to cheat. It is basic game theory. So along with the selfish genes for altruism, came the selfish genes for fraud and trickery.
+* //Lack of alternative relationships//. Mallory has cut Bob off from other people, by demanding exclusivity and attacking alternatives. A sudden rupture is like losing a bad job. The shock of being alone makes Bob vulnerable to looking for a replacement for what he knows. That is, another Mallory.
 
-It doesn't take a huge genetic leap, simply some slowing of development, so the adult looks and acts more juvenile. It's a trick we see in other species too, like humans and dogs. An adult dog that shows floppy ears and wagging tail will look like a big puppy, and disarm the competitive instinct in other dogs. A human that shows large round eyes and strong emotions looks like a big child, and provokes sympathy and care-giving from other humans.
+* //Lifetime risk of relapse//. Drug addicts and abuse victims are at high risk of relapse, all their lives. Bob spends years looking for another Mallory. He still sees himself as worthless and her as the only person who accepted him. He dreams of the euphoria she gave him.
 
-And so as the mainstream of vampire bats developed a mutual sharing culture, a minority got better and better at cheating. The sharing bats didn't of course take it lying down. Or, rather hanging upside down. Rather, they fought back by evolving ways to detect and fight cheats. This again is how it works in game theory, the natural law of algorithms evolving and competing for survival.
+All these add up to one thing. Bob is in real long-term danger, and few people are capable of helping him. If he is lucky he will find a psychologist who understands complex PTSD. Most authorities no longer blame a woman for her abusive partners. It is still harder for men to find that sympathy.
 
-When sharing blood, instead of doing the polite "I vomit, you swallow" thing, the sharing bats started to also groom each other, and chat with little bat squeaks. Vampire bat society is remarkably tight and cohesive. Bats keep track of their relatives, and more to the point, their relationships. It's the only way to detect cheats: retain a memory of transactions. The successful strategy is to start by sharing, and then to switch by denying, once a cheat is detected. Obvious cheats will be outcast, and rapidly die.
+++ Russia Syndrome
 
-The cheaters didn't die out though. Instead, they got better at their own game. Cheating vampire bats don't simply come and beg for food. They start by talking, chattering, and faking the social grooming, without sharing food. Enough chatter and it starts to feel real. Over the years, cheaters got better and better at mimicry, able to fake voices and act injured, weak, vulnerable, young, innocent.
+Some damage is forever. Lost years, lost money, and lost opportunities are gone.
 
-This slow, relentless arms race is a classic [http://en.wikipedia.org/wiki/Red_Queen_hypothesis Red Queen's Race] between a species and its parasites. This is a race where both parties run as fast as they can, simply to stay still. The conflict between honest and cheating vampire bats has run for millions of years, with neither side winning. Indeed, neither side can win. This story carries a deep irony, which is my real point in telling it. Yes, I wanted to provide a model for the evolution of psychopathy. More though, vampire bat society is highly social, and successful. There are many species of bats, and few species of vampire bats. That is, the vampire bats dominate their niches almost completely. The vampire bat species is driven to success, not failure, by its parasitic cheaters.
+Yet some damage is fixable. Of the above items, the one that drives all the others is the failure to externalize. It is Alice's own view of what happened that keeps her in such trouble. All the other aspects stem from that, and reinforce themselves in vicious cycles.
 
-While it is tempting to frame this as a fight between Good and Evil, morality does not work as an analytic tool. The species expresses two prime strategies, in genes and in culture, that have competed at equilibrium for millions of years. All vampire bats carry the genes, to some degree. And in a consistent, small percentage of cases, a bat is born with sufficient talent to make the leap to the dark side. It is an all-or-nothing strategy. One cannot be a half-hearted psychopath, and succeed.
+So let's break this down. What key things does Alice believe about her relationship with Mallory, that are wrong?
 
-If you eliminated the psychopath genes from the bat genome, you would get a tame, docile species that would die out in a single generation. I suspect that the same genes carrying the talents for psychopathy are also vital for other purposes. Nature is sneaky that way. Perhaps, and this notion makes me giggle, as defense against psychopathy, in the sharing bats.
+* That she desired it and made it happen. Thus, that she has some inescapable need to be with abusive people.
 
-Now I'll claim that as it is in vampire bats, so it is in that extraordinarily social species, humanity.
+* That she failed to help Mallory, and make the relationship work. Thus, she failed in the main goal of her relationship.
 
-++ The Eusocial Apex
+* That people dislike her with good reason, and only Mallory accepted and loved her. Thus, she prefers her past over her present.
 
-Vampire bats are part of the larger family of New World leaf nosed bats. It's curious how the vampire's fruit and insect eating cousins are much less social, roosting in small groups, while the vampire bats roost in colonies of up to a thousand bats. Looking at the ape family, and humans, we see much the same thing. Humans are hyper-social. We live in colonies of hundreds, thousands, millions. And like the vampire bats, we depend on a delicate economy of mutual sharing to survive risk.
+* That she is weak, afraid, needy, and stupid. Thus, she will fail in any new relationship or project.
 
-In his 2012 book "The Social Conquest of the Earth," Edward Wilson described humans as [http://en.wikipedia.org/wiki/Eusociality eusocial apes], where our divisions of labor, overlapping generations, and cooperative care of young give us a "superpower" that no other species can achieve.
+* That she can succeed by being more like Mallory. That is, more aggressive, manipulative, and dishonest.
 
-The vision of humans as eusocial apes is elegant and fitting. There are other social animals, like ants, yet these cannot scale as humans do. No matter what tribes we come from, we will work together. Whereas ants are a hierarchy, loyal to a queen, humans form networks of relationships, sometimes hierarchical yet more dominantly, diverse relationships between individuals and groups. Those relationships aren't arbitrary. They are driven by meticulous accounting of credit and debt, of genes, food, shelter, sex, information, time, and so on.
+You can see this kind of thinking at many scales. It affects individuals, and it affects whole cultures. Look at a country like Russia and you see a nation believing all these things. It is not part of the "Russian character," if such a thing could exist. It is the result of a long history of psychopaths like Lenin.
 
-The mental tools we have developed to track these relationships are sophisticated and practically define us as "human". We can remember faces for a lifetime. We can mentally balance the accounting for relationships with fifty to a hundred people. We can rapidly gage the relative value of any favor or item, in a given place or time. That roast chicken you shared with me for lunch is worth three beers tomorrow, or one in two weeks' time. We remember cheats, forever, and we do not forgive them. We have imagination, so we can plan how to work together. We have language, to exchange knowledge. We have faces, to express our emotions. The list goes on and on and on.
+Ask almost anyone why Russians get such bad leaders. The answer is always "because they want or deserve it." Even Russians say this, in all seriousness. I call this Russia Syndrome. For Alice to heal, she must get cure her Russia Syndrome. To do this she must externalize her story, and see what actually happened. A predator attacked her, and hurt her.
 
-Ask what it means to be "human" and the answer is, "other people".
+I'm sure there are many ways to externalize, and cure Russia Syndrome. The fastest and most effective way I know is to confront Mallory, and defeat him. I'll explain in detail what this involves. First let's deal with the inevitable choruses of "are you insane?" When I speak of confronting abuse instead of fleeing it, I often get that reaction. The reaction comes from several assumptions that appear to be wrong.
 
-Humans evolved all these genes during a period of severe climate shifts that hammered our environment over and over during the last million years. As we survived through near-extinction bottlenecks that made us all close cousins, we survived disaster after disaster by working together. Our society evolved from being dependent on nature, and based on individuals and small family groups, to being self-hosting through technology, and based on limitless eusociality and knowledge sharing.
+The first argument tends to be an appeal to free choice. We assume Alice can, and so must, escape. I've explained why this is a fallacy. Even if Alice realizes, "Mallory may be a psychopath," often she cannot just leave. The bonds are deep, and they override conscious decision-making. Alice may be a child, living with a psychopathic parent. Alice may share children with Mallory. Then she may face the agonizing choice of saving herself, or staying with them. Alice may live behind a wall.
 
-And driving this evolution was the parallel evolution of cheater genes that developed talents for exploiting others and giving nothing in return. If psychopathy was a symptom of modern life, or a mental illness, we would see strong variations around the globe, as we see for heart disease, diabetes, malaria. However, it shows at the same rate across the world, in all populations. This means it cannot be a recent thing. We see a long-standing balance of power, that predates humanity's expansion out of Africa. And, we will see the visible signs of this arms race in our own genes and behavior.
+The second argument is appeal to authority. "If Mallory is a psychopath like you say, then just tell the police. They will arrest him and save you." This assumes Mallory is silent and cannot tell lies that outshine Alice's truths. Which he can, and will. It assumes authority is honest and fair. It assumes Mallory cannot charm authority to get all the sympathy he needs. Authority is often more likely to punish Alice than save her.
 
-++ The Secret Languages of Empathy
+The final and overriding argument is one of immediate danger. We assume that Alice risks injury and death if she stays with Mallory. Thus, Alice must get away from Mallory as fast as she can. I'll explain why this also a fallacy, at least in most cases.
 
-Let's run with my hypothesis that psychopath and eusociality co-evolved as a Red Queen's Race. Vampire bats evolved social grooming, recognition of other individuals, even basic speech according to some. What have humans evolved? What aspects of our nature and culture are in fact defenses against psychopaths?
+++ Sticks and Stones May Break My Bones
 
-Firstly, by definition of being a eusocial species, we work well together. This ability is the greatest real threat to any predator: unmasking, and permanent containment. We have a built-in sense of fairness, and we react with collective hostility to thieves and cheats. Our abilities to join in a fight, and to keep long social memories of such fights, is a heavy deterrent to predators.
+We make a major assumption about psychopaths in popular fiction, and in clinical research. The assumption repeats over and over. It defines how the police and courts deal with Mallory. It defines how we try to help Bob in his struggle to free himself from Mallory.
 
-Having identified a person or a family as "bad" or "evil" or "crazy" (and here is the benefit of such simplistic labels), we can warn others to avoid them. The more we learn, and the better we can communicate, the more accurate our information. "This man is a charming liar who manipulates women into sex, and men into lending him money. That woman gets people to look after her by playing the victim in every situation. That man is a bad business partner: he will steal clients and staff without scruple. This woman will take your money, then sleep with your best friends. These people have built an entire culture of lies and theft. This woman prefers married men." And so on.
+The assumption is: //the main danger from psychopaths is physical.//
 
-However, social knowledge is often biased and itself vulnerable to hijack by the same person we're talking to ("he cheated on me first, that's why I'm such a messed up person... can you fix me?"). The software security business calls this a "man in the middle attack." By definition we cannot trust the person we talk to. They tend to distort what they say in their own favor. So we have evolved techniques to verify the authenticity of the people we're talking to.
+Yes, psychopaths can inflict physical damage to others. Between 1-2% of men and women experience domestic violence in a year. 20-25% experience it during their lifetimes. Yet this is neither exclusive to psychopaths, nor is it the worst damage they do. The assumption is almost valid, yet is not.
 
-These techniques range from the charming to the profound and shocking. What I say next may shift your view. Disclaimer: these are hypotheses, thank you. Use with caution.
+Mallory does do real damage. Yet for every physical assault, she delivers hundreds of non-physical blows. These are emotional, social, and economic. She is much more likely to drive her victims to suicide, than to murder them. When you look at psychopathy as a disease that damages Alice and Bob, it becomes obvious. A parasite or predator must find a balance. Mallory must work in stealth. Overt activity leads to detection.
 
-Let's start with a simple case: shyness, and blushing. When a young person blushes in embarrassment at some personal comment, their brain are saying, "my supramarginal gyrus is extremely active, and makes me afraid of rejection. Here, let me demonstrate..." Blushing is an evolved mechanism meant to show, authentically, that the blusher is not a psychopath. A psychopath does not blush and cannot fake it. Failure to blush in a situation that demands it is a red flag. Exaggerated blushing is a flapping white flag.
+Only failed, incompetent, or damaged psychopaths resort to physical violence, let alone murder. We saw that serial killers appear to be a tiny subset of psychopaths with a specific form of brain injury. We know that the bulk of psychopaths hide all their lives in the general population. These are the successful ones.
 
-Waving white flags is dangerous, however. While it proves a person's eusocial credentials, it also exposes them to any psychopaths who might be watching. So blushing is of limited use except for young people who haven't developed stronger defenses. One of those is to wave fake red flags. Predators don't like to hunt other predators, it is a waste of time and possibly even dangerous. Thus some eusocials can act superficially like psychopaths, with charm, ability to read and manipulate people, and so on. A small dose of those same talents that make a full blown psychopath carry some immunity.
+Mallory's mask of violence is a convincing yet thin lie. For sure, there are violent people, and there are violent psychopaths. Mallory will be violent when it works. Yet Mallory is above all pragmatic about hiding and surviving.
 
-++ The Sense of Humor
+A predator cannot afford even minor injuries. A cow with a broken leg can still eat grass. A lion with a broken leg will starve. This defines the level of violence a predator will exercise. It will choose the easier prey. It will not fight another predator except to survive or reproduce. It will use bluff and noise to intimidate, yet will flee from a real fight.
 
-I've often wondered where we humans got our sense of humor. It serves no apparent evolutionary purpose. I do not like the answer, "not everything in our nature has to have an evolutionary reason." That is like saying, "the reason birds can fly is that not every object has to obey the laws of physics". Yes, everything in our nature must have, and does have, an evolutionary reason, and searching for this can often lead us to enlightenment. So it is with humor.
+And so it is with Mallory. Of course she can deal violence, if it is a matter of survival. Yet often the risks aren't worth the potential benefits. If Bob is in a cult compound or cellar, or if he is young, or old, he is vulnerable, and "confront" is bad advice. If Bob is an adult, then Mallory sees any number of ways that he could fight back and hurt her.
 
-Humor is built in, a human universal, visible in children from a young age. Babies giggle with joy when they play with their parents. We instinctively trust people who can make us laugh, and distrust those who don't like our jokes, or seem to lack a sense of humor. We use humor more in stressful situations. We value original humor and reward the "telling" more than the joke itself. In our horror films, the monsters don't ever laugh, except in that terrible creepy way that scares young children. Monsters certainly don't make puns, let alone tell fart jokes.
+We have this stubborn association of psychopathy with aggression and violence. It looks like silent collective hysteria over our ancient predators. "OMG psychopaths!" I believe this is fear, not data, talking.
 
-A joke is a funny thing. Every joke, even puns, depends on a mystery. We don't tell the mystery. That would be "explaining the joke". Rather, we tell the joke and then we wait for the other person to "get it". When they get it, they laugh, and we laugh, and the ritual handshake is complete. It's not enough to simply laugh, either. Both parties must laugh at the right moment, not too soon, not too late. The laugh must last long enough. It must not be too loud, nor too soft. Such a precise thing, the humor protocol! Tell me again this is not carefully engineered.
+Why am I arguing against this assumption? Because it takes us in many wrong directions. Above all it misleads us about how to deal with Mallory and the damage she causes.
 
-There's a man I know well who cannot laugh properly. He laughs well, the right volume, and at the right time, yet he will laugh too long, so you imagine he is being deliberately mocking. Except he sincerely does not know how much he should laugh. He gets the joke, yet not its proportions. He laughs wrong. And he has does not tell jokes.
+Here are some of the mistaken paths we've taken when dealing with psychopathy in the past:
 
-What is going on here? I believe that humor is in fact an empathy detector. Psychopaths don't have empathy, for the same reason that fish don't have feathers. Empathy is a eusocial mechanism. It is a tool in our brain, seated in the supramarginal gyrus (as far as I know), which guesses and measures how much other people appreciate us. When someone around us is unhappy, we feel unhappy. When someone around us is angry, we feel afraid. When someone around us is happy and laughing, we feel happy and want to laugh too.
+* We used violent criminals as our main source for data about Mallory. This is changing, yet it remains the classic source of data. We under-counted psychopaths, and believed most of them to be male. We did not study how Mallory hides and operates in general society. We did not look at her silent victims.
 
-The point of empathy is that as eusocials, we need this feedback to know how well we're doing in building the relationships we depend on for survival. Whereas, a psychopath measures success differently, and having empathy and feelings would cripple their game.
+* We used aggression as a tell-tale when looking at juveniles and families. This leads to "treatments" like medication and anti-aggression therapy for at-risk youngsters. We do not consider that Mallory learns to hide from an early age.
 
-Every joke has a hidden story that we can only read if we're empathetic with the teller. Lacking empathy, psychopaths cannot decode the mystery, and so cannot laugh properly. Thus psychopaths either do not laugh, or they laugh too much, or they laugh too long. So psychopaths prefer opening situations where humor isn't an option, like noisy nightclubs, business functions, and electronic messages.
+* We disregard many forms violence in the home. We punish a parent for slapping a child. Yet we tolerate Mallory's long term emotional abuse and neglect of those around her.
 
-Humor doesn't work perfectly, none of our psychopath detectors do. You won't a laugh from someone who's filled with self-pity or jealousy, no matter how well you tell the joke. There are a whole range of reasons our sense of humor can be switched off temporarily, or even permanently for innocent reasons. Particularly, victims of abuse will not laugh much. Not laughing is not a red flag.
+* We often ignore the victims of abuse unless there is provable physical violence. Law enforcement and courts tend to dismiss other forms of abuse, if home life looks "normal."
 
-And psychopaths do blend in like the professional con artists they are. When they notice people laughing, and realize someone has told a joke, they may simply keep smiling, laughing gently, as if the entire situation was comedic. This can work. However, we tend to treat those who laugh too much with even more suspicion than those who don't laugh at all.
+* We do not intervene in obvious cases, such as cults and other abusive organizations. Again, we assume that adults are capable of defending themselves. The State only intervenes when there is serious injury, death, or children affected.
 
-++ The History of Art
+* We hesitate to apply the "psychopath" label, since it brings such negative connotations. That means we strive to treat Mallory the same as we treat Bob. This doctrine of equivalence leads us to assign blame to both parties.
 
-So while we prefer people who laugh "naturally," and blush "innocently," if we are too harsh in filtering out potential friends, partners, or colleagues, we end up alone. Thus we have a myriad of other subtle tools for detecting psychopaths behind their masks. One that is most interesting to me, because it practically defines "being human" is a clear extension of our sense of humor, a more sophisticated language of empathy. That is, art.
+* If we do conclude, "Mallory is a psychopath," our reaction is hysteria. We in effect scream "run away!" at Bob, as if he was not already doing his best. We have no tools for understand how Bob got to where he is and why he stays there.
 
-By "art" I mean the creation of works that serve no functional purpose except to cause an emotional response in the audience. As with comedy, we reward originality more than technical brilliance. As with comedy, we enjoy art more in company than alone. And as with comedians, we praise and respect artists, though artistic talent has zero obvious survival value. Finally, we measure artists by their track record: one success isn't enough. That could be faked, stolen, or accidental. Whereas for scientists or athletes, one victory can last a lifetime.
+* We assume the risk from a psychopath is physical. That is, if Mallory has not yet hurt Bob, so far so good. We tell him to leave, and we hope she does not murder him in his sleep.
 
-Artistic talent is so widespread that it plays on every street corner for pennies. Yet we respect it deeply. Above all, we expect art to make us "feel" something. And we ask this of others: "how does it make you feel?," and we watch their faces intently as they answer. Isn't this kind of weird?
+* We assume that leaving removes the risk. If Bob does leave, we expect him to resume normal life. If he remains depressed, we blame him. If he does not recover, we abandon him. If Bob does not leave Mallory, we assume he's staying by choice. Again, we blame him and in the end we abandon him.
 
-Some evolutionary psychologists have argued that humans use art like some extravagant nest building birds do. That is, a display of talent that serves to show, "I am strong enough to afford this waste of time." Like the peacock's tail, it shows the excess resources of the artist. It does indeed take great investments of time and effort to make successful creative works.
+* We may provide support to Bob, yet only if Mallory used physical violence. Alice may find help if she turns it into an issue of women's rights. If Bob asks for help for emotional abuse, he will find a stone wall, even mockery.
 
-However, unlike the nests of the bower birds, or the peacock's tail, we do not create art as part of a mating ritual. Rather, we create as a public statement: "this is me, look upon my works!" It is not peacocking, if there's no ritual sex for the winners. And the best artists are not fat and happy and strong. They are starving, desperate, and filled with trauma and pain. A large, expensive car is peacocking. A series of weird paintings is not.
+I've explained how Mallory hides and operates. I've explained why Alice and Bob are normal people who get caught in a trap. Why they stay put. Why they seem to accept their situation. I've explained in detail, every single step of the process, from both sides. It is clear that Alice and Bob lose control over their lives quite early on in the process. If they stay with Mallory, it is not from free will.
 
-And here is one thing about psychopaths: they do not engage in artistic creation. They do not draw, paint, sculpt or carve. They do not take photographs, except of themselves and their possessions. They do not cook for pleasure, invent recipes, or make their own bread as a hobby. They do not create music, though they can be excellent performers of others' work. It is a curious thing, when you first see it, and it matches the psychopath's general lack of a sense of humor.
+I've also explained the damage that Mallory does to Bob and Alice, and how deep it goes. I've explained how and why this can end in depression, self-harm and suicide.
 
-There is a whole class of activities we call "hobbies," that we engage in passionately and yet which have, again, no obvious survival value. I cannot believe that "relaxing after work" counts, as there were no 9-to-5 jobs in prehistory. Yet look at how people describe their hobbies, and you see three kinds. There are the "working with or for others on unpaid activities" hobbies that most people do. There are the collection hobbies some people focus on, perhaps to satisfy their need for control over a chaotic world. And then there are the vacuous pseudo-hobbies that psychopaths engage in: traveling, eating out, meeting new people, shopping.
+Let's assume you are Alice or Bob. I've shown Mallory to be a slow predator who uses mind-control techniques. She uses these techniques to isolate, restrain, and silence you. The next step is to explain how to undo these techniques and fix your Russian Syndrome.
 
-Creativity is another secret language of empathy. It tells the world, "friend or foe? Look at this and tell me you feel something!," and the viewer responds, or fails the test. It is precisely like telling a joke. Like a great joke, a great creative work must speak from and to the supramarginal gyrus, telling half a story that only a eusocial can complete and "get".
+++ Four Steps to Freedom
 
-A young child learns to draw at school, and takes their works back to their parents. These gifts are not materially useful, and yet they are highly important. The child watches their parent's reaction, and when they see joy at the squished faces and strange colors, the child also feels joy. They share the moment, confirming each others' eusocial humanity. "See, mommy, I'm normal. Please don't reject me!"
+Undoing Mallory's damage is a slow and delicate process. I'll break it into four steps to make it easier to understand. These steps are: Diagnose, Observe, Inhibit, and Terminate. You can remember these steps with the acronym **DOIT**:
 
-We create for others. We create to make other people feel something. Usually, it's happiness, though sometimes it's loss, sadness, or other emotions. A creative act is a message of empathy. And we measure the quality of our art as we do our humor: by its originality, and thus its authenticity.
+* //Diagnose//: where you ask the question, "am I dealing with a psychopath?" and come to a "yes" answer if that is the case.
 
-Which is why imitative art is "fake," why engineering isn't art, why fast food feel "cheap," why we don't explain jokes, and why an artist cannot explain the "point" of his or her work. It is a test, and if you don't know the answer, that itself is significant. It's why a pile of bricks in the Tate Gallery is worth a million pounds. That's the joke.
+* //Observe//: where you learn to observe Mallory and keep notes. The goal is to decode his behavior and understand how he has been controlling the situation. You move away from cooperation, and towards passive resistance.
 
-Psychopaths may buy or steal art, and may learn to cook and paint. They may collect others' work on a huge scale. They may learn the language of art appreciation, and demonstrate their love of art with extravagance that can be monumental. They like to buy expensive clothes. They enjoy movies that explain how people work, and they despise horror movies because they see caricatures of their own world view. This is perhaps why young people enjoy taking their dates to such films.
+* //Inhibit//: where you learn to recognize and block Mallory's patterns of control. Mallory depends on you to keep repairing the cup. You stop enabling him, and then move towards active resistance.
 
-++ The Lead Stinger
+* //Terminate//: where you take back control of the relationship, and then end it on your own terms. You understand that there is no cup, and never was.
 
-During the competition between the two faces of human nature, the psychopath genes didn't wait idly to be selected out of the gene pool. Rather, they did what genes do, when faced with pressure: they explored for opportunities for profit, and when they found such spaces, they expanded into them. This includes vulnerable points in the creative process. Such as, the delivery of art to an audience.
+Before we start, please realize: this takes time. You need to make time to repair your life. It takes time to learn and understand new ideas. It takes time to apply these to your relationship with Mallory. It could take six months, a year, two years, or longer. It depends on how deep the damage is.
 
-At some point, art needs a presenter, and here the psychopath gains a pedestal. That talent for emotional imagination and projection lets a psychopath take art and turn it into an "experience" that is much easier to digest.
+Let me explain what you can expect and have to abandon, as possible outcomes:
 
-Most people are a bit narcissistic. Indeed, most of us are a bit psychopathic. What matters is the degree. The psychopath does not switch it off, and spends a life in pursuit of self, living a fantasy VIP world, filled with casual sex, drug use, and random opportunistic crime.
+* You will not get sincere remorse, ever. If you need this to move on, learn to stop needing it.
 
-If you know the music business at all, you'll recognize the psychopaths. They are the lead singers, the Faces. They're the ones who get their name on the cover and poster. They borrow from everyone and do not pay back. They use people like toys, to play with, break, and discard.
+* You will not get the love, money, power, or whatever else Mallory promised you.
 
-Creating live, improvised music is an interesting experience, and another of those psychopath filters. It is hard to improvise when you //know// you are superior to the people around you. Improvising requires letting go of your ego, something psychopaths cannot do, except by force. Psychopaths can be technically excellent musicians, yet they will not join a jam session unless they can dominate.
+* You will not get your money or time back. Accept the losses, and look ahead, not back.
 
-There are countless examples of musicians who are clearly psychopaths. These are the "one hit wonders," who get a single album or hit, thanks to work done by unseen producers and writers, and then fade into history. A psychopath cannot hold a group together, does not write their own songs, cannot work well with others. They typically move from gig to gig, borrowing money and favors as they go, until they have nowhere left to hunt.
+* You will not get a deal, or compromise, or negotiated settlement. Every deal is a lie.
 
-The extreme histrionic behavior shown by many performers doesn't look, at first sight, like psychopathic behavior. After all, giving a good show doesn't do any harm. However being able to bend an entire event to one's personal benefit is a psychopathic trait. So I think histrionic talent is probably a more recent development in the psychopathic gene consortium, evolved as a way to turn art back to its benefit.
+* You will not change Mallory, nor help him, nor "cure" him, nor punish him.
 
-++ Conclusions
+* You can change Mallory's behavior towards you or a group, by changing how you or a group treat Mallory.
 
-In this article I've stated the hypothesis that bad actors are an essential friction for good ones. That human culture and society, language and the large brain are driven by the need to share knowledge and resources, and work together. And that these are the result of a million year arms' race with the cheaters we call "psychopaths" (or narcissist, Machiavellian, sociopath).
+* You can force Mallory to leave you or a group alone, by making it expensive and risky for him to stay.
 
-This theory, which I'll brand the "Two Actors Hypothesis," has some interesting correlations that let us speculate on the nature of intelligence. Humanity is not the only social species. My friend Wesley remarked, when I explained this theory to him, that Orcas (killer whales) are also highly social and have large brains. We've seen the vampire bat story. There are other social animals too: mole rats, dolphins, dogs and wolves, gorillas, ants, bees, wasps, and termites.
+* You can staunch your losses of money, time, and resources, by refusing to give into Mallory.
 
-The Two Actors Hypothesis should be easy to disprove. We find a social species that has no bad actors, and where social behavior cannot be cleanly explained in terms of filters and weapons against bad actors.
+* You can take full control of your relationship with Mallory.
 
-Social species show different levels of sociality. What they have in common is the strategy of risk sharing though other individuals of the same family or species. It is clear that sociality is a repeating pattern for risk sharing. Indeed, you could argue that it is inevitable that social behavior will emerge over and over, in the spectrum of life. And together with sociality, will come cheating. It is inevitable. Even ants have [http://news.nationalgeographic.com/news/2009/01/090109-cheating-ants.html their bad actors].
+* You can break and disable Mallory, even to the point where he cannot hurt others.
 
-And bad actors provide the friction that forces sociality towards ever an more sophisticated culture. Humans have music and fancy food, and ants have pheromones. The arms race is inevitable. It may run slowly as in insects with limited capacity for added software, or it may run rapidly, as it has in mammals.
+* You may be able to salvage pieces of whatever projects you were investing in.
 
-Mammal sociality is software based, so to speak, and social mammals like orcas and humans have developed larger and larger brains, driven by the needs of sociality. If it's good to remember five faces, it's better to remember five thousand. If one psychopath filter is good, a hundred are better. Thus human intelligence, like that of the toothed whales, is driven by that ancient arms race between the good and the bad actor algorithms.
+* You can learn deep and useful lessons about your own and others' psychology.
 
-Psychopaths are not sick or broken people. I do consider them to cause mental illness in others, in the form of depression, PTSD, and suicidal urges. I respect all life, and every actor is essentially innocent. However my goal with this hypothesis is to provide strategies for dealing more effectively with bad actors, before, during, and after that vampire's embrace.
+* You can externalize your story and understand what happened.
 
-++ Further Reading
+* You can help others move through the same process as you.
 
-Animal models also hold out hope for long term social integration of psychopaths, by providing them with environments that satisfy their hunting urges without allowing them to hurt others. If that sounds far-fetched, consider complex and sometimes violent multi-player video games, and their appeal to psychopaths. In games like EVE Online, there are [http://www.theverge.com/2014/1/29/5356498/eve-online-battle-sees-200000-dollars-worth-of-spaceships-destroyed massive conspiracies, deceits, raids, and battles] that end in hundreds of thousands of dollars worth of damage.
+Be explicit in defining your goals, both to yourself, and to others. Once you write down your goals, you can measure your progress over time. This will help you during the many moments when you doubt yourself.
+
+++ The Resistance
+
+We covered Diagnose and Observe in [#diagnosis]. Now I will explain the Inhibit step.
+
+The goal of Inhibit is to block Mallory's patterns of behavior. The abusive bond is a curious thing. Even though one party seems in control, the other must cooperate. This is the "enabling" we see in psychopathic families. When Mallory is in a marriage with children, her spouse often acts as enabler. He excuses Mallory, hides conflict from outsiders, and tells the children "it is normal."
+
+Individuals enable their abuser when they normalize the situation. In my Paper Cup story, every time Alice resets and repairs the cup, she is trying to make things "normal" again. This is how she enables Mallory.
+
+To inhibit is the opposite of enable. It is to make it more and more difficult for Mallory to rule. Inhibiting works both in solitary relationships, and in group settings.
+
+We can break down Inhibit into separate actions. Each of these addresses a different aspect of Mallory's behavior. I'll summarize these:
+
+* //Redefine the Narrative//. Mallory depends on her false Narrative. You replace her broken promises with a more accurate model of your relationship.
+
+* //Fix the economics//. Mallory depends on you refilling the cup every time she demands it. You stop doing that, and staunch the loss of money, time, and other resources.
+
+* //Collect evidence//. Mallory depends on privacy, your poor memory, and your forgiving nature to distort history. You repair that by keeping a journal and collecting material evidence against her.
+
+* //Provide subtitles//. Mallory depends on her charm and fluid lying to confuse others. You prevent that by explaining to others what Mallory is doing, and why, as it happens.
+
+* //Create consequences//. Mallory depends on your fear to escape serious consequences. You teach her that you are willing and able to create consequences for her.
+
++++ Redefining the Narrative
+
+I explained in [#capture] how "every psychopathic relationship has the same structure. At the heart, Mallory places a core of lies and promises... The Narrative." To untangle your relationship with Mallory you must decode and redefine the Narrative.
+
+It can be difficult for so many reasons. The Narrative usually has elements of truth. These are small, yet real, and Mallory uses them to push through larger packages of lies. The best Narratives stem from our lust for sex, money, and power. They're hard to discredit because we so //want to believe.//
+
+Let me give some examples of Narratives, to draw you a clearer picture:
+
+* Mallory is taking money from Bob, using sex and emotional violence to keep him hooked. The Narrative is, "you want me because I'm a difficult woman. Surviving me makes you a powerful man. Keep giving me expensive gifts and I will be yours." The first statement is true. All that follows are lies. Mallory is cheating on Bob, wasting his money, and will leave him as soon as she can move to a wealthier contact of his. She is not the trophy. He is.
+
+* Mallory has convinced Alice to become her house slave. Alice works for free and Mallory bullies her into thinking this is normal. The Narrative is, "I paid to bring you to this country. I am now your family and you must do what I tell you to. Obey and I will protect you." Again, the first statement is true and the rest are lies. Mallory will abandon Alice on the street without papers or money as soon as she becomes too large to lock up.
+
+* Mallory has convinced Bob to join his project. Bob is working unpaid and Mallory demands more and more from Bob. The Narrative is, "this is an important project. You are serving humanity. I am your glorious and infallible leader. If you suffer, that is normal." The first statement might be true. Mallory is good at finding causes. The rest are lies. Mallory will steal Bob's work, drain him, and blame him for any failures.
+
+* Mallory has convinced Alice to move in together. She invests her savings, and they plan expensive renovations together. The Narrative is, "this is our house. You are investing in our future. I will be a loving and caring husband. If I'm sometimes moody, it is your fault." Again, a truth followed by lies. Alice will go bankrupt before she wakes up. Mallory invests little if anything, and cheats on her since they met.
+
+To untangle the Narrative, there is a small yet powerful mantra that you use. You repeat this to yourself whenever you look at past, or present events. The mantra is: "//Mallory is lying.//"
+
+You must assume that every statement Mallory utters is false. He may sometimes tell the truth. That is accidental and irrelevant. When it mattered, and often when it did not, he lied and lies.
+
+This takes practice. We tend to assume innocent till proven guilty. You need the opportunity to watch Mallory as he talks to you, or others. You feel his sincerity like a warm glow. You hear his words. You watch his face. Now you repeat your mantra: "Mallory is lying."
+
+You may ask //why// he is lying, or how he can lie so well. There are answers, which I've already provided. He lies to bullies people into accepting his authority and to deflect blame. He isn't inventing, when he lies. Instead, he is the honest teller of a story that happens to be false.
+
+The power of this mantra is that it forces Mallory to work harder. It works especially well in a group. Mallory's aura of sincerity is like diamond: hard yet fragile. If you can prove a single lie, then you can teach others the same mantra. From then on, the Narrative starts to fall apart.
+
+If you are alone with Mallory, you must put yourself outside the Narrative to see the lies. This is difficult. You must want nothing, and believe nothing. That means switching off all the responses that brought you to this place. It means accepting that you have lost your investments. It means there will be no sex, money, or power.
+
+Once you can see the lies, the next step is to see the truth. What are Mallory's real intentions? The sad thing is you already know them. They are your deepest fears, the ones you've pushed aside since the first day. Mallory wants to use you then throw you away. He means to use your network to climb up the social ladder. He intends to empty your savings, and those of your family.
+
+Mallory cares about one person, himself. He will do whatever benefits himself, without limit and without remorse. If he is not worse it is because that would be counter-productive. Your relationship is a sham. It is window dressing to hide the crimes.
+
+Can it be so simple and so calculating? Yes, it can be, and it is.
+
+So now you have a new Narrative. You could never have made the relationship work. Every time you invested in it, you made it worse. Good intentions pave the road to hell. You fed him and reinforced his bad behavior. So now you have your next action. You stop feeding Mallory.
+
++++ Fixing the Economics
+
+Even if you do not base your life decisions on economics, Mallory definitely does. She does play with people for practice. Yet when she creates an extended relationship, it is for her profit. Unlike a win-win social relationship, Mallory always builds win-lose relationships.
+
+You should be able to measure how much it is costing you to give Mallory her profit. You can count your time, money, and cost of lost opportunities. It is worth putting a dollar figure on the damage, if you can bear to do this. Mallory has worked hard to make you undervalue yourself, so don't be shy about adding zeros. It is not for a court, just for your own sanity.
+
+Your next step is to close the taps. I call this "disabling." There is passive disabling, and active disabling. Use both, as you gain confidence and courage.
+
+Passive disabling has a mantra. It is: "Every question is a test, and the answer is always No."
+
+Mallory has a classic pattern of extracting resources from you. First she asks for a small favor, something small and innocent. Then she creates a problem that you must solve, and leaves it on the table for a while. Then she comes with a solution, in the form of a larger favor you must provide. If you do not agree to the larger favor she gets angry and brings the relationship to crisis.
+
+By refusing the small favor, you break the pattern. Mallory has no backup. If she creates a crisis over a marginal issue she looks unstable. If she asks again you just refuse again. If she asks for something different, you refuse again.
+
+You can refuse in different ways. An outright "no" is fine, if you can find the confidence. Or you can say "I'll try" and then fail to deliver for other reasons. Though pretending to be incompetent is less healthy than rejecting Mallory's request outright.
+
+When Mallory threatens you, observe and take notes. Compare her threats to her actual actions. You will see that she rarely if ever does what she promises. When she does show violence, she does not give you warning.
+
+Active disabling also has a mantra. This is: "If it is not locked down, expect to lose it."
+
+Once you recognize Mallory, you must assume she will take whatever she wants. This means money and assets, for sure. It also means contacts, employees, documents, secrets. She may explain this using "yours, ours, mine" logic. Or she may deny it and blame someone else.
+
+You must consider what assets you have that Mallory could divert. If you are business partners, and you are not in full control of money and decisions, abandon it. If you own property together, consult a lawyer. If you have joint accounts, close them. If she has access to your credit cards, get new ones. If she knows your passwords, change them.
+
+If you live with Mallory you must be careful and somewhat paranoid. Since she is opportunistic, this means locking things up. Do not be shy about using large locks, and hide the keys well. Do your research on identity theft. She may fake your signature and take out loans in your name. Assume she steals your post. If she knows her way around computers, assume she hacks your computer and web accounts.
+
+If Mallory is in your social circle, leave no money on the table. Expect her to use your friends and contacts for her own benefit. Warn them, and keep your most important contacts away from her.
+
+When you start disabling Mallory, she gets hungry. This makes her more aggressive, and scarier. Yet it also makes it much easier to expose her. As you secure your boundaries, you can see when she violates them. This brings us to the next action, which is to collect evidence of her violations of norms and laws.
+
++++ Collecting Evidence
+
+Mallory is a genius at using rules the wrong way. "Here are these complex rules which apply to you, yet not to me because I'm special," he says. It is strange how few of us question such unfairness. Perhaps we've learned the habit of obedience from school and work.
+
+Good rules are simple, and apply to everyone in the same way. Luckily, no matter what Mallory claims or argues, most of society works this way. So if you document his rule violations over a period of time, that gives you real power. Again, this does take time, and patience.
+What "material evidence" means depends on your case, and whether you expect one day to show it to a judge. For criminal or civil cases, learn the rules of evidence for your jurisdiction. In general, evidence must be verifiable, and you must collect it using legal means.
+
+If you are in a serious conflict, speak to a private detective as well as a lawyer. Collecting evidence is the job of a PI, and they will explain the rules and perhaps help.
+
+Here are some hints for collecting evidence:
+* Email is excellent as evidence. It is hard or impossible to to fake and a service like Gmail does the backup for you. Again, care for your passwords. Print out any critical emails and store in a safe place.
+
+* Use email to confirm agreements with Mallory. "Just to confirm, we agreed that..." Ask Mallory to correct you if you misunderstood. This gives you a written trail.
+
+* Video recordings are good evidence in most courts, as they are hard to fake. If you need to prove a history of verbal or physical abuse, video is one of the best tools. You can use your smartphone, or small hidden video recorders.
+
+* Audio recordings are poor evidence in most courts. They can be good material in non-legal situations. They are easy to make, and share. Just use your smartphone's voice recorder. You can buy small, cheap USB pen recorders on line.
+
+* Phone calls are better evidence than audio clips, if you use a call recorder on your smartphone. Tracking caller ID and date and time provides a good record.
+
+* Before you record Mallory at all, learn the law. You could be committing a crime if he did not consent. It depends on the jurisdiction.
+
+* If there are neutral witnesses to an event, try to get a signed and dated statement from them. Make a digital copy and back that up.
+
+* Label your digital copies, and keep them safe and backed-up. You can use a cloud service like Dropbox though be paranoid about your passwords.
+
+* Assume that Mallory is paranoid and guesses when you are recording him. You can turn this to your favor. He tends to behave much better when he thinks others are watching.
+
+The main purpose of this is indirect. Going to court is an extreme outcome. As you collect evidence, two things happen. First, you feel your power returning, and Mallory's power weakening. Mallory also feels it.
+
+Second, you begin to understand Mallory's deceptions as they are happening. You begin to learn his patterns. You can predict his next move.
+
++++ Providing Subtitles
+
+Seeing what Mallory is doing lets you explain to others what is going on, as it happens. In a group or family this is a powerful way to block Mallory. I call this "providing subtitles."
+
+There is a fine line between providing subtitles, and pushing your opinion. And opinions tend to dramatic and one-sided.
+
+A good subtitle explains Mallory's motivations and makes predictions about the outcome. The listener can then use this to build their own model of Mallory's behavior. You cannot assume everyone has read this book.
+
++++ Create Consequences
+
+As you begin to inhibit her, Mallory becomes more hostile. She realizes what you are doing, and guesses the worst. She is paranoid. She decides you are a threat to her, and so she attacks you.
+
+She starts to slander you with detailed stories of your crimes. When she tells these stories to an unaware audience, they believe her. You find people upset with you for mysterious reasons.
+
+In extreme and rare cases Mallory accuses you of criminal acts. She gives the police detailed statements to try to incriminate you. You find yourself questioned. The accusations are frightening. Yet most police forces do not give unsubstantiated accusations much weight.
+
+You must expect such attacks and remain calm if they happen. Take it as a sign of progress. The stakes are rising, and Mallory is taking more risks.
+
+Material evidence is your insurance. You have proof that Mallory is a consistent liar. You have proof that she is a persistent rule breaker.
+
+Your next action is to teach Mallory one simple lesson. It is: if she misbehaves, you will create consequences for her.
+
+Keep in mind that Mallory has no fear of punishment or authority. She has always charmed and lied her way out of trouble. "You will get into trouble" is not a significant threat. She bluffs when she makes threats, and if you make a threat she assumes you are bluffing too.
+
+So you must act, not threaten. You must create a cost for Mallory, and prove that you can and will repeat this as long as needed. The cost must always be a consequence of her behavior. That leaves her the choice of actions.
+
+The main, and often only, consequence that hurts Mallory is exposure.
+
+When you respond, do so with care and provide the minimal material evidence needed. It is tempting to make a dramatic exposure that will discredit Mallory for once and for all. This is a bad idea. Play only the cards that you must, to win each round. Keep Mallory guessing and paranoid.
+
+If you have evidence of criminal acts, do speak with a lawyer. You may be assisting a crime if you do not report what you know. As always, do your research and try to talk with other people in your situation.
+
+++ Liberation Day
+
+The next stage is to take back control of your life from Mallory, and then to end the relationship. If you see Mallory as an occupying power, this is the invasion and liberation. It can get messy. It will take time and patience. Yet this is how you regain your power, and heal.
+
+Let me break down Terminate into separate actions. Each of these gives you more power and independence:
+
+* //Control your emotions//. Mallory uses terror tactics to keep you silent and compliant. You learn to recognize your emotions and not let them control you.
+
+* //Regain control//. Mallory is used to steering conversations and interactions, getting you to react. You turn this around so that you decide when to talk, about what, and for how long.
+
+* //Build alliances//. Mallory works by dividing people and conquering them separately. You create a united front among all those affected, and take over power from Mallory.
+
+* //Invest in self//. Mallory attacks your self-image and sense of worth, so that you see no alternative to the relationship. You create alternatives and build up your inner strengths.
+
+* //Move to exit//. You now end the relationship, on your terms. There is no negotiated settlement. Mallory must become history, one way or another.
+
+None of these are one-day exercises. It all takes time. During that time, as Mallory realizes what you are doing, he will attack you. Few threats are as real to Mallory as a person determined to unmask him. And when he sees danger, he reacts strongly and dramatically. You need to learn to keep your nerve and not buckle. Remember what I said about predators being bluff more than bite.
+
++++ Controlling Your Emotions
+
+> "We start out feeling afraid of something, then that fear makes us feel weak, then that weakness makes us angry, and then we start to hate." -- Cracked.com, [https://www.youtube.com/watch?v=pWq8j0yXkMI#t=273 "4 Terrifying Psychology Lessons Behind Famous Movie Monsters"]
+
+You will feel a powerful "fight or flee" response whenever Mallory shows her anger mask, or rage. It may make you angry. It may make you want to run away. It may make you feel weak, then angry, and then filled with hate. When you are filled with such emotions, you are easy to manipulate.
+
+Emotional control is critical if you want to keep your nerve when dealing with dangerous predators. Whether it's observing them, or dealing with them, uncontrolled emotional response is your main weakness.
+
+You can learn to regulate and reduce your negative emotional responses. I call this technique "grounding." It is based on these principles:
+
+* Each emotion has a distinct character and way of working. These are consistent across all non-psychopaths. You can learn how your emotions work.
+
+* Emotions trigger in chain reactions. These chain reactions vary depending on the context. You can learn to observe these chain reactions in yourself.
+
+* Emotions layer on top of each other. So in a chain reaction, we feel the final emotion, which hides the others.
+
+* Emotions subside when we analyze them. So by observing the chain reactions, we can undo the chain and find its original starting point.
+
+* The origin of an emotional chain reaction is some assumption. When we analyze that assumption we will often see it to be false.
+
+* When we explicitly discredit the assumption, the entire emotional chain falls away.
+
+Let me take the excellent example provided by Cracked. We see a monster on the screen, we feel fear, then weakness, then anger, and then hate. This is a classic chain reaction that leaves us feeling only hate. If we work backwards, and I'll explain how, then we uncover the anger, weakness, and fear.
+
+The fear comes from the assumption that the monster is dangerous. Look again, and we see an image, poor computer graphics, and bad camera work. The fear disappears. Then the weakness, the anger, and the hate vanish too.
+
+Grounding makes us immune to most triggering. It is one of the most valuable lessons I've learned in my life. It is useful in so many situations, not just when dealing with psychopaths. You can use this to calm anxiety in many situations. It does take time, and practice. You can of course use Mallory as practice material. She will often play the monster.
+
+There are other techniques to control emotions. For example [http://www.wikihow.com/Gain-Control-of-Your-Emotions the Wikihow guide] provides five different techniques. Method 4, "Reflecting On Your Feelings" is closest to grounding.
+
+For background, read [#emotions], where I explain how our emotions work. Self-awareness is the basis for grounding.
+
+
+
+
+
+
+
+It may sound strange to conduct an internal dialogue with your emotions. Yet this is the Grounding technique: debunking the emotion by explicitly stating, to yourself, observations and data that negate the underlying theory that the emotion is working on.
+
+When you start, use pen and paper. Your mind won't be able to run the internal dialogue properly. So you search this list for your strongest emotion, and you write that down, and you then ask yourself "where does that come from?" Emotions often trigger other emotions, so you may have to unravel several layers to get at a root theory. When you do this more and more often, you find yourself Grounding yourself on-the-fly, so the layers don't build up.
+
+It can also be helpful to practice this with other people, if they trust you enough to go there. "What are you feeling now?" can be an interesting starting point. If you ever find yourself acting as therapist for an emotionally abusive person, these techniques can save you from the destructive burnout that comes from engaging with unrepentant emotional storms.
+
+More broadly, being grounded lets you meet and talk to anyone without engaging in the emotional games most of us play subconsciously. This includes psychopaths, who attack the emotional surface area of their targets. When grounded, you offer no opportunity for manipulation, and you become a "grey rock" that psychopaths will gloss over.
+
+
+
++++ Regain Control
+
+By now we are moving to active resistance, and towards taking control of the situation. Psychopaths have specific weaknesses -- like their paranoia -- that you can learn, and then use. They are arrogant and their superiority complex makes them careless. They are unused to any form of attack or active resistance, and they will respond viscerally, dramatically, and often stupidly. And they will tend to repeat the same responses over and over, almost mechanically. Psychopaths are like actors: dramatically creative and yet unable to see beyond their stage.
+
+So you have stopped reacting to Mallory's provocations and promises, and started to decode how she works. The next step is to take the lead. You can do this in numerous ways. As a basis, you control the start and end of every conversation. You choose when to talk. You choose when to stop talking. If Mallory tries to start a conversation, you "have things to do." If Mallory forces her way into your space and begins making noise, you ignore her. If she insists, you leave.
+
+Now, you can set the tone of any exchange. You can be friendly and generous, or cold and hostile. At all times, be deliberate and conscious of your words and emotions. In face-to-face discussions, using a hidden audio recorder helps. In written discussions, realize that every word you say is open to scrutiny.
+
+Let's look at two specific strategies for controlling a conversation that you do not want to, or cannot, end. First, randomization, where you overload Mallory with irrelevant detail about topics she does not expect to discuss. Second, provocation, where you deliberately antagonize Mallory in order to record her saying something violently idiotically. Ironically, I learned both these strategies by watching psychopaths control other people.
+
+Randomization means taking some arbitrary topic and discussing in intense detail. You must sincerely want to discuss the topic. A psychopath works with averages, knowing how people will respond in conversation, and typically thinking several moves ahead, like a chess grandmaster. When you leap around in unpredictable directions, they lose their grip, feel "stop," and tend to withdraw. You won't see psychopaths playfully retorting to a topic they do not control.
+
+Provocation sounds dangerous, yet as I explained, psychopaths are creatures of bluff. The goal here is to kick off their visceral response, and to record it. You can often provoke a psychopath easily, by saying "no" to a request, without explanation. You can also accuse them of violation of whatever social contracts they are breaking, and threaten them with exposure. Do make sure you are recording, if you do this. You will often get only one chance, as the next time, Mallory will have a story to answer that accusation.
+
+In a confrontation, you must have full control over your emotions. If you respond with anger, or hate, or self-pity to the inevitable threats and accusations, you have lost it. Mallory will shotgun accusations and slander against you and watch you intensely. When you react even microscopically, she sees it. So expect hurtful accusations against you, and yours.
+
++++ Build Alliances
+
+Alone, you are vulnerable against a life-long manipulator. When you have the support of the group, confronting a psychopath is much easier. In fact if a group rallies against a bad actor in their midst, it is game over. This is why a psychopath spends so much effort dividing the group and keeping individuals fighting each other.
+
+Psychopaths prefer secret conversations with individuals, where they can weave their spells of promises and lies. It is much harder to control a room of people, who are not already fully intimidated. Even a large group who are tied together in the psychopath's structure of lies can be deprogrammed, though it may take so long that it's not worthwhile.
+
+These are the opportunities you have:
+
+* A psychopath can only work on one individual at a time (though by switching rapidly it appears they are working on many in parallel). You can work on groups, as your main tools don't need one-on-one diplomacy. For instance if you have material evidence of a crime or lie, or other breach of contract, you can distribute that widely and cheaply.
+
+* Most people will be receptive to such a message. As I said, we usually have a sceptical voice in our heads warning us that the situation is not "right." It is a matter of finding and talking to this voice.
+
+* From the simple point of view of self-interest, anyone affected by the psychopath is already searching for a way out. If you can show them an answer, they will usually accept it.
+
+This takes time, and evidence that cannot be faked or challenged. There are risks: the psychopath will often try exactly the same strategy, painting you as the common enemy. You have to be beyond reproach, and be utterly transparent with the people you need to work with. The other danger is that a psychopath may not always be a lone hunter. How psychopaths work together is a story for another time. Do not however assume that everyone is automatically on your side.
+
++++ Invest in Self
+
+Those trapped in a psychopathic relationship often end up in bad shape. The slave, feed, and wreck phases of the relationship are corrosive to Bob's sense of identity. When you ask Bob "how's it going?" his answers revolve around Mallory. "She's in a good mood today," or "crazy day today." Bob seems little more than a puppet, reacting to Mallory's every whim. And if Mallory isn't there, Bob is empty and passive.
+
+We can reverse this process of destruction of self, making us more resistant to manipulation, able to fight back, and to imagine and construct better futures than "more of this pain." As the tools of mind control come in many shapes -- and I'll explain these in a further article on psychopaths -- there are many ways to invest in self:
+
+* Rebuild relationships that broke as you engaged deeper and deeper with Mallory.
+* Build private space and time where Mallory cannot create chaos, or try to take control.
+* Start new projects that provide plausible alternatives for the toxic, failed projects you invested in with Mallory.
+* Find positives in your situation. Every day can be a valuable lesson, if you are able to learn.
+* Turn your emotion and pain into creative art, music, dance, photography, or writing.
+* Use this creative process to create positive energy, and happy moments. It's both good for you, and confusing and distasteful to Mallory.
+
+When I said psychopaths are lazy, that isn't true in all senses. They will work extraordinarily hard at their core skills of hiding, stalking, feeding, slaving, and so on. They will invest massively in organizing people simply to be able to control and exploit them. It is an irony of psychopathy that this energy can produce positive and creative outcomes. Many impressive feats have been accomplished by people driven to desperation to escape the psychopath in their lives.
+
++++ Move to Exit
+
+The last move in solving this complex puzzle is to create exits, and move towards them. You are only as trapped as you believe you are (unless Mallory has you physically restrained). When you can imagine a future past the psychopathic relationship, then you can create it. Whether it takes weeks, or years, the path to freedom is defined by your own imagination, and determination.
+
+As soon as you can, you end the relationship with the psychopath. In the best cases it's about ten seconds after you realize, "this person is rather more selfish than normal." In the worst cases, it takes years to undo a professional or personal relationship that has woven deep into your life. No matter: once the relationship is over, you walk away and not talk to them again.
+
+In forums on abusive relationships this is called "no contact," or NC. That means ignoring emails, phone calls, and chats. It can mean changing your phone number, and keeping off social networks. If you do share children, you work with an intermediary, e.g. child care centre, to avoid ever seeing your ex. If you are in the same company, you ask for a different location.
+
+I believe that if you've regained control of the relationship, that Mallory will generally ignore you once you're gone. However, some flavours of psychopaths don't let go easily, and NC is a valuable tool for cutting them off.
+
+
+
+++ Breaking the Cycles of Abuse
+
+I've explained two specific long-term abuse cycles:
+
+# The majority case, where a vulnerable person is abused repeatedly over their life by different people. The abuse often seems mild, even low-level, and is invisible to most others.
+# The psychopath's children, divided into winners and losers, with the winners getting an education in being professional bullies, and the losers serving as the training material.
+
+The first cycle depends on specific responses from the victim. While these responses are often instinctive, we can learn, with time and help, to control them, and break the cycle. There are several parts to this:
+
+* Reducing our emotional surface, so we want nothing and fear nothing, and so are less attractive to predators. There are techniques like "grounding" [http://hintjens.com/blog:81#toc12 that I've previously described] which can help.
+
+* Learning to spot psychopaths in the wild, by learning how psychopaths operate and watching for such behaviour in people we meet, or already know. We can start to recognize predators as they approach us or our friends and family.
+
+* Decoding the psychopath's attacks, and developing defenses against each of them. No defense can succeed every time, and the goal is to build resistance over time, rather than score a spectacular triumph.
+
+This is analogous to how we secure a computer system from hackers. We close as many paths to attack as we can. We learn to spot suspicious behaviour in other computer systems ("why is this IP address trying to log in over and over with different passwords?"). And we learn specific attacks and defend against them ("Downloading security updates...").
+
+It's the active resistance that breaks the cycle. Fleeing your demons, carrying your pain and defeat with you, simply marks you for further torture. It's entirely different to confront and overcome, even if it takes a long time.
+
+In the second abuse cycle, from psychopaths to their children, clearly we can't expect minors to defend themselves. Nor can we expect the state to intervene in such families, except when the children are in immediate danger. The numbers involved are massive. If the rate of psychopathy is 4%, that means about 8% of families are affected. Any program that tried to separate psychopaths from their children would inevitably create opportunities for more, and worse abuse, by other psychopaths.
+
+However for most psychopathic parents, there is an "enabler" parent who tolerates, excuses, and reinforces their abusive partner's behaviour. Enablers are trapped in the first abuse cycle. With targeted education campaigns, it should be possible to reach enablers, break the narrative they are stuck in, with their children, and provide them the tools for resisting and disarming their partner.
+
+
+++ Conclusion
+
+In this article I've covered the second half of my DOIT tool kit, the Intervention and Treatment tools. My goal was to teach you how to face your fears and beat them, rather than run away. As a psychopath's love and promises are mostly lies, so are their anger and threats mostly bluff. In reality, psychopaths, like any natural predator, have to avoid risk and exposure.
+
+In some cases, when you stop enabling, you will get a short sharp attack, one final attempt to lure you back in, and if you resist that, it's over. In other cases, you have to work yourself free step by step, over months or years. This can be painful, though the pain passes. As I've explained, it is that very act of freeing yourself that heals you. It is the shifting of power back to you that matters. When you end your relationship with a psychopath, it should be as a whole person.
+
+Sometimes, as you learn to lie, manipulate, and bluff, you may wonder if you're not the psychopath in the room. If you feel confused, remind yourself that psychopaths live off others' pain and loss. You live off their joy and happiness. Where a psychopath brings people together so he can gain power over them, you bring them together because it's fun for everyone.
+
+There are deep lessons to be learned, when we look at the darkest sides of human nature. It does seem that these lessons are often written in pain and suffering. In a further article on psychopaths, I'll look at mind control techniques. Individual psychopaths use these as natural talents. Organizations use them to coerce their members into giving up their freedoms and resources. I regard these techniques as as set of vulnerabilities in the human psyche, and to know them is to be able to guard against them.
+
+
