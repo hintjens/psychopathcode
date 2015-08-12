@@ -2,7 +2,7 @@
 .bookmark preface
 + Preface
 
-There are some scary people around. People who take what they want, using their charm and wits. Con artists. Professional liars. They take from friends, colleagues, family and strangers alike. They never apologize or feel remorse towards the people they hurt. They often have criminal careers. We call them by many names. Narcissist. Anti-social. Sociopath. CEO. And increasingly, we call them Psychopath.
+There are some scary people around. People who take what they want, using their charm and wits. Con artists. Professional liars. They take from friends, colleagues, family and strangers alike. They never apologize or feel remorse towards the people they hurt. They often have criminal careers. We call them by many names. Narcissist. Anti-social. Sociopath. CEO. And more and more, we call them Psychopath.
 
 What is wrong with these people? Maybe they had cold and distant parents. Maybe they suffered abuse, as children. Maybe they have something broken in them, a chemical imbalance, or evil demons.
 
@@ -12,7 +12,7 @@ Can we identify them? If we study them in prisons and hospitals and boardrooms, 
 
 If ex-partner might have been a psychopath, this book will bring back memories. It will cause you to feel strong emotions. You may want to avoid reading it, to avoid reliving your experiences. This is a common and understandable reaction. The dominant opinion about trauma is that re-thinking our experiences stops the healing process.
 
-Yet to avoid is to be helpless. And helplessness leads us to depression. I have talked for hundreds of hours with other survivors of psychopathic relationships. I've listened to their stories of endless emotional bullying, deceit, manipulation, theft, and so on. I've shared my own stories. And I've told the stories that I tell in this book. What psychopaths are. How they think. Where they get their power. What they look like. And most of all, how to fight back.
+Yet to avoid is to be helpless. And helplessness leads us to depression. I have talked for hundreds of hours with other survivors of psychopathic relationships. I've listened to their stories of endless emotional bullying, deceit, manipulation, theft. I've shared my own stories. And I've told the stories that I tell in this book. What psychopaths are. How they think. Where they get their power. What they look like. And most of all, how to fight back.
 
 Our experiences are all so similar. It is as if every psychopath on Earth read the same handbook. When I talk about psychopaths with a new group, at least a quarter of them light up. "You're speaking of my ex," they say. I explain how I learned to deal with such people, past and present. "You should write a book," they tell me. "I'm doing that," I reply.
 
@@ -24,16 +24,11 @@ I'm a geek who writes software, articles, and books. My degree was in computer s
 
 Over my career I've worked with thousands of people. I've built hundreds of teams, and many small businesses, not-for-profits, and on-line communities. I've had to learn human nature. Some lessons are obvious. Some are well hidden. We are such a complex species. And yet it is possible to decode, understand, and predict human nature.
 
-It was in my book [http://cultureandempire.com Culture & Empire] that I began to write about psychology. My expertise, and what fascinates me, is social psychology. That is, how groups work, and how people work within groups. It is the core of my work in open source community building. Software is all about people, it turns out.
+It was in [http://cultureandempire.com Culture & Empire] that I began writing on psychology. My expertise, and what fascinates me, is social psychology. That is, how groups work, and how people work within groups. It is the core of my work in open source community building. Software is all about people, it turns out.
 
 In Culture & Empire I also looked at conflict as a force for change.
 
-<<<<<<< HEAD
 We dream of peace and stability. Yet throughout history the most ambitious leaps forward have arisen from conflict and chaos. We build a world of human rights. We work to protect the environment. We build legal systems and courts and police forces to protect prosperity and peace. You may not realize this from the daily news, yet globally, [https://en.wikipedia.org/wiki/The_Better_Angels_of_Our_Nature violence falls every year, and always has].
-=======
-We dream of peace and stability. Yet history shows the most ambitious leaps forward coming from conflict and chaos. We build a world of human rights. We work to protect the environment. We build legal systems and courts and police forces to protect prosperity and peace. You may not realize this from the daily news, yet globally, [https://en.wikipedia.org/wiki/The_Better_Angels_of_Our_Nature violence falls every year.] It always has.
->>>>>>> Chapter 5: finished edits.
-
 Humans are not good, or evil. We are survivors. We do whatever it takes to reproduce and make sure our children flourish. Most of us succeed by working together. Some of us prosper by cheating others. I call these the "good actors" and the "bad actors."
 
 As I finished Culture & Empire, I was facing some bad actors in my personal life. Being a writer, I didn't run away, and I didn't deny what was going on. Instead I started taking notes and conducting small experiments. It is not every day you get live psychopaths to play with.
@@ -72,7 +67,7 @@ Above all, she was //predatory// in a confident and innocent way. It took me a l
 
 There are already plenty of people studying psychopathy-as-a-disorder. I wanted to explore psychopathy-as-an-adaptation because it fit my data better. Further, it seemed to lead to more positive, and useful conclusions.
 
-To model psychopathy as an adaptation rather than a disorder opens a door to a new world. Our questions change. We ask what struggle pushed this evolution. We ask what specific adaptations they actually possess. Do psychopaths have longer teeth? Sharper claws? Or less obvious talents?
+To model psychopathy as an adaptation rather than a disorder opens a door to a new world. Our questions change. We ask what struggle pushed this evolution. We ask what specific adaptations they actually own. Do psychopaths have longer teeth? Sharper claws? Or are their talents more discrete?
 
 We also ask what counter-adaptations might exist in social humans (the non-psychopath majority). We ask, "Could the psychopath-social relationship in fact be a predator-prey story?" And the answer turns out to be an emphatic "Yes, of course!" We ask, "How old is this story?" and the answer is, "Millions of years."
 
@@ -82,6 +77,7 @@ Truth is an absolute we cannot reach, only make better approximations to. Someti
 
 ++ Dear Mallory
 
-I'd like to thank F, S, H, J, M, F, B, K, and M for teaching me more than I ever wanted to learn about psychopathy. I don't think you ever realized the damage you did to others. They never really existed, after all, did they, the people you used and discarded like broken toys. It may shock you, if you read this book and realize you are on the wrong side of it. At some level we are all innocent inside, even the worst of us. Rest easy. I'm not going to speak your name.
+I'd like to thank F, S, H, J, M, F, B, K, and M for teaching me more than I ever wanted to learn about psychopathy. I don't think you ever realized the damage you did to others. They were never real after all, the people you used and discarded like broken toys. It may shock you, if you read this book and realize you are on the wrong side of it. At some level we are all innocent inside, even the worst of us. Rest easy. I'm not going to speak your name.
 
-For what its worth, the lessons you taught me were not wasted. I've used every interaction we ever had to understand how your mind works. I've run complex, long experiments on you. Often I wasn't even intending this. It's just how //my// mind works. I like to solve mysteries and you were a indeed mystery. You gave me good, solid data, so thanks for that. You are nothing if not consistent. The results are in my work, and this book. I would dedicate it to you except no.
+For what its worth, the lessons you taught me were not wasted. I've used every interaction we ever had to understand how your mind works. I've run complex, long experiments on you. Often I wasn't even intending this. It's just how //my// mind works. I like to solve mysteries and you were a deep mystery. You gave me good, solid data, so thanks for that. You are nothing if not consistent. The results are in my work, and this book. I would dedicate it to you except no.
+
