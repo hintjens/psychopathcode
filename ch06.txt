@@ -1,26 +1,34 @@
 // kate: font Liberation Sans; font-size 16; syntax None; bom off; indent-mode none;
 .bookmark emotions
-+ Appendix: Emotions
++ A Dance of Emotions
 
-Emotions are the key to understanding humanity, in all its forms. These mental tools are as pragmatic and logical as any other organ. Yet they are the basis for millions of words of poetry and philosophy. Entire religions revolve around the metaphysical interpretation of emotions like happiness and guilt.
+When we ask why someone acts in a certain way, the answer is a mix of pragmatic logic and emotion. This is as true for psychopaths as it is for the rest of us. Despite appearances, logic and emotion are not opposed. They work together in a complex dance that I'll explain in this chapter. The dance has many steps, and each step plays out in specific ways.
 
-I'm going to provide you with a simple, pragmatic model for our main emotions. This model helps teach us self-control, when faced with stressful or hostile situations. It also explains how psychopaths feel, and what drives them to do what they do. My approach is based on evolutionary psychology.
+To learn the dance of the emotions is like learning to read. Emotions are a language. It is an ancient language that we share with many other species. The language flows through us, and between us. We speak it with our bodies and faces. We feel it in our blood as music. We move to the music without conscious decision. We must answer the call of emotion, even when it hurts and damages us to do so.
+
+Mallory can make others dance. This is a talent he does not need to learn. Yet he is as lost as any of us, when it comes to his own music. He does not decide to hurt others. He obeys an ancient logic. He is a rock rolling downhill, obeying the logic of gravity. In this sense, Mallory is an innocent.
+
+In this chapter I'll explain each step of the dance, and its music. Each emotion is distinct and consistent. Every emotion has a cause, and consequences. These connect in chain reactions. These chain reactions keep us alive. The dance may seem primitive or wasteful. Sometimes it is. Mostly it is not.
+
+When we know the dance, we can tell the difference. We evolved for a different world, one with fewer people and more dangers. Our instincts respond naively. They cannot tell the difference between reality, and caricature. Yet other parts of our minds can learn the difference. We can learn which music causes us pain and harm, and we can stop the dance when we choose to.
+
+Learning to read the emotions gives you a new power. This is the ability to recognize and then control the music, both in yourself and in others.
+
+When we can control the music, we become immune to Mallory and to many other causes of stress. There is no magic moment of awakening. It is a gradual process that takes years. Like any skill it takes practice and patience to master.
 
 ++ The Evolution of Emotions
 
-Evolutionary psychology aims to explains our mind and behavior in terms of evolution. It's a solid theory: we are the products of natural and sexual selection, no more or less. I've used this approach to explain psychopathy as an adaption rather than a disorder. I'm going to use the same approach to explain our emotions.
+Evolutionary psychology aims to explains our mind and behavior in terms of evolution. It is a solid theory: we are the products of natural and sexual selection, no more or less. I've used this approach to explain psychopathy as an adaption rather than a disorder. I'm going to use the same approach to explain our emotions.
 
-Our emotions are adaptations, evolved over time to solve the problems our ancestors faced in surviving and reproducing. This is not an original approach to understanding emotions. The first champion of evolution, Charles Darwin, used it when he wrote "The Expression of the Emotions in Man and Animals" [https://en.wikipedia.org/wiki/Evolution_of_emotion in 1872].
+Our emotions evolved over time to solve the problems our ancestors faced in surviving and reproducing. This is not an original notion. The first champion of evolution, Charles Darwin, used it when he wrote "The Expression of the Emotions in Man and Animals" [https://en.wikipedia.org/wiki/Evolution_of_emotion in 1872]. Some emotions date from hundreds of millions of years ago, and are shared by many other animals. Some date from more recent times, and seem to be specific to humanity.
 
-Like the rest of our body and mind, our emotions did not all evolve at the same time. Some date from hundreds of millions of years ago, and are shared by many other animals. Some date from more recent times, and seem to be specific to humanity.
+It is likely that different species have reinvented the same emotions repeatedly. Many birds and mammals share emotions like happiness and sadness. Yet that does not mean their common ancestors already had them. Evolution often rediscovers the same solutions to what look like universal problems.
 
-It is likely that different species have reinvented the same emotions repeatedly. Evolution often rediscovers the same solutions to what appear to be universal problems. Many birds and mammals share emotions like happiness and sadness. Yet that does not mean their common ancestors already had them.
+Emotions have two general goals. They prepare our mind and body for some action, by accelerating certain systems and slowing others. I call this "orchestration." Imagine the emotion as the conductor waving a baton, getting a hundred musicians to play the same tune. Emotions also display our mental and physical state to others. Imagine a TV news anchor summarizing a day's events in a single sentence. Some emotions are only about orchestration. Others are only about display. Most are a mix of the two.
 
-Emotions have two possible purposes. They prepare our mind and body for some action, by accelerating certain systems and slowing others. I call this "orchestration." Imagine the emotion as the conductor, getting a hundred different musicians to play the same tune. Emotions also display our mental and physical state to others. Some emotions are only about orchestration. Others are only about display. Most are a mix of the two.
+I'm going to take the human emotions, and collect them into groups. This grouping turns out to be a helpful approach. Each group works together like a puzzle, with each emotion being a single consistent piece. We can clearly see when a group is complete. We can fit the emotions we recognize into their correct group. We can also see how each group works, as a whole.
 
-I'm going to slice the human emotions into groups. This turns out to be a helpful approach. Each group works together like a puzzle, with each emotion being a single consistent piece. We can clearly see when a group is complete. We can fit the emotions we recognize into their correct group. We can also see how each group works, as a whole.
-
-I'll work from oldest group to most recent:
+The emotional groups evolved at different times, as we climbed up the social ladder. I'll work from oldest group to most recent:
 
 * The //predator emotions// help us hunt and capture prey. These appear in predator animals, including our own species.
 
@@ -32,7 +40,7 @@ I'll work from oldest group to most recent:
 
 * The //social emotions// let us form looser and larger social groups. These appeared in our own ancestors at some point after we split off from chimpanzees' ancestor, 13 million years ago.
 
-My breakdown comes to about 35 universal human emotions. All humans, with specific exceptions, feel these emotions and feel them in the same way. I expected a much smaller set of universal human emotions. Yet as you will see these are distinct and precise. In many cases I've had to find names for emotions that we know, yet rarely verbalize.
+My breakdown comes to about 40 universal human emotions. All humans, with specific exceptions, feel these emotions and feel them in the same way. I expected a much smaller set of universal human emotions. Yet as you will see these are distinct and precise. In many cases I've had to name emotions that we know, yet rarely verbalize.
 
 Like all our mental tools our emotions have continued to evolve and shift over time. So while human rage and dog rage share a common ancestor, they have evolved in their own directions. I'll explain the human experience.
 
@@ -46,41 +54,53 @@ The predator emotions are what we feel when we stalk and prey on food animals:
 
 * //Euphoria// - the emotion of chasing a fleeing prey. Your hearing switches off and your vision tunnels in on your target. Your breathing and heartbeat ramp up. Blood flows to your muscles, and glucose feeds into your blood. Your eyes widen, your mouth opens, and you bare your teeth.
 
-* //Glee// - the emotion of seeing your prey stumble. You feel a kick of pleasure and your adrenalin ramps up higher. You exhale sharply. Your body prepares to move in for the capture. Blood flows to your arms and face. You bare your teeth and open your mouth. You compress the muscles around the eyes, to protect them from damage.
+* //Glee// - the emotion of seeing your prey stumble. You feel a kick of pleasure and your adrenalin ramps up higher. You exhale sharply. Your body prepares to move in for the capture. Blood flows to your arms and face. You bare your teeth and open your mouth. The muscles around your eyes compress, to protect them.
 
 * //Fury// - the emotion of attacking your prey. Your sense of pain switches off. Your vision narrows to a tunnel, and your eyes narrow to reduce the risk of damage. If you could move your ears, they would fold back. You are silent. You are entirely focused on physically capturing your prey. As you catch it, you feel intense bursts of pleasure that push you on.
 
-* //Bloodlust// - the emotion of killing your prey. You feel an orgasmic climax of pleasure as you deal the killing blows. Your lungs and heart are still working hard to purge your blood of waste products from the chase. Your arms and hands clench. You still don't make any sound. You're focused on keeping your prey captive while you kill it. Your digestive system starts to prepare for food.
+* //Bloodlust// - the emotion of killing your prey. You feel an orgasmic climax of pleasure as you taste blood. Your lungs and heart are still working hard to purge your system of waste products from the chase. Your arms and hands and jaws clench. You still make no sound except a low groan. You're focused on keeping your prey captive while you kill it. Your digestive system starts to prepare for food.
 
 * //Gluttony// - the emotion of eating your prey. You feel more paranoid than usual. You are vulnerable to competitors looking for a free meal. If it is possible, you move your meal to a safe location. You lick your lips, look nervously left and right. Your eyes are wide. Your saliva glands are working full speed, and your digestive system is in full swing, expecting a full belly. When it is safe to eat, you eat rapidly, focusing on your food.
 
 * //Satiation// - the emotion of having eaten enough or too much. Your saliva glands switch off, and you reject the remains of your meal, if any. You look around for others to share with. You adopt open body language, and relax. Blood flows to your digestive system. Your arms and legs are limp.
 
-* //Blocked// - the emotion of a failed hunt or chase. Your body relaxes and all systems go to neutral. You withdraw to a safe place and replay your memory, seeing what went wrong. You imagine different "what if" scenarios, and rehearse them mentally.
+* //Blocked// - the emotion of a failed hunt or chase. Your body relaxes and all systems go to neutral. You withdraw to a safe place and replay your memory over and over. You look for what went wrong. You imagine different "what if" scenarios, and rehearse them mentally.
 
-These are ancient and violent emotions. Except hunger, they have no common names. Some, like the killing emotion, are taboo, even alien to most of us. I had to search for words to describe them. We repressed most of them millions of years ago, as we started to develop our social instincts. You will recognize some from our daily rituals of eating. Others are familiar from play.
+These are ancient and violent emotions. Except hunger, they have no common names. Some, like the killing emotion, are taboo, even alien to most of us. I had to search for words to describe them. We rerouted these millions of years ago, as we started to develop our social instincts. You will recognize some from our daily rituals of eating. Others are familiar from play.
 
 Watch children play hide-and-seek and you'll see tame forms of obsession, euphoria, and glee. Watch someone playing monster with a young child and you will see the caricatures of fury and bloodlust. Watch young men playing violent video games and you see these emotions acted out on the faces of the players.
 
-Some of us, a small minority, naturally feel this full range of emotions in their original power. In hand-to-hand warfare, most soldiers do not kill. They aim to miss. They run away when they can. They mostly provide cover and mass, to intimidate the other side. Much of the military machine works just to force this majority to aim their spears and guns in the right direction.
++++ Maths Murders
 
-The majority does shift gears when their families and homes are threatened. To save our relatives or children from an armed and violent stranger, most of us will aim to kill. However there are no predatory emotions. Instead, we feel the defensive emotions I'll explain in the next section.
+In most people these emotions do not, even under threat of death, focus on fellow humans. In hand-to-hand warfare, most soldiers will not kill. They aim to miss. They run away when they can. They mostly provide cover and mass, to intimidate the other side. Much of the military machine works just to force this majority to aim their spears and guns in the right direction.
 
-It is the small minority who actively seek the opportunity to hurt others. They kill easily, once they learn the basics, and they enjoy it. They are attracted by war, which sanctions and forgives their violence. They build power pyramids. They sabotage peace efforts and eliminate internal competitors. They can rise to positions of great power, leading armies and empires.
+This majority does shift gears when their families and homes are threatened. To save our relatives or children from an armed and violent stranger, most of us will aim to kill. Yet we do this without the predatory emotions. Instead, we feel the defensive emotions I'll explain in the next section.
 
-This minority are the psychopaths. These predator emotions drive psychopaths in their hide-hunt-attack-capture-consume behavior. To the extent we all feel these emotions at some level, we are all psychopathic at some level. The key difference is whether we feel them towards other humans, or towards food. Do you hunger for breakfast, or for power?
+Some of us, a small minority, feel only these emotions and no others. So the emotions work at their original full power. More, they focus on fellow humans rather than on food. This minority are the psychopaths. It is the predator emotions that drive psychopaths in their hide-hunt-attack-capture-consume behavior.
 
-Successful armies have recognized this for a long time. They ensure psychopaths are selected, enabled, and promoted. Further, they have institutionalized the process of creating secondary psychopaths. We can now define a secondary psychopath as someone who has learned to apply these emotions to other people. They may also feel guilt and shame, later, as their empathy starts working again.
+We all feel the predator emotions at some level. The key differences are degree and direction. Do you live for the pleasure of the kill? And do you hunger for breakfast, or for power over others?
 
-Yet this does not mean all psychopaths are physically violent, or natural killers. The same emotions apply in business, politics, and private life. Sex and violence are as much in the mind as in the body. The risks of violence apply both ways. For pragmatic reasons, most psychopaths will prefer non-violent paths to the same pleasures.
+Yet this does not mean all psychopaths are physically violent. Murder is risky business. In normal circumstances the risks of exposure and retribution massively outweigh the emotional rewards. A healthy psychopath amygdala shudders at the thought. It keeps the predator emotions safely focused on business, politics, and private life. Sane psychopaths aim to die from old age, surrounded by grandchildren, just like anyone else.
 
-There is a subgroup of psychopaths who I'd classify as high risk of seeking physical violence. These are young men and women with nothing to lose. Disaffected and disconnected young psychopaths are easy recruiting material for foreign war brokers. It is a sort of murder tourism, with "this could be you in the mask" snuff porn as the marketing material.
+In specific circumstances, the equation tilts Mallory towards serial murder:
 
-It is easy to enable and encourage this cycle. Promote the marketing material in the media so that it reaches its target audience. Criminalize those who travel abroad to join violent organizations. Hold mass court cases and broadcast these too. Draw bold "ye shall not cross" lines so that every young candidate knows precisely what to aim for.
+* //If the amygdala suffers damage from injury or tumors.// This may shut down its inhibition, so it feels infallible and superior. This may happen more often than we realize. [[data on murderers and amygdala]].
 
-And vice-versa, recognizing the pattern, we can disable it. Refuse to show the advertisements. Recognize that they are recruiting material aimed at a specific and vulnerable audience. Create education campaigns to warn potential recruits that they will mostly be used as material for suicide bombs. Make higher education affordable, and fix the labor market.
+* //If the social status of the victim is so low that retribution is unlikely.// Thus prostitutes, beggars, orphans, minorities, homosexuals, and the elderly are more at risk of death at Mallory's hands. Serial murderers notoriously target individuals who are least likely to be valued by authority.
 
-The four percent who see themselves in the mask, holding the knife, are the canaries in the coal mine. There are a lot of disaffected, disconnected young people.
+* //If there is strong social support for murder.// Mainly, this means open hostilities between two groups. In other words, war. Only the losers are prosecuted for crimes against humanity. The winners get to butcher freely, in the name of God and Country.
+
+* //When there is nothing to lose, and much to gain.// A large proportion of young men are evolutionary dead-ends. Historically as many as two-thirds of men have no children. That includes many psychopaths. Lack of local prospects makes Mallory happy for foreign adventure.
+
+The maths of murder are consistent across human culture. Successful generals understand it, and use it to recruit young male psychopaths as the killer core of their professional armies. It is a timeless recipe. Invoke martial law, to remove the risk of punishment. Dehumanize the enemy so that Mallory faces no anger from the home front. Aim at poor psychopaths with few other prospects. Deliver propaganda and marketing that invites them in.
+
+The military has practiced this for a long time. It selects, enables, and promotes psychopaths. It offers the chance for unlimited rape and murder. Just don't get caught. It has institutionalized the process of creating secondary psychopaths. We can now recognize a secondary psychopath as someone who has learned to apply the predator emotions to other people. Secondary psychopaths will also feel deep guilt and shame, later, as their empathy starts working again.
+
+The psychopaths who are brought into conflict zones actively seek the chance to rape, hunt, and butcher. They kill easily, once they learn the basics. They enjoy it like sex. They build power pyramids. They sabotage peace efforts and eliminate internal competitors. They can rise to positions of great power, leading armies and empires.
+
+You might ask how society accepts and collaborates in the promotion of murder. We show snuff videos on the evening news. We criminalize Mallory when he travels abroad to fight. We draw bold "ye shall not cross" lines so that every young candidate knows precisely what to aim for. The generals don't need to do the hard work of recruiting. Society does it for them.
+
+The answer lies in a second group of emotions, those we use against bigger, badder animals than ourselves. It is easy to convince a population to support a war of aggression. You simply invoke the defense emotions.
 
 ++ The Defense Emotions
 
@@ -90,17 +110,17 @@ The defense emotions are ancient and widespread. These emotions keep us safe fro
 
 * //Suspense// - the emotion of recognizing an potential threat. It is what you feel when you hear an unexpected noise in the middle of the night. Or, when you turn a corner and see a large, dangerous looking animal blocking your way. Your body freezes. Adrenalin starts to flow into your blood stream. You breath out slowly to clear your lungs without making noise. Your vision and hearing ramp up as you try to identify the threat. Your memory goes into high-definition recording mode. Later this feels like time had slowed down.
 
-* //Terror// - the emotion of wanting to flee from a threat. Adrenalin continues to pour into your blood. Blood flows to your lungs and legs. Your blood vessels constrict to reduce bleeding in case of damage. You go pale. Your digestive system slows down and stops. Your mouth goes dry. Your focus is on hiding, and freezing when you are out of sight. Terror says, "I am not going to fight."
+* //Terror// - the emotion of wanting to flee from a threat. Blood flows to your lungs and legs. Your blood vessels constrict to reduce bleeding in case of damage. You go pale. Your digestive system slows down and stops. Your mouth goes dry. Your focus is on hiding, and freezing when you are out of sight. Terror says, "I am not going to fight."
 
-* //Flight// - the emotion of fleeing from a pursuing threat. Adrenalin continues to pour into your blood. Blood flows to your leg muscles, lungs and arms. You focus on paths and exits. Your eyes open as wide as possible. You breath hard and fast and your heart pumps at full speed. Your hearing switches off. Endorphins flood into your bloodstream to switch off the pain response.
+* //Flight// - the emotion of fleeing from a pursuing threat. Adrenalin pours into your bloodstream. Blood flows to your leg muscles, lungs and arms. You focus on paths and exits. Your eyes open as wide as possible. You breath hard and fast and your heart pumps at full speed. Your hearing switches off. Endorphins flood into your bloodstream to switch off the pain response.
 
 * //Anger// - the emotion of standing your ground and repulsing a threat. Blood flows to your face and neck. Your posture makes you seem physically larger: arms wide, feet apart, head up. You bear your teeth and you stare with wide eyes. Your saliva gets thick and foamy. Your voice gets heavy and loud, and you shout. Anger says, "I am not backing down. Retreat now, or you will be hurt!"
 
-* //Rage// - the emotion of physically attacking a threat. Your body prepares to inflict and receive physical damage. Blood flows to your upper body and arms and face. Your nervous system switches off pain. Your heart beats faster, and you breath hard, pumping oxygen into the blood. Your body releases glycol and your muscles tense for action. Your vision narrows to focus on the threat. Your hearing dulls, as noise is now only a distraction. You are shouting or screaming continuously. Rage says, "Last chance to run away!"
+* //Rage// - the emotion of physically attacking a threat. Your body prepares to inflict and receive physical damage. Blood flows to your upper body and arms and face. Your nervous system switches off pain. Your heart beats faster, and you breath hard, pumping oxygen into the blood. Your body releases glycol and your muscles tense for action. Your vision narrows to focus on the threat. Your hearing dulls, as noise is now only a distraction. You are shouting or screaming continuously. Rage says, "Leave, stop, go away!"
 
 A successful predator must avoid its prey feeling suspense until it is too late. There is thus an old arms race between predator and prey. The predator disguises itself, to move in closer. The prey becomes better at identifying its predator. The two strategies balance each other. If a predator is too successful it destroys its own host species. If the prey is too nervous, it dies from exhaustion.
 
-You can contrast the defense emotions with the predator emotions. Rage and fury seem similar. Yet the former has the goal of driving off a threat, while the latter has the goal of murder.
+You can compare the defense emotions with the predator emotions. Rage and fury seem similar. They can both end in violence and death. Yet the former has the goal of driving off a threat, while the latter has the goal of murder.
 
 ++ The Family Emotions
 
@@ -109,6 +129,12 @@ Next, the emotions that evolved as part of our reproductive behavior. These are 
 * //Happiness// - the emotion of being in a good situation. That means, healthy, well-fed, safe, and comfortable. If you are a care-giving parent, it is the emotion you feel when your offspring are in a good situation. You smile, laugh, and use open body language. Your pupils widen, and blood flows to your skin, making you glow.
 
 * //Sadness// - the emotion of being in a bad situation. That means, unhealthy, hungry, unsafe, or uncomfortable. If you are a care-giving parent, it is the emotion you feel when your offspring are in a bad situation. You pout, cry, and use show closed body language. Your pupils shrink. Blood circulation slows in your skin, making you look pale and cold.
+
+* Distress
+
+* Loneliness
+
+* Fear
 
 Empathy first evolved, I assume, as this parent-child language. A parent feels as happy or sad as its offspring. Thus it is safe to state that all species where the adults care for the young have empathy. Human empathy is richer, as we have more emotions. Yet we did not invent empathy.
 
@@ -241,4 +267,50 @@ for each, how you react when you see in others
 social forms
 
 - empathy developing in adults only; mechanism for retention of juvenile characteristics
+
+++ Grounding Your Emotions
+
+> "We start out feeling afraid of something, then that fear makes us feel weak, then that weakness makes us angry, and then we start to hate." -- Cracked.com, [https://www.youtube.com/watch?v=pWq8j0yXkMI#t=273 "4 Terrifying Psychology Lessons Behind Famous Movie Monsters"]
+
+You will feel a powerful "fight or flee" response whenever Mallory shows her anger mask, or rage. It may make you angry. It may make you want to run away. It may make you feel weak, then angry, and then filled with hate. When you are filled with such emotions, you are easy to manipulate.
+
+Emotional control is critical if you want to keep your nerve when dealing with dangerous predators. Whether it's observing them, or dealing with them, uncontrolled emotional response is your main weakness.
+
+You can learn to regulate and reduce your negative emotional responses. I call this technique "grounding." It is based on these principles:
+
+* Each emotion has a distinct character and way of working. These are consistent across all non-psychopaths. You can learn how your emotions work.
+
+* Emotions trigger in chain reactions. These chain reactions vary depending on the context. You can learn to observe these chain reactions in yourself.
+
+* Emotions layer on top of each other. So in a chain reaction, we feel the final emotion, which hides the others.
+
+* Emotions subside when we analyze them. So by observing the chain reactions, we can undo the chain and find its original starting point.
+
+* The origin of an emotional chain reaction is some assumption. When we analyze that assumption we will often see it to be false.
+
+* When we explicitly discredit the assumption, the entire emotional chain falls away.
+
+Let me take the excellent example provided by Cracked. We see a monster on the screen, we feel fear, then weakness, then anger, and then hate. This is a classic chain reaction that leaves us feeling only hate. If we work backwards, and I'll explain how, then we uncover the anger, weakness, and fear.
+
+The fear comes from the assumption that the monster is dangerous. Look again, and we see an image, poor computer graphics, and bad camera work. The fear disappears. Then the weakness, the anger, and the hate vanish too.
+
+Grounding makes us immune to most triggering. It is one of the most valuable lessons I've learned in my life. It is useful in so many situations, not just when dealing with psychopaths. You can use this to calm anxiety in many situations. It does take time, and practice. You can of course use Mallory as practice material. She will often play the monster.
+
+There are other techniques to control emotions. For example [http://www.wikihow.com/Gain-Control-of-Your-Emotions the Wikihow guide] provides five different techniques. Method 4, "Reflecting On Your Feelings" is closest to grounding.
+
+For background, read [#emotions], where I explain how our emotions work. Self-awareness is the basis for grounding.
+
+
+
+
+
+
+
+It may sound strange to conduct an internal dialogue with your emotions. Yet this is the Grounding technique: debunking the emotion by explicitly stating, to yourself, observations and data that negate the underlying theory that the emotion is working on.
+
+When you start, use pen and paper. Your mind won't be able to run the internal dialogue properly. So you search this list for your strongest emotion, and you write that down, and you then ask yourself "where does that come from?" Emotions often trigger other emotions, so you may have to unravel several layers to get at a root theory. When you do this more and more often, you find yourself Grounding yourself on-the-fly, so the layers don't build up.
+
+It can also be helpful to practice this with other people, if they trust you enough to go there. "What are you feeling now?" can be an interesting starting point. If you ever find yourself acting as therapist for an emotionally abusive person, these techniques can save you from the destructive burnout that comes from engaging with unrepentant emotional storms.
+
+More broadly, being grounded lets you meet and talk to anyone without engaging in the emotional games most of us play subconsciously. This includes psychopaths, who attack the emotional surface area of their targets. When grounded, you offer no opportunity for manipulation, and you become a "grey rock" that psychopaths will gloss over.
 
