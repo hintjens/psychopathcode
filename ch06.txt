@@ -1,6 +1,6 @@
 // kate: font Liberation Sans; font-size 16; syntax None; bom off; indent-mode none;
 .bookmark emotions
-+ A Dance of Emotions
++ The Dance of Emotions
 
 When we ask why someone acts in a certain way, the answer is a mix of pragmatic logic and emotion. This is as true for psychopaths as it is for the rest of us. Despite appearances, logic and emotion are not opposed. They work together in a complex dance that I'll explain in this chapter. The dance has many steps, and each step plays out in specific ways.
 
@@ -30,15 +30,17 @@ I'm going to take the human emotions, and collect them into groups. This groupin
 
 The emotional groups evolved at different times, as we climbed up the social ladder. I'll work from oldest group to most recent:
 
-* The //predator emotions// help us hunt and capture prey. These appear in predator animals, including our own species.
+* The //predator emotions// help us hunt and capture prey.
 
-* The //defense emotions// prepare us to detect and deal with predators and competitors. These appear in all non-trivial animals.
+* The //defense emotions// prepare us to detect and deal with predators and competitors.
 
-* The //family emotions// let us talk to our parents and care for our offspring. These appear in all animals that form families based around parental investment. For example, in certain fish, birds, and most mammals.
+* The //sexual emotions// drive us to find sexual partners.
 
-* The //group emotions// let us form small social groups. These appear in social species such as birds, monkeys and primates, mole rats, and dolphins.
+* The //family emotions// let us talk to our parents and care for our offspring.
 
-* The //social emotions// let us form looser and larger social groups. These appeared in our own ancestors at some point after we split off from chimpanzees' ancestor, 13 million years ago.
+* The //group emotions// let us form small social groups.
+
+* The //social emotions// let us form looser and larger social groups.
 
 My breakdown comes to about 40 universal human emotions. All humans, with specific exceptions, feel these emotions and feel them in the same way. I expected a much smaller set of universal human emotions. Yet as you will see these are distinct and precise. In many cases I've had to name emotions that we know, yet rarely verbalize.
 
@@ -54,9 +56,9 @@ The predator emotions are what we feel when we stalk and prey on food animals:
 
 * //Euphoria// - the emotion of chasing a fleeing prey. Your hearing switches off and your vision tunnels in on your target. Your breathing and heartbeat ramp up. Blood flows to your muscles, and glucose feeds into your blood. Your eyes widen, your mouth opens, and you bare your teeth.
 
-* //Glee// - the emotion of seeing your prey stumble. You feel a kick of pleasure and your adrenalin ramps up higher. You exhale sharply. Your body prepares to move in for the capture. Blood flows to your arms and face. You bare your teeth and open your mouth. The muscles around your eyes compress, to protect them.
+* //Schadenfreude// - the emotion of seeing your prey stumble. You feel a kick of pleasure and your adrenalin ramps up higher. You exhale sharply. Your body prepares to move in for the capture. Blood flows to your arms and face. You bare your teeth and open your mouth. The muscles around your eyes compress, to protect them.
 
-* //Fury// - the emotion of attacking your prey. Your sense of pain switches off. Your vision narrows to a tunnel, and your eyes narrow to reduce the risk of damage. If you could move your ears, they would fold back. You are silent. You are entirely focused on physically capturing your prey. As you catch it, you feel intense bursts of pleasure that push you on.
+* //Fury// - the emotion of attacking your prey. Your sense of pain switches off. Your vision narrows to a tunnel, and your eyes narrow to reduce the risk of damage. If you could move your ears, they would fold back. You may be silent, or make small groans of effort. You are entirely focused on physically capturing your prey. As you catch it, you feel intense bursts of pleasure that push you on.
 
 * //Bloodlust// - the emotion of killing your prey. You feel an orgasmic climax of pleasure as you taste blood. Your lungs and heart are still working hard to purge your system of waste products from the chase. Your arms and hands and jaws clench. You still make no sound except a low groan. You're focused on keeping your prey captive while you kill it. Your digestive system starts to prepare for food.
 
@@ -66,15 +68,15 @@ The predator emotions are what we feel when we stalk and prey on food animals:
 
 * //Blocked// - the emotion of a failed hunt or chase. Your body relaxes and all systems go to neutral. You withdraw to a safe place and replay your memory over and over. You look for what went wrong. You imagine different "what if" scenarios, and rehearse them mentally.
 
-These are ancient and violent emotions. Except hunger, they have no common names. Some, like the killing emotion, are taboo, even alien to most of us. I had to search for words to describe them. We rerouted these millions of years ago, as we started to develop our social instincts. You will recognize some from our daily rituals of eating. Others are familiar from play.
+These are ancient and violent emotions. Some, like the killing emotion, are taboo, even alien to most of us. We have to search for words to describe them. We rerouted these millions of years ago, as we started to develop our social instincts. You will recognize some from our daily rituals of eating.
 
-Watch children play hide-and-seek and you'll see tame forms of obsession, euphoria, and glee. Watch someone playing monster with a young child and you will see the caricatures of fury and bloodlust. Watch young men playing violent video games and you see these emotions acted out on the faces of the players.
+Others are familiar from play. Watch children play hide-and-seek and you'll see tame forms of obsession, euphoria, and glee. Watch someone playing monster with a young child and you will see the caricatures of fury and bloodlust. Watch young men playing team sports or violent video games and you see the full range acted out in full. The joy of group sports comes from being able to express these emotions in a safe, socially accepted arena.
 
 +++ Maths Murders
 
-In most people these emotions do not, even under threat of death, focus on fellow humans. In hand-to-hand warfare, most soldiers will not kill. They aim to miss. They run away when they can. They mostly provide cover and mass, to intimidate the other side. Much of the military machine works just to force this majority to aim their spears and guns in the right direction.
+In most people the predator emotions do not, even under threat of death, focus on fellow humans. In hand-to-hand warfare, most soldiers will not kill. They aim to miss. They run away when they can. They mostly provide cover and mass, to intimidate the other side. Much of the military machine works just to force this majority to aim their spears and guns in the right direction.
 
-This majority does shift gears when their families and homes are threatened. To save our relatives or children from an armed and violent stranger, most of us will aim to kill. Yet we do this without the predatory emotions. Instead, we feel the defensive emotions I'll explain in the next section.
+This majority does shift gears when their families and homes are threatened. To save our relatives or children from an armed and violent stranger, most of us will aim to kill. Yet we do this without the predator emotions. Instead, we feel the defensive emotions I'll explain in the next section.
 
 Some of us, a small minority, feel only these emotions and no others. So the emotions work at their original full power. More, they focus on fellow humans rather than on food. This minority are the psychopaths. It is the predator emotions that drive psychopaths in their hide-hunt-attack-capture-consume behavior.
 
@@ -86,17 +88,17 @@ In specific circumstances, the equation tilts Mallory towards serial murder:
 
 * //If the amygdala suffers damage from injury or tumors.// This may shut down its inhibition, so it feels infallible and superior. This may happen more often than we realize. [[data on murderers and amygdala]].
 
-* //If the social status of the victim is so low that retribution is unlikely.// Thus prostitutes, beggars, orphans, minorities, homosexuals, and the elderly are more at risk of death at Mallory's hands. Serial murderers notoriously target individuals who are least likely to be valued by authority.
+* //If the social status of the victim is so low that retribution is unlikely.// Thus prostitutes, beggars, orphans, minorities, homosexuals, and the elderly are more at risk of death at Mallory's hands. Serial murderers notoriously target individuals who are least likely to be valued by general society.
 
-* //If there is strong social support for murder.// Mainly, this means open hostilities between two groups. In other words, war. Only the losers are prosecuted for crimes against humanity. The winners get to butcher freely, in the name of God and Country.
+* //If the murder is in the name of the State.// Mainly, this means open hostilities between two groups. In other words, war. Only the losers are prosecuted for crimes against humanity. The winners get to butcher freely, in the name of God and Country.
 
-* //When there is nothing to lose, and much to gain.// A large proportion of young men are evolutionary dead-ends. Historically as many as two-thirds of men have no children. That includes many psychopaths. Lack of local prospects makes Mallory happy for foreign adventure.
+* //When there is nothing to lose, and much to gain.// A large proportion of young men are evolutionary dead-ends. Historically as many as two-thirds of men have no children. That includes many psychopaths. Lack of local prospects makes Mallory long for foreign adventure.
 
-The maths of murder are consistent across human culture. Successful generals understand it, and use it to recruit young male psychopaths as the killer core of their professional armies. It is a timeless recipe. Invoke martial law, to remove the risk of punishment. Dehumanize the enemy so that Mallory faces no anger from the home front. Aim at poor psychopaths with few other prospects. Deliver propaganda and marketing that invites them in.
+The maths of murder are consistent across human culture. Successful generals understand it, and use it to recruit young male psychopaths as the killer core of their professional armies. It is a timeless recipe. Invoke martial law, to remove the risk of punishment. Dehumanize the enemy so that Mallory faces no anger from the home front. Aim at poor psychopaths with few other prospects. Deliver propaganda and marketing that lures them in.
 
-The military has practiced this for a long time. It selects, enables, and promotes psychopaths. It offers the chance for unlimited rape and murder. Just don't get caught. It has institutionalized the process of creating secondary psychopaths. We can now recognize a secondary psychopath as someone who has learned to apply the predator emotions to other people. Secondary psychopaths will also feel deep guilt and shame, later, as their empathy starts working again.
+The military has practiced this for a long time. It selects, enables, and promotes psychopaths. It offers the chance for unlimited rape and murder. Just don't get caught. It has institutionalized the process of creating secondary psychopaths. We can now recognize a secondary psychopath as someone who has learned to apply the predator emotions to other people. Secondary psychopaths will later feel deep guilt and shame, as their empathy starts working again.
 
-The psychopaths who are brought into conflict zones actively seek the chance to rape, hunt, and butcher. They kill easily, once they learn the basics. They enjoy it like sex. They build power pyramids. They sabotage peace efforts and eliminate internal competitors. They can rise to positions of great power, leading armies and empires.
+The psychopaths who are brought into conflict zones actively seek the chance to rape, hunt, and butcher. They kill easily, once they learn the basics. They enjoy it more than sex. They build power pyramids. They sabotage peace efforts and eliminate internal competitors. They can rise to positions of great power, leading armies and empires.
 
 You might ask how society accepts and collaborates in the promotion of murder. We show snuff videos on the evening news. We criminalize Mallory when he travels abroad to fight. We draw bold "ye shall not cross" lines so that every young candidate knows precisely what to aim for. The generals don't need to do the hard work of recruiting. Society does it for them.
 
@@ -108,7 +110,7 @@ The defense emotions are ancient and widespread. These emotions keep us safe fro
 
 * //Surprise// - the emotion of reacting away from a sudden approaching threat. It is what you feel when a cat leaps at you out of a closet. It's what the cat feels if you creep up on it and say "boo!". You flinch away from the threat, and raise your arms in self-defense. You lift your eyebrows and open your eyes wide to see better. Your hearing ramps up. You exhale rapidly to clear your lungs of carbon dioxide. Your heart accelerates and you breath in deep to oxygenate your body for action.
 
-* //Suspense// - the emotion of recognizing an potential threat. It is what you feel when you hear an unexpected noise in the middle of the night. Or, when you turn a corner and see a large, dangerous looking animal blocking your way. Your body freezes. Adrenalin starts to flow into your blood stream. You breath out slowly to clear your lungs without making noise. Your vision and hearing ramp up as you try to identify the threat. Your memory goes into high-definition recording mode. Later this feels like time had slowed down.
+* //Suspense// - the emotion of recognizing an potential threat. It is what you feel when you hear an unexpected noise in the middle of the night. Or, when you turn a corner and see a large, dangerous looking animal blocking your way. Your body freezes, for ten to thirty seconds. Adrenalin starts to flow into your blood stream. You breath out slowly to clear your lungs without making noise. Your vision and hearing ramp up as you try to identify the threat. Your memory goes into high-definition recording mode. Later this feels like time had slowed down.
 
 * //Terror// - the emotion of wanting to flee from a threat. Blood flows to your lungs and legs. Your blood vessels constrict to reduce bleeding in case of damage. You go pale. Your digestive system slows down and stops. Your mouth goes dry. Your focus is on hiding, and freezing when you are out of sight. Terror says, "I am not going to fight."
 
@@ -122,25 +124,102 @@ A successful predator must avoid its prey feeling suspense until it is too late.
 
 You can compare the defense emotions with the predator emotions. Rage and fury seem similar. They can both end in violence and death. Yet the former has the goal of driving off a threat, while the latter has the goal of murder.
 
+++ The Sexual Emotions
+
+The sexual emotions are, like the predator emotions, so old and deep that we barely name them. There is debate about whether these are even emotions. Yet the orchestration and display functions are undeniable:
+
+* //Ennui// - the emotion of looking for opportunities for sex. Ennui drives you out of our comfort zone. Your sexual responses slow down. Your vision and hearing gets sharper and you focus on potential sexual partners. You feel the need to move, yet you are careful to stay discrete. Your walk softly and keep your posture relaxed. Your breathing is regular, slow.
+
+* //Interest// - the emotion of focusing on a specific person. Your sexual responses speed up. Your hearing and vision focus on your target, and exclude everything else. You move towards your target, trying to appear as innocent as possible until the last minute. Your pupils widen. Your adrenalin starts to rise. Your memory starts recording in high resolution.
+
+* //Desire// - the emotion of chasing a sexual target. Your hearing switches off and your vision tunnels in on your target. Your breathing and heartbeat ramp up. Blood flows to your lower body and skin, and glucose feeds into your blood. Your eyes widen, your mouth opens, and you smile a lot. Desire says, "I want you."
+
+* //Lust// - the emotion of getting consent for sex. You feel a kick of pleasure and your adrenalin ramps up higher. You exhale sharply. Your body prepares for sex. Your blood pressure rises, and blood flows to your genitals, breasts, skin, and face. You laugh and smile a lot more than usual. Lust says, "I want you more than ever."
+
+* //Arousal// - the emotion of engaging in sex. Your sense of pain shifts. Your vision narrows to a tunnel, and your eyes narrow or close. You may be silent, or make groans of effort. You are entirely focused on your partner, and the physical act. As you engage, you feel intense bursts of pleasure that push you on.
+
+* //Climax// - the emotion of concluding the sexual act. You feel an orgasmic climax of pleasure, your DNA rewarding you for the effort and risk of sex. Your lungs and heart are still working hard to purge your system of carbon dioxide. Your arms and hands and jaws clench. Your skin flushes in specific and recognizable patterns. You may make a low groan, or louder shouts.
+
+* //Replete// - the emotion of having finished sex. Your sexual responses switch off, and you reject any further physical stimulation. You may want to talk, or sleep. You adopt open body language, and relax. Your blood pressure goes back to normal. Your arms and legs are limp.
+
+* //Rejected// - the emotion of a failed seduction. Your body relaxes and all systems go to neutral. You withdraw to a safe place and replay your memory. You look for what went wrong. You imagine different "what if" scenarios, and rehearse them mentally.
+
+Again, I had to search for names for these. You will notice that this group is almost an exact copy of the predator emotions. The one missing emotion is "gluttony." We do not consume our sexual partners. There is not even a shadow emotion. Gluttony is entirely gone from the scene. If there is any symbolic consumption, it happens before, not after climax.
+
+The similarity of these two groups of emotions is striking. How this happened seems clear. Evolution is lazy. We evolved the predator emotions long before we evolved sexual reproduction. The original sex drive was one and the same as the drive to find and kill food. Later the sexual emotions forked off from the predator emotions, leaving gluttony behind.
+
+Do men and women experience these same emotions? It is a difficult area for research. Sexual experiences are never neutral. Culture distorts and warps them. Sexual activity is tolerated, approved, expected, or forbidden. The cultural regulation of sexual activity is constant and global and affects our responses deeply. No two experiments will show the same results.
+
+I'll claim that both men and women tend to experience the same cycle of emotions during sex, in at least the case of consensual sex between adults. If male sexuality is predatory, then so is female sexuality. There is no "passive" gender, though individuals certainly can be more passive or active.
+
+How does Mallory feel the sexual emotions? He certainly has the physical responses needed for successful intercourse. Yet there are some striking differences that demand explanation:
+
+* Mallory is casually bisexual. More precisely, he will adopt whatever gender identity [http://psychopathsandlove.com/a-hidden-fact-of-psychopaths-they-have-no-gender/ fits the situation best.] He can be gay, dominant, submissive, heterosexual, confused.
+
+* Mallory does consume his sexual partners, metaphorically. You may see him as a sexual predator, yet that is to misread his behavior. For him, sex is not the goal, it is the means. His goal is to consume his target's power and resources.
+
+* Mallory gets a sexual thrill from hunting and hurting others, even slowly over months and years. He is dominant and insensitive to his sexual partners. To quote one woman of her psychopathic partner: "During sex he was harsh and rough. His eyes cold and distant, focused... like an animal eating his prey."
+
+I believe Mallory mixes the two groups of emotions into a single one. Psychologists describe psychopaths as "thrill seeking," yet a more accurate description might be "lecherous, over-sexed, and uninhibited." Apart from the physical responses during arousal and climax, Mallory experiences exactly the same emotions inside, and outside the bedroom.
+
+This points us towards a new metaphor for psychopathy. //Predator// is a good functional model. It has many useful properties, as a model. Yet it dehumanizes. To describe him as an animal is accurate in many ways, yet it suggests he is worth less than Alice or Bob.
+
+Mallory is not subhuman. Neither is Mallory superhuman. Psychopaths are no more or less successful, on average, than social humans. In the long arms race between the two strategies, //neither can ever win//. It is a race to equilibrium. For every trait that makes Mallory more successful, he has a weakness. For every weakness that Alice or Bob show, they have balancing strengths.
+
+Psychopaths are neither cannibals nor gods. They are just //different// in perplexing and difficult ways.
+
+So here is that new metaphor: //psychopathy is a third gender.// Social humans differentiate to either male or female gender identities. Psychopaths differentiate to their own sexual identity, a third gender. While male and female do their particular dance, psychopathy does a separate dance around them both. For all his sexual intensity, Mallory is asexual in a profound way.
+
 ++ The Family Emotions
 
-Next, the emotions that evolved as part of our reproductive behavior. These are shared by all animals that invest in their offspring:
+A long time after our ancestors discovered sex, they found out about parental investment. It's a trick that animals have rediscovered many times. While 80% of birds form stable couples where both parents invest in the young, only about 6% of mammals do this. Such species tend to be socially monogamous, at least per breeding season.
 
-* //Happiness// - the emotion of being in a good situation. That means, healthy, well-fed, safe, and comfortable. If you are a care-giving parent, it is the emotion you feel when your offspring are in a good situation. You smile, laugh, and use open body language. Your pupils widen, and blood flows to your skin, making you glow.
+As any parent knows, looking after offspring is hard work with few obvious short-term rewards. Mostly, kids grow up oblivious to the efforts their parents make. If they think about it at all, it tends to be "I could have done better." Yet the genetic payoff for investing in children and grandchildren is huge.
 
-* //Sadness// - the emotion of being in a bad situation. That means, unhealthy, hungry, unsafe, or uncomfortable. If you are a care-giving parent, it is the emotion you feel when your offspring are in a bad situation. You pout, cry, and use show closed body language. Your pupils shrink. Blood circulation slows in your skin, making you look pale and cold.
+The genes' solution is to blackmail and bribe us with mood-altering chemicals. These are seratonin, dopamine, oxytocin, and endorphins. When we do the "right" thing we get a soup of chemicals that makes us feel good. When we do the "wrong" thing, we either get a different soup that makes us feel terrible.
 
-* Distress
+This carrot-and-stick machinery sits out of sight of the conscious mind. With knowledge and practice, you //can// hack into it and steer it. It is like learning to control your heart rate. The moment you stop trying, your subconscious takes over again.
 
-* Loneliness
+The machinery is, of course, the emotions. While the predator, defense, and sexual emotions focus on physical preparation, family needs more abstract emotions. This group covers three kinds of bonds that evolved together: between the parents, between parents and children, and between siblings. In general the emotions drive the family to stick together.
 
-* Fear
+These emotions are confusing to most people. We use terms like "desire" and "happiness" loosely to cover what look like different specific emotions. So I'll use the same approach as for previous groups. This is: take each piece of the overall puzzle, identify it, and then name it:
 
-Empathy first evolved, I assume, as this parent-child language. A parent feels as happy or sad as its offspring. Thus it is safe to state that all species where the adults care for the young have empathy. Human empathy is richer, as we have more emotions. Yet we did not invent empathy.
+* //Love// - the emotion of being close to a family member. We establish "closeness" by mutual physical contact. The kinds of contact depend on the relationship. The closer you are to another person the more you feel the emotion. Your eyebrows rise, your pupils widen, you smile and laugh and feel happy. You use open and dominant body language. You are more childlike: playful and uninhibited. You seek more contact. You need less sleep.
 
-++ The Group Emotions
+* //Longing// - the emotion of being separated from a family member. You're feeling the symptoms of oxytocin withdrawal. You obsess on to get back to your loved one. You may feel intense loneliness. Your pupils shrink. You use closed and submissive body language. You are serious, less childlike. You sleep more than usual.
 
-Some tens of millions of years ago, our ancestors started developing group instincts. These include the emotional language needed to survive in groups:
+* //Loss// - the emotion of losing a loved family member. Your metabolism slows down. Your sight and hearing work slower than usual. You may feel "nothing," an empty or dead feeling. Your pain response lowers, due to a higher level of endorphins that are suppressing your oxytocin withdrawal. You seek other family members. You may feel longing or sadness later. Your face shows no expression except inattention.
+
+* //Happiness// - the emotion of being in a good situation. For a juvenile this is a selfish emotion. When a child is healthy, well-fed, safe, comfortable, and with other children, he or she feels happy. An adult without children may retain the juvenile emotion. A parent feels happiness by empathy with their children or partner. That is, a parent is happy when their children are. When you are happy, you smile, laugh, and use open body language. Your pupils widen, and blood flows to your skin, making you glow.
+
+* //Sadness// - the emotion of being in a bad situation. This is, as we all know, the opposite of happy. It works the same way. When a child is unhealthy, hungry, unsafe, uncomfortable, or alone, she or he feels sad. An adult without children may feel the juvenile emotion. A parent feels sadness by empathy with their children or partner. When you are sad, you show closed body language. Your pupils shrink. Blood circulation slows in your skin, making you look pale and cold. You may pout, or weep.
+
+* //Distress// - the emotion of being lost or threatened. Like happiness and sadness, this has a juvenile and an adult form. Juvenile distress is a call for help from a parent or older sibling. Adult distress is typically a call to a missing child. Distress is a display emotion. A child will shriek, wail, cry, or call to its parents. Every parent knows their child's distress calls. Distress triggers similar physiological shifts as anger and rage: red face, loud voice. Distress leads easily to anger and rage. The body language for distress is universal: shoulders and head slump down, eyes peer up.
+
+I've not listed hate here. While this emotion does exist in families, I believe it's a more recent evolution that sits in the group of tribal emotions that I cover next. There is no function for hate in a family without the tribe. Hate is a luxury that depends on other people. We cannot reject a family member, no matter their crimes, unless they have somewhere else to go.
+
+With parental investment, we also get the evolution of empathy. The mechanism is clear: one person feels some emotion, perhaps being sick or lost. The emotion causes the person to make distress calls and show visible signs of distress. This triggers the same emotion in another individual, pushing them to help.
+
+In the same way, a child eats well and is healthy and shows this by expressing happiness. The parents respond by feeling great about themselves. It doesn't take a training manual to have kids. Children are constantly, and from birth, telling their parents what to do. "Feed me! Enough, stop, I'm going to vomit! Cuddle me! More, this is great! OK, put me somewhere safe, I want to sleep!"
+
+Juveniles do not have the same range of empathy as adults. Yet they often have basic empathy from a few years old. A young child is playing and sees another crying. He or she offers their toy to the crying child, who accepts it and starts smiling.
+
+Social humans project their family emotions onto non-family, animals, and onto inanimate objects that they bring into their personal life. We feel happy when our possessions are safe and in a good state. When our possessions are vulnerable to damage, or in a poor state, we feel sad. We have empathy with inanimate objects. Our home is happier when it is protected against the rain, and warm. An abandoned house feels sad, and we feel sad watching it.
+
+Mallory do not feel the family emotions. She feels no love for her relatives, neither parents nor siblings nor children. She does not experience distress, nor happiness, nor sadness. She has no empathy for belongings and living spaces. She treats her home no differently than a random field. This makes her careless with things, and incapable of organizing by emotional value. Her living room looks sterile, or chaotic, to social eyes.
+
+Mallory can project the visible signs well, at least in face and voice and body language. She acts love, happiness, sadness, and so on. This presents a real problem for honest relatives. When Mallory can fake her emotions, parents, siblings, and other relatives will over-invest in her. So we've evolved counter-measures, namely physical signals that Mallory cannot (yet) fake. Pupil size is the main one.
+
+When we see Mallory expressing an emotion, we do a subconscious check of her eyes. I assume our mind corrects for light conditions using our own pupil size as control. If her pupils match her expression, we feel "she is sincere." If not, we will still respond, mostly, yet with indefinable reservations.
+
+I don't know if psychopaths can fake physical signs such as
+
+Here is a curious thing. Dark sunglasses are an empathy barrier, at least for the emotions of love,
+We have evolved subtle authentic indicators like pupil size, which she cannot mimic. This makes us pause when we see her "sad" mask. That pause has enough survival value to stay in the gene pool.
+
+++ The Tribal Emotions
+
+Humans take the parental investment strategy to an extreme. We invest in our extended family, to almost any degree of distance. We are able to form tribes of up to hundred and fifty people, keeping track of every other person in our tribe. To make this leap we evolved a tribal instincts, including a set of emotions. These are distinct from the family emotions, though we may project our family emotions onto the tribe in some cases:
 
 * //Fear// - the same emotion as suspense, in a group setting. You experience the same physical reactions. Your breathing accelerates. Your heart pumps faster. You may shout a distress or warning call to others. If others make a warning call you will also feel suspense or fear, depending on whether you are alone or with others. Fear is how we warn the group of danger.
 
@@ -149,6 +228,12 @@ Some tens of millions of years ago, our ancestors started developing group insti
 * //Disgust// - the emotion of having just tasted something bad. Blood flows to your digestive tract. Your stomach prepares to evacuate. You make noises and a specific grimace to warn others. You narrow your eyebrows, curl your upper lip, wrinkle your nose, and stick your tongue out. Disgust is how we warn the group away from bad food.
 
 * //Submission// - the emotion of submitting to dominance.
+
+* //Hate// - the emotion of rejecting a family member. Sometimes we must xxx. The kinds of contact depend on the relationship. The closer you are to another person the more you feel the emotion. Your pupils widen, you smile and laugh and feel happy. You use open and dominant body language. You are more childlike: playful and uninhibited. You seek more contact. You need less sleep.
+
+* //Hate// - the emotion of rejecting a person or group. You feel vulnerable or threatened. Your nostrils flare. You feel and show disgust, anger, or even rage, if there are others watching. Hate is a call for action, a cry for others to join in and exclude the offender.
+
+* Loneliness
 
 * //Triumph// - the emotion of asserting dominance. breath in, head high, arms out, = larger
 
@@ -163,9 +248,10 @@ Over the last million years we started to develop the emotions for communicating
 
 * //Anxiety// - the emotion of preparing for a future threat. You may feel dread, in the pit of your stomach. You may feel worry in your mind. You frown, and furrow your brow as you work through possibilities and plans. Your facial language is a signal to others that you believe something bad will happen. Depending on your age, and track record, others may respond with anxiety of their own.
 
-* //Love// - the emotion of seeking to bond to a person or group. You feel weak and insecure. Your heart beats faster than normal. Your temperature is slightly above normal. You are anxious at the threat of rejection. If the other party accepts and confirms, you switch to feeling powerful and secure.
+* //Fear//
 
-* //Hate// - the emotion of rejecting a person or group. You feel vulnerable or threatened. Your nostrils flare. You feel and show disgust, anger, or even rage, if there are others watching. Hate is a call for action, a cry for others to join in and exclude the offender.
+* //xxxx?// - the emotion of seeking to bond to a person or group. You feel weak and insecure. Your heart beats faster than normal. Your temperature is slightly above normal. You are anxious at the threat of rejection. If the other party accepts and confirms, you switch to feeling powerful and secure.
+
 
 * //Jealousy// - the emotion of competing for attention. You feel another person is receiving attention that is rightly yours. You frown, and imitate other emotions: sadness, anger, despair, or disgust. The imitation is a warning to the person giving the attention. Watch out, it says, or this is how I will feel towards you, for real.
 
@@ -243,10 +329,16 @@ Then, anger is an imitation that exaggerates those traits the other party finds 
 
 ++ Emotional Chain Reactions
 
+Single prime emotion (one orchestration)
+chain of secondary emotions
+
 dislike -> anger -> rage -> guilt -> shame
 jealousy -> anger -> rage
 love -> happy
 love -> jealousy
+longing -> sad
+loss -> sad
+loss -> guilt (why did I not feel sadder?)
 fear -> anxiety
 fear -> hate
 fear -> weakness
