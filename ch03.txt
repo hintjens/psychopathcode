@@ -268,13 +268,13 @@ Bob and Alice each hold a ledger in their minds. They keep a balance of gifts re
 
 The bookkeeping is delicate. We don't know the value of our gift to others. There are many intangibles like genetic closeness. We don't know the cost of their gifts to us. So we track the value of the gifts we received and the gifts we give. "He saved my life!" and "I gave her my last chicken." It is a one-sided ledger.
 
-Further, we cannot read the other's ledger. We have to guess it. If we see the other person happy to see us, we assume our credit is good. Then we take our own valuation. If the other person is unhappy, we invest more until they are happy again. Then we again take our own valuation. If we feel we're getting too little from the other person, we become unhappy with them.
+Further, we cannot read the other's ledger. We have to guess it. If we see the other person happy to see us, we assume our credit is good. Then we take our own valuation. If the other person is unhappy, we invest more until they are happy again. Then we again take our own valuation. If we feel we're getting too little from the other person, we become unhappy with them, and we dislike them.
 
-You can see how the social emotions of like and dislike evolved. They are the language of social accounting. You can see how empathy evolved as the way to read and interpret these emotions. You can see why empathy is an "adult" mental tool. Juveniles do not take part in the risk sharing. We do not keep ledgers for juveniles, nor do we expect them to do that for us.
+You can see how the social emotions of like and dislike evolved. They are the language of social accounting. You can see we read and interpret these emotions using empathy. You can see why empathy for these emotions is an adult mental tool. Juveniles do not take part in the risk sharing. We do not keep ledgers for juveniles, nor do we expect them to do that for us.
 
 Social accounting achieves two things. First, it lets us detect and punish cheats. That takes no conscious thought. The ledger is out of balance. We dislike the cheats and then become angry with them. If they make an effort, we become happy, and we like them again. If not, we stop sharing with them. Second, it lets us rank others from most to least important. Meaning, most to least likely to look after us when we are unlucky.
 
-As such, social accounting is a good defense against cheats. I'd guess this mechanism evolved many millions of years ago. It is so tied to high-risk hunting. The only language it needs are the two emotions we already use as babies. It explains why food sharing is so basic to bonding. It explains why we show our teeth when we are happy, and when we are angry. The first says, "I am happy to have eaten," and the second says, "feed me or else!"
+As such, social accounting is a good defense against cheats. I'd guess this mechanism evolved many millions of years ago. It is so tied to high-risk hunting.
 
 Somewhat later, we evolved the ability to plan the future, and make promises. We often make and accept promises of future rewards, or just "futures". Futures are a large part of social accounting. It is how we stretch our risk balancing strategy forwards in time.
 
@@ -438,23 +438,21 @@ When you see strangeness, and you will, try to document it. Make a mental note a
 
 ++ Emotional Awareness
 
-One of the core techniques to learn is emotional control. This is essential to escaping a relationship with a psychopath. It is also a useful skill in a broader social and professional context. I'll explain it in detail in [#escape]. For now I'll give a high-level explanation.
+One of the core techniques to learn is emotional control. This is essential to escaping a relationship with a psychopath. It is also a useful skill in a broader social and professional context.
 
-Like motivations, our emotions form a small core set. These are universal across cultures, and live in our genes. The psychologist Paul Ekman proposed six original universal emotions. These were: happiness, sadness, fear, anger, disgust, and surprise. He seems to have missed jealousy, loneliness, despair, and self-pity and a few others. Later he added others including guilt and shame.
+Like motivations, our emotions form an identifable core set. These are universal across cultures, and live in our genes. The psychologist Paul Ekman proposed six original universal emotions. These were: happiness, sadness, fear, anger, disgust, and surprise. He seems to have missed jealousy, loneliness, despair, and self-pity and a few others. Later he added others including guilt and shame. The full list I explain in [#emotions] runs to about fifty emotions.
 
-These emotions evolved, I argue, as social signals. They express on our faces. This is a universal language that babies can speak before they can form words. Emotions seem to be a juvenile trait. They dominate our pre-adult lives. When we are feeling strong emotions, we also tend to behave like juveniles.
+The emotions evolved to coordinate our bodies for actions like fighting, or running away. They also evolved as a language that expresses on our faces and bodies. This is a universal language that babies can speak before they can form words. They live in the areas of our brain also responsible for empathy. These are the anterior insula and the amygdalae. These areas also process our sense of smell. In humans this sense has strong ties to emotions.
 
-These emotions live in the areas of our brain also responsible for empathy. These are the anterior insula and the amygdalae. These areas also process our sense of smell. In humans this sense has strong ties to emotions.
+Psychopaths do not have the same wiring in these areas of the brain. It's not clear yet what their anterior insula and amygdalae do. Perhaps emotional mimicry that drives facial expressions. In any case, they do not the same emotions as non-psychopaths. Their emotional range is limited, as I'll explain in [#emotions]. They have limited empathy. They have no disgust at mutilation, visible or imagined. They have a different sense of smell. All these are plausible psychopath tests.
 
-Psychopaths do not have the social wiring. It's not clear yet what their anterior insula and amygdalae do. Perhaps emotional mimicry that drives facial expressions. In any case, they do not the same emotions as non-psychopaths. Their emotional range is limited, as I'll explain in [#emotions]. They have no empathy. They have no disgust at mutilation, visible or imagined. They have a different sense of smell. All these are plausible psychopath tests.
+As a social human, we cannot control how our emotions display. If we feel an emotion, it shows. This is their value as social signals: they are honest. To fake an emotion takes training, or psychopathic talent.
 
-As a social human, we often lose control of our emotions. This is their value as social signals: they are most often honest. To fake an emotion takes training, or psychopathic talent.
+While emotions are powerful social signals, they also affect our senses and behavior. If we feel a strong emotion, that affects how we see others. If we are happy, we see others in a positive light. If we are sad or anxious, we see others in a worse light.
 
-While emotions are powerful social signals, they affect our senses and behavior. If we feel a strong emotion, that affects how we see others. If we are happy, we see others in a positive light. If we feel the so-called negative emotions, we see others in a worse light.
+Since they affect our awareness, emotions also make us vulnerable. If Mallory makes us happy, we like her. If Mallory make us jealous of someone, we start to hate that person. If Mallory makes us afraid, we will do what she demands.
 
-Since they affect our awareness, they also make us vulnerable. If Mallory makes us happy, we like her. If Mallory make us jealous of someone, we start to hate that person. If Mallory makes us afraid, we will do what she demands.
-
-To see clearly, and to resist Mallory's attacks, we must control our own emotions. Controlling your emotions is as hard as faking them. I'm sure there are many techniques. I call my technique "grounding." It works by identifying and resolving emotions one by one. I'll explain grounding in detail in [#escape]. For now, here is a summary.
+To see clearly, and to resist Mallory's attacks, we must control our own emotions. Controlling your emotions is as hard as faking them. I'm sure there are many techniques. I call my technique "grounding." It works by identifying and resolving emotions one by one. I'll explain grounding in detail in [#emotions]. For now, here is a summary.
 
 The basis for grounding is that emotions are distinct, yet trigger in chains. Fear of being alone may trigger jealousy of others. That may trigger anger, which in turn triggers shame. The result is a soup of emotions, dominated by anger and shame. We can learn to identify the strongest emotion, shame, and sense what triggered it.
 
