@@ -224,6 +224,8 @@ These emotions are confusing to most people. So I'll use the same approach as fo
 
 * //Distress// - the emotion of being lost or threatened. Like //happiness// and //sadness//, this has a juvenile and an adult form. Juvenile //distress// is a call for help from a parent or older sibling. Parental //distress// is a call to a missing child. //Distress// is a display emotion. A child will shriek, wail, cry, or call to its parents. Every parent knows their child's distress calls. //Distress// triggers similar physiological shifts as //anger// and //rage//: red face, loud voice. //Distress// leads to //anger// and //rage//. Its universal body language is: shoulders and head slump down, eyes peer up.
 
+* //Jealousy// - the emotion of competing for attention. //Jealousy// is how you signal that a parent, partner, or friend is neglecting you. You feel someone else is receiving attention that should be yours. You frown, and imitate other emotions: //sadness//, //anger//, //despair//, or //disgust//. The imitation is a warning to the person giving the attention. Watch out, it says, or this is how I will feel towards you, for real.
+
 I've not listed //hate// here. While this emotion does exist in families, I believe it's a more recent evolution. There is no function for //hate// in a family without the tribe. It is a luxury that depends on other people. We cannot reject a family member, no matter their crimes, unless they have somewhere else to go. I place it in the group of tribal emotions that I cover next.
 
 With parental investment, we also get the deeper evolution of empathy. The mechanism is clear: one person feels some emotion, perhaps being sick or lost. The emotion causes the person to make distress calls and show visible signs of //distress//. This triggers the matching emotion in a parent or sibling, pushing them to help.
@@ -265,8 +267,6 @@ Humans take the parental investment strategy to an extreme. We invest in our ext
 * //Disgust// - the emotion of tasting bad food. //Disgust// is how you warn others to stop eating. Blood flows to your digestive tract. Your stomach prepares to vomit. You make noises and a specific grimace to warn others. You narrow your eyebrows, curl your upper lip, wrinkle your nose, and stick your tongue out. You look at others to make sure they got the message. You make a characteristic groan.
 
 * //Hate// - the emotion of rejecting a tribal member. //Hate// is a call to others to support you in a fight. Your eyes narrow and stare at the offender, or an imaginary spot. Your nostrils flare. You frown and your pupils contract. Your mouth closes hard in an anti-smile. Your body prepares for a physical confrontation. Blood flows away from your face and to your arms and shoulders. Your fists clench and you clench your jaw. You use aggressive and closed body language. You make the characteristic sounds of //hate//: low growls. You lose your sense of humor.
-
-* //Jealousy// - the emotion of competing for attention. //Jealousy// is how you signal that a parent, partner, or friend is neglecting you. You feel someone else is receiving attention that should be yours. You frown, and imitate other emotions: //sadness//, //anger//, //despair//, or //disgust//. The imitation is a warning to the person giving the attention. Watch out, it says, or this is how I will feel towards you, for real.
 
 * //Self-pity// - the emotion of asking for adult help. //Self-pity// is the "I give up!" emotion. This lets us display defeat, and respond to it by helping one another. You show //self-pity// by slumping your shoulders, pouting, and crying. You look down, sniff, and use closed body language. The empathic response is to put an arm around the shoulders and ask, "how can I help?"
 
@@ -406,6 +406,8 @@ Let's look at negative triggers for the family emotions:
 
 * //Distress// - the emotion of being lost or threatened. Trigger: Mallory makes more threats. She starts to smash kitchenware. You lock yourself in the bathroom and call your sister. She says you're crazy to stay there.
 
+* //Jealousy// - the emotion of competing for attention. Trigger: it's New Years' Eve and you're at a company dinner with Mallory. He is so well dressed, like he was born in a suit. He radiates strength and confidence. Everyone stares at him. He spends most of the evening talking to your boss. You feel sad and then when Mallory comes to ask, "is everything OK?" you act angry and petulant. He laughs at you, not in a nice way. As you drive home, Mallory in the passenger seat complains about how controlling you are.
+
 Let's look at negative triggers for the tribal emotions:
 
 * //Loneliness// - the emotion of being disconnected. Trigger: your sister isn't talking to you any more. You mention this to Mallory, who immediately says, "such a bitch. She's jealous because I told her about the money your dad gave us." You're angry with your sister, and then you start to feel sick.
@@ -415,8 +417,6 @@ Let's look at negative triggers for the tribal emotions:
 * //Disgust// - the emotion of tasting bad food. Trigger: Mallory decides he'll cook. He prepares pasta, from a tin. You taste the slimy concoction and try adding more pepper. It doesn't help. You force yourself to eat some, then you feel sick and you leave the rest. Mallory is offended. He never cooks again. He tells everyone how you hate his food, and prefer to eat in restaurants, wasting money.
 
 * //Hate// - the emotion of rejecting a tribal member. Trigger: you call your sister. She answers, and before you can chat, she's yelling at you. You start to realize she believes you spent the money on your new car. You try to explain it's a company car, the money went to Mallory. "Liar, I hate you!" she shouts, and cuts you off. You shiver with adrenalin. You start to hate your sister. It'll be years before you talk to her again, and you both realize what happened.
-
-* //Jealousy// - the emotion of competing for attention. Trigger: it's New Years' Eve and you're at a company dinner with Mallory. He is so well dressed, like he was born in a suit. He radiates strength and confidence. Everyone stares at him. He spends most of the evening talking to your boss. You feel sad and then when Mallory comes to ask, "is everything OK?" you act angry and petulant. He laughs at you, not in a nice way. As you drive home, Mallory in the passenger seat complains about how controlling you are.
 
 * //Self-pity// - the emotion of asking for adult help. Trigger: as Mallory attacks you, it feels so unfair. You start to weep. It surprises you, yet you can't stop it. You stop the car because your eyes are blurring. Mallory responds by getting out, slamming the door, smoking a cigarette. "When you stop your baby act, can we go home?" he says, no emotion. "I'm getting cold out here!"
 
