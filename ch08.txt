@@ -2,15 +2,15 @@
 .bookmark redqueen
 + Children of the Fight
 
-Often in this text I've talked about an "arms race" between social and anti-social behavior. In biology, arms races between predator and prey are a classic engine of evolution. Our own arms race started many millions of years ago. In this chapter I'll explain how deeply it has shaped us. I'll argue that the aeons old fight between collaborators and cheats hasn't just left a few traces. It has profoundly shaped us, even defined us.
+In this text I've often talked of an "arms race" between social and anti-social behavior. In biology, arms races between predator and prey are a classic engine of evolution. Our own arms race started many millions of years ago. It has been a long fight between collaborators and cheats. For every deceit, there's a defense. For every defense, there's a new attack. In this chapter I'll explain how this competition has shaped us. I'll argue that it hasn't just left a few traces. Rather, it has shaped and defined us.
 
 ++ Not The Ants You Are Looking For
 
-In their paper [http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130541 "The Pied Piper: A Parasitic Beetle’s Melodies Modulate Ant Behaviours,"] Di Guilio and his colleagues explain how the larvae of the Maculinea butterfly can mimic the queen ant's voice, and so get care from workers.
+In their paper [http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130541 "The Pied Piper: A Parasitic Beetle’s Melodies Modulate Ant Behaviours,"] Di Guilio and his colleagues explain how the larvae of the Maculinea butterfly steal from ants. They can mimic the queen ant's voice, and so get care from workers.
 
-More fascinating are the ant nest beetles called Paussus, which live their whole lives in the ant colony. These beetles have evolved to hack into the ants' chemical network. Their bodies are covered in small hairs that exude chemical signals, that let them talk the ants' pheremone language. Once inside the colony, the beetles move around as they like. They can eat adult ants and larvae, without the ants getting angry and attacking them.
+More fascinating are the ant nest beetles called Paussus. These live their entire lives in the ant colony. The Paussus beetles have evolved to hack into the ants' chemical network. Their bodies bristle with small hairs that exude chemical signals. With these signals, Paussus talks the ants' pheromone language. Once inside the colony, the beetles move around as they like. They can eat adult ants and larvae, with no response from their prey.
 
-Paussus does this from birth, and can even interact with the ant queen. How is this possible? It turns out that Paussus also does the Maculinea trick. More amazing, the beetle can speak three different ant "languages" including the queen's language. By making the right sounds, Paussus in effect tells ants "it's ok" even as it gobbles them up.
+Paussus does this from birth, and can even interact with the ant queen. How is this possible? It turns out that Paussus also does the Maculinea trick, using sounds to mimic the ants' language. Not just a single language either. The beetle can speak three different ant languages including that of the queen. By making the right sounds, Paussus in effect tells ants "it's OK" even as it gobbles them up.
 
 
 
