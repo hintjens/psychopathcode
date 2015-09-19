@@ -2,25 +2,17 @@
 .bookmark redqueen
 + Children of the Fight
 
-I've looked at the predatory life cycle of psychopaths and how they hunt, capture, and consume their prey, which is to say you and me. In this chapter I'm going to explain for once and for all how psychopathy evolved in humans. More than that, I'm going to argue that psychopathy, or rather the arms race between social collaborators and psychopaths has (and presumably still is) a prime force in our species' evolution.
+Often in this text I've talked about an "arms race" between social and anti-social behavior. In biology, arms races between predator and prey are a classic engine of evolution. Our own arms race started many millions of years ago. In this chapter I'll explain how deeply it has shaped us. I'll argue that the aeons old fight between collaborators and cheats hasn't just left a few traces. It has profoundly shaped us, even defined us.
 
-http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130541
+++ Not The Ants You Are Looking For
 
-> Immature stages of the lycaenid butterfly, Maculinea, are social parasites of ants, living within the brood chambers of the ant colony where they solicit and receive care from workers.
+In their paper [http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130541 "The Pied Piper: A Parasitic Beetle’s Melodies Modulate Ant Behaviours,"] Di Guilio and his colleagues explain how the larvae of the Maculinea butterfly can mimic the queen ant's voice, and so get care from workers.
 
-> It was recently demonstrated that the key to Maculinea attention and social status within the colony was not their semiochemicals that mimic the cuticular hydrocarbons of their hosts, rather it was their ability to produce stridulations that mimic those of the queen ant thereby interfering with their host’s acoustical communication system. To date, Maculinea is the only known insect that uses also the acoustic channel to parasitize ants.
+More fascinating are the ant nest beetles called Paussus, which live their whole lives in the ant colony. These beetles have evolved to hack into the ants' chemical network. Their bodies are covered in small hairs that exude chemical signals, that let them talk the ants' pheremone language. Once inside the colony, the beetles move around as they like. They can eat adult ants and larvae, without the ants getting angry and attacking them.
 
-> Among social parasites of ants, the ant nest beetles (Coleoptera, Carabidae, Paussini) stand out as arguably the most ecologically fascinating and phenotypically bizarre [15]. Ant nest beetles are obligate myrmecophiles during all life stages and are fully integrated into their host ant society through means of hacking the hosts’ chemical communication [4,5,16,17]. The ant nest beetles of the genus Paussus are known to deliver appeasement chemicals stored in trichomes adorning their body [18] to their host ants and in return receive full access to the colony and its bounty. Once integrated, adult Paussus move throughout the colony at will and prey upon the adult ants and especially their brood, surprisingly never eliciting aggression from the ants [5]. This symbiosis has resulted in one of the most stunning examples of rapid adaptive radiation known to date [15].
+Paussus does this from birth, and can even interact with the ant queen. How is this possible? It turns out that Paussus also does the Maculinea trick. More amazing, the beetle can speak three different ant "languages" including the queen's language. By making the right sounds, Paussus in effect tells ants "it's ok" even as it gobbles them up.
 
-> Unlike Maculinea butterflies, Paussus depends on ants during all stages of its development, thus adaptations for social parasitism must be innervated in both adults and their virtually immobile immatures [19]. Furthermore, Paussus adults interact directly with the queen in intimate ways previously unknown in myrmecophiles [5].
 
-> That Paussus are able to prey upon brood and adults alike and interact with the queen without eliciting any aggressive behavior from the ants (including those being preyed upon!) [4,5] demonstrates the shear sophistication of their masquerade parasitism and suggests that Paussus have utilized another channel beyond chemical mimicry to achieve their hierarchical standing among their hosts.
-
-> The presence of stridulatory organs in Paussus has long been known [20–23] but only recently described in detail and interpreted as a mechanism possibly evolved to interact with ants [24].
-
-> We tested this hypothesis by conducting a thorough investigation of the stridulation and behaviour of Paussus favieri and its host ant, Pheidole pallidula. We first characterized the acoustic signals of Paussus favieri and worker, soldier and queen castes of its host ant, Pheidole pallidula. We next analysed ants’ responses to Paussus stridulations by playback experiments and found that the ants react to Paussus sounds, which demonstrates that Paussus stridulations convey an interspecific message. More unexpected, however, was the finding that Paussus beetles were able to produce at least three different acoustical signals that elicited different responses in the ants. We show that Paussus favieri is not only able to mimic ants’ stridulations but can also “speak” three different “languages”, each corresponding to sounds produced by different ant castes, including the queen, to direct host ant behaviours. In effect, Paussus utilizes modular acoustical mimicry to achieve the highest hierarchical status of the colony.
-
-> In presenting this new finding regarding adult beetles we document that Paussus has evolved the most sophisticated acoustical behaviour for social parasitism known to date.
 
 
 ++ The Million Years War
