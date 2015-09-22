@@ -6,63 +6,63 @@ In this text I've often talked of an "arms race" between social and anti-social 
 
 ++ Not The Ants You Are Looking For
 
-I've already described the spiders that live in ant colonies, imitating their hosts, while slowly eating them. It's not just a few spiders. [https://en.wikipedia.org/wiki/Ant_mimicry Thousands of species] of spiders and [http://www.hindawi.com/journals/psyche/2013/264279/ other insects] mimic ants to some degree.
- 
-Ant mimics have evolved many different ways to hide among their hosts. They may look like ants, with narrow waists, dark coloring, and long antennae that vibrate like ant antennae. They may smell like ants, which use a chemical language to distinguish friends from foes. They may move and behave like ants. They may even sound like ants.
+I've already described the spiders that live in ant colonies. They imitate their hosts, while they pick them off one by one. It's not just a few spiders. [https://en.wikipedia.org/wiki/Ant_mimicry Thousands of species] of spiders and [http://www.hindawi.com/journals/psyche/2013/264279/ other insects] mimic ants to some degree.
+
+Ant mimics have evolved many different ways to hide among their hosts. They may look like ants. Then they have narrow waists, dark coloring. They wave long antennae that vibrate like the real thing. They may smell like ants. Then they imitate the ants' chemical language that identifies friends and foes. They may move and behave like ants. They may even sound like ants.
 
 In their paper [http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130541 "The Pied Piper: A Parasitic Beetle’s Melodies Modulate Ant Behaviours,"] Di Guilio and his colleagues explain how the larvae of the Maculinea butterfly steal from ants. They can mimic the queen ant's voice, and so get care from workers.
 
-More fascinating are the ant nest beetles called Paussus. These live their entire lives in the ant colony. The Paussus beetles have evolved to hack into the ants' chemical network. Their bodies bristle with small hairs that exude chemical signals. With these signals, Paussus talks the ants' pheromone language. Once inside the colony, the beetles move around as they like. They can eat adult ants and larvae, with no response from their prey.
+More fascinating are the ant nest beetles called Paussus. These live their entire lives in the ant colony. The Paussus beetles have evolved to hack into the ants' chemical network. Their bodies bristle with small hairs that exude chemical signals. With these signals, Paussus talks the ants' pheromone language. Once inside the colony, the beetles move around as they like. They can eat adult ants and larvae, with no response from the ants.
 
 Paussus does this from birth, and can even interact with the ant queen. How is this possible? It turns out that Paussus also does the Maculinea trick, using sounds to mimic the ants' language. Not just a single language either. The beetle can speak three different ant languages including that of the queen. By making the right sounds, Paussus lies to the ants, telling them "it's OK" even as it gobbles them up.
 
-The ant colony is a rich bait for any would-be predator. It is safe, warm, and full of food. The ants have been battling an endless stream of invaders, since they diverged from the wasp family 130 million years ago. And yet ants are a successful species. The latest estimate of "how many ants are there?" adds up to about the same mass as humans.
+The ant colony is a rich bait for any would-be predator. It is safe, warm, and full of food. The ants diverged from the wasp family 130 million years ago. Since then they have battled an endless stream of invaders. And yet ants are a successful species. The latest estimate of "how many ants are there?" adds up to about the same mass as humans.
 
-Ant colonies are "eusocial." They divide up the work, and take care of each others' young. They live in large colonies of multiple generations. This eusocial lifestyle did not pop up one day. It has evolved gradually over hundreds of millions of years.
+Ant colonies are "eusocial." They divide up the work, and take care of each others' young. They live in large colonies of overlapping generations. This eusocial lifestyle did not pop up one day. It has evolved little by little over a hundred million years.
 
-There are two forces that pushed and still push the evolution of ants towards eusocial behavior. One is the economics of flowering plants. This development created a world of seasonal bounties mixed with famine. Individual insects can only take small advantage of this. A colony can hoard during good times, so spread the risk, and flatten it out.
+There are two forces that pushed ant evolution towards eusocial behavior. One is the economics of flowering plants. This development created a world of seasonal bounties mixed with famine. Individual insects can only take small advantage of this. A colony can hoard during good times, so spread the risk, and flatten it out.
 
-The second force is that horde of predators trying to get the benefits of the ants' work, without the investment. This drives the ants to become better organized to detect and attack intruders. They develop distinctive languages of chemicals and sounds. They recognize each other, form a caste system, and so on.
+The second force is the horde of cheats that seek the benefits of the ants' work, without the investment. This drives the ants to become better organized to detect and attack intruders. They develop distinctive languages of chemicals and sounds. They recognize each other, form a caste system, and so on.
 
-Predators can be from the same species. Ant colonies that cross paths will attack each other. The winners will kill all the losers, and take over their territory.
+Ant predators can be other ants, even from the same species. Ant colonies that cross paths will attack each other. The winners kill all the losers, and take over their territory.
 
-The evolution of social behavior in ants starts with risk sharing, and then turns into an arms race with predators. It is fair to say that without the predators, ant society would not exist. Not only ants: termites, bees, and species of wasp have evolved along the same path.
+The evolution of social behavior in ants starts with risk sharing. It then turns into an arms race with predators. I'd argue that without the predators, ant society would not exist. Not only ants: termites, bees, and species of wasp have evolved along the same path.
 
 Yet neither the ants nor their predators have any choice in the matter. It seems to be inevitable.
 
 When there is an uneven food supply, species will evolve ways to spread the risk, or they will go extinct. They can migrate to follow food. They can adapt their metabolism over time. Or they can work in groups to cover a wider area, and share windfalls when they find them. Risk sharing turns out to be the most effective strategy.
 
-Game theory predicts that when a group works together to spread risk, others will find ways to cheat. That is, to benefit from the work of the group without personal cost. Social insects eliminate cheats from within the colony by eliminating genetic competition. We still see colonies of the same ant species stealing from each other, in some cases. Most who cheat social insects comes from other species.
+Game theory predicts that when a group works together to spread risk, others will find ways to cheat. That is, to win the work of the group without the cost. Social insects get rid of cheats from within the colony by eliminating genetic competition. We still see colonies of the same ant species stealing from each other, in some cases. Most species which cheat social insects comes from other species.
 
 And when cheating strategies evolve, the social species will evolve defenses, or go extinct. The defenses against cheats always follow the same patterns: identify intruders and attack them. Identification can be visual, chemical, tactile, acoustic. And so social species evolve languages, identity, memory, and so on, to fight the cheats.
 
 ++ The Vampire Underground
 
-Social behavior appears in non-insect species too. Let's travel 30 million years back to the Oligocene, a time when the tropical jungles of the Eocene began to give way to our present day Miocene period.
+Social behavior appears in non-insect species too. Let's travel 30 million years back to the Oligocene. It's a time when the tropical jungles of the Eocene begins to give way to our present day Miocene period.
 
-The world cooled, and the first permanent ice sheets formed over the continent of Antarctica. And the tropical jungles covering the globe shrank, and shrank, until there remained only a belt around the equator. These jungles were filled with life. It was a time of giant penguins, and ancestors of elephants, rhinos, camels, cows, and horses.
+The world is cooling. The first permanent ice sheets are forming over Antarctica. The tropical jungles covering the globe are shrinking. Only a belt remains, around the equator. These jungles are full of life. It is a time of megafauna. There are giant penguins. There are the ancestors of elephants, rhinos, camels, cows, and horses.
 
-On these animals fed blood-sucking insects that burrowed through hair, hide, feathers, scales and skin. And to feed on these insects came the bats, far cousins of dolphins and whales. Some bats ate fruit, and some hunted small birds or reptiles. And some followed the rich carpet of blood-sucking insects, to specialize in parasite removal.
+On these animals feed blood-sucking insects. They burrow through hair, hide, feathers, scales and skin. And to feed on these insects come the bats, far cousins of dolphins and whales. Some bats eat fruit, and some hunt small birds or reptiles. And some follow that buffet of blood-sucking insects, to specialize in parasite removal.
 
-These bats landed on birds, reptiles, or mammals, and picked off the ticks and leeches. They grew to depend on rich red blood as the main part of their diet, and they evolved to land and feed without disturbing the larger citizens of the jungles they landed on.
+These bats land on birds, reptiles, or mammals, and pick off the ticks and leeches. They grow to depend on rich red blood as the main part of their diet. They evolved to land and feed without disturbing their hosts.
 
-Sooner or later, the bats slipped from removing blood suckers, to taking blood themselves. Their mouths evolved sharp teeth, to slice little holes without pain. Their tongues evolved into little straws that could sip delicately. And their hands evolved into grips that could hold tight, even if their host woke up and shook their body.
+The bats slide from removing blood suckers, to taking blood themselves. Their mouths evolve sharp teeth, to slice little holes without pain. Their tongues evolve into little straws to sip the blood. And their hands evolve into grips that can hold tight, even if their host wakes up and shakes their body.
 
-The vampire bats learned to share, as birds do, their food with their young. Feeding on insects is one thing. Digging holes into large animals is something else, not easy for the younger bats. Mothers shared with juveniles too young to hunt for themselves. Vampire bat families grew into large colonies dominated by females, mostly sisters and cousins, while males flitted around the outside.
+The vampire bats learn to share their food with their young. Feeding on insects is one thing. Digging holes into large animals is something else, not easy for the younger bats. Mothers share with juveniles too young to hunt for themselves. Vampire bat families grow into large colonies dominated by females. They are sisters and cousins. The males flit around the outside.
 
-As the technique of meal sharing spread, adult bats also learned to share with each other. They built an economy of mutual need. A vampire bat that can't feed for two or three nights will starve. A lucky bat can gorge itself, yet it cannot store fat. Extra weight is unacceptable for a flying animal. The best strategy for storing blood is to "lend" it to unlucky bats in the hope of getting it back in the future.
+As the technique of meal sharing spreads, adult bats also learn to share with each other. They build an economy of mutual need. A vampire bat that can't feed for two or three nights will starve. A lucky bat can gorge itself, yet it cannot store fat. Extra weight is unacceptable for a flying animal. The best strategy for storing blood is to "lend" it to unlucky bats in the hope of getting it back in the future.
 
-Sharing blood meals removes much of the risk of an unstable food supply. More generous bats would be surrounded by more relatives, and so increase their own chances of survival. The genes for sharing behavior spread and became dominant. Yet in every economy, some players will try to cheat. It is inevitable. So along with the selfish genes for altruism, came the selfish genes for fraud and trickery.
+Sharing blood meals removes much of the risk of an unstable food supply. More generous bats are surrounded by more relatives. Thus they increase their own chances of survival. The genes for sharing behavior spread and became dominant. Yet in every economy, some players will try to cheat. It is inevitable. So along with the selfish genes for altruism, came the selfish genes for fraud and trickery.
 
-It doesn't take a huge genetic leap, simply some slowing of development. The adult bat looks and acts more juvenile. It's a trick we see in other species too, like humans and dogs. An adult dog that shows floppy ears and wagging tail will look like a big puppy, and disarm the competitive instinct in other dogs. A human that shows large round eyes and strong emotions looks like a big child, and provokes sympathy and care-giving from other humans.
+It doesn't take a huge genetic leap, just some slowing of development. The adult bat looks and acts more juvenile. It's a trick we see in other species too, like humans and dogs. An adult dog that shows floppy ears and wagging tail will look like a big puppy. It disarms the competitive instinct in other dogs. A human woman that shows large round eyes and strong emotions looks like a big child. She provokes sympathy and care-giving from other humans.
 
-And so as the mainstream of vampire bats developed a mutual sharing culture, a minority got better and better at cheating. The sharing bats fought back by evolving ways to detect and fight cheats.
+So the vampire bats mainstream develop a mutual sharing culture. And a minority get better at cheating. The sharing bats fight back by evolving ways to detect and fight cheats.
 
-When sharing blood, instead of doing the polite "I vomit, you swallow" thing, the sharing bats started to also groom each other, and chat with little bat squeaks. Vampire bat society is remarkably tight and cohesive. Bats keep track of their relatives, and more to the point, their relationships. It's the only way to detect cheats: retain a memory of transactions. The successful strategy is to start by sharing, and then to switch by denying, once a cheat is detected. Obvious cheats will be outcast, and rapidly die.
+When sharing blood, the bats do a polite "I vomit, you swallow" thing. Now, they're evolving grooming behavior. They lick each other and chatter with little bat squeaks. Vampire bat society is tight and cohesive. Bats keep track of their relatives and their relationships. They keep a memory of transactions.  Not just what happens today, also what happened in the past. It's the only way to detect cheats. A bat starts by sharing, and then to switches by denying, once it realizes another bat is cheating.
 
-The cheaters didn't die out though. Instead, they got better at their own game. Cheating vampire bats don't simply come and beg for food. They start by talking, chattering, and faking the social grooming, without sharing food. Enough chatter and it starts to feel real. Over the years, cheaters got better and better at mimicry, able to fake voices and act injured, weak, vulnerable, young, innocent.
+The cheaters don't dying out though. Instead, they get better at their own game. Cheating vampire bats don't just come and beg for food. They start by talking, chattering, and faking the social grooming, without sharing food. Enough chatter and it starts to feel real. The cheaters get better and better at mimicry. They can fake voices and act injured, weak, vulnerable, young, innocent.
 
-This slow, relentless arms race is a classic [http://en.wikipedia.org/wiki/Red_Queen_hypothesis Red Queen's Race] between a species and its parasites. This is a race where both parties run as fast as they can, simply to stay still. The conflict between honest and cheating vampire bats has run for millions of years, with neither side winning. Indeed, neither side can win. 
+This slow, relentless arms race is a classic [http://en.wikipedia.org/wiki/Red_Queen_hypothesis Red Queen's Race] between a species and its parasites. This is a race where both parties run as fast as they can, just to stay still. The conflict between sharing bats, and cheaters runs for millions of years. Neither side can win.
 
 The species expresses two prime strategies, in genes and in culture, that have competed at equilibrium for millions of years. All vampire bats carry the genes, to some degree. And in a consistent, small percentage of cases, a bat is born with sufficient talent to become a cheat. It is an all-or-nothing strategy. One cannot be a part-time cheat, and succeed.
 
@@ -315,49 +315,28 @@ How this happened is unstudied, yet we can speculate. Many times in our history,
 
 And when you look at which individuals are most motivated to leave the tribe and explore, you see something. Social humans like to stay where they are. They invest in other people, and moving around is bad for business. 
 
-Psychopaths on the other hand, keep getting into trouble where they are. They often have little to lose, and much to gain, by moving. They are natural mimics and good at language. They can charm others to move with them. They make friends easily, and produce a lot of mixed blood babies.
+Psychopaths on the other hand, keep getting into trouble where they are. They often have little to lose, and much to gain, by moving. They are natural mimics and good at language. They can charm others to move with them. They make friends easily, and produce a lot of mixed-blood babies.
 
-In other words, as modern humans settled the world, 
+In other words, as modern humans settled the world, it was psychopaths that kept the species connected. Our species would not exist, and would not have survived without psychopaths. I am explicit here, because much of this book takes a negative view of psychopathy.
 
-We have a progression here: individual, family, tribe, species. At each level we see emotions and intelligence. At each level we see predators, and we see defenses. The arms race pushes the species towards ever greater 
+I also want to speculate a little about our future evolution. Our past evolution has all been about density and scale. More people means more competition and more opportunity. It heats up the arms race between collaborator and cheat. It drives us to ever more sophisticated displays and behaviors.
 
+In the last thousands of years, this process seems to have exploded. It is an illusion: the rate of change is actually a constant curve. It seems flat, or it seems vertical. It is neither. Every two years the cost of talking to other people falls by 50%. This is a phenomenon I call "Cost Gravity," and it affects all technology.
 
-So if humanity does not die out, is it possible to predict our future evolution? So far, it has all been about scale. 
+Our technology has let us construct towns, cities, and virtual worlds. It has amplified our social networks. We used to have to get up and walk, to meet a handful of people. We can now open a laptop and instantly talk to thousands.
 
-- tribal to social
-- pressure between individuals = transactions
-- arms race is a function of pressure
+The density of our social interactions increases every year. So the competition between sharing and cheating strategies also gets more intense every year. The human mind can only evolve so fast.
 
+We are now evolving collectively, using technology to experiment with different strategies. The arms race is happening outside our DNA, and this is why modern humanity is so different from our ancestors 50,000 or 200,000 years ago.
 
-As population grows, so does the competition between good and bad actors. Our technology has let us construct towns, cities, and virtual worlds. It has amplified our social networks. We used to have to get up and walk, to meet a handful of people. We can now open a laptop and instantly talk to thousands.
+I think aggressive psychopathy is burning out. Every year there are fewer places to run to. Every year there is less mystery and ignorance. Every year social humanity tightens its rules and improves its authority. It isn't a perfect process, yet it is working. Abusive behavior is easier to understand, signal, and punish than ever.
 
-And every time we cross paths with a stranger, we perform a small dance. Is this person honest or not? Are they sincere or not? Is this real, or fake? We ask these questions without thinking. We bet on our answers. When we're wrong, we pay. It may be a small cost, just a little time. Or, it can be much worse.
+This pressure pushes psychopathy to evolve to be less harmful in conventional ways. It is like a disease-inducing microorganism. Over time it evolves from "hot" to "warm" to "cold." Part of this is resistance from the host species. Part of it is self-interest from the microorganism. A dead host is no use.
 
-The war is forever, and the arms race is never done. Indeed the race speeds up, as our technology brings us into contact with more and more people. Yet the speed at which our physical brains can evolve is limited. We hit those limits thousands of years ago.
+So psychopathy has been evolving in a different direction, and this is where the arms race is still most active. Our individual emotions and intelligence work up to the social level. Past that, we are evolving intelligence and emotions that work at the super-social level. We think and feel in crowds of hundreds, thousands, and millions.
 
-What this means is that our future evolution happens outside our skulls. This is not a new thing. We have co-evolved with our technology since we invented stone tools and fire. You cannot separate humanity from its culture. The two evolve together.
+And psychopathy too, works collectively. We have many psychopathic organizations. These behave like individual psychopaths. They hide, flatter, lie, steal. They commit crimes on a strict cost/benefit basis. They are purely selfish. When exposed, they vanish and reappear elsewhere with a different name.
 
-Our individual emotions and intelligence stop at the social level. Past that, we are evolving intelligence and emotions that work at the super-social level. We think in crowds, of hundreds, thousands, millions. And we feel at the same scale.
+On the other side, we have collaborative organizations and networks. They are often less visible. They invest in people, instead of taking from them. They share knowledge, rather than hoard it. They create wealth, yet it is widely spread out.
 
-This has been happening since the invention of counting and writing, yet it's an accelerating process. Like the expansion of our brains, it is pushed by population density. People on the planet is part of it. More significant is the number of other people each of us can talk to.
-
-++ Conclusions
-
-
-In this article I've stated the hypothesis that bad actors are an essential friction for good ones. That human culture and society, language and the large brain are driven by the need to share knowledge and resources, and work together. And that these are the result of a million year arms' race with the cheaters we call "psychopaths" (or narcissist, Machiavellian, sociopath).
-
-This theory, which I'll brand the "Two Actors Hypothesis," has some interesting correlations that let us speculate on the nature of intelligence. Humanity is not the only social species. My friend Wesley remarked, when I explained this theory to him, that Orcas (killer whales) are also highly social and have large brains. We've seen the vampire bat story. There are other social animals too: mole rats, dolphins, dogs and wolves, gorillas, ants, bees, wasps, and termites.
-
-The Two Actors Hypothesis should be easy to disprove. We find a social species that has no bad actors, and where social behavior cannot be cleanly explained in terms of filters and weapons against bad actors.
-
-Social species show different levels of sociality. What they have in common is the strategy of risk sharing though other individuals of the same family or species. It is clear that sociality is a repeating pattern for risk sharing. Indeed, you could argue that it is inevitable that social behavior will emerge over and over, in the spectrum of life. And together with sociality, will come cheating. It is inevitable. 
-
-And bad actors provide the friction that forces sociality towards ever an more sophisticated culture. Humans have music and fancy food, and ants have pheromones. The arms race is inevitable. It may run slowly as in insects with limited capacity for added software, or it may run rapidly, as it has in mammals.
-
-Mammal sociality is software based, so to speak, and social mammals like orcas and humans have developed larger and larger brains, driven by the needs of sociality. If it's good to remember five faces, it's better to remember five thousand. If one psychopath filter is good, a hundred are better. Thus human intelligence, like that of the toothed whales, is driven by that ancient arms race between the good and the bad actor algorithms.
-
-Psychopaths are not sick or broken people. I do consider them to cause mental illness in others, in the form of depression, PTSD, and suicidal urges. I respect all life, and every actor is essentially innocent. However my goal with this hypothesis is to provide strategies for dealing more effectively with bad actors, before, during, and after that vampire's embrace.
-
-++ Further Reading
-
-Animal models also hold out hope for long term social integration of psychopaths, by providing them with environments that satisfy their hunting urges without allowing them to hurt others. If that sounds far-fetched, consider complex and sometimes violent multi-player video games, and their appeal to psychopaths. In games like EVE Online, there are [http://www.theverge.com/2014/1/29/5356498/eve-online-battle-sees-200000-dollars-worth-of-spaceships-destroyed massive conspiracies, deceits, raids, and battles] that end in hundreds of thousands of dollars worth of damage.
+I already discussed these two kinds of organization in [#hunting]. I called them "power pyramids" and "living systems." The conflict between these is intense, and dominates our lives whether we realize it or not.
