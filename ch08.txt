@@ -64,21 +64,33 @@ The cheaters don't dying out though. Instead, they get better at their own game.
 
 This slow, relentless arms race is a classic [http://en.wikipedia.org/wiki/Red_Queen_hypothesis Red Queen's Race] between a species and its parasites. This is a race where both parties run as fast as they can, just to stay still. The conflict between sharing bats, and cheaters runs for millions of years. Neither side can win.
 
-The species expresses two prime strategies, in genes and in culture, that have competed at equilibrium for millions of years. All vampire bats carry the genes, to some degree. And in a consistent, small percentage of cases, a bat is born with sufficient talent to become a cheat. It is an all-or-nothing strategy. One cannot be a part-time cheat, and succeed.
+Vampire bat genes and culture carry these two strategies. All vampire bats carry more or less of the genes. In a consistent small percentage, a bat has enough talent to become a cheat. It is an all-or-nothing strategy. A vampire bat is either the best sharer it can be, or the best cheat.
 
 ++ The Eusocial Apex
 
-Vampire bats are part of the larger family of New World leaf nosed bats. It's notable how the vampire's fruit and insect eating cousins are much less social, roosting in small groups, while the vampire bats roost in colonies of up to a thousand bats. Looking at the ape family, and humans, we see much the same thing. Humans are hyper-social. We live in colonies of hundreds, thousands, millions. And like the vampire bats, we depend on a delicate economy of mutual sharing to survive risk.
+Vampire bats are part of the larger family of New World leaf nosed bats. Other bats, which eat fruit and insects, are much less social. They roost in small groups, while the vampire bats roost in colonies of up to a thousand. 
 
-In his 2012 book "The Social Conquest of the Earth," Edward Wilson described humans as [http://en.wikipedia.org/wiki/Eusociality eusocial apes], where our divisions of labor, overlapping generations, and cooperative care of young give us a "superpower" that no other species can achieve.
+Looking at the ape family, and humans, we see much the same thing. Humans are social to an extreme degree. We live in colonies of hundreds, thousands, even millions. And like the vampire bats, we depend on a delicate economy of mutual sharing to survive risk.
 
-The vision of humans as eusocial apes is elegant and fitting. I've discussed other social animals like ants. Yet these cannot scale as humans do. No matter what tribes we come from, we will work together. Whereas ants form a colony organism, loyal to a queen, humans form networks of relationships. Sometimes these are hierarchical. More often we form diverse relationships between individuals and groups. Those relationships aren't arbitrary. They are driven by meticulous accounting of credit and debt, of genes, food, shelter, sex, information, time, and so on.
+In his 2012 book "The Social Conquest of the Earth," Edward Wilson described humans as [http://en.wikipedia.org/wiki/Eusociality eusocial apes]. Our divisions of labor, overlapping generations, and cooperative care of young give us a "superpower" that few other species can achieve.
 
-The mental tools we have developed to track these relationships are sophisticated and practically define us as "human". We can remember faces for a lifetime. We can mentally balance the accounting for relationships with fifty to a hundred people. We can rapidly gauge the relative value of any favor or item, in a given place or time. That roast chicken you shared with me for lunch is worth three beers tomorrow, or one in two weeks' time. We remember cheats, forever, and we do not forgive them. We have imagination, so we can plan how to work together. We have language, to exchange knowledge. We have faces, to express our emotions. The list goes on and on and on.
+The vision of humans as eusocial apes is elegant and it fits the data well. I've discussed other eusocial animals like ants. They are globally successful. Yet they cannot scale as humans do. No matter what tribes we come from, we will work together.
 
-Humans evolved all these genes during a period of severe climate shifts that hammered our environment over and over during the last million years. As we survived through near-extinction bottlenecks that made us all close cousins, we survived disaster after disaster by working together. Our society evolved from being dependent on nature, and based on individuals and small family groups, to being self-hosting through technology, and based on limitless eusociality and knowledge sharing.
+Ants form a colony organism, loyal to a queen. Humans form networks of relationships. Sometimes these are hierarchical. More often we form diverse relationships between individuals and groups.
 
-And driving this evolution was the parallel evolution of cheater genes that developed talents for exploiting others and giving nothing in return.
+Those relationships aren't arbitrary. They build on meticulous accounting of credit and debt. We calculate trade in genes, food, shelter, sex, information, time. Most of the time it is subconscious, yet it is constant and dominant.
+
+We have developed sophisticated mental tools to track these relationships. They almost define us as "human". We can remember faces for a lifetime. We can mentally balance the accounting for relationships with fifty to a hundred people. 
+
+We can guess the relative value of any favor or item, in a given place or time. That roast chicken you shared with me for lunch is worth three beers tomorrow, or one in two weeks' time. We remember cheats, forever, and we do not forgive them. 
+
+We have imagination, so we can plan how to work together. We have language, to exchange knowledge. We have faces, to express our emotions. The list goes on and on and on.
+
+We evolved these genes during the last million or so years. It was a period of severe climate shifts that hammered our environment. Over and over, we survived through near-extinction bottlenecks. For long periods, our ancestors numbered only a few thousand.  
+
+These events made us all close cousins. We survived disaster after disaster by working together. We developed the ability to pass knowledge down the generations. We developed technologies like tools and fire. We began to shape our environment, rather than depend on it.
+
+And driving this evolution was the parallel evolution of cheater genes. For every social instinct we evolved, we evolved talents for cheating others.
 
 ++ The Forever War
 
@@ -88,7 +100,7 @@ First, we can rule out a recent origin. Psychopathy is a consistent feature of h
 
 The origins of humanity keep getting pushed back in time. The ritual burial cave of homo naledi in South Africa dates from around 3 million years ago. The oldest stone tools [http://www.the-scientist.com/?articles.view/articleNo/43066/title/Oldest-Stone-Tools-Discovered/ go back 3.3 million years].
 
-Ritual burials speak of empathy for the dead, and social emotions that go beyond tribe and family. Stone tools point to a structured society with division of labor, some level of trade, and forward planning.
+Ritual burials speak of empathy for the dead, and social emotions that go beyond tribe and family. Stone tools point to a structured society. It points to a division of labor, some level of trade, and forward planning.
 
 Let me explain that. To turn stone into usable tools takes long skill and learning. We know this, because the techniques follow a slow, incremental evolution. This means knowledge passed down the generations. This means specialized individuals, even a caste of tool makers. Tool makers are not hunters, since they would be too precious. So, that means trade.
 
@@ -96,39 +108,41 @@ As Scientific American [http://blogs.scientificamerican.com/observations/archaeo
 
 > The Lomekwi knappers were able to deliver sufficient intentional force to detach repeatedly series of adjacent and superposed flakes and then to continue knapping by rotating the cores. [They] intentionally selected big, heavy blocks of very hard raw material from nearby sources even though smaller blocks were available. They used various knapping techniques to remove the sharp-edged flakes from the cores.
 
-The raw materials are not widespread. This means toolmakers must travel to places where they can find the right rocks. They must make their tools. They must carry those tools back to people who need to use them. This means taking food and water, sacks or ropes, and so on.
+The raw materials are not widespread. The toolmakers had to travel to locations with the right rocks. They had to make their tools. They had to carry those tools back to people who needed them. This meant taking food and water, sacks or ropes, and so on.
 
-It also means the ability to plan in advance and organize socially. This sounds advanced for hominids with small brains, until you realize that ants do much the same. This behavior does not need to be conscious. It can be instinctive.
+It also means the ability to plan in advance and organize with others. This means language, rich enough to express futures and maybes. This sounds advanced for hominids with small brains, until you realize that ants do much the same. This behavior does not need to be conscious. It can be instinctive.
 
-A stone tool production chain, with cores, flakes, and anvils goes beyond the mental capacity of a single individual. It tells us there was a social structure. Some specialized in making tools. Others specialized in using the tools for hunting, cleaning meat, breaking bones, cutting wood, or whatever. Such a social structure means collaboration between individuals. And whenever there is collaboration, there are cheats.
+A stone tool production chain has cores, flakes, and anvils. It goes far beyond the mental capacity of a single individual. It tells us there was a social structure. Some specialized in making tools. Others in using the tools for hunting, cleaning meat, breaking bones, cutting wood. Such a social structure means collaboration between individuals. And whenever there is collaboration, there are cheats.
 
-So we can date human psychopathy to at least 3 million years ago. For sure, it has evolved continuously since then, as has human social behavior.
+So we can date human psychopathy to at least 3 million years ago. For sure, it has evolved non-stop since then, as has all human behavior.
 
 Can we date it further back? 
 
 Our cousin species chimpanzees show many of the same emotions as humans. They show the predator, defense, and sexual emotions. They show the family and tribal emotions to some extent. Their displays may be different, yet the emotions behind them are the same.
 
-It is the social emotions that are uniquely human. So we can postulate that our last common ancestor, 13 million years ago, already had tribal emotions.
+It is the social emotions that we see only in humans. So we can postulate that our last common ancestor already had tribal emotions. That was 13 million years ago. 
 
-Human social emotions thus evolved at some stage between 13 and 3 millions years ago. My hypothesis is that psychopathy co-evolved with these emotions. The social emotions are in fact a language, like the ants' languages, evolved to detect cheats.
+Human social emotions thus evolved at some stage between 13 and 3 millions years ago. I've argued that psychopathy co-evolved with these emotions. The social emotions are a language evolved to detect cheats. Again, much like the ants' languages.
 
 ++ The Predator Model
 
-By luck, or perhaps from personal experience, Bram Stoker drew a remarkably accurate picture of the psychopath as predator. The story is not meant to be taken literally. It's a metaphor, and a good one. Dracula comes in the night, dressed to kill. He slowly sucks the life blood out of you, even as he seduces you with his charm and sexuality.
+The author of "Dracula," Bram Stoker, drew the psychopath as predator. Perhaps he had personal experience. The story is not meant as literal truth. It is a metaphor, and a good one. Dracula comes in the night, dressed to kill. He drains the life blood out of you, even as he seduces you with his charm and sexuality.
 
-Dracula does not kill outright. Rather, he turns you into a weak copies of himself. He ispowerful and animalistic. He can read your thoughts, even as you frantically try to escape. And the best tension is human versus vampire, with vampire-on-vampire conflict as cherry topping.
+Dracula does not kill outright. Rather, he turns you into a weak copy of himself. He is powerful and animalistic. He can read your thoughts, even as you scramble to escape. And the best tension is human versus vampire, with vampire-on-vampire conflict as cherry topping.
 
-Dr Robert Hare started describing psychopaths as social predators in [https://www.psychologytoday.com/articles/199401/charming-psychopath his 1994 article in Psychology Today], "This Charming Psychopath -- How to spot social predators before they attack." In this article and most of his work, he focused on identifying psychopaths, designing his famous "Psychopath Checklist."
+Dr Robert Hare started describing psychopaths as social predators in [https://www.psychologytoday.com/articles/199401/charming-psychopath his landmark 1994 article in Psychology Today]. The subtitle is: "This Charming Psychopath -- How to spot social predators before they attack." In this article and his work he focuses on identifying psychopaths. Most of us are familiar with his "Psychopath Checklist."
 
-In 2014, [http://www.chinastrategies.com/ Stefan H. Verstappen], in his booklet [http://www.chinastrategies.com/wp-content/uploads/2014/10/defenseagainstpsychopath.pdf Defense Against The Psychopath], took the predator analogy further, and suggested that psychopaths are using a "cheating strategy."
+In 2014, [http://www.chinastrategies.com/ Stefan H. Verstappen], in his booklet [http://www.chinastrategies.com/wp-content/uploads/2014/10/defenseagainstpsychopath.pdf Defense Against The Psychopath], took the predator analogy further. He suggested that psychopaths are using a "cheating strategy." 
 
-Daniel N. Jones, of the University of Texas at El Paso, and principal investigator at the Dark-Triad and Corporate Crime Laboratory, [http://aeon.co/magazine/science/animal-deception-illuminates-the-human-variety/ wrote more on the cheating strategy:]
+Others have described male psychopaths as "reproductive cheats." Such men seduce women, make them pregnant, and then walk away.
+
+In 2015, Daniel N. Jones, of the University of Texas at El Paso, and principal investigator at the Dark-Triad and Corporate Crime Laboratory, [http://aeon.co/magazine/science/animal-deception-illuminates-the-human-variety/ wrote more on the cheating strategy:]
 
 > Some predators are fast, mobile and wide-ranging, executing their deceptions on as many others as they can; they resemble human psychopaths. Others are slow, stalking their prey in a specific, strategic (almost Machiavellian) way... There is a never-ending arms race between the deceiver and the deceived among most living things.
 
-Predators deceive their prey as a core strategy. Human predators cheat their victims as a core strategy. It is the same thing. Animal models are essential to understanding and predicting human behavior. We find it hard to look at ourselves honestly. Our self-analysis is polluted by notions of "free will" and "consciousness." We cannot improve nor discard these notions, so they obsess us. Yet we have no trouble dissecting animal behavior without such distractions.
+Predators deceive their prey as a core strategy. Human predators cheat their victims as a core strategy. It is the same thing. Animal models are essential to understanding and predicting human behavior. We find it hard to look at ourselves without lying. Our self-analysis crashes into notions of "free will" and "consciousness." We cannot improve nor discard these notions, so they obsess us. Yet we have no trouble dissecting animal behavior without such distractions.
 
-What I've done in this book is take the predator model as a backbone onto which all the rest can hang. We start with predators that cheat their way through the human social universe. All the rest derives from that. Everything we know about psychopaths, from the charm to the brutality to the lies, makes sense in the predator/cheat model.
+What I've done in this book is take the predator model as a backbone onto which all the rest can hang. We start with predators that cheat their way through the human social universe. All the rest derives from that. Everything we know about psychopaths makes sense in the predator model.
 
 As with all good models, we can also use the predator model to predict and to explore further. One rich area that [https://www.google.be/search?q=psychopath+arms+race no-one else seems to have explored yet], is that arms race between predator and prey.
 
@@ -136,71 +150,73 @@ The Wikipedia [https://en.wikipedia.org/wiki/Predation article on predation] say
 
 > The relationship between predator and prey is typically beneficial to the predator, and detrimental to the prey species. Sometimes, however, predation has indirect benefits to the prey species, though the individuals preyed upon themselves do not benefit. This means that predator and prey species are in an evolutionary arms race to maximize their respective abilities to obtain food or avoid being eaten. This interaction has resulted in a vast array of adaptations in both groups.
 
-Dr Hare has been refining his checklist for more than 20 years. It is not a moving target. He is message is that psychopaths across the world are highly predictable and similar in profound ways. In other words, these traits are genetic. 
+Dr Hare has been refining his checklist for more than 20 years. It is not a moving target. His message is that psychopaths across the world are predictable. They are similar in profound ways. In other words, these traits are genetic.
 
-Predators do obviously have to learn and practice. Twin studies show that psychopathy is highly heritable, yet not inevitable even in those who have all the right genes. We can speculate that circumstance switches on the appropriate genes, pushing the individual to specialize.
+Many predators do need to learn and practice. Twin studies show psychopathy is more than 50% heritable. Yet it is not inevitable even in those who have all the right genes. I argue that circumstance switches on the appropriate genes, pushing the individual to specialize.
 
 ++ The Secret Languages of Empathy
 
-I like the model in which human social behavior and psychopathy co-evolved. On the one hand we evolved a brain capable of building social networks with hundreds of others. And on the other hand, we evolved the talents to cheat and lie our way through these networks.
+I like the model in which human social behavior and psychopathy co-evolved. On the one hand we evolved a brain capable of building social networks with hundreds of others. And at the same time we evolved the talents to cheat and lie our way through these networks.
 
 We assume brain size defines intelligence, in some fuzzy sense. We humans define ourselves by our big brains more than anything else. What drove the expansion of the human brain over the last millions of years? The [http://www.livescience.com/5540-human-brains-big.html answer turns out] to be other people. As David Geary says:
 
 > There was very little change in brain size across our sample of fossil skulls until we hit a certain population size. Once that population density was hit, there was a very quick increase in brain size.
 
-Geary suggests that "social competition" is behind the growth. He suggests that more people means more competition for the same food supply. And competing for the same food means smarter individuals will survive, and have more offspring.
+Geary suggests that "social competition" is behind the growth. He suggests that more people means more competition for the same food supply. And competing for the same food means smarter individuals will have more offspring.
 
-This explanation fails for several reasons. We know that human food supply, except in catastrophic conditions, is not a static resource. Fish do not line up in shallow water, waiting to be collected. Deer do not come in packets of twelve. In fact, the food supply is a direct product of human activity. It is a deep and complex puzzle, solved by technology, knowledge, collaboration, and trading. The more people, the more food.
+This explanation fails for several reasons. We know that human food supply is not a static resource. Only in catastrophic situations do people compete for food. Fish do not line up in shallow water, waiting for someone to collect them. Deer do not come in packets of twelve. 
 
-Our collaborative model gets more, not less, effective with more people. At least, until we exhaust the environment or there is serious climate change.
+Food fights back. The food supply is a direct result of human activity. It is a deep and complex puzzle, solved by technology, knowledge, collaboration, and trading. The more people, the more food. Our collaborative model gets more, not less, effective with more people. 
 
-Secondly, why should intelligence should result in more babies? It does not happen in other animals. Big brains are expensive. Why not evolve larger teeth, or stronger muscles, or spiky tails? It seems rather arbitrary to claim intelligence as the key to survival, without further explanation.
+This only stops being true when we hit the limits of our environment. That is, during a population collapse, not a boom.
 
-There is one model that does work, though. That is the arms race between collaborators and cheats. When populations consist of small, isolated families, cheating is a poor strategy. It is too easy to detect and punish cheats. Mallory needs a minimum population density so he can move on, after exhausting a particular territory.
+Then, why should intelligence should result in more babies? It does not happen in other animals. Big brains are expensive and dangerous, for mother and baby. Why not evolve larger teeth, or stronger muscles, or spiky tails? It seems arbitrary to claim intelligence as the key to survival, without further explanation.
+
+There is one model that does work, though. That is the arms race between collaborators and cheats. When populations consist of small, isolated families, cheating is a poor strategy. It is easy to detect and punish cheats. Mallory needs a certain population density. He must be able to move on after exhausting a given territory.
 
 So the economic incentives for psychopaths increased as ancient human populations grew. At a certain point, the arms race turned hot. Alice evolved social emotions to detect and punish cheats. Mallory evolved manipulation and emotional mimicry to hack the emotional languages. Bob's emotions became more complex. Mallory's mimicry got better. Alice developed better social memories. Mallory became a better liar.
 
-And so on and on. Our brains are stuffed full with psychopathic talents, and psychopath detectors. It's not that the more intelligent humans had more babies. The arms race did a pincer movement on small brains. We are either superb collaborators, or we are superb cheats. Both take a lot of brain power: the more, the better. There is no middle ground.
+And so on and on. Our brains are chock full of psychopathic talents and psychopath detectors. It's not that the more intelligent humans had more babies. The arms race did a pincer movement on small brains. We are either superb collaborators, or we are superb cheats. Both take a lot of brain power: the more, the better. There is no middle ground.
 
 The stakes are high. A man can father dozens of babies, and women can make their husbands raise another man's children. The competition, through elimination of most males in every generation, is intense.
 
 Let's recap the social emotions. Each of these is an adaptation to defend against various of Mallory's talents:
 
-* //Like// and //dislike// - the emotions of social accounting. They seem simple, yet these emotions are the output of long and complex calculations. The calculations take into account years of observations, transactions, and received knowledge. This translates into a simple "yes/no/maybe" value we feel and show as pleasure or distrust. It drives us to avoid bad actors, and invest more in honest players. Mallory cheats this by beaming love or dislike at his targets.
+* //Like// and //dislike// - the emotions of social accounting. They seem simple, yet these emotions are the output of long and complex calculations. The calculations take into account years of observations, transactions, and received knowledge. This translates into a simple "yes/no/maybe" value. We feel this value and show it as pleasure or distrust. It drives us to avoid bad actors, and invest more in honest players. Mallory cheats this by beaming love or dislike at his targets.
 
-* //Anxiety// - the emotion of preparing for a threat. This is the emotion that says something bad is happening, and asks others for help. Again, it can be a simple result of a complex calculation. Some anxiety is obvious: tomorrow I must meet important people, and that stresses me. Most anxiety is a vague "something is not right" gut feeling, that will not go away. I believe it's often caused by one or more subconscious psychopath detectors shrieking at us.
+* //Anxiety// - the emotion of preparing for a threat. This is the emotion that says something bad is happening, and asks others for help. Again, it can be a simple result of a complex calculation. Some anxiety is obvious: tomorrow I must meet important people, and that stresses me. Most anxiety is a vague "something is not right" gut feeling, that will not go away. I believe it's often caused by our subconscious psychopath detectors shrieking at us.
 
-* //Guilt// - the emotion of breaking a social code. This is the emotion that says, "I am not a psychopath, promise!" when we are caught cheating. Everyone breaks rules at some point. Social groups need a way to distinguish casual criminals, who can reform, from professionals, who cannot. It is this: casual criminals can feel and display guilt. Mallory has evolved a good imitation of guilt. Yet it is not perfect, and it often leaves us unsatisfied.
+* //Guilt// - the emotion of breaking a social code. This is the emotion that says, "I am not a psychopath, promise!" when someone catches us cheating. Everyone breaks rules at some point. Social groups need a way to distinguish casual criminals from professionals. Some people will reform, and others will not. This is the indicator: casual criminals can feel and display guilt. Mallory has evolved a good imitation of guilt. Yet it is not perfect, and it often leaves us unsatisfied.
 
-* //Shame// - the emotion of humiliation. This emotion says, "I'm aware that I broke the rules." Again, this is about detecting professional rule breakers. Shame has a specific skin flushing pattern: face and ears. Mallory can mimic the body language, yet he cannot blush nor show red ears. Shame is such a powerful psychopath filter that social humans also mimic it, by blushing in socially awkward situations. 
+* //Shame// - the emotion of humiliation. This emotion says, "I'm aware that I broke the rules." Again, this is about detecting professional rule breakers. Shame has a specific skin flushing pattern: face and ears. Mallory can mimic the body language, yet he cannot blush nor show red ears. Shame is such a powerful psychopath filter that social humans also mimic it, by blushing.
 
 * //Remorse// - the emotion of apology. Remorse is how we say "sorry" and ask others to forgive us. Remorse has a body language, yet the key to an authentic display is timing and duration. You must say "sorry" at the right time, and for the right amount. To do this requires empathy for //dislike// and //righteousness//. Mallory cannot show remorse in a way that satisfies other people.
 
-* //Impatience// - the emotion of telling someone to hurry up. Impatience is what we feel when someone is violating our planning. The social response to impatience is remorse, with an apology. Like remorse, this takes empathy to get right. The human obsession with time keeping and schedules seems bizarre until you see it as a psychopath detector.
+* //Impatience// - the emotion of telling someone to hurry up. Impatience is what we feel when someone is violating our planning. The social response to impatience is remorse, with an apology. Like remorse, this takes empathy to get right. The human obsession with time keeping and schedules seems bizarre. When you see it as a psychopath detector, it makes sense.
 
 * //Amusement// - the emotion of a sudden understanding. Our sense of humor is another of those "why did we evolve it?" puzzles. Until you realize it's a psychopath test, and then it's clear. One must laugh at the right time, in the right way, and for the right duration. To do this takes empathy for the subject of the joke.
 
-* //Righteousness// - the emotion of punishing a rule breaker. This is the emotion that pushes us to actually confront and expel psychopaths. Whether due to infidelity, theft, deception, or other violations, it is indignation and righteousness that propel us out of Mallory's hands.
+* //Righteousness// - the emotion of punishing a rule breaker. This is the emotion that pushes us to actually confront and expel psychopaths. Catching Mallory's infidelity, theft, deception, or other violations, we fill with indignation and righteousness. This propels us out of Mallory's hands.
 
 ++ Crime and Punishment
 
-Rules are such an important defense against psychopaths that crime and punishment have four distinct emotions. Laws are a human universal. The details vary by culture. In some, murder is a capital offense. In others, it is a rite of passage. In some, property is sacred. In others, it is theft. And so on. What is consistent is that laws are passed down from generation to generation, and enforced by force.
+Rules are an important defense against psychopaths. Crime and punishment have four distinct emotions. Laws are a human universal. The details vary by culture. In some, murder is a capital offense. In others, it is a rite of passage. In some, property is inviolable. In others, property is theft. And so on. What is consistent is that we pass laws down from generation to generation, and enforce them by force.
 
-It could be a tribal council expelling a persistent offender, a court sentencing a convicted criminal, or a judge ruling on a copyright violation. We live by laws that are handed down through the centuries. We refine these laws continuously, and we enforce them with all the power of the State.
+It could be a tribal council expelling a persistent offender. Or a court sentencing a convicted criminal. Or a judge ruling on a copyright violation. We live by laws that we hand down through the centuries. We refine these laws little by little, and we enforce them with all the power of the State.
 
-Many people have wondered why we tolerate the State. After all, it is costly and often gets in our way. It is true that governments often become self-driving bureaucracies. Others become murderous dictatorships. Others become cynical patriarchies. Yet the overriding tendency, throughout history, is towards peace and stability.
+Many people have wondered why we tolerate the State. After all, it is costly and often gets in our way. It is true that governments often become self-driving bureaucracies. Others become murderous dictatorships. Others become cynical and corrupt. Yet the overriding tendency, throughout history, is towards peace and stability.
 
 The evolution of the State is like the ants' evolution of a colony caste system and a queen. It is constraining, and can go awry, yet it is better than the alternatives. When I walk down the street, and see police, my first reaction is mild distaste. Yet when someone steals my backpack with all my stuff in it, I run into the street searching for a uniform.
 
-Social humans do not need the State, in my experience. I've studied group behavior for a long time. Most people sincerely want to work together. The actual proportion of good actors varies. In some contexts it's above 99%. In others, it may barely hit 50%. No matter: good actors aim one way, and bad actors the other. As I said, we're born to be either superb collaborators or superb cheats.
+Social humans do not need the State, in my experience. I've studied group behavior for a long time. Most people just want to work together. The actual proportion of good actors varies. In some contexts it's above 99%. In others, it may be as low as 50%. No matter: good actors aim one way, and bad actors the other. As I said, we're born to be either superb collaborators or superb cheats.
 
-So good actors are obsessively looking for ways to behave better. They ask others, "how am I doing?" and they adjust their behavior. It does not take rules. Nor does it take learning. It is an instinctive behavior that runs off empathy.
+So good actors always look for ways to behave better. They ask others, "how am I doing?" and they adjust their behavior. It does not take rules. Nor does it take learning. It is an instinctive behavior that runs off empathy.
 
-Yet the bad actors are always searching for new ways to abuse others. They ask, "where are the boundaries?" and then they find ways to break them. Again, it takes no learning. It is instinctive behavior that runs off hunger and ennui.
+And the bad actors are always searching for new ways to abuse others. They ask, "where are the boundaries?" and then they find ways to break them. Again, it takes no learning. It is instinctive behavior that runs off hunger and ennui.
 
-What the healthy State does is to build a defense consisting of thousands upon thousands of rules. In some senses, the more the better. These rules must be self-consistent and pragmatic. And then the State enforces the rules, and by doing so, it catches cheats and gradually excludes them.
+What the healthy State does is to build a defense consisting of thousands upon thousands of rules. These rules must be self-consistent and pragmatic. And then the State enforces the rules, and by doing so, it catches cheats and excludes them.
 
-As observers, we're fast to see the mistakes and flaws, and slow to see the successes. Yet over time, it seems to work. Violence and crime fall, globally, year on year. And the State is homing in on the damage that individual psychopaths do. Domestic violence is not tolerated in most developed countries, where it used to be. And the old model of domestic violence as a gender issue (where only women are victims and only men are perpetrators) is breaking.
+As observers, we're fast to see the mistakes and flaws, and slow to see the successes. Yet over time, it seems to work. Violence and crime fall, globally, year on year. And the State is homing in on the damage that individual psychopaths do. Domestic violence is not tolerated in many countries where it used to be.
 
 Schools are becoming more aware of their minority of psychopathic students. I don't think they have the right tools to identify them. Nor do I feel that hunting down juvenile psychopaths is a remotely sane idea. Yet these are separate issues. The emerging understanding that 4% of humans are designed to make trouble is a good start.
 
