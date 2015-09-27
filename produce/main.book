@@ -20,7 +20,7 @@ TEXTHEIGHT=90%
 TEXTSIZE=11pt
 
 #   Copyright page
-EDITION=Edition 0.2 (DRAFT): 25 September 2015
+EDITION=Edition 0.3 (DRAFT): xx October 2015
 ISBN=ISBN 978-1514342022
 DEDICATION=For my children
 COPYRIGHT=Copyright © 2015 Pieter Hintjens

@@ -1,10 +1,22 @@
 // kate: font Liberation Sans; font-size 16; syntax None; bom off; indent-mode none;
 
++ Frequently Asked Questions
+
 ++ General
 
 **How do you get that 4% figure?**
 
-Hare's classic estimate is 1%. He focuses on criminal male psychopaths. So I double to account for female psychopaths. I double it again to allow for the many psychopaths who stay hidden all their lives. In fact, predator-prey ratios are not constant. They cycle over time. So it could be between less than 1% and 10% depending on context. If there are cycles, take at least several generations.
+Hare's classic estimate is 1%. He focuses on criminal male psychopaths. So I double to account for female psychopaths. I double it again to allow for the many psychopaths who stay hidden all their lives. In fact, predator-prey ratios are not constant. They cycle over time. So it could be between less than 1% and 10% depending on context. If there are cycles, they take at least several generations.
+
+**Is there a single accurate psychopath test?**
+
+Yes. It is neither quick nor simple. You observe a person for some time. If they break a rule or social code, you watch their behavior. You look for guilt before someone catches them. You look for shame and remorse after someone catches them. If they show none of these, they may be a psychopath. If they show all these, they most likely are not. To be sure you must observe several instances of rule breaking, in different contexts. If the psychopath knows you're watching, it may not work.
+
+The other way of telling a psychopath is by your own responses and behavior. This works if you are seeing the person often and getting into some form of relationship with them. It feels better than normal. You feel swept off your feet. You are doing favors for this person. They have rapid mood changes, usually to anger for some minor reason. You find yourself apologizing. You find yourself changing your plans to suit them.
+
+**Is it normal that I'm looking for psychopaths everywhere now?**
+
+This is a common experience. Self-awareness can be disturbing. My advice is to decide slowly, and act rapidly. That is, allow people to show their real natures and intentions. This can take weeks or months. Do take simple precautions with new friends and contacts. If you decide a person is a psychopath, and you cannot explain their behavior otherwise, cut them off. Simply ask them to never contact you again, and delete their details.
 
 **Aren't we all a little bit psychopath?**
 
@@ -25,10 +37,6 @@ Do you feel love for your breakfast? Or would you describe it as "hunger?"
 **So what emotions do psychopaths feel?**
 
 Psychopaths feel those emotions needed to be a successful predator. These are: hunger, obsession, euphoria, schadenfreude, fury, bloodlust, gluttony, satiation, and blocked. I explain this in [#emotions]. All other emotions are absent. A psychopath can imitate some from birth, and some by learning. Others they just don't show.
-
-**Is there a single accurate psychopath test?**
-
-Yes. It is neither quick nor simple. You observe a person for some time. If they break a rule you watch their behavior. You look for guilt before someone catches them. You look for shame and remorse after someone catches them. If they show none of these, they may be a psychopath. If they show all these, they most likely are not. To be sure you must observe several instances of rule breaking, in different contexts. If the psychopath knows you're watching, it may not work.
 
 ++ Politics
 
