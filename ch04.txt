@@ -4,25 +4,21 @@
 
 When we meet others suffering from abusive relationships, our first response is often disbelief. "Leave!" we say. "Change jobs! Divorce! Move out!" Yet that is like saying to a sick person, "Get better!" The victims find themselves tied down by a web of lies, promises, and threats. Escape can seem impossible. Captivity and suffering seem inevitable.
 
-In this chapter I'll describe the second half of the psychopathic relationship: the Feeding. The word sounds like there's a deadly blow. A bite to the throat, then the ripping of bloody flesh. Yet, it's not how it generally works.
+In this chapter I'll describe the second half of the psychopathic relationship: the Feeding. The word sounds like there's a deadly blow. A bite to the throat, then the ripping of bloody flesh. Yet, that's not how it generally works.
 
-What we see is the victim accepting, even embracing the situation. If others criticize them, they become defensive, even hostile. They protect their abuser, praise him or her. They produce extraordinary justifications and tortured rationalizations that make you ask, "are you //crazy//?" to which the unspoken answer is, "yes, at least for now."
+What we see is the victim accepting, even embracing their situation. If others criticize them, they become defensive, and hostile. They protect their abuser, praise him or her. They produce tortured rationalizations that make you ask, "are you //crazy//?" to which the unspoken answer is, "yes, at least for now."
 
-How does this happen? How does a psychopath force adult humans to accept such pain, neglect, and violence? The Internet [http://vampirediaries.wikia.com/wiki/Mind_Compulsion has its own theories]:
+How does this happen? How does a psychopath force adult humans to accept such pain, neglect, and violence?
 
-> Mind Compulsion is an ability possessed by Immortals, Original Vampires, Vampires, Hybrids, and occasionally Witches to control the mind of another simply through eye contact and erase the victim's memories or even alter them to the point where something is completely different about them.
-
-I've been researching mind control techniques since the late 1990's. I stumbled onto a website describing how cults work. The loss of self within a consuming group... it was familiar. It reminded me of working in large businesses. Of military service.
+I've been researching mind control techniques since the late 1990's. I stumbled onto the [http://cultinformation.org.uk/question_what-is-mind-control.html Cult Information Centre], a website describing how cults work. The loss of self within a consuming group... it was familiar. It reminded me of working in large businesses. Of military service.
 
 What I found interesting was how many of these techniques seem to work both ways. One theme that we'll see in this chapter is pushing people into a juvenile state of mind. The adult mind needs real (even small) problems to chew on, and freedom to solve them. It's like a muscle that needs real work and freedom to move. Take away real problems, or remove freedom, and the adult mind weakens and shrivels. This leaves the juvenile mind unprotected. And that is far easier to push around.
 
 If you give people full freedom and responsibility, then their adult minds get stronger. This can make them rebellious, if you are a tyrant. What it also does is unleash a self-controlled creativity.
 
-My business is making software. To be more precise, I build online communities, and help them to make software. One tactic I used was to take the cult techniques and reverse them. Cults use arbitrary, inconsistent rules. Healthy communities need consistent, pragmatic rules. Cults form a pyramid of power. Healthy communities form a network of peers. And so on. Cults tell their members what to do, and when. Healthy communities self-organize around real problems.
+My business is making software. To be more precise, I build on-line communities, and help them to make software. One tactic I used was to take the cult techniques and reverse them. Cults use arbitrary, inconsistent rules. Healthy communities need consistent, pragmatic rules. Cults form a pyramid of power. Healthy communities form a network of peers. And so on. Cults tell their members what to do, and when. Healthy communities self-organize around real problems.
 
-We have a decade or more of data on using [http://rfc.zeromq.org/spec:22 this approach]. It works well. Communities that organize like this grow deep and wide, and seem to become dominant.
-
-So we can learn a lot of positive lessons, from the worst things people do to each other. Bear this in mind as you read this chapter, for else it can be quite depressing reading.
+So we can learn a lot of positive lessons, from the worst things people do to each other. Bear this in mind as you read this chapter, else it may be quite unhappy reading.
 
 ++ Motivations
 
@@ -32,11 +28,11 @@ Keep in mind, it is about economics: money or time or sex. Sometimes access to p
 
 In pop culture, the psychopath is the caricature of an unpredictable and deadly killer. It is how the mouse describes the cat. "The monster was upon us! All teeth and claws... it got my family, luckily I escaped! Crazy!!" The cat does not share mouse emotions and psychopaths do not feel social emotions. No hate, fear of rejection, jealousy or self-pity. And no revenge, nor even enjoyment in the pain of others.
 
-Psychopaths are scary because they can inflict extraordinary damage onto others without restraint. Their emotional states are go-stop-rage. That's it. How do you talk to that? Yet I suspect the worst monsters in history are social humans. People who are aware of the pain they cause, driven by beliefs that can seem insane. At least Mallory follows the logic of the predator.
+Psychopaths are scary because they can inflict extraordinary damage onto others without restraint. Their emotional states are those of a predator. That's it. How do you talk to animal hunger? Yet I suspect the worst monsters in history are social humans. People who are aware of the pain they cause, driven by beliefs that can seem insane. At least Mallory follows the logic of the predator.
 
 So the "why?" is easy to understand and predict with psychopaths. As long as Alice has something of value to offer, Mallory keeps the web strong and tight. As Mallory drains Alice he shifts gears and prepares to exit in safety.
 
-Until that point, Mallory must ensure that Alice stays put. This is no simple task. We're all the descendants of an unbroken chain of survivors. There has been a long arms race between human predator and human prey. This gives even the nicest of us,teeth and claws and strengths to call on when we need them.
+Until that point, Mallory must ensure that Alice stays put. This is no simple task. We're all the descendants of an unbroken chain of survivors. There has been a long arms race between human predator and human prey. This gives even the nicest of us strengths to call on when we need them.
 
 Alice is an adult, and capable of walking out of the door at any point. Mallory cannot stop her by physical force. He doesn't need to. Instead, He explains to Alice, in different ways, that she has no choice but to stay. There are many ways to do this. These are Mallory's main tactics:
 
