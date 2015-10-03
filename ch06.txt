@@ -288,9 +288,7 @@ This dynamic can be confusing for anyone trying to establish normality with Mall
 
 ++ The Social Emotions
 
-In the last ten million years or so, we developed the emotions for communicating with arbitrary people. This happened long before the development of spoken language. It was long before we spread out from Africa to cover the world.
-
-These emotions let us work with an unlimited number of people, building social networks that stretch over time and space:
+Somewhere around three million years, we began to evolve the emotions for relating to arbitrary people. This happened before the development of spoken language. These emotions let us work with an unlimited number of people, building social networks that stretch over time and space:
 
 * //Like// - the emotion of a positive relationship. In [#capture] I explained how social accounting works. When you like someone, you feel happy in their presence, or when you think of them. This shows in the usual ways: wide eyes and open pupils, smiles, open body language, shining face. This emotion is all about display, to the person involved, and to third parties. There is some empathic response. Thus we tend to like people who are happy, as they seem to like us. Yet most of the time we base our response off our internal accounting.
 
@@ -310,7 +308,23 @@ These emotions let us work with an unlimited number of people, building social n
 
 * //Righteousness// - the emotion of punishing a rule breaker. You feel //anger// at first. Then you feel determined and justified in action, even if that means violence. You show neither happiness nor sadness. You tense the muscles around your eyes, your mouth, and your jaw to make it clear you are serious. //Righteousness// can lead to the predator emotions, if the emotion spreads to a group.
 
-The social emotions seem to exist to trip up Mallory. That suggests they evolved as a defense against psychopaths. That dates human psychopathy to at least the point in our history when we grew beyond the small tribe. This makes sense. Psychopaths need a crowd. They do of course prey on family, yet their life-cycle depends on a fresh supply of naive faces.
+The social emotions seem to exist to trip up Mallory. That suggests they evolved as a defense against psychopaths. That dates human psychopathy to at least the point in our history when we grew beyond the small tribe, between 3 and 2 million years ago. Psychopaths need a crowd. They do of course prey on family, yet their life-cycle depends on a fresh supply of naive faces.
+
+Each is an adaptation to defend against various of Mallory's talents:
+
+* //Like// and //dislike// - they seem simple, yet these emotions are the output of long and complex calculations. The calculations take into account years of observations, transactions, and received knowledge. This translates into a simple "yes/no/maybe" value. We feel this value and show it as pleasure or distrust. It drives us to avoid bad actors, and invest more in honest players. Mallory cheats this by beaming love or dislike at his targets.
+
+* //Anxiety// - the emotion which says something bad is happening, and asks others for help. Again, it can be a simple result of a complex calculation. Some anxiety is obvious: tomorrow I must meet important people, and that stresses me. Most anxiety is a vague "something is not right" gut feeling, that will not go away. I believe it's often caused by our subconscious psychopath detectors shrieking at us.
+
+* //Guilt// - the emotion which says, "I am not a psychopath, promise!" when someone catches us cheating. Everyone breaks rules at some point. Social groups need a way to distinguish casual criminals from professionals. Some people will reform, and others will not. This is the indicator: casual criminals can feel and display guilt. Mallory has evolved a good imitation of guilt. Yet it is not perfect, and it often leaves us unsatisfied.
+
+* //Shame// - the emotion which says, "I'm aware that I broke the rules." Again, this is about detecting professional rule breakers. Shame has a specific skin flushing pattern: face and ears. Mallory can mimic the body language, yet he cannot blush nor show red ears. Shame is such a powerful psychopath filter that social humans also mimic it, by blushing.
+
+* //Remorse// - the emotion which says "sorry" and asks others to forgive us. Remorse has a body language, yet the key to an authentic display is timing and duration. You must say "sorry" at the right time, and for the right amount. To do this requires empathy for //dislike// and //righteousness//. Mallory cannot show remorse in a way that satisfies other people.
+
+* //Impatience// - the emotion of telling someone they are violating our planning. The social response to impatience is remorse, with an apology. Like remorse, this takes empathy to get right. The human obsession with time keeping and schedules seems bizarre. When you see it as a psychopath detector, it makes sense.
+
+* //Righteousness// - the emotion of punishing a rule breaker. This is the emotion that pushes us to actually confront and expel psychopaths. Catching Mallory's infidelity, theft, deception, or other violations, we fill with indignation and righteousness. This propels us out of Mallory's hands.
 
 The concept of a "social code" is foreign to Mallory. She can learn it, yet it is never a native concept. She disregards others' needs by definition. This means she cannot deduce rules like "keep quiet when others are sleeping." If you explain a rule to her, her mind immediately breaks down the opportunity and risk. She obeys rules not because others would suffer. Rather, because they are not worth breaking.
 

@@ -176,7 +176,9 @@ What this translates to are a set of behaviors. These are consistent across psyc
 
 * Mallory is the star of the family. He enjoys taking photos of himself, his travels, and his possessions. He always looks great in these photos, and he shares them with others whenever he can.
 
-* Mallory has no creative hobbies. He does not tend a garden, nor cook, paint, compose music, or write for pleasure. He prefers to travel, meet new people, and shop.
+* Mallory has no creative hobbies. He does not tend a garden, nor cook, paint, sculpt, compose music, or write for pleasure. He prefers to travel, meet new people, and shop.
+
+* Mallory may buy or steal art, and collect others' work. He may learn the language of art appreciation. He may display his "love of art" with monumental extravagance.
 
 * Mallory disdains pets. If he does have a pet, he treats it as an accessory, and a way to meet new people. He then takes bad care of his pet, who is often sick.
 
@@ -228,9 +230,7 @@ And if the children do grow up safe from him, there is much less chance they wil
 
 ++ The Empathy Test
 
-"//There are spiders in Australia that smell and behave like ants: some are so convincing that the ants will allow a spider to live permanently as one of them. This spider will then feast upon its new friends, but it won't eat all the ants, or even a significant number; instead, it extracts resources slowly, sustainably, and over time.//" -- [http://aeon.co/magazine/science/animal-deception-illuminates-the-human-variety/ Daniel N Jones, "Snake in the grass"]
-
-Most authors who write about psychopaths start with this topic. It is one of our obsessions, for good reasons.
+Most authors who write about psychopaths start with the topic of "testing" people. It is one of our obsessions, for good reasons.
 
 Popular culture draws psychopaths as criminals and killers, dangerous and insane. In fiction, we project them as zombies, vampires, and monsters. They are the undead, the emotionless eaters of souls and brains.
 
