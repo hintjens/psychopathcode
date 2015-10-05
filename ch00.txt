@@ -2,27 +2,19 @@
 .bookmark preface
 + Preface
 
+++ Decoding the Psychopath
+
 There are some scary people around. People who take what they want, using their charm and wits. Con artists. Professional liars. They take from friends, colleagues, family and strangers alike. They never apologize or feel remorse towards the people they hurt. They often have criminal careers. We call them by many names. Narcissist. Anti-social. Sociopath. CEO. And more and more, we call them Psychopath.
 
-What is wrong with these people? Maybe they had cold and distant parents. Maybe they suffered abuse as children. Maybe they have something broken in them, a chemical imbalance, or evil demons. Or the next stage in humanity's evolution. A new race of superhumans, perhaps?
+Psychopaths raise so many questions. What is wrong with these people? Maybe they had cold and distant parents. Maybe they suffered abuse as children? Maybe they have something broken in them, a chemical imbalance, or evil demons. Or the next stage in humanity's evolution. A new race of superhumans, perhaps? Can we identify them? Can we learn to spot them in our homes and streets? What is going on in their minds? Are they aware of the damage they do? Do they sleep well at night? How do we survive them? How can such //horrible// people exist? Am I one of them?
 
-Can we identify them? If we study them in prisons and hospitals and boardrooms, can we learn to spot them in our homes and streets? What is going on in their minds? Are they aware of the damage they do? Do they sleep well at night? How do we survive them?
+Luckily, there are good answers, which lift the dread mystery from psychopathy. This was my goal with this book: to decode the psychopathic mind and write a manual for the rest of us. The material is based on my experiences and those of many others. It has tested in real life, and it seems to work. Having said that, please note the following section.
 
 ++ Disclaimer
 
-The author does not dispense medical advice or prescribe the use of any techniques as a form of treatment for physical or medical problems without the advice of a physician, either directly or indirectly. The intention of the author is only to offer information of a general nature to help you in your quest for emotional or spiritual well-being. In the event that you use any of the information in this book for yourself, which is your right, the author and publisher assume no responsibility for your actions.
+//The author does not dispense medical advice or prescribe the use of any techniques as a form of treatment for physical or medical problems without the advice of a physician, either directly or indirectly. The intention of the author is only to offer information of a general nature to help you in your quest for emotional or spiritual well-being. In the event that you use any of the information in this book for yourself, which is your right, the author and publisher assume no responsibility for your actions.//
 
-None of the suggestions included in this book is intended to replace the care of a physician or to interfere with a diagnosis, prescribed medicines or therapies. Each suggestion is based solely around the author's own personal experiences and is never intended to substitute for existing care regimes.
-
-++ Avoid or Confront?
-
-If ex-partner might have been a psychopath, this book will bring back memories. It will cause you to feel strong emotions. You may want to avoid reading it, to avoid reliving your experiences. This is a common and understandable reaction. The dominant opinion about trauma is that re-thinking our experiences stops the healing process.
-
-Yet to avoid is to be helpless. And helplessness leads us to depression. I have talked for hundreds of hours with other survivors of psychopathic relationships. I've listened to their stories of endless emotional bullying, deceit, manipulation, theft. I've shared my own stories. And I've told the stories that I tell in this book. What psychopaths are. How they think. Where they get their power. What they look like. And most of all, how to fight back.
-
-Our experiences are all so similar. It is as if every psychopath on Earth read the same handbook. When I talk about psychopaths with a new group, at least a quarter of them light up. "You're speaking of my ex," they say. I explain how I learned to deal with such people, past and present. "You should write a book," they tell me. "I'm doing that," I reply.
-
-My advice is to embrace your past. Don't avoid it. Confront it and understand it. Then use that new knowledge to become a stronger, happier person. This is why I wrote this book. I wanted to explain psychopathy in a positive way. Not that psychopaths are nice people. They are as nice as a nail through the hand. Yet if you can get to the end of this book, I promise you a picture of psychopathy that changes everything.
+//None of the suggestions included in this book is intended to replace the care of a physician or to interfere with a diagnosis, prescribed medicines or therapies. Each suggestion is based solely around the author's own personal experiences and is never intended to substitute for existing care regimes.//
 
 ++ How this Book Came to Be
 
@@ -71,7 +63,17 @@ In "All Life is Problem Solving," Karl Popper wrote:
 
 Please look for errors in my wild, irresponsible ideas, and work with me to replace or correct them. I've avoided jargon and innuendo. A clearly expressed idea is easier to critique. We can never reach truth, only discover better approximations to it. Sometimes that takes large leaps and informed guesses. Sometimes we must be willing to think in unorthodox directions. I make many hypotheses, and state them as if they are facts. I apologize in advance for that style.  I apologize also for the speculation that I've gotten wrong. I hope the parts which turn out to be right make it worthwhile.
 
-++ Disorder or Adaptation?
+++ Embracing the Past
+
+If ex-partner might have been a psychopath, this book will bring back memories. It will cause you to feel strong emotions. You may want to avoid reading it, to avoid reliving your experiences. This is a common and understandable reaction. The dominant opinion about trauma is that re-thinking our experiences stops the healing process.
+
+Yet to avoid is to be helpless. And helplessness leads us to depression. I have talked for hundreds of hours with other survivors of psychopathic relationships. I've listened to their stories of endless emotional bullying, deceit, manipulation, theft. I've shared my own stories. And I've told the stories that I tell in this book. What psychopaths are. How they think. Where they get their power. What they look like. And most of all, how to fight back.
+
+Our experiences are all so similar. It is as if every psychopath on Earth read the same handbook. When I talk about psychopaths with a new group, at least a quarter of them light up. "You're speaking of my ex," they say. I explain how I learned to deal with such people, past and present. "You should write a book," they tell me. "I'm doing that," I reply.
+
+My advice is to embrace your past. Don't avoid it. Confront it and understand it. Then use that new knowledge to become a stronger, happier person. This is why I wrote this book. I wanted to explain psychopathy in a positive way. Not that psychopaths are nice people. They are as nice as a nail through the hand. Yet if you can get to the end of this book, I promise you a picture of psychopathy that changes everything.
+
+++ Psychopathy as Adaptation
 
 Some researchers have suggested that [http://justnotsaid.blogspot.be/2013/11/sociopathy-as-evolutionarily-adaptive.html psychopathy is an adaptation], rather than a disorder. I had the same idea many years ago when involved with a difficult young woman. She was in treatment for borderline personality disorder. She moved from job to job, always blaming others. Her life was a long story of abusive parents, ex-partners, and friends.
 
@@ -99,7 +101,7 @@ What I've done in this book is use the predator model as a backbone onto which a
 
 ++ Not the Ants You Are Looking For
 
-"//There are spiders in Australia that smell and behave like ants: some are so convincing that the ants will allow a spider to live permanently as one of them. This spider will then feast upon its new friends, but it won't eat all the ants, or even a significant number; instead, it extracts resources slowly, sustainably, and over time.//" -- [http://aeon.co/magazine/science/animal-deception-illuminates-the-human-variety/ Daniel N Jones, "Snake in the grass"]
+"//There are spiders in Australia that smell and behave like ants: some are so convincing that the ants will allow a spider to live permanently as one of them. This spider will then feast upon its new friends, but it won't eat all the ants, or even a significant number; instead, it extracts resources slowly, sustainably, and over time.//" -- [http://aeon.co/magazine/science/animal-deception-illuminates-the-human-variety/ Daniel N. Jones, "Snake in the grass"]
 
 It's not just a few spiders. Thousands of different insects have hacked into the ant colony in one way or another. One caterpillar [http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130541 mimics the queen ant's voice] to trick workers. The Paussus beetle is born, lives, and dies inside the ant colony. Not only does it smell right (ants use smells to detect friends from foes), it also mimics the sounds the ants make. Literally, it mimics the queen ant, saying "it's OK" to ants and larvae, even as it gobbles up.
 
@@ -183,7 +185,7 @@ So the economic incentives for cheating increased as ancient human populations g
 
 And so on and on. Our brains are chock full of psychopathic talents and psychopath detectors. It's not that the more intelligent humans had more babies. The arms race did a pincer movement on small brains. We are either superb altruists, or we are superb cheats. Both take a lot of brain power: the more, the better. There is no safe middle ground.
 
-++ Call me King... Joe King
+++ Someone Stole My Lamp.. I'm Delighted.
 
 Let me explore some of those psychopath detectors. One is our sense of humor. Humor is a human universal, visible in children from a young age. Babies giggle with joy when they play with their parents. We instinctively trust people who can make us laugh. We distrust those who don't like our jokes, or seem to lack a sense of humor.
 
