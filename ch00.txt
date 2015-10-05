@@ -8,7 +8,7 @@ There are some scary people around. People who take what they want, using their 
 
 Psychopaths raise so many questions. What is wrong with these people? Maybe they had cold and distant parents. Maybe they suffered abuse as children? Maybe they have something broken in them, a chemical imbalance, or evil demons. Or the next stage in humanity's evolution. A new race of superhumans, perhaps? Can we identify them? Can we learn to spot them in our homes and streets? What is going on in their minds? Are they aware of the damage they do? Do they sleep well at night? How do we survive them? How can such //horrible// people exist? Am I one of them?
 
-Luckily, there are good answers, which lift the dread mystery from psychopathy. This was my goal with this book: to decode the psychopathic mind and write a manual for the rest of us. The material is based on my experiences and those of many others. It has tested in real life, and it seems to work. Having said that, please note the following section.
+Luckily, there are good answers, which lift the dread mystery from psychopathy. This was my goal with this book: to decode the psychopathic mind and write a manual for the rest of us. The material is based on my experiences and those of many others. It has been tested in real life, and it seems to work. Having said that, please note the following section.
 
 ++ Disclaimer
 
@@ -22,14 +22,14 @@ I'm a geek who writes software, articles, and books. My degree was in computer s
 
 Over my career I've worked with thousands of people. I've built hundreds of teams, and many small businesses, not-for-profits, and on-line communities. I've had to learn human nature. Some lessons are obvious. Some are well hidden. We are such a complex species. And yet it is possible to decode, understand, and predict human nature.
 
-It was in [http://cultureandempire.com Culture & Empire] that I began writing on psychology. My expertise, and what fascinates me, is social psychology. That is, how groups work, and how people work within groups. It is the core of my work in open source community building. Software is all about people, it turns out.
+It was in [http://cultureandempire.com //Culture & Empire//] that I began writing on psychology. My expertise, and what fascinates me, is social psychology. That is, how groups work, and how people work within groups. It is the core of my work in open source community building. Software is all about people, it turns out.
 
-In Culture & Empire I also looked at conflict as a force for change.
+In //Culture & Empire// I also looked at conflict as a force for change.
 
 We dream of peace and stability. Yet throughout history the most ambitious leaps forward have arisen from conflict and chaos. We build a world of human rights. We work to protect the environment. We build legal systems and courts and police forces to protect prosperity and peace. You may not realize this from the daily news, yet globally, [https://en.wikipedia.org/wiki/The_Better_Angels_of_Our_Nature violence falls every year, and always has].
 Humans are not good, or evil. We are survivors. We do whatever it takes to reproduce and make sure our children flourish. Most of us succeed by hard work. A few of us live as parasites, taking from others, like vampires. I call these the "good actors" and the "bad actors."
 
-As I finished Culture & Empire, I was facing some bad actors in my personal life. Being a writer, I didn't run away, and I didn't deny what was going on. Instead I started taking notes and conducting small experiments. It is not every day you get live psychopaths to play with.
+As I finished //Culture & Empire//, I was facing some bad actors in my personal life. Being a writer, I didn't run away, and I didn't deny what was going on. Instead I started taking notes and conducting small experiments. It is not every day you get psychopaths to play with.
 
 I found that my work in social psychology was incomplete. I'd focused on the good actors, and only skimmed the surface of bad actors. Yet these two strategies are not alternatives. They intertwine and work together in a long and mysterious arms race. This arms race lies at the core of what it means to "be human."
 
@@ -37,7 +37,7 @@ There is a lot of material about psychopaths on the web. It is a topic that [htt
 
 There are some huge questions that have no agreed answer. To start with, what causes psychopathy? Can we cure it, and do we even want to try? Can we identify psychopaths "in the wild," that is, without a psychiatric examination? Are they always violent and dangerous, and if not, what factors affect that? Is it a spectrum of behavior, like intelligence? Or is psychopathy more binary, like gender? How do psychopaths think and operate? Can we protect ourselves from them?
 
-The authority on psychopaths is Dr. Robert Hare, and I use the term as he defines it. [http://en.wikipedia.org/wiki/Psychopathy_Checklist His checklist] focuses on males and misses many female psychopaths. Classic psychopath research focused on convicted criminals: habitual law breakers, and violent offenders. Only recently have researchers started looking at the "successful" psychopaths. These are the ones who hide in the general population.
+The authority on psychopaths is Dr. Robert Hare, and I use the term as he defines it. [http://en.wikipedia.org/wiki/Psychopathy_Checklist His checklist] focuses on males and misses many female psychopaths. Classic psychopath research has focused on convicted criminals: habitual law breakers, and violent offenders. Only recently have researchers started looking at the "successful" psychopaths. These are the ones who hide in the general population.
 
 The available material points to a large presence of psychopaths in the general population. It seems much higher than the classic 1% estimate. There are also more female psychopaths than experts have counted. Some estimates are as high as 10%. An accurate figure seems to be around 4% of both genders, and this is the figure I'll use. Psychologist Martha Stout [http://www.washingtonsblog.com/2012/08/as-many-as-12-million-americans-are-sociopaths.html comes to the same figure of 4%].
 
@@ -111,7 +111,7 @@ Ants thrive, despite the parasites and predators after them, their protection, a
 
 Ants started by spreading the risk of a seasonal food supply. Many ants can harvest a wider area than a single ant. A lucky ant can share with unlucky ones. An unlucky ant will survive a bad spell. So ants evolved altruism, which is a good answer to a risky food supply. Other answers are migration, hibernation, and synchronized breeding cycles.
 
-Yet altruism has a weakness, which is cheating behavior. The ants' food supply is open to anyone who needs it. If you get into the colony, you can eat ants, larvae and food without work. Thus altruists had to evolve defenses against cheats, or go extinct. For an ant colony, this means to detect intruders, and then kill them. Altruism only survives if it is reciprocal, and if that is enforced.
+Yet altruism has a weakness, which is cheating behavior. The ants' food supply is open to anyone who needs it. If you get into the colony, you can eat ants, larvae and food without work. Thus altruists had to evolve defenses against cheats, or go extinct. For an ant colony, this means to detect intruders, and then kill them. Genes for altruism can only survive they also enforce reciprocity.
 
 As Daniel Jones [http://aeon.co/magazine/science/animal-deception-illuminates-the-human-variety/ writes]:
 
@@ -131,7 +131,7 @@ Early altruistic humans had many cheats: scavengers, parasites, and above all, o
 
 Humans form networks of relationships. Sometimes these are hierarchical. More often we form ties to other individuals and groups. Those relationships aren't arbitrary. They build on meticulous accounting. We calculate trade in genes, food, shelter, sex, affection, information, time. It is mostly subconscious, yet it is constant and dominant.
 
-We have sophisticated mental tools to track these relationships. We can remember faces for a lifetime. We remember the good and the bad, in detail. We can guess the relative value of any favor or item, in a given place or time. That roast chicken you shared with me for lunch is worth three beers tomorrow, or one in two weeks' time. We remember cheats, forever, and we do not forgive them.
+We have sophisticated mental tools to track these relationships. We can remember faces for a lifetime. We remember the good and the bad, in detail. We can guess the relative value of any favor or item, in a given place or time. That roast chicken you shared with me for lunch is worth three beers tomorrow, or one in two weeks' time. We remember cheats forever, and we do not forgive them.
 
 We have imagination, so we can plan how to work together. We have language, to exchange knowledge. We express our emotions on our faces, voices, body language, and the blush of blood on our face, ears, and body.
 
@@ -147,9 +147,9 @@ First, we can rule out a recent origin. Psychopathy is a consistent feature of h
 
 The origins of humanity keep getting pushed back in time. The ritual burial cave of homo naledi in South Africa dates from around 3 million years ago. The oldest stone tools [http://www.the-scientist.com/?articles.view/articleNo/43066/title/Oldest-Stone-Tools-Discovered/ go back 3.3 million years].
 
-Ritual burials speak of empathy for the dead, and social emotions that go beyond tribe and family. Stone tools point to a structured society. It points to a division of labor, some level of trade, and forward planning.
+Ritual burials speak of empathy for the dead, and social emotions that go beyond tribe and family. Stone tools point to a structured society, a division of labor, some level of trade, and forward planning.
 
-Let me explain that. To turn stone into usable tools takes long skill and learning. We know this, because the techniques follow a slow, incremental evolution. This means knowledge passed down the generations. This means specialized individuals, a caste of tool makers.
+Let me explain. To turn stone into usable tools takes incremental skill and learning, adapting techniques that follow a slow evolution. This means knowledge passing down the generations, which means specialized individuals, a caste of tool makers.
 
 As Scientific American [http://blogs.scientificamerican.com/observations/archaeologists-take-wrong-turn-find-world-s-oldest-stone-tools-update/ writes,]
 
@@ -179,9 +179,9 @@ This only stops being true when we hit the limits of our environment. That is, d
 
 We could also ask why intelligence should win food? It does not happen in other animals. Big brains are expensive and dangerous, for mother and baby. Why not evolve larger teeth, or stronger muscles, or longer legs? It seems arbitrary to claim intelligence as the key to getting more food, without further explanation.
 
-We can make Geary's model work, if we replace "social competition" with "arms race between altruists and cheats." When populations consist of small, isolated families, cheating is a poor strategy. It is easy to detect and punish cheats. Mallory needs a certain population density. He must be able to move on after exhausting a given territory.
+We can make Geary's model work, if we replace "social competition" with "arms race between altruists and cheats." When populations consist of small, isolated families, cheating is a poor strategy. It is easy to detect and punish cheats. Predators need a certain population density. They must be able to move on after exhausting a given territory.
 
-So the economic incentives for cheating increased as ancient human populations grew. At a certain point, the arms race turned hot. Alice evolved social emotions to detect and punish cheats. Mallory evolved manipulation and emotional mimicry to hack the emotional languages. Bob's emotions became more complex. Mallory's mimicry got better. Alice developed better social memories. Mallory became a better liar.
+So the economic incentives for cheating increased as ancient human populations grew. At a certain point, the arms race turned hot. Co-operative humans evolved social emotions to detect and punish cheats. Cheats evolved manipulation and emotional mimicry to hack the emotional languages. Social emotions became more complex, as cheating mimicry got better. As co-operative humans developed better social memories, cheats became better liars.
 
 And so on and on. Our brains are chock full of psychopathic talents and psychopath detectors. It's not that the more intelligent humans had more babies. The arms race did a pincer movement on small brains. We are either superb altruists, or we are superb cheats. Both take a lot of brain power: the more, the better. There is no safe middle ground.
 
@@ -213,9 +213,9 @@ This lack of creative drive is a curious thing, when you first see it. It matche
 
 Art is a precious thing. It is a universal human language. As with comedy, we reward originality more than technical brilliance. As with comedy, we enjoy art more in company than alone. And as with comedians, we praise and respect artists, though the talent has no survival value. Finally, we measure artists by their track record: one success isn't enough. One success can be fake, stolen, or accidental. Whereas for scientists or athletes, one victory can last a lifetime.
 
-I'm certain creativity is another secret language of empathy. It asks the world, "friend or foe? Look at this and tell me you feel something!," and the viewer responds, or fails the test. It is much like telling a joke. Like a great joke, a great creative work must speak from and to the emotions. It must tell half a story that only a social brain can complete and "get."
+I'm certain creativity is another secret language of empathy. It asks the world, "friend or foe? Look at this and tell me you feel something!" and the viewer responds, or fails the test. It is much like telling a joke. Like a great joke, a great creative work must speak from and to the emotions. It must tell half a story that only a social brain can complete and "get."
 
-A young child learns to draw at school, and takes their works back for their parents. These gifts are not useful in any concrete sense. Yet they are important and special in the moment. The child watches their parent's reaction. When they see joy at the squished faces and strange colors, the child also feels joy. They share the moment, confirming each others' social humanity. "See, Mommy, I'm normal. Please don't reject me!" is the subtext, though "See Mommy, isn't this great!" is what the child is thinking.
+A young child learns to draw at school, and takes their works back for their parents. These gifts are not useful in any concrete sense. Yet they are important and special in the moment. The child watches their parent's reaction. When they see joy at the squished faces and strange colors, the child also feels joy. They share the moment, confirming each others' social humanity. The child thinks, “See Mommy, isn't this great!” The subtext is, “See, Mommy, I’m normal. Please don't reject me!”
 
 We create for ourselves and others. We create to make other people feel something. Usually, it's happiness, though sometimes it's loss, sadness, or other emotions. A creative act is a message of empathy. And we measure the quality of our art as we do our humor: by its originality, and thus its authenticity.
 
