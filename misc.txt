@@ -1,27 +1,93 @@
 // kate: font Liberation Sans; font-size 16; syntax None; bom off; indent-mode none;
 
-+ Frequently Asked Questions
++ Questions to the Author
 
-++ General
+**What makes you the expert in dealing with psychopaths?**
+
+We're all experts, I think, after millions of years of evolved defenses against psychopaths. Some of us are better at expressing it. The book is based on my own life experience, and practice. When I realized there was a pattern to the many violently eccentric people I'd come across, I could decode it, and explain it.
+
+**Was this a hard book to write?**
+
+All my books take years to write. This one took less than some, and was easy to put together. The material wrote itself, often. A solid theoretical model provides answers to questions. So once I had the "predator" model, questions like "what emotions does Mallory feel?" were just a matter of working through the equations, so to speak.
+
+**A lot of the material feels personal. Was this therapy?**
+
+It's more telling a story of therapy. I'd discovered a way to deal constructively with the specific psychopaths in my life, and wanted to teach this to others. The tools and advice I'd found online were a good start, yet not enough. I felt we were mostly blind to the real story. OK, so there is clinical data, lots of it. Yet the only answer I'd get for my question of "how do I deal with Mallory?" was "leave, now!" It is a frustrating and patronizing answer.
+
+**So can you summarize your approach in a few words?**
+
+Don't run away. Learn your enemy, and stand and fight. Get your power back, and end the relationship on your own terms. It can be terrifying yet the alternative is to take long term damage with you.
+
+**You're not a psychologist. How do you know this is safe?**
+
+I've discussed this approach with many people including psychologists who specialize in abuse victims. The main risk is that Mallory often gets violent when he is challenged. Is this risk worth taking? This is a personal decision. How much violence can you absorb, and how far can you turn Mallory's violence against him? Are there higher authorities who will act on documented evidence of violence, for instance?
+
+**Do psychopaths suffer from a mental disorder?**
+
+Technically, yes. In practice, there are two ways to study psychopathy. One is to look at Mallory and try to understand him by observing and dissecting him. The other is to look at Mallory's victims, and his relationships with them. The first approach leads to "Mallory is sick and needs help." The second leads to "Mallory damages people, who then need help." Not the same at all.
+
+**So you don't agree with psychologists?**
+
+Not the ones who prescribe medication and therapy for Mallory. Yet many psychologists have written about psychopaths in the same terms as me. The model of Mallory as a social predator is not new. My work is not academic, and won't be cited in any papers. It's a lay guide for lay people. Above all, it is a practical tool.
+
+
+
 
 **How do you get that 4% figure?**
 
-Hare's classic estimate is 1%. He focuses on criminal male psychopaths. So I double to account for female psychopaths. I double it again to allow for the many psychopaths who stay hidden all their lives. In fact, predator-prey ratios are not constant. They cycle over time. So it could be between less than 1% and 10% depending on context. If there are cycles, they take at least several generations.
+Hare's classic estimate is 1%. He focuses on criminal male psychopaths. Others have estimated figures for malignant narcissism as high as 10%. I double Hare's estimate to account for female psychopaths. I double it again for the many hidden psychopaths.
 
-**Is there a single accurate psychopath test?**
+**Is this figure the same in all cultures?**
 
-Yes. It is neither quick nor simple. I can explain a few different ways that often work.
+Predator-prey ratios are not constant, they cycle over time. There is no reason to suspect cheater-altruist ratios are a special case. So the figure could be from less than 1% to above 10% depending on context. Up-down cycles will take several generations. Matching the ratio of psychopaths you'll see altruistic behavior swing between trusting and cynical.
 
-First, how a person deals with rules. You observe the person for some time, weeks or months. When they break a rule or social code (and everyone does), you watch their behavior. You look for guilt before someone catches them. You look for shame and remorse after someone catches them. If they show none of these, they may be a psychopath. If they show all these, they most likely are not. To be sure you must catch several instances of rule breaking, in different contexts. If the psychopath knows you're watching, it may not work.
+**Do you have historical examples of this?**
 
-Second, by your own responses and behavior. This works if you are seeing the person often and getting into some form of relationship with them. It feels better than normal. You feel swept off your feet. You are doing favors for this person. They have rapid mood changes, usually to anger for some minor reason. You find yourself apologizing. You find yourself changing your plans to suit them.
+I'd say the period 1950-1999 in the West was one of increasing trust, causing an upswing in psychopath ratios towards the end of the century. This led to numerous financial swindles peaking in the 2009 financial crisis. This is leading to an increase in cynicism and political pressure against institutional cheats.
 
-Third, using white flagging. Start by assuming //everyone// you meet is a psychopath. Don't panic. It's not a decision, just a possibility. Then you look for signs to disprove this possibility. Old friends who speak well of them. A clear public history. Zones of happiness around them. Modesty and shyness. Blushing, a sense of humor, creative zest. And so on. As long as you cannot disprove the theory "X is a psychopath,"
-leave them in that category and treat them with care.
+**Can we eliminate psychopathy?**
+
+I'm not even sure that's a sane goal. This predator-prey battle has been the main force of human evolution for millions of years. Without it, we'd be a historical footnote. We can treat the effects of psychopathy like a disease to be eliminated. Yet without constant pressure from cheats, there is no game. And without a game, humanity has no future.
+
+**What do you mean with that?**
+
+I think we're still evolving, as we must, to overcome the limitations of our planet. We will go to the stars, or we will go extinct. Not tomorrow. Maybe in a thousand years. And while the altruists will build the spaceships and design the hibernation tanks, it will be psychopaths that provide the hunger. Every dramatic voyage of discovery is driven by false promises and lies. Most end in disaster. Some succeed, and take us forwards.
+
+**So altruists aren't hungry enough?**
+
+They aren't, not in that untiring predatory sense. We aim to be safe and happy. Without Mallory challenging us, we'd be a species on holiday. Yet every time we build up some capital, savings, and wealth, along comes Mallory and steals it. It forces us to work harder, be more creative, and let go of the past.
+
+**You sound almost grateful to psychopaths...**
+
+In some specific ways, yes. Yet only when I step outside my own experience, and look at the big picture. If I speak from the heart, then Mallory's casual abuse and the sheer harm he does to others enrages me. We can hold two contradictory ideas in our minds at once, right?
+
+**What if psychopaths get too much power?**
+
+Much is written about the growing wealth gap. I think it's bullshit. First, people aren't measuring new digital wealth. The middle classes are letting go of the assets of the past and investing in new assets. Intangibles like Facebook friends. This adds up to a huge amount of wealth. Second, the ratio of rich to poor cycles around the same average, which is 20% of the population owning 80% of the wealth. We see temporary ups and downs, like the ratio of psychopaths to altruists. This ratio is called Zipf's Law and it applies to many natural systems, including human economics.
+
+**So if it's all inevitable, why did you write this book?**
+
+Maybe the book was inevitable. At some point, this knowledge emerges and someone puts it on paper. I'm just a pencil in the invisible hand of fate.
+
+**Do believe in God?**
+
+Only if you define "God" as "the universal laws of maths and physics" and "believe" as "accept only models that make accurate predictions and cannot be made any simpler." Or, to put it another way, "no."
+
+**How do I tell if someone is a psychopath?**
+
+It depends on how you know the person, and what your goals are. It depends a lot on your own experience, and how aware you are of yourself, and others.
+
+You can pick out some, not all, psychopaths in a crowd by their appearance and behavior. You can see the combination of dominance, narcissism, and social distance. They are like drivers who casually break the rules, knowing they'll rarely be caught. This stops working if they think you're watching them.
+
+You can actively look for psychopaths when you see impact craters in organizations or families. Mallory will be well hidden. It takes a different process: elimination of all suspects until one is left. You look for rule breaking and conflict. You eliminate those who show honest guilt, shame, and remorse. It takes time and observation.
+
+You can ask the question about a partner, relation, or colleague. In this case you work off your own responses and behavior. If the relationship is new, are you swept off your feet, and making big plans? Does it feel too good to be true? If the relationship is old, does it make you sad and depressed? Is there abuse, anger, drama?
+
+Another, more general approach is "grey listing." You start by assuming //everyone// you meet is a psychopath. Don't panic. It's not a decision, just a possibility. Then you look for signs to disprove this possibility. Old friends who speak well of them. A clear public history. Zones of happiness around them. Modesty and shyness. Blushing, a sense of humor, creative zest. And so on. As long as you cannot disprove the theory "X is a psychopath," leave them in that category and treat them with care. If you get clear indicators, you can move them to your black list.
 
 **I just want to avoid dating psychopaths**
 
-Any simple test is easy to cheat. I can tell you that psychopaths despise horror movies because they sees caricatures of his own world view. So you can take your date to see a scary movie and then ask, "what did you think of the movie?" Yet if Mallory has read this paragraph, he'll grin and say "it was awesome!"
+As a ground rule, don't look for dates online, and don't date total strangers. This is how you invite damage into your life. Start by making friends of your own gender. Sooner or later they will set you up. The good friend of a good friend is //highly// unlikely to be a predator.
 
 **Is it normal that I'm looking for psychopaths everywhere now?**
 
@@ -29,11 +95,11 @@ This is a common experience. I call it Van Helsing Syndrome. The awareness that 
 
 **The book made me wonder if I am a psychopath**
 
-This is also a common experience. You can be manipulative, charming, an excellent mimic, and yet social. I can't say you're //not// a psychopath. You might well be. Are you the center of the universe? If you feel you are, then you may well be Mallory.
+This is also a common experience. You can be manipulative, charming, an excellent mimic, and yet social. I can't say you're //not// a psychopath. You might well be. Are you the center of the universe? Are your emotions predatory? Do you see others as paper-thin objects, to move around to suit you? If this describes you, you may well be Mallory.
 
-**So we are all a little bit psychopath?**
+**Are we all a little bit psychopath?**
 
-In certain ways, yes. This is the problem with looking for traits and signs. It is //outcomes// that matter. Are you investing in other people, or taking from them? We strive towards one or other direction. It is a life-long and obsessive process. There is no solid middle ground, only incompetence and error. The model of psychopathy as a smooth gradient, with empaths at one end, and serial killers at the other, is bogus. It's like saying, "we are all partly male, and at the extreme end are the rapists."
+In certain ways, yes. This is the problem with looking for traits and signs. We all show some of them, at some moments. It is //outcomes// that matter. Are you investing in other people, or taking from them? We strive towards one or other direction. It is a life-long and obsessive process. There is no solid middle ground, only incompetence and error. The model of psychopathy as a smooth gradient, with empaths at one end, and serial killers at the other, is bogus. It's like saying, "we are all partly male, and at the extreme end are the rapists."
 
 **So we all carry psychopath genes?**
 
@@ -49,7 +115,7 @@ Do you feel love for your breakfast? Or would you describe it as "hunger?" It do
 
 **So what emotions do psychopaths feel?**
 
-Psychopaths feel those emotions needed to be a successful predator. These are: hunger, obsession, euphoria, schadenfreude, fury, bloodlust, gluttony, satiation, and blocked. I explain this in [#emotions]. All other emotions are absent. A psychopath can imitate some from birth, and some by learning. Others like remorse they just don't show, maybe because they can't fake the physical signs.
+Psychopaths feel those emotions needed to be a successful predator. These are: hunger, obsession, euphoria, schadenfreude, fury, bloodlust, gluttony, satiation, and blocked. I explain this in the book, in the chapter on Emotions. All other emotions are absent. A psychopath can imitate some from birth, and some by learning. Others like remorse they just don't show, maybe because they can't fake the physical signs.
 
 **What jobs attract psychopaths?**
 
@@ -467,4 +533,3 @@ Frank Rousseau also asked how to help Alice when she seems depressive. You can c
 nomosyn asked, are they necessary? The answer seems to be "yes", for without psychopathy there would be no human culture. That's my theory, at least, and you can falsify it: find me a human cultural activity that is not a plausible psychopath detector.
 
 Lastly, ᴊᴇᴢᴇɴ ᴛʜᴏᴍλs (what's the Unicode fascination?) asked, what their business cards look like. That is an excellent question. I'd suspect, something "sales", or "vice president" of something. It depends on the country. In Europe, even using business cards in 2014 is a highly suspect sign. In South Korea, it's banal.
-

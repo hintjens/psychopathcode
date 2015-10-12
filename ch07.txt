@@ -1,582 +1,539 @@
 // kate: font Liberation Sans; font-size 16; syntax None; bom off; indent-mode none;
-.bookmark escape
-+ Escape from Jonestown
+.bookmark emotions
++ The Dance of Emotions
 
-So far I've explained the predator model of psychopathy. I've used it to draw a picture of Mallory in many different situations. If you have read and practiced the previous chapters, you are now equipped. You understand how Mallory stalks, attacks, captures, and consumes its prey. You understand how Mallory thinks. You can start to predict how Mallory will respond in any given situation.
+When we ask why someone acts in a certain way, the answer is a mix of pragmatic logic and emotion. This is as true for psychopaths as it is for the rest of us. Despite appearances, logic and emotion are not opposed. They work together in a complex dance that I'll explain in this chapter. The dance has many steps, and each step plays out in specific ways.
 
-What if you believe you are that prey? You have poured your life into a relationship based on lies. You are asking yourself, what next? When you live in a permanent fog, even small steps are terrifying.
+To learn the dance of the emotions is like learning to read. Emotions are a language. It is an ancient language that we share with many other species. The language flows through us, and between us. We speak it with our bodies and faces. We feel it in our blood as music. We move to the music without conscious decision. We must answer the call of emotion, even when it hurts and damages us to do so.
 
-This chapter is for you then. I'm going to explain how to lift that fog, and rebuild your life. It is not going to be an easy project. If you spent years in a relationship with Mallory, it will take you years to become whole again. My goal with this chapter is to teach you several things:
+Mallory can make others dance. This is a talent he does not need to learn. Yet he is as lost as any of us, when it comes to his own music. He does not decide to hurt others. He obeys an ancient logic. He is a rock rolling downhill, obeying the logic of gravity. In this sense, Mallory is an innocent.
 
-* How to stop Mallory from doing more damage.
+In this chapter I'll explain each step of the dance, and its music. Each emotion is distinct and consistent. Every emotion has a cause, and consequences. These connect in chain reactions. These chain reactions keep us alive. The dance may seem primitive or wasteful. Sometimes it is. Most often it is not.
 
-* How to repair the damage that Mallory has done.
+When we know the dance, we can tell the difference. We evolved for a different world, one with fewer people and more dangers. Much of our mind responds like a idiot savant. It often cannot tell the difference between reality and accurate caricature. Time and again, if you confront Mallory, you will realize this. You //know// her masks are fake, and yet they hit you in places you cannot defend. Yet other parts of our mind can learn the difference. We can learn which music causes us pain and harm, and we can stop the dance when we choose to.
 
-* How to become a stronger person than you were before.
+Learning to read the emotions gives you a new power. This is the ability to recognize and then control the music, both in yourself and in others.
 
-* How to help others who find themselves in the same place.
+When we can control the music, we become immune to Mallory and to many other causes of stress. There is no magic moment of awakening. It is a gradual process that takes years. Like any skill it takes practice and patience to master.
 
-It is not enough to remove Mallory from your life. As a victim of abuse, you are vulnerable to future abusers. You must break the cycle and use your experience to become immune to the next psychopath who stalks you.
+++ The Evolution of Emotions
 
-This advice is above all meant for those entangled with Mallory. If you are reading this and thinking of a friend or relative, please give them this book. Then buy a new copy for yourself.
+Evolutionary psychology aims to explains our mind and behavior as adaptations. It is a solid theory: we are the products of natural and sexual selection, no more or less. I've used this approach to explain psychopathy as an adaption rather than a disorder. I'm going to use the same approach to explain our emotions.
 
-In the text, Mallory switches from male to female in each section. I've no agenda here except to remind you that Mallory works outside gender. She or he will use sex as a casual tool of control. Yet his or her mind operates on its own plane. You can mentally switch Mallory's gender, if that helps.
+Our emotions evolved over time to help our ancestors survive and reproduce. This is not an original notion. The first champion of evolution, Charles Darwin, used it when he wrote "The Expression of the Emotions in Man and Animals" [https://en.wikipedia.org/wiki/Evolution_of_emotion in 1872]. Some human emotions date from hundreds of millions of years ago. We see these in many other animals. Some date from more recent times, and seem to be specific to humanity.
 
-++ The Paper Cup
+It is likely that different species have invented the same emotions over and over. Many birds and mammals share emotions like //happiness// and //sadness//. Yet that does not mean their common ancestors already had them. Evolution often rediscovers the same solutions to what look like universal problems.
 
-Consider a relationship as a paper cup. Most people ask, "is the cup half full, or half empty?" Mallory sees the paper cup as something to knock over. He waits for Alice to place the cup back upright, and fill it a little. Then he knocks it over again, and curses Alice for her clumsiness. She apologizes and starts again to refill it.
+What follows are my personal theories, developed from observations and research. There are several theories of emotions. My goal is to model emotions as functional tools. I want to understand how they work and why we evolved them, rather than simply describe them. That lets us both understand what the psychopath is doing with their mind games, and how we respond. And that lets us extricate ourselves.
 
-Again Mallory knocks the cup over, tearing a hole into it. Alice repairs the hole with tape. Mallory takes a knife and rips more holes into the cup. Alice repairs those too.
+The meaning of an "emotion" can be hard to pin down. Is dread an emotion? Are joy, happiness, satisfaction, complacency, delight all distinct emotions? It's somewhat like trying to identify colors or smells. The closer you look, the more there are.
 
-It continues like this until the cup is one huge ugly mess of tape. Alice has run out of tape several times. She has put her life savings into repairing that damn cup. And yet every time it seems OK again, Mallory smashes it to the floor.
+I'm going to look only at primary emotions. By that, I mean emotions that do not overlap, and are not flavors or mixtures of other emotions. Much like primary colors.
 
-The worst part is that Alice can't see Mallory doing this. He seems so innocent, and insistent that it was her fault. It makes her feel terrible and useless. Still as long as the cup holds water, that is what matters.
+Further, I'm going to define an emotion in a strict sense. This makes it easy to decide whether a particular state of mind counts, or does not. My hypothesis is that each emotion has its own distinct mental machinery. Each emotion evolved over time, and is coded in our DNA. Emotions are more or less active, according to age, character, and gender. In some people, some emotions are absent or invisible.
 
-The cup is by far the most important thing in Alice's life and she does //everything// possible to repair it. Her friends and family keep telling her, "leave the cup!" yet she cannot. All that work! The cup is her life, she tells herself as she refills it.
+Emotions have two general goals. First, they prepare our mind and body for some action. They speed up certain systems and slow down others. I call this "orchestration." Imagine the emotion as the conductor waving a baton to get a hundred musicians to play the same tune.
 
-Mallory's power comes from that cup and the resources Alice pours into it. He always leaves Alice a way to repair things. If she does walk out, he will do and say what he must to get her back. It ends on his terms, never hers.
+Second, emotions display our mental and physical state to others. They do this using facial and body language. The language of an emotion is often based in real physiological activity. It may also be synthetic. Emotional languages are universal across humanity.
 
-If Alice does cut Mallory off, reject his apologies, and walk away, she leaves as a victim. She leaves a large part of her identity in that cup. It obsesses her, and she tries to block it from her mind. Any mention of the past brings her to tears. Her friends and family become tired of her moods and depression. She will heal, most often, yet it will take far longer than it should.
+Some emotions are only about orchestration. Others are only about display. Most are a mix of the two.
 
-The helplessness is itself a prison. Alice never stopped feeling that the cup was important. She had to make the choice between it, and her own sanity. Her failure to make it work becomes her burden. She thinks she is a failure, doomed to be alone.
+For every display emotion, there is matching machinery to read facial and body language. This machinery works without conscious thought. It produces its results as emotions in the observer. When a dog threatens to bite you, you feel fear. When a person shows sadness, you feel sad. When a person laughs, you also want to laugh. We call this "empathy."
 
-So now, consider another ending. One day Alice spots Mallory smashing the cup. Or, someone tells her what he is doing. She watches as he creates chaos, and she watches herself trying to fix it. Something clicks in her mind and she decides to change the game.
+I'm going to take the human emotions, and collect them into groups. This grouping turns out to be a helpful approach. Each group works together like a puzzle, with the emotions as single consistent pieces. We can see when a group is complete. We can fit the emotions we recognize into their correct group. We can also see how each group works, as a whole.
 
-Mallory throws the cup to the floor and mocks her. She examines him and sees no love, no affection. She leaves the cup on the floor and gets back to her life. Mallory shouts at her to pick it up, and she ignores him. Or maybe, for once, she lets the anger and rage flow through her, and shouts back at him.
+The emotional groups evolved over time as our species climbed up the social ladder. I'll work from oldest group to most recent:
 
-His power comes from her obedience. He ramps up, and tries to crush her rebellion. At first she is afraid. He does terrify her. Yet she holds her ground and keeps watching him. It takes months of confrontations, and then she realizes that he is backing down. His threats are violent and rich, yet he does not carry them out.
+* The //predator emotions// help us hunt and capture prey.
 
-Little by little he loses his power over her. And she feels her power returning. She looks better. Her hair and skin are healthier. Her friends tell her how she is looking great. She meets a man at work who seems nice. It's a bit soon, she tells him, and he backs off, and they become friends.
+* The //defense emotions// prepare us to detect and deal with predators and competitors.
 
-One day, Mallory has gone. Disappeared, without a note or a trace. She isn't surprised. He's become silent, and impatient. Lots of phone calls. Other things going on. She tidies up, and whistles a small tune to herself. It's a nice sunny day outside.
+* The //sexual emotions// drive us to find sexual partners.
 
-++ The Survivor's Burden
+* The //family emotions// let us talk to our parents and care for our offspring.
 
-Let's conduct a virtual experiment. Bob is in a relationship with Mallory. It has lasted some time. He worships her, and cannot see the harm she is doing to him. So one night we send in a commando team. The masked men take Bob by force, bundle him into an unmarked van, and race off. They drive to a new city, open the van door, and set Bob onto the pavement. "You're free now!" they tell him, and vanish.
+* The //group emotions// let us form small social groups.
 
-What happens to Bob next? Does he thank us with gratitude, and find a new place to live. Does he pick up where he was before Mallory came into his life? What if Bob was in a cult compound? What if he was working for a nasty, exploitative business?
+* The //social emotions// let us form looser and larger social groups.
 
-We know the answer. Bob immediately returns to where he was. Whatever was keeping him there in the first place pulls him right back.
+My breakdown comes to about fifty universal human emotions. All humans, with specific exceptions, feel these emotions and feel them in the same way. That is my hypothesis, in any case. I expected to find a much smaller set of universal human emotions. Yet as you will see these are distinct and precise. Often I've had to name emotions that we know, yet rarely verbalize.
 
-So, we can fine-tune the experiment. We kidnap Bob again, and this time we "deprogram" him. We give him the time to kick his dependency on Mallory. We have done this experiment in real life many times, with other kinds of addicts. We cut them off from their drug supply, force them to go sober.
+Like all our mental tools our emotions have continued to evolve and shift over time. So while human rage and dog rage share a common ancestor, they have evolved in their own directions. I'll explain the human experience.
 
-The result is just the same. Bob goes back to the source of his pain as fast as he can. If he learns anything, it is to avoid those midnight commandos.
+++ The Predator Emotions
 
-This is the first problem with telling Bob to leave Mallory. He won't listen. And if you use force to make him leave, you must continue to use force to keep him away.
+The predator emotions are what we feel when we stalk and prey on food animals. These are ancient and violent emotions. Some are taboo, even alien to most of us. We have to search for words to describe them. We rerouted these millions of years ago, as we started to develop our social instincts. You will recognize some from our daily rituals of eating.
 
-Let's now imagine Bob accepts your advice and leaves. Or, more likely, Mallory has used up Bob and kicks him out or walks away. Or some other crisis forces the situation to end. Bob does not walk away a healed person. Instead, he takes with him a massive burden.
+Others are familiar from play. Watch children play hide-and-seek and you'll see tame forms of //obsession//, //euphoria//, and //glee//. Play monster with a young child and you make caricatures of //fury// and //bloodlust//. Watch young men playing team sports or violent video games and you see the full range acted out in full. This is one reason people enjoy group sports. It lets players -- and the crowd -- express these emotions in a safe and accepted arena.
 
-The survivors' burden often translates into long-term depression, suicide, and relapse. It is not well understood, and often trivialized. I'll break it down into smaller pieces so you can see its size and shape:
+The predator emotions are:
 
-* //Unresolved mental damage//. Mallory has broken down Bob's sense of self. It took thousands of small transactions, each negative in a different way. Often the individual transactions look harmless. Yet the balance is real, structural damage to Bob social mind. I explained in [#consumption] how and why Mallory does this.
+* //Hunger// - the emotion of looking for prey. //Hunger// drives you out of our comfort zone. Your digestion slows. Your vision and hearing gets sharper and you focus on distinguishing prey from threats. You feel the need to move, yet you are careful to stay invisible. You walk without haste, and keep your posture relaxed. Your breathing is regular, slow.
 
-* //Loss of power//. Mallory has isolated Bob. Alone, Bob is and feels weak and vulnerable. He fears social contact. He stays indoors. He has nightmares, and dreads confronting Mallory on every street corner. His fear may last for years, or even the rest of his life.
+* //Obsession// - the emotion of stalking a prey. Your digestion speeds up. Your hearing and vision fixate on your target, and exclude everything else. You crouch and stay hidden. You move towards your target, trying to appear as innocent as possible until the last minute. Your adrenalin starts to rise. Your memory starts recording in high resolution.
 
-* //Economic damage//. Mallory has stripped Bob of his assets. Without savings, it is much harder for Bob to take risks. He avoids new opportunities. He must repay debts created by Mallory. He may end up in real poverty, and suffer the consequences of that.
+* //Euphoria// - the emotion of chasing a fleeing prey. Your hearing switches off and your vision tunnels in on your target. Your breathing and heartbeat accelerate. Blood flows to your muscles, and glucose feeds into your blood. Your eyes widen, your mouth opens, and you bare your teeth.
 
-* //Failure to externalize//. Mallory has taught Bob that he is the guilty party, and she the victim. Bob takes this reality with him. He never understood how Mallory manipulated him. He accepts that he is a bad person, and then projects that onto any new relationship he tries to form.
+* //Glee// - the emotion of seeing your prey stumble. You feel a kick of pleasure and adrenalin. You exhale hard. Your body prepares to move in for the capture. Blood flows to your arms and face. You bare your teeth and open your mouth. The muscles around your eyes compress, to protect them. Glee looks like the ancestor of happiness.
 
-* //Blaming the victim//. Others explain Bob's trauma though his own mind or upbringing. They insist on putting the blame on him. You sought it, he hears. You stayed when you could leave, they repeat. He accepts the majority verdict that he chose to suffer.
+* //Fury// - the emotion of attacking your prey. Your sense of pain switches off. Your vision narrows to a tunnel, and your eyes narrow to reduce the risk of damage. If you could move your ears, they would fold back. You exhale hard, to tighten your chest muscles and reduce the risk of a broken rib. You focus on capturing and immobilizing your prey. As you catch it, you feel intense bursts of pleasure that push you on.
 
-* //Survivor's guilt//. Bob knows that Mallory is still hurting others, while he "escaped." He feels responsible for their suffering. He gets stuck in cycles of guilt and shame and self-hate. He has difficulty in making new relationships, so remains alone. He remains vulnerable to drug abuse and suicide.
+* //Bloodlust// - the emotion of killing your prey. You feel an orgasmic climax of pleasure as you taste blood. Your lungs and heart are still working hard to purge your system of waste products from the chase. Your arms and hands and jaws clench. You still make no sound except a low groan. You're focused on keeping your prey captive while you kill it. Your digestive system starts to prepare for food.
 
-* //Shame and social stigma//. Bob's behavior during and after his relationship with Mallory disturbs others. He is anxious and depressed, needy and insecure. She has blamed him in public, with lurid detail of his crimes. People consider him tainted. At least, he has bad judgment. At worst, he is the true offender.
+* //Gluttony// - the emotion of eating your prey. You feel more paranoid than usual. You are vulnerable to competitors looking for a free meal. If it is possible, you move your meal to a safe location. You lick your lips, glance left and right. Your eyes are wide. Your saliva glands are working full speed. Your digestive system is in full swing, expecting a full belly. When it is safe to eat, you focus on your food.
 
-* //Lack of alternative relationships//. Mallory has cut Bob off from other people, by demanding exclusivity and attacking alternatives. A sudden rupture is like losing a bad job. The shock of being alone makes Bob vulnerable to looking for a replacement for what he knows. That is, another Mallory.
+* //Satiation// - the emotion of having eaten enough or too much. Your saliva glands switch off, and you reject the remains of your meal, if any. You look around for others to share with. You adopt open body language, and relax. Blood flows to your digestive system. Your arms and legs are limp.
 
-* //Lifetime risk of relapse//. Drug addicts and abuse victims are at high risk of relapse, all their lives. Bob spends years looking for another Mallory. He still sees himself as worthless and her as the only person who accepted him. He dreams of the euphoria she gave him.
+* //Blocked// - the emotion of a failed hunt or chase. Your body relaxes and all systems go to neutral. You withdraw to a safe place and replay your memory over and over. You look for what went wrong. You imagine different "what if" scenarios, and rehearse them mentally.
 
-All these add up to one thing. Bob is in real long-term danger, and few people are capable of helping him. If he is lucky he will find a psychologist who understands the trauma psychopaths create. No-one blames children for their abusive parents. People used to blame women for their abusive partners. "She likes it," was the unvoiced verdict. Thankfully that's changing in global culture. It is still harder for men to find that sympathy.
++++ Maths Murders
 
-++ Russia Syndrome
+In most people the predator emotions do not, even under threat of death, focus on fellow humans. In hand-to-hand warfare, [http://greatergood.berkeley.edu/article/item/hope_on_the_battlefield most soldiers will not kill]. They aim to miss. They run away when they can. They provide cover and mass, to intimidate the other side. Much of the military machine works just to train this majority to aim their guns in the right direction.
 
-Some damage is forever. Lost years, money, and opportunities are gone.
+This majority does shift gears when their families and homes are under threat. To save our relatives or children from an armed and violent stranger, most of us will aim to kill. Yet we do this without the predator emotions. Instead, we feel the defensive emotions I'll explain in the next section.
 
-Yet some damage is fixable. Of the above outcomes, the one that drives all the others is the failure to externalize. It is Alice's own view of what happened that keeps her in such trouble. All the other aspects stem from that, and reinforce themselves in vicious cycles.
+Some of us, a small minority, feel only these emotions and no others. So the emotions work at their original full power. More, they focus on fellow humans rather than on food. This minority are the psychopaths. It is the predator emotions that drive psychopaths in their hide-hunt-attack-capture-consume behavior.
 
-So let's break this down. What key things does Alice believe about her relationship with Mallory, that are mistaken?
+We all feel the predator emotions at some level. The key differences are degree and direction. Do you live for the pleasure of the kill? And do you hunger for breakfast, or for power over others?
 
-* //That she desired it and made it happen//. Thus, she has some inescapable need to be with abusive people.
+Yet this does not mean all psychopaths engage in physical violence. Violence and murder is risky business. In normal circumstances the risks of exposure and retribution far outweigh the emotional rewards. A healthy psychopath amygdala shudders at the thought. It keeps the predator emotions focused on business, politics, and private life. Sane psychopaths aim to die from old age, surrounded by grandchildren. In this respect, Mallory is just like anyone else.
 
-* //That she failed to help Mallory, and make the relationship work//. Thus, she failed in the main goal of her relationship.
+In specific circumstances, the equation tilts Mallory towards serial murder:
 
-* //That people dislike her with good reason, and only Mallory accepted and loved her//. Thus, she prefers her past over her present.
+* //If the amygdala suffers damage from injury or tumors//. This may shut down its inhibition, so it feels infallible and superior.
 
-* //That she is weak, afraid, needy, and stupid//. Thus, she will fail in any new relationship or project.
+* //If the social status of the victim is so low that retribution is unlikely//. Serial murderers tend to target individuals who are least valued by general society. That is: prostitutes, beggars, orphans, minorities, homosexuals, and the lonely elderly.
 
-* //That she can succeed by being more like Mallory//. That is, more aggressive, manipulative, and dishonest.
+* //If the murder is in the name of the State//. This means open hostilities between two groups, in other words, war. Only losers stand trial for crimes against humanity. The winners get to butcher at will, in the name of God and Country.
 
-You can see this kind of thinking on many scales. It affects individuals, and it affects whole cultures. Look at a country like Russia and you see a nation believing all these things. It is not part of the "Russian character," if such a thing could exist. It is the result of a long history of psychopaths like Lenin.
+* //When there is nothing to lose, and much to gain//. A large proportion of young men are evolutionary dead-ends. In some cultures, as many as two-thirds of men have no children. That includes many psychopaths. Lack of local prospects makes Mallory long for foreign adventure.
 
-Ask almost anyone why Russians get such bad leaders. The answer is always "because they want or deserve them." Even Russians say this, in all seriousness. I call this Russia Syndrome. For Alice to heal, she must cure her Russia Syndrome. To do this she must externalize her story, and see what actually happened. A predator attacked her, and hurt her.
+The maths of murder are consistent across human culture. Successful generals understand it. They use it to recruit young male psychopaths as the killer core of their professional armies. It is a timeless recipe. Invoke martial law, to remove the risk of punishment. Dehumanize the enemy so that Mallory faces no anger from the home front. Aim at poor psychopaths with few other prospects. Deliver propaganda and marketing that lures them in.
 
-I'm sure there are many ways to externalize, and cure Russia Syndrome. The fastest and most effective way I know is to confront Mallory, and defeat him. I'll explain in detail what this involves. First let's deal with the inevitable choruses of "are you insane?" When I speak of confronting abuse instead of fleeing it, I often get that reaction. The reaction comes from several arguments that appear to be wrong.
+The military has practiced this for a long time. It selects, enables, and promotes psychopaths. It offers the chance for unlimited rape and murder. The main rule is: just don't get caught. It has institutionalized the process of creating secondary psychopaths, via "bootcamps." The military always takes the moral high ground, and always makes it someone else's fault.
 
-The first argument is appeal to free choice. We assume Alice can, and so must, escape. I've explained why this is a fallacy. Even if Alice realizes, "Mallory may be a psychopath," often she cannot just leave. The bonds are deep, and they override conscious decision-making. Alice may be a child, living with a psychopathic parent. Alice may share children with Mallory. Then she may face the agonizing choice of saving herself, or staying with them. Alice may live behind a wall.
+Secondary psychopaths learn to apply the predator emotions to others. If they do kill, they later feel deep guilt and shame, as their empathy starts working again. We see the damage that the military does to its recruits, [http://www.latimes.com/nation/la-na-veteran-suicide-20150115-story.html in the suicide statistics of veterans].
 
-The second argument is appeal to authority. "If Mallory is a psychopath like you say, then just tell the police. They will arrest him and save you." This assumes Mallory is silent and cannot tell lies that outshine Alice's truths. Which he can, and will. It assumes authority is honest and fair. It assumes Mallory cannot charm authority to get all the sympathy he needs. Authority is often more likely to punish Alice than save her.
+The psychopaths who enter conflict zones pursue the chance to rape, hunt, and butcher. They kill without pause, once they learn the basics. They enjoy it more than sex. They build power pyramids. They sabotage peace efforts and remove internal competitors. They can rise to positions of great power, leading armies and empires.
 
-The third argument is the illusion of safety. "It could be worse, don't provoke him." This is what Alice tells herself, over and over. Others will often repeat that. Even if Alice explains how bad things are, people may still tell her, "try and make it work." The assumption is that fighting back makes things worse.
+You might ask how society accepts and collaborates in the promotion of murder. We show snuff videos on the evening news. We criminalize Mallory when he travels abroad to fight. We draw bold "do not cross" lines so that every young candidate knows where to aim. The generals don't need to do the hard work of recruiting. Society does it for them.
 
-The final argument is the assumption of immediate danger. "He could kill you, you must leave NOW!" Once the illusion of safety breaks, a panic sets in. We assume that Alice risks injury and death if she stays with Mallory. Thus, Alice must get away from Mallory as fast as she can. I'll explain why this also a fallacy, at least in most cases.
+The answer lies in a second group of emotions, those we use against badder animals than ourselves. It is easy to convince a population to support a war of aggression. You just invoke the defense emotions.
 
-++ Sticks and Stones May Break My Bones
+++ The Defense Emotions
 
-We make a major assumption about psychopaths in popular fiction, and in clinical research. The assumption repeats over and over. It defines how the police and courts deal with Mallory. It defines how we try to help Bob in his struggle to free himself from Mallory.
+The defense emotions are ancient and widespread. These emotions keep us safe from predators, and let us deal with competitors:
 
-The assumption is: //the main danger from psychopaths is physical//.
+* //Surprise// - the emotion of reacting to a sudden threat. It is what you feel when a cat leaps at you out of a closet. It's what the cat feels if you creep up on it and say "boo!". We also call this a "startle response." You flinch away from the threat, and raise your arms in self-defense. You lift your eyebrows and open your eyes wide to see better. Your hearing gets sharp. You exhale hard to clear your lungs of carbon dioxide. Your heart accelerates and you breathe in deep to oxygenate your body for action.
 
-Yes, psychopaths can inflict physical damage to others. Between 1-2% of men and women experience domestic violence in a year. 20-25% of both genders experience it during their lifetimes. Yet this is neither exclusive to psychopaths, nor is it the worst damage they do. The assumption is almost valid, yet is not.
-Mallory does do real damage. Yet for every physical assault, she delivers hundreds of non-physical blows. These are emotional, social, and economic. She is much more likely to drive her victims to suicide, than to murder them. When you look at psychopathy as a disease that damages Alice and Bob, it becomes obvious. A parasite or predator must find a balance. Mallory must work in stealth. Overt activity leads to detection.
+* //Suspense// - the emotion of detecting a potential threat. It is what you feel when you hear an unexpected noise in the middle of the night. Or, when you turn a corner and see a large, dangerous looking animal blocking your way. Your body freezes, for ten to thirty seconds. Adrenalin starts to flow into your blood stream. You breathe out to clear your lungs without making noise. Your vision and hearing heighten as you try to identify the threat. You get goosebumps.  Your memory goes into high-definition recording mode. Later this feels like time had slowed down.
 
-Only failed, incompetent, or damaged psychopaths resort to physical violence, let alone murder. We saw that serial killers appear to be a tiny subset of psychopaths with a specific form of brain injury. We know that the bulk of psychopaths hide all their lives in the general population. These are the successful ones.
+* //Terror// - the emotion of wanting to flee from a threat. Blood flows to your lungs and legs. Your blood vessels constrict to reduce bleeding in case of damage. You go pale. Your digestive system slows down and stops. Your mouth goes dry. Your eyes open wide, and your hearing gets sharper. Your focus is on listening, hiding, and freezing when you are out of sight.
 
-Mallory's mask of physical threat is a convincing yet thin lie. For sure, there are violent people, and there are violent psychopaths. Mallory will be violent when it works. Yet Mallory is above all pragmatic about hiding and surviving.
+* //Flight// - the emotion of fleeing from a pursuing threat. Adrenalin pours into your bloodstream. Blood flows to your leg muscles, lungs and arms. You focus on paths and exits. You start to sweat. Your eyes open as wide as possible. You breathe hard and fast and your heart pumps at full speed. Your hearing switches off. Endorphins flood into your bloodstream to switch off the pain response.
 
-The predator lifestyle is risky. A predator cannot afford even minor injuries. Non-human predators attack the weak, the immature, the old. Never an adult, capable of fighting back. A cow with a broken leg can still eat grass. A lion with a broken leg will starve. This defines the level of violence a predator will exercise. It will choose the easier prey. It will not fight another predator except to survive or reproduce. It will use bluff and noise to intimidate, yet will flee from a real fight.
+* //Anger// - the emotion of defiance against a threat. Blood flows to your face and neck. Your posture makes you seem larger: arms wide, feet apart, head up. You bares your teeth and you stare with wide eyes. Your saliva gets thick and foamy. Your voice gets heavy and loud, and you shout. //Anger// says, "I am not backing down. Retreat now, or you will be hurt!" Anger is a caricature of //glee// and //fury// that exaggerates the most terrifying traits.
 
-And so it is with Mallory. Of course she can deal violence, if it is a matter of survival. Yet the risks are almost never worth the potential benefits. If Bob is in a cult compound or cellar, or if he is young, or old, he is vulnerable, and "confront" is bad advice. If Bob is an adult, then Mallory sees any number of ways that he could fight back and hurt her.
+* //Rage// - the emotion of attacking a threat. Your body prepares to inflict and receive physical damage. Blood flows to your upper body and arms and face. Your nervous system switches off pain. Your heart beats faster, and you breathe hard, pumping oxygen into the blood. Your body releases glycol and your muscles tense for action. Your vision narrows to focus on the threat. You lower your head and fixate on your target. Your hearing dulls, as noise is now only a distraction. You are shouting or screaming without pause. //Rage// says, "Leave, stop, go away!"
 
-We have this stubborn association of psychopathy with aggression and violence. It looks like silent collective hysteria over our ancient predators. "OMG psychopaths!" I believe this is fear, not data, talking.
+* //Shock// - the emotion of preparing for sudden death. Your body switches off its response to pain. You feel cold and limp. Your sense of touch, hearing, and vision all dim. Your face pales and shows a characteristic flushing pattern on the cheeks. Your mind may put itself in the third person, and give you an "out of body" experience. The effects of shock change over time, assuming one survives.
 
-Why am I arguing against this assumption? Because it takes us in many wrong directions. Above all it misleads us about how to deal with Mallory and the damage she causes.
+* //Triumph// - the emotion of asserting dominance. You breathe in and fill your lungs. Blood flows to your upper body and arms. Your heartbeat is faster than normal. Your body remains ready for physical confrontation. You stand with your head high, arms out. You stand with feet apart. You walk with larger strides. You look straight at bystanders, yet not at submissive people, whom you ignore. You raise your voice and gesticulate more than usual.
 
-Here are some of the mistaken paths we've taken when dealing with psychopathy in the past:
+* //Defeat// - the emotion of submitting to dominance. //Defeat// displays that you will not fight. You adopt weak body language to look smaller and harmless. You bow your head, squash your shoulders in and hunch your back. You bring your knees together. Your steps get smaller. Your eyes look at the ground. You expose your neck. You make the characteristic high-pitched //mmh// sounds of //defeat//. Your voice, if any, is quiet. Your metabolism slows. You make no facial expression.
 
-* We used violent criminals as our main source for data about Mallory. This is changing, yet it remains the classic source of data. We under-counted psychopaths, and believed most of them to be male. We did not study how Mallory hides and operates in general society. We did not look at her silent victims.
+A successful predator must avoid its prey feeling //suspense// until it is too late. There is thus an old arms race between predator and prey. The predator disguises itself, to move in closer. The prey becomes better at identifying its predator. The two strategies balance each other. If a predator is too successful it destroys its own host species. If the prey is too nervous, it dies from exhaustion.
 
-* We used aggression as a tell-tale when looking at juveniles and families. This leads to "treatments" like medication and anti-aggression therapy for at-risk youngsters. We do not consider that Mallory learns to hide from an early age.
+//Anger// and //rage// are the first display emotions. All others so far are for orchestration only. These two emotions cross species boundaries. They need no explanation: when an animal looks ready to attack us, we read that as "anger."
 
-* We disregard many forms violence in the home. We punish a parent for slapping a child. Yet we tolerate Mallory's long term emotional abuse and neglect of those around her.
+Mallory does not, as far as I can tell, feel the defense emotions. She perhaps has no natural predators. She shows no startle response. Unexpected events may cause her to pause and calculate. If you leap out of a dark corner at her, she is likely to just punch you. When she gets angry, she is showing //fury//, not //anger// or //rage//.
 
-* We often ignore the victims of abuse unless there is provable physical violence. Law enforcement and courts tend to dismiss other forms of abuse, if home life looks "normal."
+Mallory enjoys violent confrontation. It gives her real pleasure. This brings us to our next group: the sexual emotions.
 
-* We do not intervene in obvious cases, such as cults and other abusive organizations. Again, we assume that adults are capable of defending themselves. The State only intervenes when there is serious injury or death, or there are young children.
+++ The Sexual Emotions
 
-* We hesitate to apply the "psychopath" label, since it brings such negative connotations. That means we strive to treat Mallory the same as we treat Bob. This doctrine of equivalence leads us to assign blame to both parties.
+The sexual emotions are, like the predator emotions, old and deep.  They predate language. There is debate about whether these are even emotions. Yet the orchestration and display functions are undeniable:
 
-* If we do conclude, "Mallory is a psychopath," our reaction is hysteria. We in effect scream "run away!" at Bob, as if he was not already doing his utter best. We have no tools for understanding how Bob got to where he is and why he stays there.
+* //Ennui// - the emotion of looking for sexual opportunities. //Ennui// drives you out of our comfort zone. Your sexual responses slow down. Your vision and hearing gets sharper and you focus on potential sexual partners. You feel the need to move, yet you are careful to stay discreet. Your walk with quiet calm, and keep your posture relaxed. Your breathing is regular, slow.
 
-* We assume the risk from a psychopath is physical. That is, if Mallory has not yet hurt Bob, so far so good. We tell him to leave, and we hope she does not murder him in his sleep.
+* //Interest// - the emotion of focusing on a specific person. Your sexual responses speed up. Your hearing and vision focus on your target, and exclude everything else. You may move towards your target, trying to appear as innocent as possible until the last minute. Your pupils widen. Blood flows to your cheeks. Your adrenalin starts to rise. Your memory starts recording in high resolution.
 
-* We assume that leaving removes the risk. If Bob does leave, we expect him to resume normal life. If he remains depressed, we blame him. If he does not recover, we abandon him. If Bob does not leave Mallory, we assume he's staying by choice. Again, we blame him and in the end we abandon him.
+* //Desire// - the emotion of chasing a sexual target. Your hearing switches off and your vision tunnels in on your target. Your breathing and heartbeat speed up. Blood flows to your lower body and skin, and glucose feeds into your blood. Your eyes widen, your mouth opens, and you smile a lot. //Desire// says, "I want you."
 
-* We may provide support to Bob, yet only if Mallory used physical violence. Alice may find help if she turns it into an issue of women's rights. If Bob asks for help for emotional abuse, he will find a stone wall, even mockery.
+* //Lust// - the emotion of getting consent for sex. You feel the kick of pleasure and adrenalin. Your breathing accelerates. Your body prepares for sex. Your blood pressure rises, and blood flows to your genitals, breasts, skin, and face. You laugh and smile a lot more than usual. //Lust// says, "I want you more than ever."
 
-I've explained how Mallory hides and operates. I've explained why Alice and Bob are normal people who get caught in a trap. Why they stay put. Why they seem to accept their situation. I've explained in detail, every single step of the process, from both sides. It is clear that Alice and Bob lose control over their lives quite early on in the process. If they stay with Mallory, it is not from free will.
+* //Arousal// - the emotion of engaging in sex. Your sense of pain shifts. Your vision narrows to a tunnel, and your eyes narrow or close. You may be silent, or make groans of effort. You focus on your partner, and the physical act. As you engage, you feel intense bursts of pleasure that push you on.
 
-I've also explained the damage that Mallory does to Bob and Alice, and how deep it goes. I've explained how and why this can end in depression, self-harm and suicide.
+* //Climax// - the emotion of concluding sex. You feel an orgasmic climax of pleasure, your DNA rewarding you for the effort and risk of sex. Your lungs and heart are still working hard to purge your system of carbon dioxide. Your arms and hands and jaws clench. Your skin flushes in specific and recognizable patterns. You may make a low groan, or louder shouts.
 
-Let's assume you are Alice or Bob. I've shown Mallory to be a slow predator who uses mind-control techniques. She uses these techniques to isolate, restrain, and silence you. The next step is to explain how to undo these techniques and fix your Russia Syndrome.
+* //Replete// - the emotion of having finished sex. Your sexual responses switch off, and you reject any further physical stimulation. You may want to talk, or sleep. You adopt open body language, and relax. Your blood pressure goes back to normal. Your arms and legs are limp.
 
-++ Four Steps to Freedom
+* //Rejected// - the emotion of a failed seduction. Your body relaxes and all systems go to neutral. You withdraw to a safe place and replay your memory. You look for what went wrong. You imagine different "what if" scenarios, and rehearse them mentally.
 
-Undoing Mallory's damage is a slow and delicate process. I'll break it into four steps to make it easier to understand. These steps are: //Diagnose//, //Observe//, //Inhibit//, and //Terminate//. You can remember these steps with the acronym **DOIT**:
+I had to search for names for many of these. You will notice that this group is almost an exact copy of the predator emotions. The one missing emotion is //gluttony//, which is now part of //arousal//. If there is any symbolic consumption, it happens before, not after //climax//.
 
-* //Diagnose//: where you ask the question, "am I dealing with a psychopath?" and come to a "yes" answer if that is the case.
+The similarity of these two groups of emotions is striking. They have evolved in parallel. I assume they share much of the same DNA, and in some people the boundaries are blurred.
 
-* //Observe//: where you learn to observe Mallory and keep notes. The goal is to decode his behavior and understand how he has been controlling the situation. You move away from cooperation, and towards passive resistance.
+Do men and women experience these same emotions? It is a difficult area for research. Sexual experiences are never neutral. Culture distorts and warps them. We tolerate sexual activity, approve of it, expect it, or forbid it. The cultural regulation of sexual activity is constant and global and corrupts our responses. No two experiments will show the same results.
 
-* //Inhibit//: where you learn to recognize and block Mallory's patterns of control. Mallory depends on you to keep repairing the cup. You stop enabling him, and then move towards active resistance.
+I'll claim that both men and women tend to experience the same cycle of emotions during sex. At least in the case of consensual sex between adults. If male sexuality is predatory, then so is female sexuality. There is no "passive" gender, though individuals can be more passive or active.
 
-* //Terminate//: where you take back control of the relationship, and then end it on your own terms. You understand that there is no cup, and never was.
+Both men and women have sexual empathy. When your partner shows lust, this tends to provoke lust in return. Both seek an "emotional connection" with their sexual partners.
 
-Before we start, please realize: this takes time. You need to make time to repair your life. It takes time to learn and understand new ideas. It takes time to apply these to your relationship with Mallory. It could take six months, a year, two years, or longer. It depends on how deep the damage is.
+How does Mallory feel the sexual emotions? It is sure that he has the physical responses needed for successful intercourse. He shows sexual empathy. Yet there are some striking differences that demand explanation:
 
-Let me explain what you have to abandon, as possible outcomes:
+* Mallory is casually bisexual. To be more precise, he will adopt whatever gender identity [http://psychopathsandlove.com/a-hidden-fact-of-psychopaths-they-have-no-gender/ fits the situation best.] He can be gay, dominant, submissive, heterosexual, confused.
 
-* You will not get sincere remorse, ever. If you need this to move on, learn to stop needing it.
+* Mallory does consume his sexual partners, in a manner. You may see him as a sexual predator, yet that is to misread his behavior. For him, sex is not the goal, it is the means. His goal is to consume his target's power and resources.
 
-* You will not get the love, money, power, or whatever else Mallory promised you.
+* Mallory is dominant and insensitive to his sexual partners. To quote one woman of her psychopathic partner: "During sex he was harsh and rough. His eyes cold and distant, focused... like an animal eating his prey."
 
-* You will not get your money or time back. Accept the losses, and look ahead, not back.
+I believe Mallory mixes the two groups of emotions into a single one. Psychologists describe psychopaths as "thrill seeking," yet a more accurate description might be "over-sexed and uninhibited." Apart from the physical responses during //arousal// and //climax//, Mallory experiences exactly the same emotions inside, and outside the bedroom.
 
-* You will not get a deal, or compromise, or negotiated settlement. Every deal is a lie.
+This points us towards a new metaphor for psychopathy. //Predator// is a good functional model. It has many useful properties, as a model. Yet it dehumanizes. To describe him as an animal is accurate in many ways, yet it suggests he is worth less than Alice or Bob.
 
-* You will not change Mallory, nor help him, nor cure him, nor punish him.
+Mallory is not subhuman. Neither is Mallory superhuman. Psychopaths are no more or less successful, on average, than social humans. In the long arms race between the two strategies, //neither can ever win//. It is a race to equilibrium. For every trait that makes Mallory more successful, he has a weakness. For every weakness that Alice or Bob show, they have balancing strengths.
 
-And what you can expect to achieve:
+Psychopaths are neither demons nor demigods. They are just //different// in perplexing and difficult ways.
 
-* You can change Mallory's behavior towards you or a group, by changing how you or a group treat Mallory.
+So here is that new metaphor: //psychopathy is a third sexual identity//, a distinct gender. Social humans differentiate to either male or female gender identities. Psychopaths differentiate to their own sexual identity. While male and female do their particular dances, psychopathy romps around them both. For all his sexual intensity, Mallory is asexual in a profound way.
 
-* You can force Mallory to leave you or a group alone, by making it expensive and risky for him to stay.
+++ The Family Emotions
 
-* You can staunch your losses of money, time, and resources, by refusing to give into Mallory.
+It was our eukaryote ancestors, common to plants, animals, and fungi, that invented sex. Much later, our ancestors invented parental investment. It's a trick that animals have rediscovered many times. Plants and fungi less so. 80% of birds form stable couples where both parents invest in the young, and about 6% of mammals do this. All mammals care for their young if you disregard the father. In many species of fish, reptiles, and invertebrates also, both parents look after their young. Such species tend to form monogamous couples, at least per breeding season.
 
-* You can take full control of your relationship with Mallory, by seeing it for what it is.
+As any parent knows, childcare is hard work with few obvious short-term rewards. Kids tend to grow up oblivious to the efforts of their parents. If they think about it at all, it tends to be "I could have done better." Yet the genetic payoff for investing in children and grandchildren is huge.
 
-* You can block and disable Mallory, even to the point where he cannot hurt others.
+The genes' solution is to blackmail and bribe us with mood-altering chemicals. These are seratonin, dopamine, oxytocin, and endorphins. When we do the "right" thing we get a soup of chemicals that makes us feel good. When we do the "wrong" thing, we get a different soup that makes us feel terrible. These affect our whole body, not just our brain. 80% of our seratonin is in our intestines. That "gut feeling" is real.
 
-* You may be able to salvage pieces of whatever projects you were investing in.
+This carrot-and-stick machinery sits out of sight of the conscious mind. With knowledge and practice, you //can// hack into it and steer it. It is like learning to control your heart rate. The moment you stop trying, your subconscious takes over again.
 
-* You can learn deep and useful lessons about your own and others' psychology.
+The machinery is, of course, the emotions. The predator, defense, and sexual emotions focus on orchestration. Family needs more abstract emotions. This group covers three kinds of bonds that evolved together. These are the bond between a couple, between parents and children, and between siblings. In general the emotions drive the family to stick together.
 
-* You can externalize your story and understand what happened.
+These emotions are confusing to most people. So I'll use the same approach as for previous groups. This is: take each piece of the puzzle, identify it, and then name it:
 
-* You can help others move through the same process as you.
+* //Love// - the emotion of being close to a family member. We establish "closeness" by mutual physical contact. The kinds of contact depend on the relationship. The closer you are to another person the more you feel the emotion. Your eyebrows rise, your pupils widen, you smile and laugh and feel happy. You use open and dominant body language. You are more childlike: playful and uninhibited. You seek more contact. You need less sleep.
 
-Be explicit in defining your goals, both to yourself, and to others. Once you write down your goals, you can measure your progress over time. This will help you during the many moments when you doubt yourself.
+* //Longing// - the emotion of being far from a family member. You're feeling the symptoms of oxytocin withdrawal. You obsess on to get back to your loved one. You may feel alone. Your pupils shrink. You use closed and submissive body language. You are serious, less childlike. You sleep more than usual.
 
-We covered Diagnose in [#diagnosis]. Now I will explain the other steps.
+* //Loss// - the emotion of losing a loved family member. Your metabolism slows down. Your sight and hearing work slower than usual. You may feel "nothing," an empty or dead feeling. Your pain response lowers, thanks to the endorphins suppressing your oxytocin withdrawal. You seek other family members. You may feel //longing// or //sadness// later. Your face shows no expression except inattention.
 
-++ Observe and Record
+* //Happiness// - the emotion of being in a good situation. Psychologist [https://en.wikipedia.org/wiki/Happiness Martin Seligman] lists five aspects of such a situation: pleasure, engagement, relationships, meaning, and accomplishments. My experience says you also need good health, security from threats, structure, and freedom. You also feel happiness by empathy from other people. When you are happy, you smile, laugh, and use open body language. Your pupils widen, and blood flows to your skin, making you glow.
 
-A main goal of every abuser is to teach the victim that there is no abuse. "This is normal," goes the refrain. "And if anyone is crazy or abusive, it is you." From the outside, to accept this seems insane. For the victim, trying at all costs to make things work, it is rational. Take the blame, apologize, and keep trying to fix that cup.
+* //Sadness// - the emotion of being in a bad situation. I'd argue it's what we feel when you lack one or more aspects of happiness. If you fall ill, or are constantly threatened, or have few accomplishments, or see no meaning in our lives, you feel sad. You also feel sadness by empathy from others. When you are sad, you show closed body language. Your pupils shrink. Blood circulation slows in your skin, making you look pale and cold. You may pout, or weep.
 
-So asking the question, "Am I dealing with a psychopath?" is a major step in itself. Yet what comes next is delicate. If you recognize yourself as the victim, then you have the right, even an obligation, to free yourself. You cannot wait or hope for a formal diagnosis of "psychopath" from a psychologist.
+* //Fear// - the emotion of asking for help from a threat. //Fear// is how you signal danger to your parents or siblings. Alone, you feel //suspense// or //terror//. Your heart and breathing speed up. Adrenalin pumps into your blood, and your muscles get ready for action. Your eyes open wide, as your vision and hearing focuses on the threat. If you can, you make the characteristic shout or shriek of //fear//. If you must remain silent, you mime //fear//. You open your mouth and eyes wide and stare at the threat, hands raised like claws.
 
-Yet outsiders will not leap to your understanding. They will see you as unstable. First you insist the relationship means everything to you. Then you accuse the other person of being mentally ill, or worse. "Psychopath" is only one step away from "serial killer" in most peoples' minds.
+* //Distress// - the emotion of being lost or threatened. Like //happiness// and //sadness//, this has a juvenile and an adult form. Juvenile //distress// is a call for help from a parent or older sibling. Parental //distress// is a call to a missing child. //Distress// is a display emotion. A child will shriek, wail, cry, or call to its parents. Every parent knows their child's distress calls. //Distress// triggers similar physiological shifts as //anger// and //rage//: red face, loud voice. //Distress// leads to //anger// and //rage//. Its universal body language is: shoulders and head slump down, eyes peer up.
 
-Mallory always deflects blame onto his victims. He does this well. He ensures that they look guilty, angry, and unreliable. In any situation of conflict, people are likely to trust his explanations. They will absorb his stories and reject those of his victims. //The facts don't matter unless there is video or paper proof.// I cannot stress this enough. It catches even professionals who deal with psychopaths every day.
+* //Jealousy// - the emotion of competing for attention. //Jealousy// is how you signal that a parent, partner, or friend is neglecting you. You feel someone else is receiving attention that should be yours. You frown, and imitate other emotions: //sadness//, //anger//, //despair//, or //disgust//. The imitation is a warning to the person giving the attention. Watch out, it says, or this is how I will feel towards you, for real.
 
-If you are Mallory's victim, telling people "he's a psychopath" will tend to work against you. It is like pulling out a knife in a gun fight. If you are trying to help someone else, the same applies. It is far better to document events as they unfold, and let others draw their own conclusions. Sooner or later, careful documentation always beats charismatic story telling.
+I've not listed //hate// here. While this emotion does exist in families, I believe it's a more recent evolution. There is no function for //hate// in a family without the tribe. It is a luxury that depends on other people. We cannot reject a family member, no matter their crimes, unless they have somewhere else to go. I place it in the group of tribal emotions that I cover next.
 
-You're looking for:
+With parental investment, we also get the deeper evolution of empathy. The mechanism is clear: one person feels some emotion, perhaps being sick or lost. The emotion causes the person to make distress calls and show visible signs of //distress//. This triggers the matching emotion in a parent or sibling, pushing them to help.
 
-* //Evidence to disprove your insight//. If the hypothesis is wrong you want to know as soon as you can. You want to find the real culprit, if any. You want to find other ways of dealing with the situation. For example, if someone is mentally ill, they need help. If they are a psychopath, their victims need help.
+In the same way, a child eats well and is healthy and shows this by expressing //happiness//. The parents respond by feeling great about themselves. It doesn't take a training manual to have kids. Children from birth tell their parents what to do next. "Feed me! Enough, stop, I'm going to vomit! Cuddle me! More, this is great! OK, put me somewhere safe, I want to sleep!"
 
-* //Material evidence that you can use in a conflict//. Such evidence must hold up in court. What that means depends on where you live. Video is good, audio recordings often less so. Phone calls and emails are usually good. Police reports and witness statements are good. You can talk to a private detective. They deal with a lot of psychopaths, and know the laws for evidence gathering.
+Juveniles do not have the same range of empathy as adults. Yet they often have basic empathy from a few years old. A young child is playing and sees another crying. He or she offers their toy to the crying child, who accepts it and starts smiling.
 
-* //Insights into what Mallory is doing, and how//. I'm not suggesting you bug his email and mobile phone to track his location and chats. That is most often illegal unless the phone is yours, and you install an "anti-theft" app. Yet if you do, it can be enlightening.
+Social humans project their family emotions onto people outside the family. They also project them onto pets and inanimate objects as they bring these into their personal lives. We feel happy when our possessions are safe and in a good state. When our possessions are vulnerable to damage, or in a poor state, we feel sad. We have empathy with inanimate objects. Our home is happier when it is safe against the rain, and warm, and filled with people. An cold, leaking, abandoned house feels lonely, and when we see it, we feel sad.
 
-* //Observations about Mallory's behavior, for your own benefit//. To confront and beat him you must know his game. You must understand every one of his moves, and know how to respond in each case. "Confront and beat" sounds dramatic. Yet Mallory never takes a holiday. Every time you interact with him he is pushing you.
+Empathy triggers older emotions too, particularly the defense emotions. Close traumatic injury or death in others close to us triggers shock. Threat to others provokes terror, flight, anger, or rage.
 
-I'll discuss evidence collection later. Let's focus on the last aspect first, which is to learn Mallory's moves. This takes time yet is easier than you might think. Psychopaths all seem to work the same way. If you watch one, you are watching them all. If you can understand one, you can understand them all.
+Mallory does not feel the family emotions. She feels no //love// for her relatives, neither parents nor siblings nor children. She does not experience //distress//, nor //happiness//, nor //sadness//. She has no empathy for belongings and living spaces. She treats her home the same as a random field. This makes her careless with things, and incapable of organizing by emotional value. Her living room looks sterile, or chaotic, to social eyes.
 
-This is why hunting Mallory is so valuable. Every time you cross paths with a psychopath, if you are alert, you learn something useful.
+Mallory can project the visible signs well, at least in face and voice and body language. She acts //love//, //happiness//, //sadness//, and so on. This presents a real problem for honest relatives. As Mallory fakes her emotions, parents, siblings, and other relatives over-invest in her. So we've evolved counter-measures. Those are physical signals that Mallory cannot (yet) fake. Pupil size and skin flushing are the main ones.
 
-Observing Mallory is like [http://www.wikihow.com/Watch-Wildlife watching wildlife]. You choose your place and time, and do your research. Dress right, and blend in to your surroundings. Be calm and still and wait. Approach your subject with care, or view from a safe distance if you can. Identify behaviors as you observe them, and note behaviors that are new to you. Above all, use a journal:
+Mallory can fake crying to some extent. She cannot fake the full display, above all the skin flushing. She can produce the tears, and runny nose, as the tears leak into the nasal cavities. This looks like "silent weeping." We generally feel it's insincere when someone does that. I suspect there's an arms race here. Honest crying gets more complex over time, to stay ahead of Mallory's acting skills.
 
-> Note the types of creatures you see and their characteristics, and jot down what they are doing and where. Make sketches or take pictures and paste them into your journal. Once you return from the field, review your journal and do some more research to answer any questions that came up during your observations.
+When we see Mallory expressing an emotion, we do a subconscious check of her eyes. I assume our mind corrects for light conditions, perhaps using our own pupil size as control. If her pupils match her expression, we feel "she is sincere." If not, we will still respond, yet with unspoken reservations.
 
-You can observe Mallory from different angles:
+Various emotions display through skin flushing, each with different and recognizable patterns. //Terror//, //anger//, //interest//, //climax//, //happiness//, //sadness//. The emotions control these flushes and use them as authentic indicators.
 
-* How she interacts with groups. This is easiest to see, yet incomplete. It is a good place to start. You can see Mallory's narcissist mask, how she charms and bullies the others. You should always watch the others' responses. Mallory is the one controlling things. She may be active in the group. Or, passive, ignoring the group to break their mood. She triggers, they respond.
+When we have an authentic indicator, it is always fun to ask, "are there ways to cheat?"
 
-* How she interacts with individuals in public. Again, easy to see yet incomplete. You will see Mallory's narcissist mask again. More, you can see the other person's mood and body language. Do they look lost in love? Desperate yet frustrated? Silent and broody? Quiet and subdued?
+There are ways to hide the pupil response. For instance, dark sunglasses, veils, or other coverings of the face and eyes. By wearing these, we can mask our responses. Mallory likes her sunglasses, and often wears them when she's out hunting.
 
-* How she interacts with individuals in private. This is the best data, and also the hardest to get. It takes time and luck. Mallory is paranoid and secretive. Technology can help, if you have the skills or can find someone to help you. Or, you may talk to Bob and Alice and get their stories. These will be selective and distorted, yet useful.
+How about the skin flushing? This shows on all skin tones, as different and yet recognizable patterns. The exception is dark black skin. People with dark skin flush like anyone, yet it is invisible. This tells us skin tones evolved after emotional flushing. And yet emotional flushing evolved after we lost our body hair.
 
-* How she interacts with you. If you are in a relationship with Mallory, the data is all there. Your view is selective, rationalized, and distorted. It is still worth taking notes. Your journal becomes a long term memory. It lets you capture conversations or events that are so unreal you soon forget them.
+There is an advantage in dark skin beyond protection from the sun and skin cancer. How far this has affected the evolution of skin tones, is an open question. We can ask same question about the evolution of dark irises. Does this interfere with empathy? If so, has that driven its evolution in any way?
 
-++ The Resistance
+++ The Tribal Emotions
 
-The goal of //Inhibit// is to block Mallory's patterns of behavior. The abusive bond is a curious thing. Even though one party seems in control, the other must cooperate. This is the "enabling" we see in psychopathic families. When Mallory is in a marriage with children, her spouse often acts as enabler. He excuses Mallory, hides conflict from outsiders, and tells the children "it is normal."
+Humans take the parental investment strategy to an extreme. We invest in our extended family, to almost any degree of distance. We are able to form tribes of many families, keeping track of every other person in our tribe. To make this leap we evolved tribal instincts, including a set of emotions:
 
-Individuals enable their abuser when they normalize the situation. In my Paper Cup story, every time Alice resets and repairs the cup, she is trying to make things "normal" again. This is how she enables Mallory.
+* //Loneliness// - the emotion of being disconnected. You feel physical pain in your intestines and chest when you see others enjoying themselves. You sleep lightly and wake often. Your immune system starts to slow and you start to get sick. Your metabolism slows down, yet you eat more often than usual. Your circulation slows, and you feel cold. You focus on material possessions, and you spend a lot of time thinking about your situation. You adopt submissive body language. Your voice goes quieter and lower. You sigh a lot. You cannot smile with sincerity.
 
-To inhibit is to disable, making it more and more costly for Mallory to rule. Inhibiting works both in solitary relationships, and in group settings.
+* //Belonging// - the emotion of being safe within your tribe. You feel pleasure in your gut and chest. You sleep well, and wake up refreshed. You are healthy and rarely get colds. You lose weight and don't feel the cold, as your metabolism speeds up. You spend more time with people than alone. You rarely question your situation. You use confident body language. Your voice gets louder and you laugh and smile with ease.
 
-We can break down //Inhibit// into separate actions. Each of these addresses a different aspect of Mallory's behavior. I'll summarize these:
+* //Disgust// - the emotion of tasting bad food. //Disgust// is how you warn others to stop eating. Blood flows to your digestive tract. Your stomach prepares to vomit. You make noises and a specific grimace to warn others. You narrow your eyebrows, curl your upper lip, wrinkle your nose, and stick your tongue out. You look at others to make sure they got the message. You make a characteristic groan.
 
-* //Redefine the Narrative//. Mallory depends on her false Narrative. You replace her broken promises with a more accurate model of your relationship.
+* //Hate// - the emotion of rejecting a tribal member. //Hate// is a call to others to support you in a fight. Your eyes narrow and stare at the offender, or an imaginary spot. Your nostrils flare. You frown and your pupils contract. Your mouth closes hard in an anti-smile. Your body prepares for a physical confrontation. Blood flows away from your face and to your arms and shoulders. Your fists clench and you clench your jaw. You use aggressive and closed body language. You make the characteristic sounds of //hate//: low growls. You lose your sense of humor.
 
-* //Fix the economics//. Mallory depends on you refilling the cup every time she demands it. You stop doing that, and staunch the loss of money, time, and other resources.
+* //Self-pity// - the emotion of asking for adult help. //Self-pity// is the "I give up!" emotion. This lets us display defeat, and respond to it by helping one another. You show //self-pity// by slumping your shoulders, pouting, and crying. You look down, sniff, and use closed body language. The empathic response is to put an arm around the shoulders and ask, "how can I help?"
 
-* //Collect evidence//. Mallory depends on privacy, your poor memory, and your forgiving nature to distort history. You repair that by keeping a journal and collecting material evidence against her.
+* //Submission// - the emotion of offering yourself. You feel weak and insecure. Your heart beats faster than normal. Your temperature is higher than normal. You are anxious at the threat of rejection. If the other party accepts and confirms, you switch to feeling powerful and secure.
 
-* //Provide subtitles//. Mallory depends on her charm and fluid lying to confuse others. You prevent that by explaining to others what Mallory is doing, and why, as it happens.
+Mallory belongs to no tribe, and does not feel the tribal emotions. He can do a perfect imitation, within the limits we've already discussed. His act has several weaknesses that you can learn to see:
 
-* //Create consequences//. Mallory depends on your fear to escape serious consequences. You train her to understand you are willing and able to create real problems for her.
+* For those emotions triggered by others' behavior, Mallory is blind and often does not react at all. For example, he feels no //fear// when confronted with a physical threat. If he does display such an emotion, the timing and strength will be wrong.
 
-+++ Redefining the Narrative
+* For those emotions triggered by one's own behavior, Mallory reacts the wrong way. So, we get the classic "anti-social" behavior. In a situation where Bob or Alice would feel //jealousy//, he shows nothing. Or, he shows a different emotion, such as //anger// or //self-pity//.
 
-I explained in [#capture] how "every psychopathic relationship has the same structure. At the heart, Mallory places a core of lies and promises... The Narrative." To untangle your relationship with Mallory you must decode and redefine the Narrative.
+* For those cases where he has an innate response from his emotional palette, it is extreme. It goes from zero to 100% with no build-up. Then it switches off again, with no drop-off. You will see this most often with displays of //fury//. You also see it with his masks.
 
-It can be difficult for so many reasons. The Narrative usually has elements of truth. These are small, yet real, and Mallory uses them to push through larger packages of lies. They're hard to discredit because we so //want to believe//.
+* For those emotions triggered by empathy, Mallory does not respond in the "right" way. He does not show //disgust// when eating something bad. He just spits it out and throws it away. He does not respond to //disgust// with his own //disgust// face. He just stops eating. Again, if he learns to mimic, timing and volume will be "wrong."
 
-Let me give some examples of Narratives, to draw you a clearer picture:
+This dynamic can be confusing for anyone trying to establish normality with Mallory. In situations where he should be acting jealous, he shows nothing. Then, in minor and unremarkable situations, he will explode in a violent fit of //fury//. Seen from Alice or Bob's side, this is incomprehensible. For Mallory it's logical. He does not seek attention from his prey, any more than you seek attention from your lunch. Yet if he sees his lunch trying to sneak away, he attacks it with teeth and claws.
 
-* Mallory has caught Alice in a relationship. He tells her over and over, "you are naive and over-sensitive, and you overthink." He shakes his head with concern: "You need professional help." The first part may be true. She accepts that and finds it hard to challenge the rest. He succeeds in undermining her and keeping her dependent on him. 
+++ The Social Emotions
 
-* Mallory is taking money from Bob, using sex and emotional violence to keep him hooked. The Narrative is, "you want me because I'm a difficult woman. Surviving me makes you a powerful man. Keep giving me expensive gifts and I will be yours." The first statement is true. What follows is false. Mallory is cheating on Bob, wasting his money, and will leave him as soon as she can move to a wealthier contact of his. She is not the trophy. He is.
+Somewhere around three million years, we began to evolve the emotions for relating to arbitrary people. This happened before the development of spoken language. These emotions let us work with an unlimited number of people, building social networks that stretch over time and space:
 
-* Mallory has convinced Alice to become her house slave. Alice works for free and Mallory bullies her into thinking this is normal. The Narrative is, "I paid to bring you to this country. I am now your family and you must do what I tell you to. Obey and I will protect you." Again, the first statement is true and the rest are lies. Mallory will abandon Alice on the street without papers or money as soon as she becomes too large to lock up.
+* //Like// - the emotion of a positive relationship. In [#capture] I explained how social accounting works. When you like someone, you feel happy in their presence, or when you think of them. This shows in the usual ways: wide eyes and open pupils, smiles, open body language, shining face. This emotion is all about display, to the person involved, and to third parties. There is some empathic response. Thus we tend to like people who are happy, as they seem to like us. Yet most of the time we base our response off our internal accounting.
 
-* Mallory has convinced Bob to join his project. Bob is working unpaid and Mallory demands more and more from Bob. The Narrative is, "this is an important project. You are serving humanity. I am your glorious and infallible leader. If you suffer, that is normal." The first statement might be true. Mallory is good at finding causes. The rest are lies. Mallory will steal Bob's work, drain him, and blame him for any failures.
+* //Dislike// - the emotion of a negative relationship. When you are with someone you dislike, or you think of them, you feel sad and often angry. You show this with a frown, closed pupils, closed body language, pale face, tight lips, and so on. Like //like//, this is a display emotion with some empathic response. If someone frowns when they see us, we're concerned. Yet we don't respond with //dislike//.
 
-* Mallory has convinced Alice to move in together. She invests her savings, and they plan expensive renovations together. The Narrative is, "this is our house. You are investing in our future. I will be a loving and caring husband. If I'm sometimes moody, it is your fault." Again, a truth followed by lies. Alice will go bankrupt before she wakes up. Mallory invests little if anything, and cheats on her since they met.
+* //Anxiety// - the emotion of preparing for a future threat. You may feel dread, in the pit of your stomach. You may feel worry in your mind. You frown, and furrow your brow as you work through possibilities and plans. Your facial language is a signal to others that you believe something bad will happen. Depending on your age and track record, others may respond with //anxiety// of their own.
 
-To untangle the Narrative, there is a small yet powerful mantra that you use. You repeat this to yourself whenever you look at past, present, or planned events. The mantra is: "//Mallory is lying//."
+* //Guilt// - the emotion of breaking a social code. You want to confess, and for others to forgive you. You may want to also run away. Your body displays the former, and prepares for the latter. You feel dread in your intestines, blood flows to your legs and back. Your pupils narrow and your eyes close as if preparing for violence. Your focus flits from face to face, avoiding eye contact, to see if people are looking at you. You lose your sense of humor and become more paranoid. You interpret others' //dislike// as a personal statement.
 
-Not sometimes, not maybe. Almost always. You must assume that every statement Mallory utters is false. He may sometimes tell the truth. That is accidental and irrelevant. When it mattered, and often when it did not, he lied and lies.
+* //Shame// - the emotion of humiliation. You feel sick in your stomach. You believe everyone is looking at you, and talking about you. Blood flows to your ears in a visible sign to others. You look at the ground. You avoid eye contact and do not engage in conversation. You want to hide. The social response to //shame// depends on the level of misconduct.
 
-This takes practice. We tend to assume innocent till proven guilty. You need the opportunity to watch Mallory as he talks to you, or others. You feel his sincerity like a warm glow. You hear his words. You watch his face. Now you repeat your mantra: "Mallory is lying."
+* //Remorse// - the emotion of apology. //Remorse// is close to //defeat//. Yet you feel it in the specific context of having broken a social code and someone has caught you. You feel //remorse// when faced with //hate//, //anger//, or //disgust// at some crime. You feel //remorse// as a strong desire to recreate balance. You want people to accept you again. The empathic response to //remorse// may be //like//, or it may be more //anger//.
 
-You may ask //why// he is lying, or how he can lie so well. There are answers, which I've already provided. He lies to bullies people into accepting his authority and to deflect blame. He isn't inventing, when he lies. Instead, he is the sincere teller of a story that happens to be false.
+* //Impatience// - the emotion of losing time. You feel irritated. You make repeated movements of the feet or hands. Your adrenalin is high, as you are eager to move. You gesticulate and make offended noises. The empathic response to impatience is to apologize and feel //shame//.
 
-The power of this mantra is that it forces Mallory to work harder. It works especially well in a group. Mallory's aura of sincerity is like a diamond: hard yet fragile. If you can prove a single lie, then you can teach others the same mantra. From then on, the Narrative starts to fall apart.
+* //Amusement// - the emotion of a sudden understanding. You showing //surprise// and //happiness//. You exhale, laugh, smile, clap your hands, nod or shake your head. //Amusement// is an empathy display evolved from //glee//. To feel amusement at the right moment and in the right degree requires empathy for the scene. When two people share the same amusement, it creates a double reaction, provoking laughter.
 
-If you are alone with Mallory, you must put yourself outside the Narrative to see the lies. This is difficult. You must want nothing, and believe nothing. That means switching off all the responses that brought you to this place. It means accepting that you have lost your investments. It means there will be no more sex, no money, no power.
+* //Revenge// - the emotion of punishing a rule breaker. You feel //anger// at first. Then you feel determined and justified in action, even if that means violence. You show neither happiness nor sadness. You tense the muscles around your eyes, your mouth, and your jaw to make it clear you are serious. //Revenge// can lead to the predator emotions, if the emotion spreads to a group.
 
-Once you can see the lies, the next step is to see the truth. What are Mallory's real intentions? The sad thing is you already know them. They are your deepest fears, the ones you've pushed aside since the first day. Mallory wants to use you then throw you away. He means to use your network to climb up the social ladder. He intends to empty your savings, and those of your family.
+The social emotions seem to exist to trip up Mallory. That suggests they evolved as a defense against psychopaths. That dates human psychopathy to at least the point in our history when we grew beyond the small tribe, between 3 and 2 million years ago. Psychopaths need a crowd. They do of course prey on family, yet their life-cycle depends on a fresh supply of naive faces.
 
-Mallory cares about one person, himself. He will do whatever benefits himself, without limit and without remorse. If he is not worse it is because that would be counter-productive. Your relationship is a sham. It is window dressing to hide the crimes.
+Each is an adaptation to defend against various of Mallory's talents:
 
-Can it be so simple and so calculated? Yes, it can be, and it is.
+* //Like// and //dislike// - they seem simple, yet these emotions are the output of long and complex calculations. The calculations take into account years of observations, transactions, and received knowledge. This translates into a simple "yes/no/maybe" value. We feel this value and show it as pleasure or distrust. It drives us to avoid bad actors, and invest more in honest players. Mallory cheats this by beaming love or dislike at his targets.
 
-So now you have a new Narrative. You could never have made the relationship work. Every time you invested in it, you made it worse. Good intentions pave the road to hell. You fed him and reinforced his bad behavior. So now you have your next action. You stop feeding Mallory.
+* //Anxiety// - the emotion which says something bad is happening, and asks others for help. Again, it can be a simple result of a complex calculation. Some anxiety is obvious: tomorrow I must meet important people, and that stresses me. Most anxiety is a vague "something is not right" gut feeling, that will not go away. I believe it's often caused by our subconscious psychopath detectors shrieking at us.
 
-+++ Fixing the Economics
+* //Guilt// - the emotion which says, "I am not a psychopath, promise!" when someone catches us cheating. Everyone breaks rules at some point. Social groups need a way to distinguish casual criminals from professionals. Some people will reform, and others will not. This is the indicator: casual criminals can feel and display guilt. Mallory has evolved a good imitation of guilt. Yet it is not perfect, and it often leaves us unsatisfied.
 
-Even if you do not base your life decisions on economics, Mallory definitely does. She does play with people for practice. Yet when she creates an extended relationship, it is for her profit. Unlike a win-win social relationship, Mallory always builds win-lose relationships.
+* //Shame// - the emotion which says, "I'm aware that I broke the rules." Again, this is about detecting professional rule breakers. Shame has a specific skin flushing pattern: face and ears. Mallory can mimic the body language, yet he cannot blush nor show red ears. Shame is such a powerful psychopath filter that social humans also mimic it, by blushing.
 
-You should be able to measure how much it is costing you to give Mallory her profit. You can count your time, money, goodwill, and the cost of lost opportunities. It is worth putting a dollar figure on the damage, if you can bear to do this. Mallory has worked hard to make you undervalue yourself, so don't be shy about adding zeros. It is not for a court, just for your own sanity.
+* //Remorse// - the emotion which says "sorry" and asks others to forgive us. Remorse has a body language, yet the key to an authentic display is timing and duration. You must say "sorry" at the right time, and for the right amount. To do this requires empathy for //dislike// and //revenge//. Mallory cannot show remorse in a way that satisfies other people.
 
-Your next step is to close the taps. I call this "disabling." There is passive disabling, and active disabling. Use both, as you gain confidence and courage.
+* //Impatience// - the emotion of someone else delaying you. The social response to impatience is remorse, with an apology. Like remorse, this takes empathy to get right. The human obsession with time keeping and schedules seems bizarre. When you see it as a psychopath detector, it makes sense.
 
-Passive disabling has a mantra. This is: "Every request is a test, and the answer is always No."
+* //Revenge// - the emotion of punishing a rule breaker. This is the emotion that pushes us to actually confront and expel psychopaths. Catching Mallory's infidelity, theft, deception, or other violations, we fill with indignation and revenge. This propels us out of Mallory's hands.
 
-Mallory has a classic pattern of extracting resources from you. First she asks for a small favor, something small and innocent. This aligns you towards liking her, the Ben Franklin effect. Then she creates a problem that she cannot solve, and leaves it on the table for a while. Then she comes with a solution, in the form of a larger favor you must provide. If you do not agree to the larger favor she gets angry and brings the relationship to crisis.
+The concept of a "social code" is foreign to Mallory. She can learn it, yet it is never a native concept. She disregards others' needs by definition. This means she cannot deduce rules like "keep quiet when others are sleeping." If you explain a rule to her, her mind immediately breaks down the opportunity and risk. She obeys rules not because others would suffer. Rather, because they are not worth breaking.
 
-By refusing the small favor, you break the pattern. Mallory has no backup. If she creates a crisis over a marginal issue she looks unstable. If she asks again you just refuse again. If she asks for something different, you refuse again.
+A good social code is such a valuable defense against psychopaths that most are willing to pay to enforce it. You can see the development of modern society in this light. History shows an ever-decreasing rate of violence. Much of the apparatus of the State is about social regulation, and punishment of cheats.
 
-You can refuse in different ways. An outright "no" is fine, if you can find the confidence. Or you can say "I'll try" and then fail to deliver for random, complex reasons. Pretending to be incompetent is less healthy than rejecting Mallory's request outright. Yet it can be more fun, as Mallory has no tools to deal with such trickery.
+Alice and Bob don't need to learn to defend social codes. When they learn a code, and see someone break it, they feel dramatic //anger// and then the emotion I call //revenge//. The two together tell other people "Someone has done something bad and made me angry!" and then "Please join me in punishing this person!"
 
-When Mallory threatens you, observe and take notes. Compare her threats to her actual actions. You will see that she rarely if ever does what she promises. If she does use violence, she gives no warning. When she uses violence, document it and use that against her. Emotional and psychological abuse are notoriously hard to prove. Bruises, bites, and broken bones can end in criminal charges.
+Mallory can mimic both these emotions, and can do this two-step display well. Yet our empathic response to //revenge// is distrust. The more dramatic the display, the less we trust it. There are two ways to get support from the group. Mallory does it by building up //hate// and //fear// towards her target before she launches her //anger// and //revenge// act. This works, in specific cases. Then we get crusades, lynch mobs, and witch hunts, with Mallory at their head.
 
-Active disabling also has a mantra. This is: "If it is not locked down, expect to lose it."
+Alice and Bob get support for //revenge// by proving sincerity. In other words, that they have no personal stake. The best proof is to sacrifice assets, time, or personal security. A martyr inspires by proving the honesty of their cause.
 
-Once you recognize Mallory, you must assume she will take whatever she wants. This means money and assets, for sure. It also means contacts, employees, documents, secrets. She may explain this using "yours, ours, mine" logic. Or she may deny it and blame someone else.
+To escape the accumulation of consequences, Mallory moves around more than average. She is good at learning local culture and manners. She can mimic accent and body language well. People often find her polite, obsessed with etiquette and manners. Only when you get close do you realize that this is superficial. Her manners serve to impress important people. Her behavior towards those she considers unimportant is cold and dismissive.
 
-You must consider what assets you have that Mallory could divert. If you are business partners, and you are not in full control of money and decisions, abandon it. If you own property together, consult a lawyer. If you have joint accounts, close them. If she has access to your credit cards, get new ones. If she knows your passwords, change them. If you are a co-parent, keep the passports for your children locked up.
+She manipulates others' social accounting, with a series of tactics that I explained in [#capture]. If she's caught cheating, her response is denial, and blame-shifting. Mallory can imitate //shame//, yet without the tell-tale ear flushing. //Shame// is a such a good psychopath test that Mallory doesn't even try to fake it. And //remorse// without //shame// is an empty gesture we disregard.
 
-If you live with Mallory you must be careful and somewhat paranoid. Since she is opportunistic, this means locking things up. Do not be shy about using large locks, and hide the keys well. Do your research on identity theft. She may fake your signature and take out loans in your name. Assume she steals your post.
+If you push Mallory, she will try a range of dramatic evasions. She may break down with dramatic weeping, doing good imitations of //self-pity// and //distress//. She may turn furious on her accuser, or other parties, heaping invented crimes on their heads. This "defend by attacking" behavior is classic, though not unique to psychopaths. Or, she may just leave. Only a psychopath can turn the emotional investment dial from all to nothing in a heartbeat.
 
-If she knows her way around computers, assume she tries to hack your computer and web accounts. Lock your PC screen when you are away. Use extra "two-factor" security on your web accounts. Do not let her borrow your phone. It takes only a few minutes to install spyware on a phone.
+++ Negative Triggering
 
-If Mallory is in your social circle, leave no money on the table. Expect her to use your friends and contacts for her own benefit. Warn them, and keep your most important contacts away from her. It is far better to warn your contacts about Mallory than to expose them to her.
+Emotions are adaptations that helped our ancestors to survive. So there are no "negative" emotions as such. Yet our emotions can turn from helpful to harmful. Many people find their emotions are out of balance. They are anxious for no identifiable reason. They feel distressed, afraid, hateful. They cannot find happiness.
 
-When you start disabling Mallory, she will get hungry. This makes her more aggressive, and scarier. Yet it also makes it much easier to expose her. As you secure your boundaries, you can see when she violates them. This brings us to the next action, which is to collect evidence of her violations of norms and laws.
+Some emotions, like fear and hate, can lead to terrible suffering, in the wrong hands. I explained how Mallory can use these emotions to push a group towards the worst kinds of violence.
 
-+++ Collecting Evidence
+So many emotions trigger in ways that we can call "negative." We can recognize these negative triggers, and we can become resistant against them.
 
-Mallory is a genius at using rules the wrong way. "Here are these complex rules which apply to you, yet not to me because I'm special," he says. It is strange how few of us question such unfairness. Perhaps we've learned the habit of lopsided obedience from school and work.
+There are two main reasons for negative triggering. The first is history. We evolved for a different world with fewer people and far more real dangers. Modern life is safe, easy, and yet complex and filled with other people. We compete with each other for toy points. Exposure to the elements, ignorance, or non-human predators is the exception, not the rule. We are a species on holiday. Our emotions are often the idle hands waiting for the Devil's commands.
 
-Good rules are simple, and apply to everyone in the same way. Luckily, no matter what Mallory claims or argues, most of society works this way. So if you document his rule violations over a period of time, that gives you real power. Again, this does take time, and patience.
+The second reason is Mallory's ability to turn our emotions against us. By faking the right triggers, he throws us left and right like puppets. He is immune to most manipulation. His own emotional range shrinks back to the tiny ancestral set of predator emotions. You //can// manipulate him through these emotions, with practice. It's not just Mallory who pulls our strings. Entire industries have learned how to use our emotional responses against us.
 
-What "material evidence" means depends on your case, and whether you expect one day to show it to a judge. For criminal or civil cases, learn the rules of evidence for your jurisdiction. In general, evidence must be verifiable, and you must collect it using legal means.
+I'm going to take each emotion and explain common negative triggering for it. This isn't a full breakdown. It's a basis for your own thinking and personal research. Everyone is unique and has their own sensitivities. The goal is to understand how emotions trigger in your own mind.
 
-If you are in a serious conflict, speak to a private investigator as well as a lawyer. Collecting evidence is an investigator's main job. They will explain the rules and perhaps help.
+Let's look at negative triggers for the predatory emotions:
 
-Here are some hints for collecting evidence:
+* //Hunger// - the emotion of looking for prey. Trigger: images of plumped-up food and other consumables: cars, clothes, shoes, and drinks. Such images form the bulk of advertising. They speak to hunger, and can exert a powerful effect until you realize what the trick is.
 
-* Email is excellent as evidence. It is hard or impossible to fake and a service like Gmail does the backup for you. Again, care for your passwords. Print out any critical emails and store in a safe place.
+* //Obsession// - the emotion of stalking a prey. Trigger: repeated images of the same consumable. This is a goal of saturation advertisement, to move you from hunger to obsession. Once you want a specific consumable, you ignore alternatives. As long as the object of your obsession is within reach, you fixate on it.
 
-* Use email to confirm agreements with Mallory. "Just to confirm, we agreed that..." Ask Mallory to correct you if you misunderstood. This gives you a written trail.
+* //Euphoria// - the emotion of chasing a fleeing prey. Trigger: consumables that are just out of reach. A budget model does not trigger euphoria. A luxury model does. Smart marketers know this, and offer every wallet an option that hurts.
 
-* Video recordings are good evidence in most courts, as they are hard to fake. If you need to prove a history of verbal or physical abuse, video is one of the best tools. You can use your smartphone, or small hidden video recorders.
+* //Glee// - the emotion of seeing your prey stumble. Trigger: luxuries at a discount. We feel glee when we get a good deal on a prized item. This effect is so strong that people will camp outside shops for hours. They're waiting for that extraordinary prize and the feeling that comes with it.
 
-* Audio recordings are poor evidence in most courts. They can be good material in non-legal situations. They are easy to make, and share. Just use your smartphone's voice recorder. You can buy small, cheap USB pen recorders on line.
+* //Fury// - the emotion of attacking your prey. Trigger: plastic packaging that is impossible to open. I'm only half-joking. How often have you resorted to using your teeth to open a stubborn pack of food? And what was the emotion you felt when it finally opened?
 
-* Phone calls are better evidence than audio clips, if you use a call recorder on your smartphone. Tracking caller ID and date and time provides a good record.
+* //Bloodlust// - the emotion of killing your prey. Trigger: signing on the dotted line, swiping your card, or handing over a roll of hundreds. It is understandable why so many people love shopping, are even addicted to it.
 
-* Before you record Mallory at all, learn the law. You could be committing a crime if he did not consent. It depends on the jurisdiction.
+* //Gluttony// - the emotion of eating your prey. Trigger: taking your new luxury consumable home, unwrapping it, and admiring it. A smart business makes this "unboxing" experience tangible and tactile. The packaging is half of the prize.
 
-* If there are neutral witnesses to an event, try to get a signed and dated statement from them. Make a digital copy and back that up.
+* //Satiation// - the emotion of having eaten enough or too much. Trigger: a newer model comes out. Your luxury has gone stale. Rotten, almost. You stop showing it off. You start to obsess for the newer model.
 
-* Label your digital copies, and keep them safe and backed-up. You can use a cloud service like Dropbox though be paranoid about your passwords.
+* //Blocked// - the emotion of a failed hunt or chase. Trigger: the shop is out of stock. You feel like life itself has stopped for a few hours. You ponder on alternatives. You feel diminished and yet saved from a possible error.
 
-* Assume that Mallory is paranoid and guesses when you are recording him. You can turn this to your favor. He tends to behave much better when he thinks others are watching.
+Let's look at negative triggers for the defense emotions:
 
-Going to court is an extreme and rare outcome. The main value in collecting evidence is more banal. As you build a file on Mallory, two things happen. First, you feel your power returning, and Mallory's power weakening. Mallory also feels it. Second, you begin to understand Mallory's deceptions as they are happening. You begin to learn his patterns. You can predict his next moves.
+* //Surprise// - the emotion of reacting to a sudden threat. Trigger: the bank declines your card. You try to imagine how this is possible. You have not used it for weeks. You pay in cash and look for the number for your bank.
 
-+++ Providing Subtitles
+* //Suspense// - the emotion of detecting a potential threat. Trigger: the bank tells you there have been various large payments with your card. Your blood runs cold. Time seems to slow down. You realize... Mallory! You text him, "did you use my card??"
 
-Over time you have learned Mallory's patterns. You will start to predict her behavior. By explaining what is going on, and predicting what will happen next, you can stay grounded, and help others. You reduce the risk of getting caught in old narratives. I call this "providing subtitles."
+* //Terror// - the emotion of wanting to flee from a threat. Trigger: Mallory is on his way home. He's not replying to your texts. You know there's going to be a fight. You huddle in the couch, looking for a safe space in the house.
 
-Mallory acts like a chaos machine. She seems to show mad mood swings. She will be calm and relaxed one day, vicious and paranoid the next. It can look like a disorder. Anyone who sees this and isn't familiar with it will ask, "what drugs is she on?"
+* //Flight// - the emotion of fleeing from a pursuing threat. Trigger: Mallory comes home and slams the door. You run to the bathroom and close the door. He is shouting. You make out the words. He's using horrid language. He accuses you of stealing the family's money, sleeping around, trying to kick him out.
 
-The simplest explanation isn't drug abuse nor a mental disorder. Her instability kicks off two main factors. First, she gets into schemes and plots that she keeps hidden from you. If she appears calm it's because her focus is somewhere else. When these schemes turn sour, as they often do, Mallory attacks anyone who gets in her way.
+* //Anger// - the emotion of defiance against a threat. Trigger: Mallory opens the bathroom door and yells insults at you. His face contorts into a mask of anger: eyes wide open, teeth bared, arms outreached. You feel he might murder you right there.
 
-Second, she responds to displays of weakness with aggression. And what social humans consider "being nice," Mallory considers "being weak." She also responds to anger with fury. Mallory responds to any display of emotion with her predator emotions.
+* //Rage// - the emotion of physically attacking a threat. Trigger: Mallory strikes you on the face, so fast you cannot defend yourself. You jump at him and wrap both hands around his throat, yelling incoherent noises. You squeeze as hard as you can. You feel nothing except surprising strength. You keep squeezing.
 
-This creates chaotic feedback cycles so that there is no stability. This sounds terrible, and it can be. Yet we can now predict the weather, from day to day. By warning others in your group, you help them take distance when the inevitable happens.
+* //Shock// - the emotion of preparing for sudden death. Trigger: Mallory's face goes blank. You think you've killed him. You let go. He punches you in the face, so hard that your head hits the wall. Blood starts pouring down your face. He's broken your nose. You're thinking: this has gone way too far, and you collapse to the floor.
 
-As you see Mallory manipulate others, you can explain:
+* //Triumph// - the emotion of asserting dominance. Trigger: you get up and smile at Mallory. "Thanks," you tell him. "I'm going to the hospital. If you're still here when I get back, I'm going to the cops and have you charged for assault." You walk out past him.
 
-* She's making promises she has no intention of keeping. She wants you to be off your guard. Get ready for the inevitable excuses.
+* //Defeat// - the emotion of submitting to dominance. Trigger: in an alternate time-line, you stay on the floor, and you wait for Mallory to leave. When he's gone you clean yourself up. Not so bad, you think, looking in the mirror. The next day Mallory acts like nothing happened. You wonder who you can borrow money from to pay off your credit card.
 
-* She's said something tangible. It is a lie. She's hiding something or trying to confuse you. Make a note, and we'll see the lie exposed later.
+Let's look at negative triggers for the sexual emotions.
 
-* She's making accusations. She's afraid of something and is attacking as cover. Note her accusations, she's talking about herself without realizing it.
+We know the emotional triggers are different between the two genders. Men respond to simple visual cues. These are hip-to-waist ratio, breast shape, leg-to-body ratio, nose shape, hair length. A plastic doll with the right features is erotic to most men. It's the basis for the porn industry. Women respond to a different and more subtle set of cues like male power.
 
-* She's asked for something small. She's nudging you to face the right way. If you give it to her, she'll attack you and demand a larger service.
+Men and women also look for sexual partners in different ways. In 2015, hackers leaked the client database of the Ashley Madison website. This site claimed to offer cheating spouses a way to hook up. Analysis of the data showed that for about 3 million men there were less than 1,450 actual women. The bulk of "female" accounts were Ashley Madison employees or scripted "bots". The business model was to show interest in men, then get them to pay to send chat messages.
 
-* She's making threats of retribution. She's pushing you to do what she wants. She's bluffing. Note it, and you'll see. She won't dare. Her threats are things she is afraid of.
+Ashley Madison was able to trigger interest, desire, and lust in men, and then convert that into profits. It is a common pattern in product marketing, aimed at men. Step one: show beautiful women who display interest. This triggers desire. Step two: cut to desirable products. This flips the sexual emotions into predatory ones.
 
-* She's intimidating you with verbal abuse and lies about your behavior. She's trying to make you afraid and insecure. Don't let your fear control you.
+Marketing aimed at women rarely takes this route. I suspect it does not work on women. Rather, it uses another route. Step one is to show thin young female shapes. This triggers subconscious jealousy and anxiety. Then, cut to desirable products, flipping these emotions into predatory ones.
 
-* She's playing nice, offering attention and gifts. She is trying to make someone else jealous. She wants something from you. Refuse the gifts. Tomorrow she'll be abusive again.
+Let's look at negative triggers for the family emotions:
 
-* She thinks you are against her. She will try to intimidate you with a violent monologue. Then she will make peace and offer you a token present. Then she will demand that you do things for her. Then she will ignore you again.
+* //Love// - the emotion of being close to a family member. Trigger: Mallory tells you how much she loves you. She gazes deep into your eyes, texts you a hundred times a day, spends hours in bed with you. You respond by falling in love with her.
 
-A good subtitle explains Mallory's motivations and makes predictions about the outcome. The listener can then use this to build their own model of Mallory's behavior. You cannot assume everyone has read this book.
+* //Longing// - the emotion of being far from a family member. Trigger: Mallory disappears without warning and does not respond to her phone. You feel intense longing. When she turns up, you accept her explanation without question.
 
-+++ Create Consequences
+* //Loss// - the emotion of losing a loved family member. Trigger: Mallory breaks up with you after a violent argument. She packs her bags and walks out. You beg her to stay, it makes no difference.
 
-As you begin to inhibit and disable him, Mallory becomes more hostile. He realizes what you are doing, and guesses the worst. He is paranoid. He decides you are a real threat, and so he attacks you.
+* //Happiness// - the emotion of being in a good situation. Trigger: Mallory is so happy, and shows it in her face and body language. Everything is fantastic! You've never felt happier in your life.
 
-He starts to slander you with detailed stories of your crimes. When he tells these stories to an unaware audience, they believe him. You find people upset with you for mysterious reasons.
+* //Sadness// - the emotion of being in a bad situation. Trigger: Mallory is not talking to you. When she looks at you, she has no expression. It makes you feel hurt and sad. She does not seem to care. So cold.
 
-In extreme and rare cases Mallory accuses you of criminal acts. He gives the police detailed statements to try to incriminate you. You find yourself questioned. Such accusations and situations are frightening. Yet most police forces do not give unsubstantiated accusations much weight.
+* //Fear// - the emotion of asking for help from a threat. Trigger: Mallory says she'll tell everyone you raped her if you don't give her the money she says she needs. You feel cold horror and dread. You call your dad for advice and help.
 
-You must expect such attacks and remain calm if they happen. Take it as a sign of progress. The stakes are rising, and Mallory is taking more risks.
+* //Distress// - the emotion of being lost or threatened. Trigger: Mallory makes more threats. She starts to smash kitchenware. You lock yourself in the bathroom and call your sister. She says you're crazy to stay there.
 
-Material evidence is your insurance. You have proof that Mallory is a consistent liar. You have proof that he is a persistent rule breaker.
+* //Jealousy// - the emotion of competing for attention. Trigger: it's New Years' Eve and you're at a company dinner with Mallory. He is so well dressed, like he was born in a suit. He radiates strength and confidence. Everyone stares at him. He spends most of the evening talking to your boss. You feel sad and then when Mallory comes to ask, "is everything OK?" you act angry and petulant. He laughs at you, not in a nice way. As you drive home, Mallory in the passenger seat complains about how controlling you are.
 
-Your next action is to teach Mallory one simple lesson. It is: if he misbehaves, you will create consequences for him.
+Let's look at negative triggers for the tribal emotions:
 
-Keep in mind that Mallory has no fear of punishment or authority. He has always charmed and lied his way out of trouble. "You will get into trouble" is not a significant threat. He bluffs when he makes threats, and if you make a threat he assumes you are bluffing too.
+* //Loneliness// - the emotion of being disconnected. Trigger: your sister isn't talking to you any more. You mention this to Mallory, who immediately says, "such a bitch. She's jealous because I told her about the money your dad gave us." You're angry with your sister, and then you start to feel sick.
 
-So you must act, not threaten. You must create a cost for Mallory, and prove that you can and will repeat this as long as needed. The cost must always be a consequence of his behavior. That leaves him the choice of actions.
+* //Belonging// - the emotion of being safe within your tribe. Trigger: Mallory organizes a party for your birthday. Lots of strangers turn up. Your own friends seem to be few. Still the company make you feel secure and happy.
 
-The consequence that hurts Mallory the most is exposure. Yet recall what I said about shouting "psychopath." //Do not diagnose.// Provide others with concrete evidence, and let them reach their own conclusions. Let them think of others they've known in the past. Let them paint Mallory with their own dark memories.
+* //Disgust// - the emotion of tasting bad food. Trigger: Mallory decides he'll cook. He prepares pasta, from a tin. You taste the slimy concoction and try adding more pepper. It doesn't help. You force yourself to eat some, then you feel sick and you leave the rest. Mallory is offended. He never cooks again. He tells everyone how you hate his food, and prefer to eat in restaurants, wasting money.
 
-When you respond, do so with care and provide the minimal material evidence needed. It is tempting to make a dramatic exposure that will discredit Mallory for once and for all. This is a bad idea. It will not be over in one go. Play only the cards that you must, to win each round. Keep Mallory guessing and paranoid.
+* //Hate// - the emotion of rejecting a tribal member. Trigger: you call your sister. She answers, and before you can chat, she's yelling at you. You start to realize she believes you spent the money on your new car. You try to explain it's a company car, the money went to Mallory. "Liar, I hate you!" she shouts, and cuts you off. You shiver with adrenalin. You start to hate your sister. It'll be years before you talk to her again, and you both realize what happened.
 
-If you have evidence of criminal acts, do speak with a lawyer. You may be assisting a crime if you do not report what you know. As always, do your research and try to talk with other people in your situation.
+* //Self-pity// - the emotion of asking for adult help. Trigger: as Mallory attacks you, it feels so unfair. You start to weep. It surprises you, yet you can't stop it. You stop the car because your eyes are blurring. Mallory responds by getting out, slamming the door, smoking a cigarette. "When you stop your baby act, can we go home?" he says, no emotion. "I'm getting cold out here!"
 
-++ Liberation Day
+* //Submission// - the emotion of offering yourself. Trigger: home, Mallory takes off his coat, and then undresses down to his boxers. He is so beautiful it takes your breath away. He commands, "come here" and leads you to the bedroom. Your heart pounds. You have already forgotten and forgiven.
 
-The next stage is to take back control of your life from Mallory. Then you must end the relationship. If you see Mallory as an occupying power, this is the invasion and liberation. It can get messy. It will take time and patience. Yet this is how you regain your power, and heal.
+These emotional whirlwinds are exhausting and traumatizing. For Mallory they are cheap gestures. Last of all, let's look at negative triggers for the social emotions:
 
-Let me break down //Terminate// into separate actions. Each of these gives you more power and independence:
+* //Like// - the emotion of a positive relationship. Trigger: Mallory says she's going to repay the money. Her business deal went well, she made good profits. She needs a little more for the custom fees. Do you have a thousand? You nod. Life is good.
 
-* //Control your emotions//. Mallory uses terror tactics to keep you silent and compliant. You learn to recognize your emotions and not let them control you. I covered this in detail in [#emotions].
+* //Dislike// - the emotion of a negative relationship. Trigger: Mallory says the customs agent is a crook. She shows a letter insisting on payment. You see the figures. Then you see the letter is to you. "Why is my name there?" you ask. "Well, it was your money," Mallory answers. You don't argue, you're just trying to understand.
 
-* //Regain control//. Mallory likes to steer conversations and interactions, getting you to react. You turn this around so that you decide when to talk, about what, and for how long.
+* //Anxiety// - the emotion of preparing for a future threat. Trigger: a letter arrives from the police. They want you to come in to make a statement. Did Mallory make a complaint? Your nose was just bloodied, not broken. You never went to the police. To forgive is to survive. You call and you get an appointment for the next day.
 
-* //Build alliances//. Mallory works by dividing people and conquering them one by one. You create a united front among all those affected, and take over power from Mallory.
+* //Guilt// - the emotion of breaking a social code. Trigger: the police detective explains that your partner made serious claims against you. There was evidence of bruising on her neck, and a medical report. You explain that Mallory punched you. "Was that before or after you tried to strangle him?" asks the woman. You ask if you can speak to a lawyer before giving a statement. The detective nods. You leave.
 
-* //Invest in self//. Mallory attacks your self-image and sense of worth. This means you see no alternative to the relationship. To counter this, you create alternatives and build up your inner strengths.
+* //Shame// - the emotion of humiliation. Trigger: your lawyer talks to the police and they agree to not file charges, only issue a warning. The lawyer seems surprised how easy it was. You return to the police station and the same detective gives you a formal warning. "Any more violence between the two of you, and it'll be jail time. Understood?" You nod, ears flushing. You want to melt and disappear into the floor.
 
-* //Move to exit//. You now end the relationship, on your terms. There will be no negotiated settlement. Mallory must become history, one way or another.
+* //Remorse// - the emotion of apology. Trigger: Mallory is weeping, crying. She says you're a violent brute, and she has to leave you. Her whole family have been phoning you all day, leaving threatening messages. "If you hurt her again, we'll be there to deal with you!" they say. You try to make it good. You feel so, so sorry. It was all your fault.
 
-None of these are one-day exercises. It all takes time. During that time, as Mallory realizes what you are doing, she will attack you. Few threats are as real to Mallory as a person determined to unmask him. And when she sees danger, she reacts with dramatic force. You need to learn to keep your nerve and not buckle. Remember what I said about predators being more bluff than bite.
+* //Impatience// - the emotion of losing your time. Trigger: you're going out to see a movie, with Mallory. She is still putting on makeup. It's been half an hour. You pace the living room, restless and anxious. Mallory comes out of the bathroom, with heavy makeup. You shake your head and hands. "What took you so long?" you say, "we're going to be late!" She sighs and walks past you, and gets into the car, without a word.
 
-+++ Regain Control
+* //Amusement// - the emotion of a sudden understanding. Trigger: as you leave the movie, you see a couple arguing on the street. The woman is shouting at the man, who's defending himself. She slaps him, without warning. You see the shock on his face, and you laugh out loud. You know how he feels. He sees you, frowns, and you try to show sympathy, "crazy, right?!"
 
-By now we are moving to active resistance, and towards taking control of the situation. Psychopaths have specific weaknesses -- like their paranoia -- that you can learn, and then use.
+* //Revenge// - the emotion of punishing a rule breaker. Trigger: on the drive home, a pedestrian crosses in front of you. So dangerous! You honk the car horn and frown at them. Idiots, they could cause an accident like that.
 
-They are arrogant and their superiority complex makes them careless. They are not used to any form of attack or active resistance. They often respond in dramatic and stupid ways. They tend to repeat the same responses over and over. Psychopaths are like actors: creative in a dramatic way and yet unable to see beyond their stage.
+++ Grounding Your Emotions
 
-You have stopped reacting to Mallory's provocations and promises. You've started to decode his motivations and techniques. You've felt your power returning. The next step is to take the lead, in your relationship with Mallory.
+> "We start out feeling afraid of something, then that fear makes us feel weak, then that weakness makes us angry, and then we start to hate." -- Cracked.com, [https://www.youtube.com/watch?v=pWq8j0yXkMI#t=273 "4 Terrifying Psychology Lessons Behind Famous Movie Monsters"]
 
-Start with conversation. This is Mallory's main tool for manipulating you. Learn to control the start and end of every conversation. Choose when to talk and choose when to stop talking. If Mallory tries to start a conversation, you "have things to do." If Mallory forces his way into your space and begins making noise, you ignore him. If he insists, you leave.
+We've looked at how individual emotions work. In practice, it is rarely as clean as I describe. Emotions cause chain reactions, where one emotion triggers another, and so on. This covers the root emotion. Here are example of some such chains. You might like to extend this with self-observation:
 
-Next, set the tone of any exchange. You can be friendly and generous, or cold, or outright hostile. At all times, be deliberate and conscious of your words and emotions. Learn how to control the direction of discussion through your own emotions. You will see that generosity or hostility both tend to provoke aggression. Try to see humor in the situation. How does Mallory respond when you mock him?
+* We dislike someone, and feel somewhat threatened. That makes us angry, and then we feel rage. We then feel guilt, and then shame at our reaction.
 
-In face-to-face discussions, using a hidden audio recorder if you can. When you catch something valuable, save the recording. In written discussions, realize that every word you say is open to scrutiny.
+* We love someone, and we feel eagerness, and then belonging, and then happiness.
 
-If you cannot end a conversation, you can still control it. Let's look at two techniques: chaffing and provocation. Chaffing is to overload Mallory with irrelevant detail about random topics. Provocation is to goad Mallory into idiocy or violence, and then record him.
+* We love someone, yet they are not paying attention to us, so we feel jealous, and then sad.
 
-Chaffing disrupts Mallory's ability to manipulate you. He works with averages. He knows how you, and others, respond in conversation. He thinks several moves ahead, like a chess grandmaster.
+* A good friend dies. We feel loss, and then we feel guilty that we did not feel it harder.
 
-Is he trying to get you to talk about your work? Spend half an hour telling him about the traffic, and the road works, and the weather. Then switch to cheese. Then discuss politics. Try to feel sincere about the topic.
+* We feel loss, and then we feel lonely, which makes us feel sad. People respond to that by avoiding us, so we feel more lonely, and sadder.
 
-When you leap around in unpredictable directions, he loses his focus. He starts to feel blocked, and will withdraw. He doesn't enjoy playful banter.
+Some of these chains are positive and some less so. Some chains turn into cycles that can be hard to break. The usual way to try to break an emotional chain reaction is to provoke a different emotion. For example, to break a sad-lonely cycle, we look for ways to feel happy. The problem is that the original emotions often come back.
 
-Provocation sounds dangerous, yet as I explained, Mallory is a creature of bluff. Your goal is to kick off his visceral response, and to record it. One easy way to provoke him is to say "no" to a request, without explanation. Just refuse, turn and walk away, and switch on your audio recorder. Five minutes later you'll have a violent outburst.
+There's a good reason for this. A root emotion triggers off some core belief or assumption. As long as you don't challenge and discredit this belief, it remains active. It will sooner or later trigger the root emotion again, and restart the chain reaction.
 
-You can also accuse Mallory of violation of whatever social contracts they are breaking. Threaten him with exposure. Again, walk away, start recording, and wait for Mallory to come back. You will often get only one chance, as the next time, Mallory will have a story to answer that accusation.
+To break an emotional chain, we cannot just add more emotions on top. Rather, we must find and understand that root belief, and we then discredit it. When we do that, the triggering stops, and the emotional chain reaction ends. Then we can feel other emotions like happiness and belonging and love.
 
-In such a confrontation, you must control your emotions. Mallory will shotgun accusations and slander against you. He'll pick up on any reaction, even the smallest one. Expect hurtful accusations, and when they come, just count them.
+Take the example from Cracked. The fear comes from the assumption that the monster is dangerous. Look again, and you see an image, poor computer graphics, and a shaky camera. The fear disappears. Then the weakness, the anger, and the hate vanish too.
 
-You can, in extreme need, provoke Mallory to criminal physical violence against your person. You can trigger his fury easily, until he realizes what you are doing. Your goal here is simple. You need him to hurt you and leave traces. Then you get a medical certificate of bruises or wounds. And then you make a formal complaint to the police. This should lead to Mallory's arrest and prosecution.
+How do we find the root belief? It is always hidden under layers of emotions. To see it, you must work back through the emotional chain. This sounds mystical, yet it's quite banal. Emotions fade away when you analyze them. We feel the last emotion the strongest. So, just ask yourself the question, "what am I feeling, and where does that come from?"
 
-Do learn the law, and understand what counts as assault. //I can't recommend this except as a last resort.// The risks are high. You can be badly hurt, and it is hard to restrain yourself from fighting back. Yet "convicted of domestic violence" is difficult to shake off. Ask Chris Brown.
+It is hard to stop, when you are feeling strong emotions, and ask yourself such a question. It can be easier with a second person, a therapist. Yet most of the time when you are dealing with Mallory, you are on your own. Get used to asking this question when it does not matter. You can then learn to ask it when it does.
 
-+++ Build Alliances
+Your goal is to work backwards, emotion by emotion. At each step you use the knowledge you've learned of how emotions work. You want to identify the most probable trigger. As you identify the trigger, the emotion calms and disappears. You repeat and finally, you come to a root assumption.
 
-Alone, you're vulnerable against a professional manipulator. When you have the support of a group, confronting Mallory is easier. If a group rallies against a bad actor in their midst, the game is over.
+The root assumption is often simple, yet powerful:
 
-Mallory knows this. She sees a united group as a bad thing. She works hard to divide the group and keep individuals fighting each other. If or when she sees you are a risk to her, she will aim to turn the group against you.
+* By displaying this emotion, I will get a response from others.
 
-You have to expect this, and prepare for it. Your advantage is in moving before Mallory realizes what you are doing. By providing subtitles, you inoculate the group. When she does act, it then plays against her.
+* By displaying this emotion, I will get my parents or family to save me.
 
-Ask yourself what is the worst possible thing she could say (true, or false) about you to others. Assume her goal is to have you discredited, ejected, arrested, or hurt. Mallory may often be shy of using physical violence herself. Assume she is not shy of using others.
+* By feeling this emotion, I am reacting to a real situation.
 
-She prefers to talk in secret, so she can weave her spells of promises and lies. It is harder for her to control a room of people not already charmed or intimidated.
+And then you can ask yourself the question, "will feeling and displaying this emotion make things better?" The answer is often, "no." As you accept that answer, the root emotion goes away. If you're experiencing several emotions, each may have its own chain, and root assumption. Many triggers fighting for attention at the same time makes us feel as if we're in emotional turmoil.
 
-These are the opportunities you have:
+Let's say someone breaks into your apartment and steals your laptop and camera. You feel intense emotions that become obsessive and consume you for weeks. You can't sleep because you dream of another break-in. You search online for your stolen possessions. You ask yourself over and over, //why me?// Your emotions seem to flip around, out of control.
 
-* Mallory prefers to works on one person at a time. She switches between people so fast it looks like she is covering them all at once. Yet whenever she's busy with one individual, she ignores all the others. You can work on groups: you don't need one-on-one diplomacy. If you have solid evidence of a crime or lie, you can spread that to many people at little cost.
+When you focus, you realize you feel hate, fear, and intense loneliness. Three dominant emotions. You analyze each of these:
 
-* Most people, in most cases, will be receptive to such a message. We usually have a skeptical voice in our heads warning us that the situation is not "right." It is a matter of finding and talking to this voice.
+* The hate comes from anger at the thieves. The anger is a normal defense emotion. Except, of course, it's too late. The event has come and gone, and no amount of anger will stop it. As you realize this, the anger and the hate go away.
 
-* Anyone affected by the psychopath is already searching for a way out. It is often subconscious and unexpressed. You must try to  understand their stresses and questions. Then, show them the right answers. They will usually accept what you are saying.
+* The fear comes from anxiety at another robbery. The anxiety comes from self-pity, as you cry for help from friends and family. Except of course, you can fix this yourself. You install a better lock. The self-pity goes away, and so does the anxiety and fear.
 
-This takes time, and solid evidence, immune to forgery. There are risks. Mallory will try exactly the same strategy, painting you as the common enemy. You must be beyond reproach. You must be transparent with the people you need to work with.
+* The loneliness comes from the loss of your treasured possessions. You loved them so much. If they were people, then displaying pain might bring them back to you. Stolen goods don't care. They are gone forever. As you realize that, and stop hoping they'll turn up, the loss goes away, and you stop feeling so alone.
 
-The other danger is that a psychopath may not always be a lone hunter. There are psychopaths who work together, to control large  groups. You are unlikely to confront such organized criminality in your personal life. If you do find yourself facing it, avoid direct confrontation.
+This self-analysis is hard. I make it sound easy, only because I've practiced for years. Use a notepad and write down what you think you feel. Learn to name your emotions, using my list, and analyze them whenever you can. Everyone has different patterns. Yet each of us tends to repeat a small set that we're comfortable with. You'll find no more than a dozen emotional chains dominate your life. As you get good at this, you can learn to regulate these emotions almost as fast as they happen.
 
-+++ Invest in Self
+There are other techniques to control emotions. For example [http://www.wikihow.com/Gain-Control-of-Your-Emotions the Wikihow guide] provides five different techniques. Method 4, "Reflecting On Your Feelings" is closest to grounding.
 
-If you're trapped in a relationship with Mallory, you will be in a bad state which shows as depression. The slave, feed, and wreck phases of the relationship corrode your sense of identity. When someone asks you "how's it going?" your answers revolve around Mallory. "She's in a good mood today," or "crazy day today." You seem little more than a puppet, reacting to Mallory's every whim. And when Mallory isn't there, you feel empty and passive.
+When you are well grounded, several interesting things happen:
 
-You can reverse this process of destruction of self. You can become more resistant to manipulation, better able to fight back. You can imagine and construct better futures than "when will this pain end?"
+* First, you become more self-aware. You notice your emotions are flaring up. You analyze why, and you see something that you never noticed before: the triggers. Your own responses become your instrument. Rather than denying your emotions, for the trouble they cause, you now embrace them. They just don't go far.
 
-The tools of mind control come in many shapes. Likewise, there are many ways to invest in self:
+* Second, this emotional awareness lets you change how you relate to others. Social discourse runs on emotional games, more or less overt. As you learn to observe, you see these games when others play them, and when you play them yourself. You lose your insecurities, anxiety, and need to belong.
 
-* Rebuild relationships that broke as you went deep into the rabbit hole with Mallory.
+* Third, it protects you against manipulation. Mallory needs an emotional surface to attack. When you do not respond to his triggers, you can withstand even brutal personal attacks. Your normal response to Mallory's fury is terror, flight, and anger. To his desire, you feel intense love. These feelings will incapacitate you. Grounded, you see Mallory's expression and you think, "nice mask."
 
-* Build private space and time where Mallory cannot create chaos or try to take control.
+++ Conclusions
 
-* Start new projects to replace the failed projects you invested in with Mallory.
+I've explained how our emotions work to orchestrate our body for action or display our mental state to others. I've defined six groups of emotion: predator, defense, sexual, family, group, and social. In each group the emotions fulfill a certain role. This functional breakdown gives us about fifty built-in emotions. Each has a universal behavior and physical expression.
 
-* Find positives in your situation. Every day can be a valuable lesson, if you are able to learn.
+We've seen how Mallory's emotional range covers only the oldest group. She is a predator, and sees the world in these terms. Even her sexual behavior is indistinguishable from hunting. Or, vice-versa. When you seek to understand how Mallory feels as she stalks a new target, think of how you feel sexual desire.
 
-* Turn your pain and emotion into creative art, music, dance, photography, or writing.
+Mallory's attitude to sex is striking for two reasons. It seems neither masculine nor feminine. Mallory is bisexual by opportunity and need, not self-identity. And this seems consistent across psychopaths of both genders. Most of us accept human minds and bodies differentiate towards male and female poles. Psychopathy seems to be a separate pole. It looks like a distinct gender identity, with its specific physical and mental differentiation.
 
-* Use this creative process to create positive energy, and happy moments. It's both good for you, and confusing and distasteful to Mallory.
+We've seen how empathy works from first principles. We usually define empathy as an emotional response to a family, group, or social emotion. Mallory lacks these emotions, and the empathy that goes with them. Yet she does have empathy for the predator, defense, and sexual emotions.
 
-When I said psychopaths are lazy, that isn't true in all senses. They work hard at their core skills. They will bring people together, so they can get control over them. One irony of psychopathy is that this energy can produce positive and creative outcomes. We often have a better person hiding inside us. You can use your encounters with Mallory to find and develop that person.
+Mallory's pruned emotional range is no handicap. It's an evolved feature that lets her use others' emotions without paying the same cost. When Bob or Alice feel anger, they pay a real price in physical effort and stress. The after effects can take hours or days to wear off.
 
-+++ Move to Exit
+Mallory is often described as a manipulator, yet she is as vulnerable to triggering as anyone. Show her vulnerability, and she responds with aggression. Show her anger, and she responds with fury. Show her fear, and she responds with bloodlust.
 
-The last move in solving this complex puzzle is to create exits, and move towards them. You are only as trapped as you believe you are, unless Mallory has restrained you by force. When you can imagine a future beyond your current situation, then you can create it. Even if it takes years, you define the path to freedom by your own imagination and determination.
+Understanding our emotions lets us control them. I've explained one way to do this, which I call "grounding." This is not to suppress our emotions. Rather it is to be free to sense the emotion, while removing its power over us. Grounded, we are more sensitive yet calmer. This state of mind lets us confront situations that are otherwise terrifying.
 
-Your goal must be to rebuild a healthy, complete, professional or personal life. One where Mallory does not exist, and where he cannot interfere. It may be a matter of cutting contact with Mallory. 
-
-As you get a grip over things, Mallory will decide whether he intends to stay, or leave. If he decides to leave, it will be sudden and total.
-
-More often, Mallory wants to stay. He will either force you out, make you accept his control, or do something worse. If there is a moment of real physical danger, it is this. There is an old pattern of suspicious deaths of those divorcing their abusive partners.
-
-In most countries with modern policing, Mallory cannot get away with physical violence. He knows it. In a corrupt country, if Mallory has powerful friends who can protect him, the risks of violence go up.
-
-The most likely outcome is quite banal. Mallory will just become "normal." He will turn into the perfect parent, partner, or colleague. Anyone looking at him for the first time will see a lovely, hard-working person.
-
-If you are not careful, Mallory can convince judges and peers that he is the sane one in a relationship. They will believe you are the one with issues. So, you must collect your evidence and witnesses long before he realizes your intentions.
-
-++ Think of the Children
-
-The most delicate and difficult cases are those involving shared projects. This means: homes, businesses, and above all, children. You can walk away from these, and people do. If you have children with Mallory, then it's not enough to save yourself. You have to also think how to save your children, and give them the tools to deal with their abusive parent.
-
-I explained in [#diagnosis] how Mallory divides his children into winners and losers. Even with occasional access to his children, Mallory can shape them.
-
-One strategy is to fight for exclusive custody, to remove Mallory's influence for good. This is a worthy goal in any eventual divorce or separation. Mallory will often be the one to walk away. After all, he is not interested in raising children.
-
-Yet, there will be times when Mallory refuses to let go. It tends to be hard to separate children from a parent without evidence of physical abuse. You may see Mallory as toxic and abusive. A judge may see two parents who argue a lot.
-
-You can try to catch Mallory breaking the rules, and get a judgment on that basis. This works only if you can afford it, and if Mallory's delinquency is dramatic and undeniable. Do not assume a judge will see things your way. No matter how well you explain, Mallory always tells a better story.
-
-A more pragmatic backup strategy is to use Mallory to inoculate your children. This gives them tools to defend against his tactics. It also helps them in later life as they cross other psychopaths. I explained about providing subtitles. You can reinforce this by showing what parenting can look like. Shower your children with affection, love, and structure.
-
-Over years you can teach your children self-reliance and inner strength. Mallory will keep trying to undermine that. It's just his nature. You use each case as an exercise, until your children have learned to read what lies below the words and smiles.
-
-This is hard to do without asking your children to hate their other parent. Hate is not a useful emotion, when dealing with a psychopath. Neither are fear, anger, jealousy, self-pity and so on. Mallory merits careful observation, analysis, and explanation. If you can maintain this mental state, you can teach it to your children. Mallory has no emotions for his children beyond, "these are mine." It is fair that his children feel dispassionate about him in return.
-
-This sounds cruel, yet it's making the best of a bad situation. In most families with a psychopath parent, the opposite happens. The other parent becomes the enabler. That is, they defend and justify Mallory, over and over. Minors cannot defend themselves, not alone against a single adult, and not against two.
-
-Being the "disabler" parent has many positives. It teaches you to move forwards, not dwell in the past. To work from the desire to help yourself and others, not to punish from anger. To seek peace, not revenge. To understand and explain, not to blame.
-
-++ Conclusion
-
-In this chapter I've explained how to end a psychopathic relationship from the inside. The key lesson is that if you flee an abusive relationship, you leave as a damaged person. You take with you self-hate and a form of addiction to abuse which can last a lifetime.
-
-As an alternative, I propose a process: //Diagnose//, //Observe//, //Inhibit//, and //Terminate// (DOIT). Through this process you will untangle the lies and distortions, and rebuild your self-image. By facing and beating your fears, you recover your inner strengths.
-
-It is the deliberate act of freeing yourself from Mallory that heals you. It can take months or years. It will often be a painful and terrifying process. The pain and terror become routine, and then they pass. It is the shifting of power back to you that matters. When you end your relationship with Mallory, do it on your own terms, and as a whole person.
-
-When you can look at Mallory and feel gratitude for making you a stronger, happier person, then you know you are free.
+In the next chapter I'll explain how to do the impossible. That is, to escape a relationship with a psychopath, without trauma.
