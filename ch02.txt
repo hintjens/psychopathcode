@@ -2,6 +2,8 @@
 .bookmark predator
 + Predator
 
+"Human predators populate our society" -- Stefan Verstappen.
+
 ++ Psychopathy as Adaptation
 
 Some researchers have suggested that [http://justnotsaid.blogspot.be/2013/11/sociopathy-as-evolutionarily-adaptive.html psychopathy is an adaptation], rather than a disorder. I had the same idea many years ago when involved with a difficult young woman. She was in treatment for borderline personality disorder. She moved from job to job, always blaming others. Her life was a long story of abusive parents, ex-partners, and friends.
@@ -27,6 +29,8 @@ Dr Robert Hare started describing psychopaths as social predators in [https://ww
 Predators deceive their prey as a core strategy. Human predators cheat their victims as a core strategy. It is the same thing. Animal models are essential to understanding and predicting human behavior. We find it hard to look at ourselves without lying. Our self-analysis crashes into notions of "free will" and "consciousness." We cannot improve nor discard these notions, so they obsess us. Yet we have no trouble dissecting animal behavior without such distractions.
 
 What I've done in this book is use the predator model as a backbone onto which all the rest can hang. We start with predators that cheat their way through the human social universe. All the rest derives from that, and makes sense in that context.
+
+My first exposure to the predator model was in Stefan Verstappen's excellent work, [http://www.chinastrategies.com/defense-against-the-psychopath/ //Defense Against the Psychopath//]. This was the first text I read that suggested strategies for confronting and defeating a psychopath, which is the path I've taken in this book.
 
 ++ Not the Ants You Are Looking For
 
@@ -151,5 +155,7 @@ We create for ourselves and others. We create to make other people feel somethin
 This is why imitative art is "fake." It is why engineering isn't art, and why fast food feels "cheap." It is why we don't explain jokes, and why an artist cannot explain the "point" of his or her work. It is a test, and if you don't know the answer, that itself is significant. It's why a pile of bricks in the Tate Gallery is worth a million pounds. That's the joke.
 
 ++ Conclusions
+
+We've started to unlock the mystery of psychopaths by treating them as predators, rather than broken people. The predator model does more than explain psychopaths. It also explains the evolution of the human mind, as the result of an ancient arms race between cheaters and altruists. For 3 million years, altruists have gotten better at working together, and cheats have gotten better at faking it. In the next chapter I'll explain how psychopaths hunt.
 
 
