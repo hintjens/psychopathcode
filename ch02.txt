@@ -2,7 +2,7 @@
 .bookmark predator
 + Predator
 
-"Human predators populate our society" -- Stefan Verstappen.
+"//Human predators populate our society//" -- Stefan Verstappen.
 
 ++ Psychopathy as Adaptation
 
@@ -36,7 +36,7 @@ My first exposure to the predator model was in Stefan Verstappen's excellent wor
 
 "//There are spiders in Australia that smell and behave like ants: some are so convincing that the ants will allow a spider to live permanently as one of them. This spider will then feast upon its new friends, but it won't eat all the ants, or even a significant number; instead, it extracts resources slowly, sustainably, and over time.//" -- [http://aeon.co/magazine/science/animal-deception-illuminates-the-human-variety/ Daniel N. Jones, "Snake in the grass"]
 
-It's not just a few spiders. Thousands of different insects have hacked into the ant colony in one way or another. One caterpillar [http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130541 mimics the queen ant's voice] to trick workers. The Paussus beetle is born, lives, and dies inside the ant colony. Not only does it smell right (ants use smells to detect friends from foes), it also mimics the sounds the ants make. Literally, it mimics the queen ant, saying "it's OK" to ants and larvae, even as it gobbles up.
+It's not just a few spiders. Thousands of different insects have hacked into the ant colony in one way or another. One caterpillar [http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130541 mimics the queen ant's voice] to trick workers. The //Paussus// beetle is born, lives, and dies inside the ant colony. Not only does it smell right (ants use smells to detect friends from foes), it also mimics the sounds the ants make. Literally, it mimics the queen ant, saying "it's OK" to ants and larvae, even as it gobbles up.
 
 Ants evolved to work together to collect food and protect it from thieves. They divide the work, care for their young together, and live in large colonies. They communicate, and they think collectively. An ant colony shows intelligent behavior.
 
