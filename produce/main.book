@@ -28,7 +28,11 @@ LICENSE=Free to share and remix under CC-BY-SA-3.0
 TRADEMARKS="The Psychopath Code" is a trademark of Pieter Hintjens
 PUBLISHER=Published by Pieter Hintjens
 CREDITS1=
-CREDITS2=Cover by westinCovers, www.westincovers.com. Fonts: Kontrapunkt (Bo Linnemann, Kontrapunkt A/S), Existence (Yeah Noah), DJ Gross (SDFonts), EB Garamond (Georg Duffner)
+CREDITS2=Cover by westinCovers, www.westincovers.com. Cover font: Kontrapunkt by Bo Linnemann, Kontrapunkt A/S. Text font: EB Garamond by Georg Duffner.
+
+#   Author page
+BIOGRAPHY=Pieter Hintjens is a writer, programmer and thinker who has spent decades building large software systems and on-line communities, which he describes as "Living Systems". He is an expert in distributed computing, having written over 30 protocols and distributed software systems. He founded the ZeroMQ free software project in 2007.
+OTHERBOOKS=Other books by the same author: "ZeroMQ - Messaging for Many Applications" (O'Reilly), "Culture and Empire: Digital Revolution" (Amazon.com).
 
 #   Build index
 #INDEX=../index.txt

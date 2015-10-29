@@ -132,12 +132,12 @@
           <text:p text:style-name="P5">%AUTHOR%</text:p>
         </draw:text-box>
       </draw:frame>
-      <draw:frame draw:style-name="fr1" draw:name="Frame4" text:anchor-type="page" text:anchor-page-number="4" svg:y="2.499cm" style:rel-width="100%" draw:z-index="2">
+      <draw:frame draw:style-name="fr1" draw:name="Frame3" text:anchor-type="page" text:anchor-page-number="4" svg:y="2.499cm" style:rel-width="100%" draw:z-index="2">
         <draw:text-box fo:min-height="0.82cm" fo:min-width="1cm">
           <text:p text:style-name="Copyrights">­%DEDICATION%</text:p>
         </draw:text-box>
       </draw:frame>
-      <draw:frame draw:style-name="fr2" draw:name="Frame3" text:anchor-type="page" text:anchor-page-number="4" svg:width="5.4346in" style:rel-width="90%" draw:z-index="3">
+      <draw:frame draw:style-name="fr2" draw:name="Frame4" text:anchor-type="page" text:anchor-page-number="4" svg:width="5.4346in" style:rel-width="90%" draw:z-index="3">
         <draw:text-box fo:min-height="3.02cm">
           <text:p text:style-name="Copyrights"><text:span text:style-name="Bold">%TITLE%</text:span></text:p>
           <text:p text:style-name="Copyrights">%COPYRIGHT%</text:p>
@@ -150,7 +150,14 @@
           <text:p text:style-name="Copyrights">%ISBN%</text:p>
         </draw:text-box>
       </draw:frame>
+      <draw:frame draw:style-name="fr1" draw:name="Frame5" text:anchor-type="page" text:anchor-page-number="5" svg:y="2.499cm" style:rel-width="100%" draw:z-index="1">
+        <draw:text-box fo:min-height="6.271cm" fo:min-width="1cm">
+          <text:p text:style-name="Copyrights">%BIOGRAPHY%</text:p>
+          <text:p text:style-name="Copyrights">%OTHERBOOKS%</text:p>
+        </draw:text-box>
+      </draw:frame>
       <text:p text:style-name="P11"/>
+      <text:p text:style-name="P2"/>
       <text:p text:style-name="P2"/>
       <text:p text:style-name="P2"/>
       <text:p text:style-name="P2"/>
