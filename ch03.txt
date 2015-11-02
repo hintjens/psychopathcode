@@ -2,6 +2,8 @@
 .bookmark capture
 + Attack and Capture
 
+++ The Careful Nurse
+
 > She likes old people, she says, because they talk so much. The old men and women in the home seem to like her too. "She's always in a good mood," they tell each other. "Such a good listener!"
 
 > She's worked hard for her nursing degree. Endless books, studying, writing, exams. The other students get better marks, and she guesses they all cheat. They've got people helping them, and they bribe the teachers. Well, that's easy. She can do that too. She can't use the computer, it's so difficult! Oh, could you check my work for me? Pretty please?
@@ -18,13 +20,13 @@
 
 > When they marry, soon after, they both know it's the right time. Why wait longer? Destiny makes its own plans. They buy a ranch, high in the hills, and plan their dream home. The father dies in his sleep a few months later. They name their baby after him. It is a boy.
 
+++ Slow Violence
+
 We've seen a little of how Mallory operates, when he is out on the prowl. He preys on the most ruthless of apex predators: other humans. "The Most Dangerous Game", a short story by Richard Connell has entered [http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheMostDangerousGame part of popular culture]. And yet by selecting the weakest, most vulnerable people, Mallory tends to escape unscathed. Most of the damage falls on his victims. Just now and then, Mallory chooses a target that fights back, and he gets hurt.
 
-This is how it is in a classic predator-prey relationship. The predators cull the most vulnerable individuals. This drives the evolution of the prey species towards ever greater resistance. It is not the sole evolutionary driver yet it can be a significant one for both sets of genes. We'll come back to the implications of this later in the book.
+This is how it is in a classic predator-prey relationship. The predators cull the most vulnerable individuals. This drives the evolution of the prey species towards ever greater resistance. It is not the sole evolutionary driver yet it can be a significant one for both sets of genes.
 
 After identifying Alice, Mallory attacks and tries to capture her. We might imagine a lion chasing, and then bringing down a zebra. The zebra dodges left and right. The lion leaps, and strikes. What we actually see is a lot of talk, and then sudden and unusual decisions. The violence is rarely overt, yet it is always present in one shape or another. For as Mallory attacks, Alice fights back with all her strength.
-
-++ Idealize, Devalue, and Discard
 
 The core of the psychopathic relationship is an "idealize-devalue-discard" (IDD) cycle. Many authors [https://www.google.be/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=idealize-devalue-discard describe this cycle]. Anyone who has tangled with a psychopath will recognize it. The IDD cycle starts with Mallory putting Alice on a pedestal. He rains down praise and affection. A while later, he does an about-face and turns indifferent and cold. And then he breaks it off, and walks away.
 
@@ -36,7 +38,7 @@ The Wikipedia [https://en.wikipedia.org/wiki/Predation article on predation] say
 
 > The act of predation can be broken down into four stages: Detection of prey, attack, capture and finally consumption.
 
-There is a stage before detection, which is //hiding//. Mallory must remain invisible to her prey as long as possible. If Bob sees her true colors, he walks or runs away. Exposure is crippling. Only in a new city or country can Mallory hunt again.
+There is a stage before detection, which is //hiding//. Mallory must remain invisible to her prey as long as possible. If Bob sees her true colors, he walks or runs away. Exposure is crippling. Only in a new company, city, or country can Mallory hunt again.
 
 The hiding stage is critical. Yet the IDD cycle misses it, and treats "idealize" as the start of entanglement. And it misses the goal, for Mallory at least, which is "consumption." He does not eat his victims' flesh. He just empties them of money, power, and energy until death can feel welcome.
 
