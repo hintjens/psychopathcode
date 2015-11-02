@@ -1,484 +1,521 @@
 // kate: font Liberation Sans; font-size 16; syntax None; bom off; indent-mode none;
-.bookmark hunting
-+ The Hunt
->  He wanders into his favorite place, a large bar and restaurant. The spot is popular with noisy young people looking for good times. It's early on this Saturday summer evening. He chats with the bouncer, Mike. The large man enjoys the distraction, and tells him little fragments of his life. His ex-girlfriend and the unexpected baby. His boss. He high-fives the bouncer and cuts the conversation. "Catch you later, Mike, I'm gonna get myself a beer". He crosses over to the bar.
+.bookmark capture
++ Attack and Capture
 
-> Outside on the terrace he finds a large round table and sits with his cold bottle. People are trickling in. He watches them. A good mix, typical of this part of Texas. Migrants come here from all over the US, and beyond. Men check out women. The women pretend to ignore the men. Some couples. Some loners, backs to the wall, body language shouting, "I wish I was taller."
+> She likes old people, she says, because they talk so much. The old men and women in the home seem to like her too. "She's always in a good mood," they tell each other. "Such a good listener!"
 
-> The place is getting full now. A small group of young men sit on the steps beside his table. White, black, Hispanic. They look uncomfortable. He turns to them, asks "where y'all from?" Soldiers from a nearby army base, on a night out. He sweeps his arm to show his table. "Come join me," he says, "it's more fun at a table," he smiles. The men accept, and get up and join him. They're glad for the chairs, and the welcome.
+> She's worked hard for her nursing degree. Endless books, studying, writing, exams. The other students get better marks, and she guesses they all cheat. They've got people helping them, and they bribe the teachers. Well, that's easy. She can do that too. She can't use the computer, it's so difficult! Oh, could you check my work for me? Pretty please?
 
-> These young men are smart, and curious. Not yet deployed, they're optimistic and trusting. He tells them sweeping stories of his own foreign adventures. They laugh with excitement. He stops, puts his hand on the table, and states the obvious. "We need women!" One soldier points with his chin. "How about those two?" He turns to see two pretty dark-haired women. They look bored and uncertain. "OK, don't move!" he tells the men, and gets up.
+> Finally, the torture is over and she gets that magical piece of paper. "Qualified nurse," she repeats to herself. "Qualified nurse!" That afternoon she's already sending emails around, looking for work. Soon she has a gig lined up. She'll join a team looking after a wealthy man who has cancer.
 
-> "Hi ladies, how you doing?" he asks them, not listening to the answer, which is always "fine" or "great." He watches for any signs of irritation. They seem happy to talk to him. "You waiting for someone else?" he asks, and they say no, it's just the two of them. He frowns, studying their features.
+> She dresses for work. Hair tied back, and the neat outfits she learned from the nursing home. Black and blue, white cap, long skirt, dark shoes. Expensive dark shoes. She has three colleagues, and they take shifts. Their patient is in his seventies and spends most of his time in bed. Before lunch they get him up, dress him, and take him for a walk in his gardens. He returns tired, and sleeps. Her colleagues prefer the evening and night shifts, as they have less to do. Despite the extra work, she prefers the morning shift, when he's awake and talkative.
 
-> "Where are you from?" he asks. "Guess," says one, laughing. He tries to place them. Dark eyebrows, dark green eyes, pale skin, high cheekbones. Lebanon? Georgia (the country, not the state)? They laugh and shake their heads, "no."
+> He's an interesting man, who's built several large businesses. They get close, always talking. She asks him once, laughing, "so how much are you worth?" He laughs back, "that's one thing I regret. I never quite made a billion." She raises one eyebrow and tuts. "Silly man, I'm sure you have more regrets than that!"
 
-> "Won't you join us? We've space," he invites the women with a broad sweep of his arm. They look at the handsome, crew-cut male faces, shrug, and accept. "Sure, why not."
+> He does. Hard work is good for you, he tells her. Yet it's no replacement for family. He married, his wife died in a car crash twenty years before. He has a son, forty-five now. The son hates his father and visits once a week, like it's a chore. They talk about nothing. He leaves as soon as he can, in his black Mercedes. She finds out he divorced his wife, and refused to help his father in his businesses.
 
-> The two women sit beside him, and he chats with them, making more wrong guesses. Russia? Armenia? They laugh. The soldiers buy them drinks. Everyone is happy, it's a great party. Finally, he admits defeat, and they tell him, "India." He's shocked, impressed, and fascinated.
+> It takes her almost six months to reconcile them. In the end, they hug, and she smiles to herself. The old man is getting stronger. He's promoted her to head of the nursing team. She replaces the other team members with her own people. Now she's the only woman. One evening, as the son is leaving, she goes with him. They have a meal in a restaurant close by, and she stays overnight at his house.
 
-> "The most beautiful woman I ever met," he says, "was from Georgia. We talked for five minutes, and I wanted to marry her right on the spot. You both have the same features. I was //sure// you were Georgian! But India, wow... India!"
+> When they marry, soon after, they both know it's the right time. Why wait longer? Destiny makes its own plans. They buy a ranch, high in the hills, and plan their dream home. The father dies in his sleep a few months later. They name their baby after him. It is a boy.
 
-> "Yes, India!" they laugh, flattered and enjoying themselves. They chat through the evening. The bar closes, and the public empties into the car park . His group is last to leave. The soldiers say goodbye and go their way, and the two women stay with him. "Do you want to go somewhere else?" he asks. "My car's there." He pushes his remote and the lights on his new Mustang convertible flash on and off.
+We've seen a little of how Mallory operates, when he is out on the prowl. He preys on the most ruthless of apex predators: other humans. "The Most Dangerous Game", a short story by Richard Connell has entered [http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheMostDangerousGame part of popular culture]. And yet by selecting the weakest, most vulnerable people, Mallory tends to escape unscathed. Most of the damage falls on his victims. Just now and then, Mallory chooses a target that fights back, and he gets hurt.
 
-> Later, one of the women asks him, "so how long have you known those guys?" He answers, "Oh, I only met them this evening." "What?!" she exclaims, shocked. "We thought you'd known them for years! You were like best friends!"
+This is how it is in a classic predator-prey relationship. The predators cull the most vulnerable individuals. This drives the evolution of the prey species towards ever greater resistance. It is not the sole evolutionary driver yet it can be a significant one for both sets of genes. We'll come back to the implications of this later in the book.
 
-Psychopaths can exert a fascinating level of power over others. It is like a cult of two. When we meet such people and start to snarl our lives with them, we feel carried by destiny. It is a strange mix of certainty and loss of control. It is like falling in a strong wind. It is the hot fire of religious fanaticism. And it always seems to end in tears.
+After identifying Alice, Mallory attacks and tries to capture her. We might imagine a lion chasing, and then bringing down a zebra. The zebra dodges left and right. The lion leaps, and strikes. What we actually see is a lot of talk, and then sudden and unusual decisions. The violence is rarely overt, yet it is always present in one shape or another. For as Mallory attacks, Alice fights back with all her strength.
 
-The question others often ask is "why?" The relationships between psychopaths and other people are so destructive and bitter. "Why" is a good place to start. When we can answer that, then we can start to look at "how" and "who" and other deeper questions.
+++ Idealize, Devalue, and Discard
 
-My stories in the last chapter were all about predators of one shape or another. Every psychopath works this way. Psychopaths hunt other humans. They attack and capture them. They feed on their time, resources, power, and energy. They dispose of the remains. And they move on.
+The core of the psychopathic relationship is an "idealize-devalue-discard" (IDD) cycle. Many authors [https://www.google.be/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=idealize-devalue-discard describe this cycle]. Anyone who has tangled with a psychopath will recognize it. The IDD cycle starts with Mallory putting Alice on a pedestal. He rains down praise and affection. A while later, he does an about-face and turns indifferent and cold. And then he breaks it off, and walks away.
 
-The violence is covert. It sometimes ends in self-harm or suicide of victim. More often it ends in depression. Every relationship between a social human and a psychopath follows the same pattern. There seem to be no exceptions, no "nice" psychopaths. To be a psychopath is to be a predator.
+The IDD cycle can run in a few hours, or over decades. Most authors see the cycle as a sign of failure. Mallory cannot create real relationships. He needs admiration to feed his narcissism, then he gets bored, goes the story. This explanation seems bogus for several reasons. It assumes there is a normative model for relationships, which Mallory fails to achieve. It assumes narcissism is a real thing, with wants and needs. And above all it ignores the many psychopaths who build relationships spanning years.
 
-This is no metaphor. This is the key to decoding psychopathy. //They are predators or parasites who feed off other humans//. Without this key, psychopathy is mysterious and baffling. It is like an ancient manuscript filled with symbols and glyphs. A text that affects so many of us, yet is indecipherable. With the key, we can read the stories and we can understand.
+It is more useful to see the IDD cycle as one of Mallory's many tools. She is not a broken person. She is as successful on average as Alice. Her relationships are as "normal" as Alice's. It is just a different normality, based on the dynamics of predator and prey.
 
-While my descriptions are often of individual relationships, the patterns apply in many situations. We see them in cults, abusive businesses, and other predatory organizations.
+The Wikipedia [https://en.wikipedia.org/wiki/Predation article on predation] says:
 
-++ Mallory, Alice, and Bob
+> The act of predation can be broken down into four stages: Detection of prey, attack, capture and finally consumption.
 
-In the information security business, we sometimes call a hostile attacker "Mallory." Likewise, we call the innocent targets "Alice" and "Bob." I'll use these names in this book, to make it easier to read and digest.
+There is a stage before detection, which is //hiding//. Mallory must remain invisible to her prey as long as possible. If Bob sees her true colors, he walks or runs away. Exposure is crippling. Only in a new city or country can Mallory hunt again.
 
-Mallory can be a man or a woman. I'll switch between "he" and "she" as it suits. Mallory is an adult, at least 14-16 years old, and under 70. Mallory is a psychopath.
+The hiding stage is critical. Yet the IDD cycle misses it, and treats "idealize" as the start of entanglement. And it misses the goal, for Mallory at least, which is "consumption." He does not eat his victims' flesh. He just empties them of money, power, and energy until death can feel welcome.
 
-Alice and Bob are altruistic, social people. They are targets of Mallory's attention.
+Finally, the IDD cycle misses the detailed way Mallory builds her control over time. It is not one cycle at all. Rather, there are larger and smaller cycles that overlap and repeat. This is why the timescales seem so variable. Mallory may IDD someone on their first meeting. And, then go on to a decade-long relationship with that same person. As I'll show later, this is not contradictory. It is part of the mechanism.
 
-++ Walk This Way
+So, the IDD cycle is accurate, consistent, and predictable. Yet it is also incomplete and shallow. It does not model the relationship between Mallory and his children. It does not model the one between Mallory and his willing helpers (secondary psychopaths). It does not explain why Mallory works to break people before he discards them.
 
-The first time you meet Mallory, it is an intense, personal, and deep experience. That is, to Alice or Bob. For Mallory it is insignificant, casual, a reflex. When she says "Hello" to a hundred people, 96% will feel affected. It is the smile, the eyes, the //depth// of that simple greeting. For Mallory, there is no effort, no emotional cost at all.
+As I see it, the IDD cycle tells the victim's story. The story is valid, yet biased and incomplete. We must look wider and deeper to understand the whole picture. The "discards" are lies aimed to dig the hook deeper. Only the last one is true. And when Mallory does walk away, there is no relationship any longer. It is not just over. In Mallory's mind, it //never existed//.
 
-This is the "charisma" we speak of. It is the projection of joy at meeting someone we care a lot about. Alice and Bob cannot fake this. They show it only for those they cherish. To cherish //everyone// you meet is an extreme perspective that takes decades to find. Mallory fakes this by reflex, from youth. It does not take learning. It is her first rule of survival: //others must adore you//.
+Let's rewind. Mallory has detected a target. Before the first IDD cycle bites, he is preparing his attack. This preparation is so consistent you can tell where you are in Mallory's eyes by the mask he shows you. By the time he is idealizing you, you are already entangled. I'll explain how the entangling starts.
 
-It's such a strong effect you can use it to spot psychopaths in the wild. I'll come back to this in [#diagnosis]. Most who cross paths with Mallory tend to feel little kicks of pleasure. If they are even a little lonely, this lures them back for more conversation. Meanwhile she is scanning for interesting targets. It doesn't take conversation. She can see vulnerability in people from their body language.
+++ Hiding
 
-Social humans can learn this skill, with years of practice. Mallory needs no training for this. It is one of her many inborn talents. [http://www.forbes.com/sites/kareanderson/2012/09/11/what-vulnerability-looks-like-to-psychopaths-monks-and-the-rest-of-us/ Forbes Magazine writes], "it appears that psychopaths don't need that meditative practice to be inordinately observant... of weaknesses in others."
+Mallory cannot survive exposure. From an early age she must learn to act "normal." This is a hard challenge, as "normal" is a moving target and a devious one at that. It's almost as if social humans move the goal posts every day to mess with psychopaths. Mallory often avoids the problem by hiding in plain sight. One way is to act so loud and lurid that people don't look twice. We call this histrionic and narcissistic behavior.
 
-Two signs above all show us as vulnerable. One, is to be alone or show solitary body language. Two, is to show fear and insecurity, and especially the signs of past abuse.
+I'm not claiming that every loud, flashy, extravagant person is a psychopath. There is no accurate visible test for a psychopath, and cannot ever be. This is the balance of evolution. Yet, if you think of Mallory as a cold, gray person, you're wrong. She is often dramatic, unpredictable, mysterious, ineffable. She is passionate and emotional. It is nonetheless an act, and it fools most except other psychopaths.
 
-Many people believe abuse victims often go on to become abusers. Yet the [http://www.webmd.com/mental-health/news/20030206/do-sexually-abused-kids-become-abusers rate is around 10%], unless abused and abuser are in the same family. Then it rises significantly. And one third of these adult abusers were cruel to animals, as children.
+Let me draw you a scene to make this clear. You're in a party, with some friends. There is a woman who doesn't laugh, makes no expression at all. She looks at you like a butcher deciding which pig to slaughter. Now and then she looks at others, and then looks back at you. She smiles, and it's not a gentle smile. This would be Mallory wearing no mask. It is a frightening sight, and a rare one.
 
-I don't doubt that psychopaths abuse, neglect, and mentally torture their children, and that many of these go on to become psychopaths. It's a mechanism I've observed, and will explain later. Yet the "abuse causes abuse" model misses the 90% of children who are sexually abused and grow up to harm no others. I think it comes from social workers fooled by young psychopaths. "My father abused me, that is why I'm hurting others." Psychopaths never take responsibility for their acts.
+And there's a guy, wearing a stupid orange hat, dressed in lurid colors. He's laughing out loud, a huge stupid grin on his face. Everyone loves him. He's the life and soul of the party, roaring loud and happy, his face and hands animated. He looks like a harmless fool. If you meet his gaze, you feel warmth and affection. You could fall into that gaze, it's so deep. That's Mallory wearing his colors.
 
-In reality, abuse victims tend to be silent witnesses to their own life of traumas. Or, as Joanna Moore writes in [http://facesofnarcissism.com/2015/06/16/if-you-havent-dealt-with-a-narcissist-or-a-sociopath-you-should-know-this/ The Faces of Narcissism], "It's easy to blame the angry victim and support the calm abuser."
+Mallory learns his masks from friends and family. He mimics accent and tone, speech patterns, facial expressions, body language. He is a professional actor immersing himself in his roles. He keeps these masks all his life, fine-tunes them, and wears them as needed. These masks are caricatures, yet more convincing than the real thing.
 
-Past abuse is a prime predictor of future abuse. Coming from an abusive family stamp us with fear and insecurity. Having an abusive employer, or an abusive partner does the same. Our fear and insecurity flash a neon "Eat Me!" to passing psychopaths.
+The point of this is to distract and control. It's the technique of the stage magician. Drama, music, and smooth words get the audience looking one way. And so they miss Mallory's real moves. It works with a single person, and it works with a roomful.
 
-Fear of others shows in our [http://www.scribd.com/doc/35330362/Attracting-Assault-Victims-Nonverbal-Cues-Grayson-Stein#scribd body language]. Abuse victims lift their feet higher while walking. They take longer or shorter strides than average. They twitch their hands and feet. They avoid eye contact. They use submissive and defensive body postures.
+++ The Interview
 
-All these cues are easy to read, if you have the right mind. Studies of criminal psychopaths [https://www.psychologytoday.com/blog/take-all-prisoners/201001/vulnerability-and-other-prey-psychopaths show how psychopaths pick-up on such cues].
+Once as a young student in York I strolled, with my band of friends, into a small house. The friendly people inside were offering a "free personality test." They let us play with science-fiction machines that measured our stress levels. They sat us down for one-on-one talks. A young woman chatted with me a little about why I was there and what I was looking for in life. She jotted down my name and address, and then started taking notes. "What's the worst thing you ever did in your life?" she asked me. It was the same casual tone as you'd use to ask someone, "what did you eat for breakfast?"
 
-I've no figures for how fast this happens, only anecdotal reports. I'd guess Mallory can work a hundred people in ten minutes or so.
+It was an unexpected cold finger poking into my private mind. I slapped it away and thanked her for the cup of tea, and took my friends and left. One of our group, a girl, stayed a little longer. Six months later we had almost lost her. With a lot of convincing, she stopped going to the group. She stopped spending her money on their weird literature and courses. She resumed her studies.
 
-++ Big Blue Eggs
+The friendly people stalked her, and us. They went to her dorm, and followed us on the streets. "Why are you not coming to sessions?" they would ask her, not so friendly any more. "Why are you hurting your friend?" they would ask us, "she needs her courses," sometimes yelling at us as we ignored them. They persisted for more than a year before they gave up.
 
-Mallory, looking for plausible targets, strolls through the crowd. She projects her sexuality just a little louder than the other women. She is looking for solitary, prosperous males. She watches how men look at her, and sees one nervous reaction that intrigues her. She goes up and shakes her hair, breathes in, smiles to him. She watches the man's face. He stares a little too long. She smiles to herself.
+I'm not mentioning names, as Scientology might take offense. Some years later that psychopathic organization took my cousin. It was years before he returned, a different person, his joy and laughter gone.
 
-After choosing Bob out of all the potential targets, Mallory moves in. There is no visible chase, no running and screaming. The movies don't tell the truth. Mallory slides in like a long lost friend. She seem so nice, harmless, and sincere.
+People ask me sometimes where my interest in Mallory comes from. My friends and family, and myself... we've bled and wept over and over. How could I not notice the parade of predators that stalk us? I don't make it personal. I don't get angry about it. Instead, I decode, understand, and dismantle the frameworks of lies that Mallory depends on.
 
-She opens with a range of tactics that depends on the context. These attacks work at the instinctive level, both in the attacker and the target. She begins with broad, unfocused probing. As Bob responds instinctively, Mallory shifts, tunes, and cranks up her game.
+The Interview is one of those lies. It starts as, "I care about you, and we are sharing an intimate moment." It ends with blackmail and extortion. It is rarely so overt as a person writing on a clipboard. More often it happens in a bar or club, or social setting. These are contexts where we expect small talk and are happy to chat. Often there is alcohol involved, so we drop our guard.
 
-The triggers for instinctive responses are usually simple caricatures. Evolution is lazy like that. For example, in many people a spider triggers screaming fear. That trigger sits in our genes as a dark dot with many legs. And we fear the [http://www.dailymail.co.uk/sciencetech/article-2158452/The-shape-fear--spiders-scare-Humans-hardwired-fear-angular-legs-unpredictability.html specific way those legs move]. A cartoon spider which walks the right way is as scary as a real spider. Make it walk like a daddy long legs, and it looks harmless. Exaggerate the spider walk, and the cartoon spider is scarier than a real spider.
+Mallory wants to know how good a target Bob is, and what direction to work in. It's the car salesman asking, "what is your job," then, "are you married?" The probing may be gentle yet is insistent. She slices to Bob's weaknesses, and the opportunities and risks he presents.
 
-Isolate and amplify the trigger, and you can amplify the response. There is no ceiling to this. Take our species' sweet tooth. We respond instinctively to fructose, which wild plants stuff into fruit in low doses. The sweetness hits the same areas of the brain as a drug like cocaine. In nature, this drove our primate ancestors to eat as much fruit as they could find. Then we bred ever-sweeter fruit. Then we refined sugar and began to load it into our diet. We eat hundreds of pounds of sugar a year, to the point of self-destruction.
+Mallory wants to exclude false positives. That is, people who look like opportunities yet are not. So the questions focus on Bob. There may be theater and drama. Yet the conversation zooms in, and Mallory reads every microscopic reaction and twitch.
 
-At no point in this story did we hit a limit in our instinctive response to fructose. Instead, the more we consume, the happier it seems to make us.
+The interview is part of a growing promise of some kind: sex, money, or salvation. The threat emerges side-by-side with the promise. If you don't answer, I'll walk away, and the promise will vanish with me.
 
-This escalating response to concentrated triggering is a known phenomenon, called "supernormal stimuli."
+You can tell when Mallory is interviewing you, if she is in a hurry. If she is careful, you cannot tell, as it will happen over days or weeks, or even longer. And the interview can happen behind your back, through people you know.
 
-Predators and parasites are specialists at using supernormal stimuli on their prey. The force behavior that is self-penalizing and illogical until you understand the trigger mechanism. So, a parasitic bird species may hijack the triggers young chicks use to beg for food. For example, an open red mouth. The parasite imitates and exaggerates the trigger. This makes the parent bird feed the parasitic chick before its own offspring.
+Often though, you can see it. She is nicer than she needs to be. She smiles a lot at you, and acts dominant in a casual way. She approaches you, not vice-versa. She asks questions about your background, your family, your work, your relationships. It seems rather intimate for casual discussion. Your intuition is uncomfortable. Yet the interactions hit your triggers, and you get dopamine kicks of pleasure. So you keep talking.
 
-In the deepest ocean waters, the angler fish dangles a bright bait that shines in the dark. This triggers prey fish to swim towards its toothy trap of a mouth.
+If you listen to your intuition, you may feel uneasy with this smiling person. You can of course walk away. Yet it's //plausible// she is sincere and interested in you. Walking away from everyone who's interested in you is a poor strategy. So there's another defense we often use. That is to keep talking, and switch to neutral topics, or back to the other person.
 
-Or, take the eggs of a tree-nesting songbird. These are often pale blue with dark-gray or brown spots. This particular color scheme triggers the female or male to sit on the eggs. Perhaps instead of sitting on random stones, or eggs of a different species. The parasitic cuckoo lays eggs that are larger, and bluer, with darker dots. This causes the songbird to prefer the cuckoo's eggs over its own.
+A person who enjoys talking to you will go with the flow, no matter what you talk about. The ability to play with conversation in random directions is a white flag. Mallory will ease the discussion back in line. She will deflect questions about her own background, or she will lie and exaggerate. She may talk about herself and share "intimate" details yet it always to position you into revealing more. It is near impossible to spot her lying, unless you catch a specific falsehood.
 
-The arms race between parasite and host creates a natural balance. Overusing the trigger turns it against the parasite. If the cuckoo makes its eggs too attractive, vulnerable songbirds won't reproduce at all. Songbirds that don't react to the trigger will get an advantage, and dominate. For a parasite, killing the host is a losing strategy. It means only resistant hosts will reproduce.
+++ Cold Reading and Shotgunning
 
-Niko Tinbergen, the biologist who discovered and named supernormal stimuli, built plaster eggs. He found that birds preferred larger eggs than their own normal eggs. They preferred more saturated colors than normal. And they preferred more exaggerated markings than normal.
+During the Interview, Mallory will be cold reading his target. This means guessing significant details about Alice in a short time. It is a basic tool of mentalists, con artists, car salesmen, and assorted mystics. Mallory does it without effort or practice.
 
-So instead of a small light blue gray-dappled egg, he'd offer a songbird a fake. His egg was huge and bright blue, with large black dots. The bird would try to sit on this egg, over and over, and keep falling off.
+Most of us are expert in reading people, though we may not realize it. Yet our brains interpret what we see as emotional signals and empathic reactions. We don't see stress, we feel stress. Mallory sees what is there, with no emotional lens.
 
-It may make you laugh, yet for the bird this is insane behavior. We see that supernormal stimuli can produce insane behavior from well-evolved instincts. It is a evolutionary loophole many predators and parasites exploit. It is one human psychopaths often use to manipulate their targets into position.
+Classic cold reading is a party trick, used by mystics to impress people. "You recently lost your father... he is sending me a message for you." In the field, it is more intrusive.
 
-++ Opening Moves
+Most people are readable most of the time. One engages them in conversation, and asks the right questions. One can then make good guesses about:
 
-In 1989, Clark and Hatfield of Florida State University ran an infamous [http://www.lehmiller.com/blog/2013/9/23/what-would-happen-if-you-asked-100-female-strangers-for-sex study]. Their attractive research assistants walked around campus, making hookup offers.
+* Where they grew up, from their accent.
 
-The results are well-known. More than half of men accepted a date, even more were willing to go home with a strange woman. Three-quarters accepted an outright offer of sex. In contrast, women generally said "no." Students are perhaps not typical of the general population. Yet others have reproduced similar results.
+* Whether they are the first child or not, from the amount of stress they show at disorder. Are they comfortable with delay, and some mess, or not?
 
-I'll come to the gender difference in a second. The original study suggested women don't have casual sex. We know that is false, at least in some contexts. My first question is, "how can so many men be so easily hooked?" You might say, the risks that casual sex exposes men to are low, and yet that is not true. There's the obvious risk of disease and surprise parenthood. And there is the much higher risk the whole thing is a set-up for one, or other, form of mugging.
+* Whether they have younger siblings, or come from larger extended families, from the way they treat young children.
 
-And yet most men will say "sure!" How can a woman's charm be such an effective bait? Are men desperate, horny and foolish? Are women smarter? Well, perhaps, yet the answer is more subtle than that. It also turns out women are no more resistant than men. It is a matter of using the appropriate bait.
+* Whether their parents argued violently, and divorced or not, from their general confidence.
 
-As we answer these questions, we see how significant gender is. It plays a key role in the psychopath's opening moves. There are four distinct patterns: female-to-male, male-to-female, male-to-male, and female-to-female. Many of our social instincts tend towards masculine and feminine poles, like our bodies.
+* What field they studied, from the way they talk and act.
 
-Our bodies and minds default to female. As a male develops, timed bursts of testosterone shift body and mind to male. Men and women differ in mind and body, driven by evolution.
+* How much they earn, from the context, their behavior.
 
-So when I say "male," this includes women with male-typical instincts. And when I say "female," it includes men with female-typical instincts. These opening moves do not assume heterosexual normality. Psychopaths often have [http://psychopathsandlove.com/a-hidden-fact-of-psychopaths-they-have-no-gender/ a fluid sexual identity]. They will be as confident and predatory as homosexuals as they are as heterosexuals.
+* Why they are there and what they expect to happen.
 
-++ Women Hunting Men
+* How they feel, about the situation and about you.
 
-The "anti-social" part of psychopathy does not mean "not wanting the company of others." It means "not respecting social norms and customs." Psychopaths tend to be hyper-social, and obsessed with making new friends. It goes with the territory.
+* What they want most, at that time and place.
 
-They can appear private and discreet, yet that usually hides intense background activity. The Web has made this much easier, offering so many ways to speak to others in private.
+And so on. Most people can learn to cold read, to some extent. You must learn to ground your emotions, and then you practice. Much of this is just being open to what people express, in words or in behavior. The unreadable people are those who hide, for one reason or the other.
 
-I'd enjoy mining Facebook data for private chats, public posts, and selfies. My guess is we'd see a distinct group with many more private chats than average. Further, talking to many more people than average. I predict you'd see two overlapping bell curves, not one.
+Mallory cold reads at genius level. He combines perfect reading with shotgunning. He makes rapid, broad guesses at various scenarios. The guesses either fall flat, or trigger a small response. State five possibilities, see a response to number four, and he has hit home. The result looks like a shocking ability to read minds.
 
-Predators like to hunt in places and events where they have advantage. It must be a situation with a fresh supply of targets. The targets must want something, which the predator can exploit. The targets must offer potential benefit to the hunter. There must be cover before, during, and after any attack. It should be hard for victims to talk about it afterwards.
+You can tell when Mallory is shotgunning you. It's like the Interview except worse. He makes sharp guesses about details he should not know, nor be asking about. He makes these guesses with pure conviction, as if he is stating absolute facts. No questions, he blasts out assertion after assertion, until he scores.
 
-The dating scene is the obvious opportunity. Bars, night clubs, and dating websites are ideal for psychopaths of both genders. The pop culture of dating has dealt with psychopaths for a while. They use the euphemism "narcissist."
+Shotgunning can range from subtle scanning to overt aggression. Mallory may blast allegations aimed to cause the greatest pain. It is a curious form of discussion. It seems to have three goals. First, to hurt and destabilize an opponent or resister. Second, to get reactions and thus to discover vulnerabilities and hidden truths. Third, to convince observers of Mallory's innocence and virtue.
 
-On one website [http://www.hookingupsmart.com/2010/06/28/relationshipstrategies/20-identifiable-traits-of-a-female-narcissist/ Susan Walsh discusses female narcissism] and lists the traits of such a person.
+Internet trolls show many psychopath traits. They show no empathy nor emotion. They tend to be solitary and predatory. They also shotgun their perceived opponents. They are often as violent as one could be [http://www.urbandictionary.com/define.php?term=swatting over a keyboard].
 
-First, physical appearance:
+It is remarkable to see Mallory announce outright lies, to discredit others. He may be calm and sad, or burn with righteous indignation. It is theater, aimed at an audience. The best lies are plausible and colorful. They tend to be easy to disprove, yet few people do. Our minds evolved to agree with those in authority. We will accept obvious lies when they come from someone who acts superior to us. It's called the [https://en.wikipedia.org/wiki/Asch_conformity_experiments Asch effect].
 
-> Dresses provocatively, flaunting sexually suggestive body parts; focuses attention on make-up and hair, even for the most mundane tasks or events; overly confident about her looks; places high value on brand names, and feels entitled to wear “the best”; frequently purchases new clothing, and does not distinguish between wants and needs; is more likely to have plastic surgery, most commonly breast augmentation; enjoys being photographed, and often asks others to snap her picture; enthusiastically shares the best pics of herself on social media sites.
+++ The Imitation Game
 
-Then, personality and character:
+Primates and birds have social instincts for copying the behavior of others. There seem to be three main mechanisms in humans: convergence, mirroring, and mimicking. Each mechanism has its evolutionary reasons. Each is a tool in the hands of a psychopath.
 
-> Insists on being the center of attention, often the most charming person in the room; often seeks favorable treatment, and automatic compliance; believes she is special; is highly materialistic; is prone to envy, though she presents as supremely confident; seeks opportunities to undermine others; is convinced that others are envious and jealous of her; lacks empathy, and even common courtesy at times; puts others down, including you; does not hesitate to exploit others; is competitive; believes that she is intellectually superior; blames others for problems; displays a haughty attitude when she lets her guard down or is confronted; is dishonest and often lies to get what she wants; is "psycho," engages in risky behaviors, has an addictive personality, and is prone to aggressive behavior when rejected; is unpredictable in her moods and actions.
+As a social species, our identity lives in the groups we are part of. Our concept of "group" scales from two people to millions. Many of the same mechanisms work at all these levels. Convergence is one of these.
 
-This is a 95% match of the various female psychopaths I know or have known. The author also says, "Based on the women of all ages I have known in my life, I think 10% is an accurate estimate of the number of narcissists in the female population." That is a high figure yet it matches the estimates of 10% of sub-clinical psychopaths. I'm convinced that this predatory and destructive "narcissism" Walsh describes is one of the masks of psychopathy.
+Part of the group identity is a more-or-less consistent culture. Above all, this means appearance, behavior, and language. Groups don't just aim for consistency, though. They also aim to be unique, and different from other groups, especially close competitors.
 
-The physical appearance aims like a large weapon at the male biology. It can be devastating in effect. That Florida State Univesity study measured up to 75% of men responding to such bait. Maybe it's lower in general populations, than on college campuses. Yet in a dating setting, most men are looking for casual sex. The figure will approach 100%.
+There are several reasons why groups strive for consistency and originality. Individuals already in the group have an interest in expanding the group. Size is power. The group culture is its branding. "This is who we are!" is a recruiting statement. And "We're not like them!" is how groups stop their members defecting to other groups in the same area.
 
-When Mallory is out hunting men, she does not just ask every man for a drink. That would be simple-minded. She knows what she's looking for. So she can select the best targets, even before they see she is there.
+For those who join a group, or are born into it, there is strong advantage in conforming. Being "different" exposes an individual to rejection from others, and to violence from outsiders. When there is conflict between groups, the first targets are the outliers.
 
-Humans respond like any lifeforms to triggers and supernormal stimuli. Women looking to attract men invest in amplifying the relevant triggers. Here is the list of triggers I've been able to identify and collect:
+The evolutionary benefits of hiding within a group are an old cultural engine. The diversity of human language and behavior is not random chaos. It stems from every group's need to find its own niche. It expresses in accent, dialect, and memes.
 
-* **The waist-to-hip ratio, or WHR**. This is a primary signal of human female sexuality. The ideal WHR sashays between 0.6 and 0.8 depending on culture. Narrow waist indicates youth, and wide hips announce fertility. The simplest WHR cheat is to pad the hips. One can then wear a corset, and then one can resort to surgery. The honest counter-move is to wear tighter clothes, and then to show more skin.
+It expresses as food taboos, which are often complex to the point of absurdity. Arbitrary, complex rules are a tool of control, as I'll explain in [#consumption]. Food taboos most likely evolved from our hunting-gathering past. "This is toxic," is easier to explain as "forbidden." We learn disgust once, and it saves our life a hundred times. The same instinct then lets tribes ban foods eaten by neighboring tribes. It stops people slipping away.
 
-* **The shape and size of breasts**. There is much debate about the evolution of human female breasts. Their size and shape do not mean more, or better, milk. Some people think they evolved as cushions for baby heads. Some argue they imitate the buttocks. To me it seems they signal female youth and availability, both triggers for men. Before modern times, babies were often breastfed for two to three years. Breast feeding changes the fat deposits and connective tissue (the Cooper's Ligaments). So the breasts show, immediately, whether a woman has already had babies or not. Babies means the woman is less available, and it hints at a protective husband. As with the WHR, a cheat can use padding, or surgery. And the honest response is, again, to show more skin.
+Convergence happens by negotiation and imitation. Dominant individuals establish a pattern which the less dominant follow. When people share power, they negotiate a weighted average. Hence the term "slavish conformity." Even a child will try to negotiate with its parents. The result is group consistency in the short term, and evolution over time.
 
-* **Other reliable indicators of youthfulness.** First, smooth skin on the hands and face. The smoother the face, the stronger the eyes, eyebrows, and lips shine through. Women can hide blemishes with make-up. They can exaggerate the shape of their eyes, lips, and eyebrows. Striking features on a smooth, unblemished skin are a trigger. Then, full lips, and small nose and ears. Our lips thin as we age, and our nose and ears grow. Only with surgery can a woman fake these.
+Convergence takes time and effort and is a negotiation between individuals. This means you can tell how close and equal people are by how they appear, act, and talk.
 
-* **Other reliable indicators of fertility**, expressed by the hormone estrogen. The main ones are high cheekbones and voice. A high, melodious voice signals fertility and youth. Observe how some women will shift their voice higher when asking for a favor. It is close to impossible to do this without sounding fake.
+Both men and women converge, in differing ways. Men tend to converge towards group language, behavior, and appearance. Women tend to converge towards other individual women. You rarely see two men dressing alike, unless they are part of a larger group. Yet you will often see two women converge on each other. Observe two women together, and you can often tell how well they know each other. It shows in hair, clothing, shoes, accessories, and body language.
 
-* **The leg-to-body ratio, or LBR**. Anything that interrupts growth up to young adulthood [[http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2872302/  affects the LBR]. This is a good indicator of genes, diet, and medical history. The LBR is a predictor for resistance to many diseases, from diabetes to various cancers. Long legs means healthy and healthy is sexy. This is one of the rare triggers which works in both genders. Women can cheat the LBR by wearing high heels and short skirts.
+Not everyone converges. There are at least three distinct types of people who appear to act "different." There are those with some degree of autism. There are the natural leaders. And there are the psychopaths. I'll explain each so that you can tell the difference.
 
-* **Other signals of good genetic resistance and a history of good health**. These are symmetrical face, long clean hair, clear sparkling eyes, and healthy nails. Hair and nails have become easy to cheat and there is no real defense except a ceasefire. Hence, maybe, the cultural evolution of head-scarves and such. Mascara can make the eyes look whiter and shinier.
+People with autism cannot read social cues. This means they never converge no matter the context. They look lonely, asocial, and "strange" in various ways. While popular culture has demonized "loners" as unstable and dangerous, this is a myth. Such individuals run a higher-than-average risk of discrimination.
 
-* **Signs of vulnerability and submissiveness**. The damsel-in-distress triggers a [http://www.slate.com/articles/health_and_science/science/2012/05/dumb_women_do_men_find_them_more_attractive_.html predatory-protective response in men]. The subtext is, "Save me and I will reward you with sex." A darker version is, "I'm alone and couldn't stop you even if I wanted to." There are various body language triggers. Feet together, wrists exposed or limp. Head down, avoiding eye contact. Or, head down and eyes looking up, to act young. And finally, to be or act drunk. I'll come back to psychopaths and alcohol later.
+Natural leaders will converge when joining others of higher status. They will not converge when meeting potential followers. This forces others to make more effort to converge. We value our relationships according to how much we invest in them. So working harder to converge makes a deeper attachment to the leader. And that builds the group, as participants converge on a single person.
 
-* **Signs of sexual availability and desire**. That is, telling a man: "I desire you, and am willing to have sex with you right now." There are at least two sets of triggers here. One is cosmetic, coloring the lips and cheeks red. This mimics the signs of female arousal (flushed lips and glowing face). The other set of triggers is body language. The woman will sustain eye contact. She will move closer to the man. She will wear revealing clothing. She will shift her posture and clothing to show more skin. She will touch his arm, play with her hair, and open her lips. She will raise her eyebrows and half close her eyes. In general, she will act as if they are in bed and she is enjoying it. This is impossible for social women to do, except as a game, in safe circumstances. The fear of rejection is too high. Psychopaths have no such fear, so can and do take this act to extremes.
+Mallory acts much like a natural leader at this stage. Yet he starts to abuse and mistreat members of the group almost at once. A natural leader treats and protects the group like family. Mallory treats the group as his possession or toy. This is narcissism, one of his masks.
 
-* **The appearance of novelty,** also known as the Coolidge effect. While monogamous pairs are the norm, many people are opportunistic cheats. Most men prefer new receptive sexual partners than existing ones. This effect is one reason the porn industry is so hungry for new young starlets. How does a woman with no fear of ridicule, look //different// every few weeks? It is simple: she changes her hair and clothes. New hair means a new face. New clothes means a new body. Both create stronger responses in men who already know the woman.
+In extreme cases, he forces others to make extreme efforts to converge. To force a consistent dress, language, and behavior is a form of abuse. It breaks the individual's identity and self-image. This is a pure psychopathic trait, in individuals and organizations.
 
-This set of triggers and the unbounded male responses to them explains pornography. It's well known few women find pornography enjoyable. Yet for many men it is close to addictive. Indeed, it is like sugar: a source of refined triggers. Porn displays a stream of young, available females, hitting the full list above. Porn site statistics [http://www.pornmd.com/sex-search show the most popular category] globally is "teen."
+++ The Cloak of Invisibility
 
-Why the obsession with youth? OKCupid, the dating site, found women of all ages prefer partners around their own age. Men of all ages, when no-one is watching, favor women of 22 or under. Dating site profiles and searches may seem like a weak basis for science. A study of 12,000 Finns at Åbo Akademi University in Turku [http://www.eurekalert.org/pub_releases/2014-09/aof-tia092514.php found much the same:] women prefer somewhat older partners, while men prefer women in their mid-20s.
+Convergence establishes the nature and depth of a relationship. It generally takes time and effort to become a corporate drone. There is a way to cheat, which "mirroring." In this, one person (the "actor") copies another person, in real time. The most obvious sign is the actor switching language and accent. We're less likely to notice the shifts in body language and appearance.
 
-The answer lies in our species' model of long-term monogamous relationships. Women's fertility peaks young, so men have evolved to see 16-22 (18-25 when others are watching) as the peak of "sexy." Chimpanzee, our close relatives, have a different family model. They live in extended families, without monogamous pairs. Thus, chimpanzee males are not triggered by female youthfulness. And, chimpanzee females do not make such displays.
+What the actor is saying is, "we are close and you can trust me." When someone adopts your accent, it sounds like they are from your home region. It's an invisible sound. The sure way to know if someone is mirroring you is when they show no accent (to your ears). Unless, of course, they did in fact grow up where you did.
 
-If you ever wondered why men are so fascinated by female beauty, you now have the answer. As I'll explain later, women are just as fascinated by male triggers.
+Mirroring is a cloak of invisibility, a mask that triggers trust and relaxation. It is a core talent of psychopaths. When Mallory uses mirroring, he becomes a dangerous presence. He does it to get close to his targets.
 
-By default, adult males respond to these supernormal stimuli. They are like the songbird teetering on a football-sized super-blue egg. They try over and over to launch sexual relations with the woman. No matter how she mistreats them or others, they climb back on that egg and try again. It looks like insanity. It can be self-destructive.
+It's not malicious by definition. It evolved, presumably, as a defense mechanism. When you move to foreign places, the ability to mirror is a life-saver. We tend to see other people as fuzzy bundles of triggers. Mirroring lies about the actor's past and makes it seem they have been there for years.
 
-Most women who dress to seduce are not psychopaths. Most of the time, it is sincere and healthy. The difference lies in the level of deception. There are those who distort the truth, and there are professional liars. Female psychopaths broadcast their sexuality as a lure, more broadly and intensely than a social woman can. They use it to control the narrative. They provoke an off-the-charts response, and then they hold back. It goes far beyond a game. The promise is, "I am the ultimate woman and I am yours." The reality is, "you will suffer and pay and never get that first thrill, ever again."
+++ Shape Shifters
 
-I'd love to provide references for this effect, yet it's undocumented as far as I can tell. I've experienced it and observed it often enough to conclude it is real and deliberate. And the mechanism seems familiar. The male response to female sexual signals lives next door to addiction.
+Mallory does not feel social emotions. This is not a bug. It is a feature. If she had social emotions, she would be unable to work. And yet, the lack of emotional responses is a fatal give-away. Her answer, evolved and carried in her genes, is to borrow from others, using mimicry.
 
-We're hardwired to feel pleasure from these triggers. It is how our biology works. Dopamine hits the brain's emotional centers. They feel joy. This reinforces whatever behavior got us the trigger. When someone amplifies the trigger, it creates a larger dopamine rush. The mind compensates by becoming less sensitive. So we need more triggering to get the same feeling of joy.
+Mallory is a superb observer. She is always hunting, untroubled by emotional filters. One thing she watches for are new types of emotional scenes. Something happens, one person responds with emotions, and then others respond in turn. She watches these dramas. Somewhere in her mind, specialized neurons capture the caricature of behavior. Facial expressions, body language, voice inflection, and way of speaking.
 
-Addiction is no metaphor here. It is the core of a sexual relationship with a psychopath. And such a relationship is as awesome and healthy as life on cocaine or hard liquor.
+And she replays this on demand.
 
-Psychopaths prefer those triggers they can fake or amplify with focused effort. So, Mallory can be quite plain, and yet spellbinding when she wants to be. I explained ways to cheat the various triggers. For every cheat, say a woman who lies about her age, there is an honest player. Say, a younger woman competing for the same men. This is a slow and ancient arms race between different strategies.
+This ability makes Mallory an excellent and convincing actor. Her projection is rich and has all the right triggers. This makes it more convincing than the original.
 
-Female psychopaths spend more effort on appearance, less on friends and family. They fake triggers social-minded women cannot, or will not. Social women instead compete on the basis of their true assets. We have this arms race to thank for authentic female-to-male triggers. That is, full breasts, wide hips, long hair and smooth skin. They are the fruit of sexual selection and competition between cheats and honest players.
+For example, when Bob or Alice get angry, they show a loss of control. It is still tinged with some fear. Mallory records this and replays it, without the fear. The result is a perfect "anger" mask that is terrifying at a visceral level. The same for displays of love, jealousy, self-pity, fear, loneliness, guilt, affection, sincerity.
 
-++ Men Hunting Women
+People talk of the psychopaths' "masks of normality." In fact these are masks of super-normality. Much of Mallory's power comes from this talent, and our hard-wired responses to it.
 
-Women are of course different, and immune to cheap flattery and fake bulges. The female response to offers of sex from strange men is low to zero. A woman will generally treat such an offer as a hostile act. She is liable to call the police, or male friends, to help.
+Mallory can switch masks in a heartbeat. One second, calm. The next, intense fear. The next, brooding violence. The next, dramatic self-pity. Then, calm again.
 
-Yet it is only a question of context. Given the right triggers, most women will respond. They'll walk towards weak triggers. They'll jog towards strong triggers. And they will leap with self-destructive drama towards supernormal triggers. Just like men.
+Mimicking is a powerful tool that works on most people, most of the time. It has some inherent weaknesses and telltales. Remember, Mallory is showing prerecorded emotions. A social person starts with a mix of emotions and then expresses these.
 
-So what are these triggers? What makes men attractive to women? It is somewhat of an age-old mystery. Yet the answer is obvious once you see it.
+These are some ways to tell that you are seeing Mallory's mask:
 
-Biology and empirical research rule out many obvious possibilities. Availability and willingness to have sex are not triggers. Youthfulness is not a trigger. Men do signal their genes, health record, and fertility, as women do. So there is some overlap. Long legs, well-defined buttocks, symmetrical face, nice hair, strong chin, high cheekbones. These work the same way in both genders.
+* The emotional display is too pure, too intense. This is hard to see, as we're so vulnerable to the triggers. Yet if you can step away from your own responses, you can tell the difference. Bob is wine at 12% alcohol and Mallory is spirits at 40%.
 
-Yet appearance only works together with other triggers such as confidence and charm. Alone, male appearance is not a trigger to females. Social women do not find pretty yet insecure men to be attractive. Psychopaths of both genders do seem to love playing with such men.
+* The masks have no gradient. Social emotions can flash on and off, yet they have ripples and echoes. It's part of being social. Fear leads to anger, then to guilt, and regret and remorse. Mallory's anger mask has no gradient, no social climbdown.
 
-What traits do women prefer in men?
+* The mask may be of someone you know, or even yourself. It is an interesting question to ask, when you see Mallory acting out. Who are they doing now?
 
-Most women compete to be the most beautiful, the youngest looking. The competition may be veiled and subconscious. Yet it is omnipresent, because that is what men respond to.
+* In rare cases you may confront Mallory with a situation she has no response for. Perhaps a plan failed. You may see the "slip and recover" where the mask falls. You see no personality, just quiet, deep calculation. I've seen this last a split second, or hours. Then there is decision, and she puts on another mask.
 
-So what do men compete for? What do men spend their lives fighting to accumulate and hold on to? It is not youthful looks, except for a few quirky men. It is not long hair. Nor straighter features, nor longer legs.
+* Sometimes Mallory will lose control temporarily, when provoked. Mallory is not emotionless. She has some authentic emotions, like hunger, fury, and glee. You can provoke her through these emotions, and then she shows her real nature. It can be a terrifying experience.
 
-Men compete for power and its proxy, money. Just like women competing in looks, the competition may be covert, even subconscious. Yet it is everywhere. In work, sport, social activity. Male power takes many forms. It can be physical, intellectual, economic. Even men who explicitly do not compete are making a statement.
+* When Mallory is tired, and at home, and can't keep up the act, the mask may slip.
 
-There appear to be two main themes to male attractiveness. One is dominance: height, deep voice, confidence, visible facial hair, and competitiveness. At [http://pss.sagepub.com/content/15/3/203.abstract least one study suggests] this rises and falls according to the woman's fertility cycle. In other words, when women are at peak fertility, they are more likely to seek opportunistic sex. Then, they prefer men who are "manly", and socially dominant, rather than good partners or fathers.
+* When Mallory is over-confident, then her true emotions can show through. She may show flashes of glee for instance, when she believes a plan is working well.
 
-The other theme is personality, which expresses itself as "is intelligent," "has a good sense of humor," and "is kind". When women look for long term partners, they tend to focus on this theme. In other words, potentially good partners and fathers. If you rephrase this theme as "has empathy and sensitivity" then it reads as code for "not Mallory."
+The masks will fool anyone who is not aware of how this trick works. Her extreme emotional displays are not just for camouflage. They are also a whip and a hook. Strong emotional displays create strong responses. Those responses are addictive.
 
-Male power is a trigger to women, at least some of the time, just as female fertility and youth are triggers to men.
+Mallory's true emotions are worth understanding, and I explain more in [#emotions]. She feels hunger when bored, then obsession when she finds a new target. As she starts the chase, she feels euphoria, and as she closes in she feels glee. When she moves in for the kill, she feels fury, and as she inflicts damage, she feels bloodlust. As she feeds she feels gluttony, then satiation when she's had enough. And when she fails in a hunt, she feels blocked.
 
-The evolutionary rationale is simple. The partners of powerful men have more grandchildren than the wives of weaker men. Good genes are a good starting point. To push those down the generations against never-ending competition takes force. In human terms, that means power.
+All other emotions she shows are fake.
 
-Let's fix Clark and Hatfield's study. The actors were young, attractive men and women. That already introduces a huge bias. A better study would provide a range of actors, both male and female. The actors would show different levels of age, attractiveness, and power. We'd then measure their relative success on a mix of subjects.
+When Mallory apologizes and shows remorse, it is an act. When Mallory stares into your eyes and says, "I promise," it is an act. When Mallory shows bad temper and burning anger it is an act. When Mallory tells you, "if you do that, I will kill you," it is an act. This can be hard to remember, so convincing is the mask. All psychopaths have the capacity for violence and yet, if they do strike, they will never warn you.
 
-Here's my guess of what would happen. We'd find men responding most to youth, then looks, then availability, and then character. Availability is critical though. Male-on-male violence over women is significant enough that "is not available" should be a turn-off for most men. We'd find women responding to power, then character, then availability, and then looks. During peak fertility, women would respond mainly to power and looks.
+With mimicking, Mallory pushes people around like pieces on a game board. Only other psychopaths are immune to her, as they don't respond to emotional triggers.
 
-The question is, how does a man project the "I am powerful" trigger? How can women tell when a man is lying about their own importance? How do psychopaths exaggerate these triggers?
+++ Constructing the Narrative
 
-Again, the answer lies there in plain sight. If you ask a solitary man about his status, most will lie outright. Men will exaggerate their earnings. They will lie about achievements. They will hide their failures. And so on. We assume this, and treat whatever a man says about himself as harmless fantasy.
+Every psychopathic relationship has the same structure. At the heart, Mallory places a core of lies and promises. I call this The Narrative. Around that, Alice wraps layers of efforts and investments, string around stone. Over time the ball becomes huge. To untangle it, and find the lies at its heart, can be difficult.
 
-Males display power in their body language, and behavior towards others. That could be to the observing female, to one or more other men, or to another woman.
+The first of those lies is a promise that Mallory makes right after the interview. It is a cheap, simple, and unbelievable promise. Yet it aims straight at the heart and guts. "I will make you wealthy," he whispers. "I will be yours," he promises. "I will take care of you forever," he sighs, as Alice falls asleep in his arms.
 
-Instinctively, when we meet strangers, even crossing in the street, we assess them. Watch how one person gives way to another. A roomful of strangers will self-sort. The men move into most-to-least dominant clusters, each with one man in charge. The women move into various patterns around the men, or apart from them. Men may cluster around individual women. The men check out the women. The women check out the men. The group forms an opinion. It all takes only minutes.
+Mallory speaks with confidence and authority. His lies becomes possibilities and then givens. As soon as Alice accepts a lie even as a remote possibility, the dance has started. Mallory mirrors, flatters, dominates. He weaves more promises around the core. This can happen in hours, or a few weeks. Alice starts to feel the burn of attention. We now enter the idealization stage.
 
-Male power means ability to dominate other men (and women, yet mainly men). This can be subtle and indirect, going far beyond physical dominance. As a writer I can dominate simply by typing. Yet body language and face-to-face dominance is a good place to start looking.
+Mallory focuses everything on Alice. Before that, she only felt short flashes of attention. Those were already strong enough to knock her out of her comfort zone. What comes next is shocking, disruptive, and addictive.
 
-We understand dominant body language well. It is partly about appearing larger. This comes from our ape ancestry, where dominance meant being strongest. The largest, strongest male ruled the group. It is also partly about acting superior to others.
+Mallory knows exactly what Alice wants. He's asked her, he's read her, and he's seen her type before many times. He spins a story of lies and magic. He gives Alice this theory and he watches as she swallows it, like a grateful child.
 
-To appear larger, a man stands straight and lifts his chin. He stands with his feet further apart. He takes more space than necessary. He uses hand gestures and pushes his elbows out.
+If Alice sees herself as strong, Mallory becomes the lost boy. Oh Alice, maybe you can save me? He plays the victim well. Later, he will turn to Alice's friends and family, with tears in his eyes. He will explain how Alice abuses and betrays him. Lost, helpless, he will show them a world of suffering in his eyes. They will curse Alice and reject her.
 
-To act superior, a man controls the conversation. He maintains eye contact without blinking. He ignores those he is not interested in. He smiles less and moves his head less. He speaks less, at a lower pitch, and a lower volume. In general he ignores social cues. He will be late, will interrupt, and be severe to others without being rude.
+Whatever Alice's fantasy, Mallory brings it within reach. He promises, tells tales, flatters, hints at things to come. The only resistance to such an attack is to want nothing, and believe nothing. Above all, to distrust one's own voices. Mallory's magic only works on Alice because she lies to herself.
 
-We have a paradox here. These traits both attract women, and repel them. They show a man as capable of dominating other men, and yet as insensitive and potentially brutal. There is a way out of the paradox. Women just assume men are liars, until proven honest. Dominance displays need a secondary trigger to work. Without that secondary trigger, the woman sees a bully's act.
+Not that Alice is unique, or to blame. We almost all lie to ourselves, even the most honest and upright of us. Even Mallory lies to himself. It takes conscious and deliberate effort to see our own lies and step aside from them.
 
-The secondary triggers come from other males. Like all the triggers we've examined, these are minimalistic and elegant. I see two specific triggers. The first is other men who accept the dominance, and act in the right way. That is, they show submissive body language. They are quiet when he talks. They accept his pushy attitude as if they agree he has earned the right.
+What Alice should notice most of all is the sheer volume of chatter from Mallory. It would be overwhelming if she was not so eager for it. When they are together, it consumes their nights and their days. Alice feels like the center of Mallory's universe. When they are apart, Mallory will text and call Alice non-stop. The phone companies love Mallory. He usually finds someone else to pay the bills, though.
 
-The second trigger is more dramatic. It takes a male challenger, from outside the group. The dominant male either asserts himself, or loses the game. Women find such winner-takes-all dramas compelling, in real life, in sports, and in entertainment. It gives the same dopamine kick men get from watching a pretty woman undress.
+Cult jargon and support forums call this "love bombing." It is a well known tactic to break resistance. Love bombing is a super-normal stimulus. It triggers a rush of dopamine in Alice's brain that overwhelms. It is the same response as if she was ingesting fructose, or cocaine. We get a kick when someone we like talks to us. We get ten times that kick if they talk to us ten times. We get a hundred times the kick when they call us a hundred times.
 
-Appeal is all relative, for sure. Yet while female attractiveness is an individual thing, male power flows from other males. No matter how large or rich or confident, a man alone is nothing. Male dominance is all about other men.
+This trigger and response is natural and necessary. It is how we bond. A social person can only give so much. It is exhausting to express deep emotions. Mallory pays little or no cost. His deep ululations of love and desire come from memory. They cost him no more effort than wagging a finger. He does what social humans cannot. He amplifies the trigger, and he drives the addiction deeper into Alice's mind.
 
-There is a similar effect with female-to-male triggering. A woman's display both attracts and repels men. A woman who wears too much perfume and makeup, who flirts too aggressively, and who shows too much skin turns off most men. Yet if she is with other women, and they appear to like her, this acts as a secondary trigger. And then most men will be comfortable again.
+Alice starts to commit time and resources. Mallory watches her and chooses his moment. He has done this so often before. It is almost too easy.
 
-These secondary triggers seem to boil down to "is not a psychopath." Empathy and sensitivity are relatively easy to fake, so superficial displays of empathy are not triggers. I'll come to empathy tests later.
+Perhaps he will start slowly, when Alice is feeling most confident and intimate. A subtle comment after sex. A show of jealousy or insecurity. "Who were you thinking of, your ex?" A glum mood and argument that leaves Mallory a victim, and Alice searching anxiously for her fault.
 
-Now we've pinned down the signals, let's see how to fake them. A wandering male psychopath is solitary. He has no real friends. He cannot just show his "I am important" narcissist mask to women. Rather, he must convince other men he is important. He must find or build a group to dominate, he must display the results.
+Or, he may simply switch his attention to someone else, seen or unseen. Alice freezes, waiting for Mallory to return. It can be for minutes, or weeks When he does return, it is without explanation or apology. He continues as if nothing had happened. If Alice makes a comment, he accuses her of being insecure, jealous, possessive.
 
-The underlying mechanisms are subtle. I do not know any research in this area except my own. So this is speculation and hypothesis based on long observation and analysis.
+Or he may strike more brutally, when she is feeling vulnerable. She twitches, does or says something that betrays uncertainty. Mallory lashes at her. How dare she? She stumbles, retreats, apologizes. It is what Mallory was waiting for. Fury fills him. Eyes wide, mouth in a snarl, he explodes in verbal abuse.
 
-I said men and women differ in key ways. One of those differences is how we communicate. It goes deeper than what we talk about. It goes to the heart of why we evolved the language instinct in the first place.
+Alice has no words. It has all gone wrong somehow. Bewildered and in shock, she cannot react or process. She watches as Mallory takes his things and leaves. Come back! she pleads. And then he is gone. Mallory walks to a corner and makes some phone calls. He has business to take care of. Alice will be calling him, and hitting his voicemail. He'll give her an hour or two. Whatever. It's much the same. Alice is going nowhere.
 
-Men and women both trade power and knowledge, and build structures. Yet there is a distinct gender split. Men talk to exchange technical knowledge and organize with other men into power structures. Women talk to trade social knowledge and organize with other women into rather different structures. Our language reflects these two models.
+There are many points in the relationship where Alice could break free. This is the most visible one. Mallory has left. It is over. Time to move on, yes?
 
-I've called these ways of talking [http://hintjens.com/blog:73#toc5 the "human protocols"]. There are two main protocols, the male and the female. There are other smaller protocols such as adult-to-child. Most men can at least imitate the female protocol, and vice-versa. Yet it is hard work.
+Yet Mallory is a professional. This is what he does. Alice has as much free will as his phone. She will wait, and she will weep, and she will beg forgiveness. Alice always does.
 
-Mallory is an expert in the male protocol. He can dominate groups of men with a mix of lies, promises, and confidence. A large predatory business is indistinguishable from a cult. While Alice tends to distrust solitary males, Bob and his friends do not. This is especially true when a lone male approaches a group. So Mallory likes to work his magic first on Bob and his friends. This gives him status and power he can project towards women.
+When Mallory does answer her call, and returns, Alice is compliant. She is shivering from hurt, withdrawal, self-pity, and guilt. She does whatever Mallory asks. She takes all the blame, even though she does not understand what for.
 
-This can happen in minutes. The male protocol allows for instant relationships based only on future possibilities. "Follow me! I promise you gold!" Yet the female protocol is cynical and careful. Relationships between women often take years to develop. Women must invest in their relationships. Men need to just keep the future open.
+This is the devalue stage of IDD, the withdrawal of affection. It is not a one-time event. It can start just a few days into a relationship. It can be subtle and creeping, or it can be dramatic and violent. Mallory does this over, and over. Break, and remake. Break, and remake. Alice goes fuzzy on the details, after a while. She tells no-one of it, and they would not believe her if she did. Mallory will remind her, often, of her crimes and his patient forgiving nature.
 
-This is a huge difference. Both genders project their own values and measurements on the other. Alice assumes relationships take time to build. She assumes relationships express the cynical accounting of past facts. So she over-values the relationship she sees between Bob and Mallory. And in the same vein, Bob discounts Alice's relationships.
+It is the hallmark of an abusive relationship that Mallory acts highly sensitive, jealous, and volatile. At the slightest excuse, he starts a violent argument. And every argument ends in crisis. Sometimes he threatens to leave. Sometimes he packs his bags. Sometimes he just vanishes. Sometimes he kicks Alice out. It doesn't matter. The goal is to push Alice to the edge, to destabilize her, break her, and train her.
 
-This gives us a classic hunting pattern for Mallory. First, he conquers Bob and some other men with a smile and utter confidence. He implies some promises of future benefit. This can take only a few minutes. Then he presents this temporary ersatz structure to Alice as she passes. He shows dominance over the assembled men. Alice finds this charming man desirable. She begins to respond to him. When he suggests they take their discussion somewhere private, she agrees. It is just how the men would respond to inflated bosoms and welcoming smiles.
+After every crisis, Mallory withdraws, goes cold and distant. If Alice was smart, she'd watch Mallory go and wipe his number from her phone. Of course, she is desperate to get him back. She is an addict. She tries harder, and he relents and returns.
 
-++ Power Pyramids
+The burn comes back. Mallory knows how to make her cry from pleasure, as well as pain. She forgets the arguments. Whatever he wants, she will give.
 
-Male psychopaths can and do work at the personal level. Yet it is dust compared to the industrial-scale male psychopathy of many organizations. Before we look at how Mallory hunts Bob, we must take a small detour. I will explore how humans organize at scale.
+Mallory does not forgive, nor forget, though. He tracks Alice's crimes like an accountant. It forms part of the narrative. She will now and then try to resist Mallory's demands. She will complain when he throws chaos into her schedule and life. Mallory responds with cold abuse. "You dare?" he asks, and he reads the ledger back to her.
 
-Humans seem to organize in two specific, and contrasting ways. These are the "living system" and the "power pyramid."
+Mallory never apologizes if he can help it. He never makes steps to repair the fractures, unless Alice is on the verge of walking out. His brutality is not personal. It is a negotiation strategy, part of doing business.
 
-A living system is a loose economic network of inter-independent actors or pieces. These pieces trade resources such as knowledge, work, or money. These resources flow through the system in different directions and at their own rhythm. Living systems have no obvious power structure. They have no identifiable owners and no central authority. They have no central decision making or planning.
+While my description above has Mallory the man, and Alice the women, it works the same way when Mallory is a woman, breaking Bob. For every broken woman explaining why she loves her abuser, there is a broken man doing the same.
 
-A power pyramid is an explicit structure, with a name, purpose, and leadership hierarchy. Decisions and planning move down, and profits move up. The entire pyramid is the property of those at the top. It is a clear hierarchy where position defines status, and status defines position.
+++ The Spanish Prisoner
 
-Living systems are unobtrusive, almost invisible. They have no marketing departments, no boards, no CEOs. They consist of thousands, even millions, of independent actors. These actors self-organize around the most interesting areas. Living systems are far more profitable than power pyramids. Yet those profits spread wide, and are hard to measure.
+People often stay in abusive relationships far longer than you'd expect. Abusive attachment is a counter-intuitive mechanism for everyone except psychopaths. These individuals understand it from youth, and practice it to perfection. For the rest of us, decoding the abusive bond is hard work. Yet it is a valuable exercise that teaches us much.
 
-Living systems are powerful and core to our way of life. They feed our cities and keep our shops filled with goods. They supply us with clothes, information, Internet. Every city is a living system, or it is a prison. Every economy is a living system, or it is a planned failure.
+Let's start with normal social relationships. Alice and Bob meet. They need each other in some way. Love, business, or friendship. They each invest time, money, resources, or affection in the relationship. It starts with small steps. They ease into larger commitments over time. They work to keep the relationship balanced. This is "normality," when both Alice and Bob are happy with each other. If either feels they're not doing enough, they work harder until it is solid again.
 
-The exchanges in a living system depend on contracts agreed upfront. Living systems detect and punish cheats, using the simple mechanism of free choice. They need some form of regulator. That is, laws and enforcement. Natural living systems use the laws of physics, chemistry, and biology. Artificial living systems produce their own authorities, usually by evolution and competition.
+Human social instincts are not perfect. There are at least three vulnerabilities in the bonding mechanism. These are triggers that Mallory can amplify to trap Bob or Alice. They are: sunk costs, future promises, and parental abuse. I'll take these one by one.
 
-Living systems are fair to all participants (or, ethical) by virtue of the need to be efficient. That is, they tend to treat discrimination and cheating as inefficiencies, and problems to solve. Living systems experiment all the time with small answers to new problems. They bury the failures and promote the successes. This makes them good at adapting to change. They are resilient and survive until broken by a catastrophic external event. Cities survive empires, unless razed to the ground.
+The sunk costs fallacy is well known in economics. No-one has explained it well, so I will try now. The symptom is, "I've spent so much money on this house, it //must// be good by now!" We know the house has problems, yet the more we spend on it, the more we believe in it. Even the smartest of us falls into this trap, over and over. Houses, businesses, cars, hobbies, all kinds of projects.
 
-Power pyramids specialize in getting clients, suppliers, and workers to give more for less. They act like parasites. If you turn a power pyramid upside down, it looks like a feeding funnel. An extreme example are the large surface retailers who pay their suppliers and staff the minimum, while generating billions in profits.
+How do we value a project? We could put it up for sale and see what offers people make. Yet we tend to form emotional relationships with our projects. That is why we care for them. To offer them for sale violates the relationship. One cannot put a money figure on a relationship. Instead, we count our investments in the project. And we guess how much we feel it has given us back. We add these up. If we do come to a figure, it will be high.
 
-It takes some effort to keep masses of people sitting still while you feed off them. Power pyramids do this using a mix of force, bribes, and threats. They demand physical presence. The promise monthly salaries and bonuses. Failure to conform means dismissal. This is a form of constant, low-level internal violence. Power pyramids also project violence against external threats. They use force to remove competitors and achieve their goals. They are pragmatic, and remorseless.
+The origin of what I'll call "social accounting" is clear. We're a predator species that survives risk by mutual sharing. When we succeed in a hunt we have more than we can consume or carry, so we share with others. When we fail, we beg. On average this exchange works out and keeps us alive. Yet it is vulnerable to freeloaders who cheat by always begging, never hunting. To beat them, we evolved tribal identity and accounting.
 
-Not all large businesses are pure power pyramids, and indeed most are a mix, with some aspects of living systems. Yet I've never seen a business apologize for beating a competitor. Nor have I ever heard of a country apologize for winning a war. Survival defines morality, in the short term. In the long term, morality defines survival. That is, living systems tend to beat power pyramids.
+Bob and Alice each hold a ledger in their minds. They keep a balance of gifts received and given. The more work it takes to calculate this balance, the more solid the bond feels. This is why the best gifts have no price tag. This is why money dissolves relationships like acid. This is why we can bond with a [https://en.wikipedia.org/wiki/Dunbar%27s_number limited number] of people. Our mental capacity is 150 ledgers, more or less.
 
-We see power pyramids most often in business, in government, and in organized religion. When the three mix together we get fascism and genocides. This happens when society is too weak or naive to resist. More often power pyramids are negligent, rather than outright destructive.
+The bookkeeping is delicate. We don't know the value of our gift to others. There are many intangibles like genetic closeness. We don't know the cost of their gifts to us. So we track the value of the gifts we received and the gifts we give. "He saved my life!" and "I gave her my last chicken." It is a one-sided ledger.
 
-When power pyramids produce goods, they aim for lowest viable quality and highest price. In some cases they will poison and addict their customers, for profit. An example would be the food and drinks industry, with its emphasis on sugar. Power pyramids do not listen to the market. Instead they try to force people to accept their goods, with heavy advertising. You could say power pyramids lack the capacity for empathy.
+Further, we cannot read the other's ledger. We have to guess it. If we see the other person happy to see us, we assume our credit is good. Then we take our own valuation. If the other person is unhappy, we invest more until they are happy again. Then we again take our own valuation. If we feel we're getting too little from the other person, we become unhappy with them, and we dislike them.
 
-Power pyramids are masters of deceit and hide their true nature. They market themselves, as "ethical," "positive," "good," and "fun." They spend billions on branding and image, developing narratives to sell their products. People believe these narratives and invest heavily in them.
+You can see how the social emotions of like and dislike evolved. They are the language of social accounting. You can see why we read and interpret these emotions using empathy. You can see why empathy for these emotions is an adult mental tool. Juveniles do not take part in the risk sharing. We do not keep ledgers for juveniles, nor do we expect them to do that for us.
 
-The worse the product, the heavier the marketing. Coke. Microsoft. Kraft. Heinz, USA! Power pyramids communicate in lies wrapped around elements of truth. Their core values are profits and survival, no more or less.
+Social accounting achieves two things. First, it lets us detect and punish cheats. That takes no conscious thought. The ledger is out of balance. We dislike the cheats and then become angry with them. If they make enough effort, we become happy, and we like them again. If not, we stop sharing with them. Second, it lets us rank others from most to least important. Meaning, most to least likely to look after us when we are unlucky.
 
-Despite their focus on survival, power pyramids are bad at adapting to change. Over time they depend more and more on lies and force, as the world changes around them. They become fragile, and prone to rapid, catastrophic collapse. Nokia, Blackberry, the USSR.
+As such, social accounting is a good defense against cheats. I'd guess this mechanism evolved many millions of years ago. It is so tied to high-risk hunting.
 
-Lacking empathy, callous and predatory, abusive... Many large businesses, religions, and certain flavors of government are psychopathic power pyramids.
+Somewhat later, we evolved the ability to plan the future, and make promises. We often make and accept promises of future rewards, or just "futures". Futures are a large part of social accounting. It is how we stretch our risk balancing strategy forwards in time.
 
-A friend with good work experience interviewed with a large technology firm. The process left her feeling puzzled and humiliated. "Why do I have to prove myself to a young interviewer?" she asked me. "Can't they just look at my work. It is all on-line." We thought about it. I said, maybe humiliation is a goal of such interviews. If you accept that, you'll accept much worse, in return for that juicy pay check. Conformity is a test.
+Like all gifts, we measure futures in the silence and privacy of our own minds. It is a bad tactic to tell others how you measure them, unless you dominate them. In the same way it is bad practice to tell others the futures you expect of them. Every relationship is a slow game, a negotiation. One does not show one's cards.
 
-Do these two models represent the male vs. female ways of working? It is a tempting notion. The male protocol deals with male power, the female protocol with social knowledge. Yet it would be foolish to caricature "maleness" as evil. Our species did not evolve gender specialization to divide us. It did so to let us work better together. Both men and women are happier and more effective in living systems. And power pyramids exploit both men and women.
+So when someone promises or reveals a future, that is a trigger. As the future gets larger, our response grows. When the reveal is modest, and thus looks sincere, our response grows. These futures tend to be basic: sexual gratification, protection, affection, time, resources, opportunities, contacts.
 
-The truth is more subtle, I think. Living systems need flows of both knowledge and action. The male and female protocols work together, solving different parts of a larger puzzle. Power pyramids are a distortion, a construction of male psychopaths. They are a temporary fruit of mass industrialization and urbanization. They are so widespread we take them for granted. Yet they are I believe malignant and anti-social, and destined to slowly fade away.
+The further a future, the higher the risk of default and effort of enforcement. So we discount futures, using a [http://en.wikipedia.org/wiki/Hyperbolic_discounting hyperbolic curve]. We discount a lot at first, then less over time. The closer the future, the higher we value it.
 
-What male psychopaths want above all is power over others. It is rarely about money. As Frank Underwood says in the Netflix series "House of Cards,"
+Somewhere close to the evolution of futures, we evolved the ability to lie. As I've said, Mallory is a professional liar. She is not just a good liar. She is a better-than-perfect liar. It is the key to her long-term success. Whereas Bob feels stress at lying, Mallory feels none. She fears no consequences. When Bob lies, he places his relationships at risk. Mallory has a different accounting model.
 
-> Such a waste of time, he chose money over power. In this town, a mistake nearly everyone makes. Money is the McMansion in Sarasota that starts falling apart after ten years. Power is the old stone building that stands for centuries. I cannot respect someone that doesn’t see the difference.
+So to hack Bob's social accounting, Mallory lies about futures. Bob adds those futures to his ledger, and values the relationship higher. It sounds simple, yet that evolution must have taken hundreds of thousands of years. Presumably the necessary genes evolved in parallel with the genes for language.
 
-+++ Men Hunting Men
+Mallory meets Bob and reveals some future. She then asks for help, playing the victim. Bob starts to share. Mallory shows larger futures. Bob invests more. Mallory contrives a crisis, and makes it Bob's fault. He responds by investing more. He now values the relationship higher. Mallory gives a little, then repeats the cycle. She breaks the relationship again, and Bob repairs it, again. She can make Bob see this as the primary relationship in his life. He will sacrifice everything to make it work. It only ends when Bob is empty.
 
-A power pyramid recruits young men with ease. As with all our instincts we see the reason in our evolutionary history. Human men formed groups to hunt large wild animals. This is a high-risk high-benefit team activity. Older men share their knowledge, and younger men share their physical abilities and time. Young men who respond to "follow me" from older men are more likely to come back with meat. And that maps to reproductive success.
+Futures tend to be massive compared to sincere investments. This means the bond works much faster than a normal social bond. In a typical case it takes only a few days for Mallory to hook Bob. It will take her only a few months to become the most important person in his life.
 
-A "follow me" promise of future rewards from an older man is a trigger. The bigger the promise, the bigger the response. It does not have to be logical or sane. Indeed, insane propositions are often //more// attractive than sane ones. A sane proposition requires hard work and patience. An insane one just needs suspension of disbelief. "I know some VCs and they'll invest millions in your idea!" is hard to refuse.
+Over time, Mallory replaces the futures with Bob's debts. The advantage for her is that he can never pay them off. She controls that ledger, and no matter what he does, she adds new debts to it. The sooner she can do this, the sooner she can focus on other targets.
 
-There are a set of "follow me" triggers that let one man take control over others, even a group. The triggers work best on younger men, under 40, and without children. These are the ones I know:
+Sunk costs and future promises are the basis for many confidence tricks. The archetype is the [https://en.wikipedia.org/wiki/Spanish_Prisoner Spanish Prisoner] aka Nigerian advance-fee fraud. This is the backbone of the abusive bond. Even when Bob is bleeding empty, he will deny that Mallory is dishonest.
 
-* //Making a solitary approach//. This shows confidence, and defuses the group's natural defense reactions. A single man cannot be a physical threat to a group.
+++ Mallory's Books
 
-* //Showing dominant body language//, particularly towards the existing dominant male. If the dominant male does not fight back, they have stepped down, at least for a while.
+What do Mallory's ledgers look like? How does a psychopath do social accounting? In broad terms, they do not. They use different mechanisms to track their relationships. To start with, Mallory can hold many more ledgers than Alice. His Dunbar number is in the many hundreds. He does not track gifts. He does value his relationships relative to each other. He definitely knows who is most likely to feed him.
 
-* //Appearing to be older and wiser//. This triggers the "wise old man" response in younger males. Wisdom is precious, as long as it is relevant.
+Mallory's ledger for Alice tracks the flow of resources from her to him. It tracks issues she appears to be sensitive to. Alleged crimes she has committed, that he can use as leverage. Often when he talks to Alice it is to try new accusations, and revisit old ones to see if they still work.
 
-* //Controlling the conversation//. Dominant males sustain eye contact, focus on higher status males, and smile less. They speak less, at lower pitch, and lower volume. This forces others to pay close attention to them. This triggers the "is dominant" response.
+You can see that this ledger is not negotiated. Alice cannot get Mallory to change by being happy, nor angry. Her social instincts work against her.
 
-* //Making promises of potential wins//. These can be large and difficult as possible. The crazier, the better. Young men's biology makes them natural gamblers. A huge potential payoff triggers the gambling response, no matter how slim the chances.
+This bond can last years, even a lifetime. Seen from the outside, it is incomprehensible and immoral. Yet it seems an inevitable consequence of the social accounting instincts. Evolution doesn't try to make everyone happy. It plays the averages. If 10% suffer so 90% can thrive, so be it.
 
-* //Invoking a common enemy//. This triggers the defensive reaction. It gives the group focus and energy the outsider can own and steer.
+Yet there are clear ways to escape this bond, no matter what stage it is in. I will come to this later. The suffering is only inevitable as long as Alice believes Mallory to be sincere.
 
-* //Demanding action and proposing a plan//. This triggers the "follower" response. If a majority of the group responses, the outsider is now in charge.
+++ Stockholm Syndrome
 
-* //Attacking internal enemies//, especially the old leadership. This triggers the paranoia and revenge responses. With luck the new leader can purge the hierarchy of all potential threats.
+> "If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man." -- Mark Twain
 
-Not every pretty, flirtatious woman is a psychopath. Not every man who uses these techniques is a psychopath. The difference lies in outcomes. Do we see deception and exploitation or honesty and mutual gain? Are people getting burned-out and depressed, or happier and more independent? Psychopathy hides well, yet when it is organizing people for its own ends, the damage will eventually show.
+The third trigger is parental abuse.
 
-These triggers evolved for valid reasons. The ability to organize around charismatic leaders saved our ancestors many times. And we leap to respond. If the triggers affect us at all, the biological imperative is to be first.
+As Mark Twain observed, the more someone invests in us, the //less// we value them. A visible effort by the other person diminishes them in our eyes. If a dominant man is generous to a submissive man, he creates a challenger. The submissive male sees the dominant male as weak and needy. Instead of affection, he feels antagonism and rebellion. This is our ancient primate mind at work, fighting its way up the group hierarchy.
 
-Once the response kicks in, it grows to match the trigger. A natural leader can push the stimuli to a certain level, no more. Mallory keeps pushing, far beyond what is normal and necessary. The effect calms down after a while. Yet that supernormal stimulus shock leaves an imprint that lasts for years.
+Parental abuse triggers the opposite effect. It is the bond that children have with abusive parents. Mistreatment comes in many forms. It can come as verbal, emotional, or physical violence. It can come as physical confinement. It can be negligence of basic needs. It can be disregard for social cues and needs. We would expect children of abuse to hate and detest their parents. Instead, they bond hard. They identify with their parents, defend them, excuse them, and follow them.
 
-Mallory take a group towards self-destruction, while emptying the coffers. When he says, "follow me!" it hooks Bob into a situation he has no control over. Bob feels he cannot abandon without betraying his ideals, his friends, his own investments.
+The evolutionary benefits of responding like this are clear. To survive in an abusive family, a child must accept the abuse. To rebel is to starve. More, the child must push the worst of it onto his or her siblings. That means being the most enthusiastic defender, the first to comply.
 
-I've seen this used hundreds of times, often with catastrophic effects. It causes burnout: utter exhaustion, disgust and depression. Today we can recognize this as the classic outcome of a psychopathic relationship.
+To provoke the parental abuse response, Mallory pushes Bob towards childishness. When we think like juveniles, we respond like juveniles. We abandon our ledgers and social accounting. We do not negotiate. We submit, or we flee. Mallory has diverse tools to push Bob into this state. I'll cover them in [#capture].
 
-What is the clearest sign an organization is one or the other type? From my own experience, I believe it is the size of an independent team. By "independent" I mean free to organize and work as they choose. A dozen or less indicates a piece in a living system. Above twelve is likely a power pyramid or part of it.
+The parental abuse trigger is the basis for Stockholm Syndrome. That is the affection hostages feel for their kidnappers.
 
-A good theory lets us make further deductions and inferences. Let's try a few:
+The mechanism at work is one of dominance and submission. When an individual tells us to do favors for them, we have several choices. We can comply or refuse. These are both submissive responses. We can also assert dominance by ignoring or mocking them. We can avoid the question by walking away. We can comply while mocking, which is a mixed response.
 
-* Why are there so few women in power pyramids? Is this due to sexism and discrimination? Although sexism and discrimination are rampant, I don't think this explains it. Men enjoy working with women, for the most part. It is partly because power pyramids are incompatible with being a full-time parent, especially a mother. It is partly because women tend to ignore the "follow me" triggers that push men to sacrifice time with their family.
+If we do comply, we accept dominance and we then feel attachment. It is not just favors. If an individual mistreats us, we again have the same possible responses. Ignore them, mock them, walk away, or accept. If we accept mistreatment, we accept dominance.
 
-* Can psychopathic women rise in power pyramids? This seems unlikely. Most female psychopaths disdain the male concept of mass power, and do not seem to speak the male protocol. Both male and female psychopaths lack the talents for building power pyramids, and succeeding in them, except by upward conquest. Female psychopaths will tend to target powerful men. Most men who succeed in power pyramids are not psychopaths, and thus vulnerable.
+The worse the mistreatment, the stronger the dominance trigger, and the stronger the attachment.
 
-* Most of us fear and distrust power pyramids for good reasons. These organizations make billions of people miserable, even if these effects are hidden in the much larger success stories of our living systems. It does not mean all businesses are toxic. Far from it. It does not mean free market economics are to blame. True free markets underlie living systems, and are the enemy of power pyramids.
+Mallory is demanding with everyone she feels is under her spell. She puts on her anger mask at the slightest excuse. The verbal and emotional abuse she heaps on Bob can be astonishing.
 
-* We now have a evolutionary explanation for premature graying and male-pattern baldness. Graying and baldness signal male maturity and age. They trigger the "wise old man" response in younger men, and defuse the competitive instincts. When a man goes gray or bald earlier than others, he is mimicking the signals of old age. This can give him an advantage, if he is smart enough to pull it off.
+++ Isolation Attacks
 
-++ Women Hunting Women
+Our oldest defense against predators of any species is other people. When we have trouble with someone, our first instinct is often, "discuss with others." When we keep our problems private, from isolation, or fear, it usually gets worse.
 
-Female psychopaths hunt other women. That is a given. The question is "how," not "whether." Like the male-to-male pattern, it can be hard to see, almost cryptic. Our blindness to gender-biased behavior can make this research harder than it should be. Every time I write "women do X" or "men do Y," without qualifiers, it hurts. And yet these generalizations are a vital tool for approaching the truth.
+It is only through other people that we can understand the world. We may think of ourselves as clever individuals, yet that is self-flattery. We are only clever in groups. It is so easy for Mallory to lure people in. He spins them a fantasy, and sells it with promises, lies, threats, and half-truths. No-one is immune from such attacks, except other psychopaths.
 
-Male relationships tend to be cheap, loud, and public. Power pyramids appear to project male power over entire industries, economies, and countries.
+As Mallory blasts Alice with exaggerated triggers, she loses her sense of normality. When she explains her life to others, they will tell her "this is not normal." She may be stubborn, so such advice can wash off. Yet it can be the voice of reason that saves her. It just takes one person who recognizes Mallory's true character.
 
-Female relationships are by contrast secretive and deep. They carry vital knowledge about people and events. Above all, they are an important defense against Mallory no matter her gender. To learn how the female Mallory hunts Alice, we must decode the female protocol. Then we must see how to cheat it.
+So Mallory must separate Alice from the people she trusts and depends on. He does this through a series of "isolation attacks." He creates a bubble environment that he controls. He levers Alice into this environment. He keeps her isolated within it, so she cannot get help.
 
-The female protocol shows as a conversation between two women who have met before. The two women talk about people and events. The talk is not random. It is an exchange, a trade. The dialog continues until both women have what they want, and then it ends.
+We see this pattern over and over. It can be one person controlling another. It can be a company asset-stripping its staff. A cult swindling its members. Mallory has many faces.
 
-It is quite easy to see. Two women who know each other and have been apart for some time will sit apart, and chat. They will talk and listen in turns, neither woman dominant nor submissive. After a period of talking, they will defocus from each other. They switch attention back to the rest of the world. It is tempting to call this a "gossip protocol." Yet it is more accurate to call it a "grooming protocol." It is intimate, yet non-sexual. As far as I can see, it is the human version of the grooming behavior other primates engage in.
+* First, Mallory creates a bubble environment. In a couple, this will be "our new apartment." In a start-up, this will be "the new offices." In a cult, this will be "our new education center." The bubble looks and feels like home. It lacks the critical part of any home: real family.
 
-Men also use a grooming protocol to deepen their relationships. Yet it is thin compared to the female version. The producers of day time soaps know this. It is the female mind that obsesses over stories of social intrigue. The male grooming protocol is little more than, "hi, everything good?" followed by drinks in a neutral setting. Males trade favors yet it is marginal.
+* Next, Mallory convinces Alice to move into the bubble. The further she moves from friends and family, the better for Mallory. The move is Alice's investment. It makes it harder for her to talk to others.
 
-The female grooming protocol is central to a woman's identity and power. A powerful woman has many relationships with other women and gets valuable knowledge early. Valuable knowledge is timely, accurate, secret, and detailed. A weak woman has few relationships, and her knowledge of the social world is poor. That means it is inaccurate, out of date, well-known, and incomplete.
+* Now, Mallory starts to cut Alice's links to other people, one by one. He'll sow distrust by telling Alice stories of what people said about her. He'll create conflicts, and make Alice believe everyone hates her. While he is doing this, he will charm her family and friends. No-one will imagine Alice is in trouble.
 
-The grooming protocol has three main functions, which work at the same time. First, as in any species, grooming establishes trust between two individuals. Second, the protocol spreads accurate knowledge about people and events through human society. Last, it detects and punishes long-term cheats.
+When Mallory moves to isolate Alice, the stakes have risen high. This is the point where the young person leaves home, into the arms of a child abuser. This is where your brother packs a bag and moves into the cult compound. This is when the young couple announce they are moving in together. This is how the wealthy husband leaves his wife for a younger, prettier woman.
 
-Of all the topics women love to talk about, sexual infidelity seems to top the list. It's not as simple as "bad news travels fast." Sexual fidelity isn't data. Cheating is, because repeated sexual misconduct is a prime trait of psychopaths.
+It is always a shock to friends and family. Alice abandons them for an unknown adventure. She uses passionate language. "Destiny!" she says, when people ask "why?" Mallory is discrete, charming, plausible.
 
-Mallory lies and exaggerates when grooming. This lets her stay dominant in that relationship. Her need to control the narrative is a red flag, if you can spot it. It's more visible than the low quality of the data she is providing. Mallory is the victim, hurt and needing affection. She reports the latest horrendous acts of her male partner. She begs for help and support. She flatters and charms.
+If Alice was sober and able to listen, I'd try to warn her. Keep your assets out of the relationship at all costs, I'd say. Define boundaries and protect them with force if you must. Keep your friends and family close. Avoid physical vulnerability. Please don't trust Mallory, he is not what he seems to be.
 
-In return, Mallory gets valuable information about other people. Alice is quite lost. She gets what feels at first like a valuable and deep friendship. And yet it is empty, and over time, more and more abusive.
+Yet when Alice is moving in, it is already too late by months. You cannot treat addicts with logic. If there is a clear example of temporary insanity, this phase is it. Perhaps a dose of Clozapine or some other [http://en.wikipedia.org/wiki/Dopamine_antagonist dopamine blocker] would help.
 
-These appear to be the key triggers:
+++ Exploring in Safety
 
-* **Dramatic story-telling**. It is the drama of a daytime Brazilian soap opera. The characters are beautiful or evil or both. They are violent and emotional, proud, and loud. The stories are false and they are endless. Alice feels as if she is five and getting a fabulous bedtime story.
+Reading this, you may ask how to avoid Mallory, and escape if she does decide you look interesting.
 
-* **Playing the helpless victim**. The offender is a partner, employer, or the authorities. The crimes are infidelity, violence, and theft. "He beat me and the kids, took the family money, and spent it on whores." Alice feels like an older sister, compelled to offer advice and help.
+Locking yourself in a room is a poor option. People do try this. I do not recommend it. At the same time, if you walk among strangers, you will meet Mallory, over and over. It is as inevitable as day and night.
 
-* **Flattering the listener**. This means compliments, attention to birthdays and personal events, and excessive amounts of attention. This is a form of "love bombing" I'll explore more in the next chapter. Alice feels important, valued, and loved.
+Another strategy is to become a "grey rock." This means, showing little or no response to anything people do or say. This is a decent strategy for surviving a psychopath in the room. Yet Bob and Alice don't like this and will avoid you. Grey rocks tend to be lonely, which is not a good thing.
 
-* **Revealing others' secrets**. These are negative, intimate, detailed, and often invented. The listener feels as if they are getting rare and valuable knowledge. They feel powerful. Mallory uses this to divide Alice from her friends and colleagues.
+You may ask, would it help to act more like a psychopath? It is a common question. There is this notion that psychopaths are successful, with their charm and social fluency. They do not suffer the bruises of emotions. They seem strong, even invincible. Does acting like Mallory give us immunity? The answer is "yes, except it's not that simple."
 
-* **Utter, palpable sincerity**. Mallory lies often and about anything. Yet she shows no stress response or hesitation when lying. She shows deep sincerity in voice, expression, and body language. Alice's responses is to over-value everything Mallory says. It's not just true, it's hyper-true. The stranger Mallory's lie, the truer it feels to Alice.
+So then we ask: can we just identify the psychopaths, and avoid them? After all, we have checklists and personality tests. In theory, yes. I'll explore this in [#diagnosis]. In practice, the answer is "most often, no". Mallory has been fooling people since she was a toddler. She fools professionals: psychologists, law enforcement, judges. She fools people who see her every day for years: partners, children, close friends. What makes you special?
 
-How does Alice respond to such triggers, if she does not wake up and walk away in disgust? Usually she opens up, and provides all her secrets. She treats Mallory like a reliable BFF. Alice introduces Mallory to other friends, and engages her in social activities. The reality only hits many years later. It takes many counter-voices to undo those piercing lies. By the time Alice questions the relationship, the damage can be deep. If she can, she will walk away in shame, and never speak of Mallory again.
+Where does this leave us? We cannot distrust everyone, or we become isolated and more vulnerable. We cannot extend blind trust to everyone, or we suffer wound after wound. We cannot tell who we can trust, and who we cannot. It seems like a paradox.
 
-++ Look, I'm Your Father
+Yet what looks like a paradox is actually a set of false assumptions. The main one is that we can trust Alice and Bob, and we must distrust Mallory. Then that we must decide alone, in our own minds. The third is that we must judge each case afresh, on its own merits.
 
-I've covered how Mallory hunts other adults. In general adults are fair game, and expected to be capable of defending themselves. The authorities and general public have little sympathy for them. When laws get broken, then the police and courts may step in. There are two other common scenarios that create more anger and revulsion. That is, when Mallory preys on young people, or on the aged.
+++ The Theory of Trust
 
-Let's look at the case of young people first. We can see clear, recurring patterns of vulnerability. I believe these both attract, and breed psychopaths.
+The psychopath manipulates trust. From the first seconds of a meeting to years later, Mallory insists: "trust me!"
 
-It starts with children cut off from their family by distance, isolation, or abandonment. In stable societies, orphans and young offenders are housed in homes. In societies hit by economic collapse, young people run away and become street children. In war, families can get separated, and young people end in refugee camps.
+So it's worth looking at trust. Trust is a hypothesis about a person's future acts towards us. "I trust her" is shorthand for, "my hypothesis is that she will not harm me." Like any hypothesis we cannot prove it is true. We can only try to falsify it, and fail.
 
-Then we see Mallory moving in, and building abuse networks. He may pose as a relief worker, religious organization, or youth worker. Or she may wait at transit points for new arrivals, picking out candidates. "Hey, you look hungry, would you like a meal?"
+To establish any depth of trust, we need opportunity and time. We need chances for the other person to break their trust. We need safe spaces where failures are not harmful. We need time for many such experiments. You need an unbiased observer to collect the data.
 
-The trigger is attachment to family. Young people away from their relatives will feel alone and insecure. They will respond to adults who act like parents. As with other triggers, Mallory can exaggerate his behavior, and get stronger responses. The adult shows confidence and gives more fake affection. The young person responds with more trust. Mallory can push this further and faster than social humans.
+Mallory specializes in distorting this process. He expands experimental space far beyond what is safe. He forces conclusions based on too little data. He influences others to accept lies as truth. Mallory's logic is: you trust me, thus you must invest in our relationship, now.
 
-There is a huge global trade in young people. Sometimes it calls itself "cultural" or "sporting" exchanges. Young girls from Guatemala who think they're going to become dancers. Young men from West Africa, dreaming of a future in European football.
+As I explained, Mallory distorts our social accounting to make us trust him. Despite ourselves, we evolved to want to trust people. The more we work to establish trust with a psychopath, the worse our conclusions. This means that trust is a poor tool for predicting others' actions. It becomes a form of gambling. Most of the time we are lucky. We come to believe we are born lucky. Now and then we have horrid accidents. Then, we believe fate wants us to lose.
 
-Sometimes it's desperate parents who send their children off to a "better future." They pay brokers to take their children to Europe or America. The figures are unknown. This is not a documented trade. One million a year? Ten million? No-one knows. The children often just disappear.
+Consider this: you can create deep and loving relationships without depending on trust. Not that trust is absent. Rather, that it is not the basis for the relationship. Correlation is not causation. Trust is like happiness. It is a social emotion that you feel to show the other person how much you like them. Like happiness, it can come from real reasons, or fake ones, and we cannot tell.
 
-Sometimes it's [https://en.wikipedia.org/wiki/Slavery_in_contemporary_Africa#Child_slave_trade blatant slave trading]. Brokers travel to poor villages, buying or kidnapping young boys and girls. They move these children far away. They set them to work in homes, cramped factories, or brothels.
+++ Motivational Awareness
 
-Whatever the cause, the distance from a loving and protective relative means vulnerability. Vulnerable children always attract Mallory. She sees raw material to own, shape, use, and trade. Bob should not die, may not run away, and must make a profit for Mallory. That is the limit of her concern.
+If we cannot use our feelings of trust to predict another's actions, what do we use?
 
-Then Mallory builds a trafficking network, with others like him. He starts moving young people up and down this network. He specializes in buying. Or perhaps in selecting and training children for different roles. Or in moving them across borders, into Europe or the USA, where they are worth more.
+The answer is motivational awareness. That is, to develop an awareness of others' motivations and intentions. As part of that, we must also be honest about our own motivations. It is our own lies that trap us.
 
-It remains easy and cheap to smuggle children across borders. It is a matter of knowing how. A falsified passport costs from 500 to 2,000 Euro depending on the country. It's a real child's passport, with the photo of the victim. Dark kids all look alike, don't they? //Update: at least in Belgium, this loophole was closed in 2015, with better checks of under-aged passport holders' identities.//
+Why are we in this place at all? What are we looking for? Most often we disguise our own motivations. We do this for ourselves first, and for others thereafter. There is a social process. To put our needs on the table shortcuts this process, and invites rejection. One does not ask an unknown person, "are you single?" or "how much do you earn?"
 
-And then Mallory filters out young potential psychopaths. She coaches them, using other children as practice material. She promotes them and turns them into her proxies.
+Thus we often hide our desires and needs. Yet this does not hide them from Mallory. When we push our motivations out of sight, we create denial. When someone sees that denial and pushes the trigger, our response is higher.
 
-This problem of child abuse is old, guarded in shame, and has been hard to solve. One scorns the sweatshop, then wears the t-shirt. So often it hides in families, under layers of tradition and racism.
+So instead, we look for our motivations, with honesty. We accept them, and we then resolve them. There are not a huge number of possible motivations. Indeed the set is small and depends on our age, gender, and circumstances:
 
-How to solve this? We can hope to reduce war, stabilize economies, and strengthen families. We can raise awareness of the mechanics of abuse. We can try to keep predators away from vulnerable children. Yet we cannot remove psychopaths, nor switch-off their predatory nature, nor guard every child. Who guards the guardians?
+* We look for people to trade our knowledge and skills with, to learn from, and work with.
 
-There seems to be another answer, which I believe is emerging little by little. Mallory's strategy has one weakness. That is, young Alice or Bob must be alone and far from help. The core of the problem is isolation. This means there are no alternatives to the fake parental masks Mallory wears. When you have no-one to talk to, Mallory looks like a friend.
+* We look for people to play with, be it mutual fun, or more sinister bullying.
 
-We must give children tools to create their own social networks, face-to-face or on line. Teach children to ask for help, from their peers, and others.
+* We look for partners for casual affection, exploratory sex, and possible long term relationships.
 
-Access to other people over the Internet, using a personal device, is vital. It is as important as clean water, education, and access to health care. One day the technology will be close to free and available to every child on the planet.
+* We look for people to look after us, with advice, resources, affection, shelter.
 
-++ Good Listeners
+* We look for people to invest in, with our knowledge, resources, and affection.
 
-At the other end of life, let's consider elderly people with some assets. You might think as we get older, we develop more resistance to con artists. Yet it's not so. The asset-stripping of the elderly is almost an industry. It's not because the aged have dementia. Nor are they stupider than average. It is because psychopaths are good at this. To be alone is to be vulnerable.
+* We look for people to share experiences with, to make us feel safe and meaningful.
 
-The extended family is no more, in most Western countries. This [http://www.telegraph.co.uk/news/8151986/Divorce-and-death-of-the-extended-family-leaves-pensioners-alone.html leaves many aged alone] in their houses, or retirement homes. Their children are adults with their own families, living far away. Decades of economic growth means many aged have assets. This generation presents a lucrative target to psychopaths. And Mallory targets them with care and precision.
+* We look for people to like us, follow us, and listen to us, so we feel more important.
 
-There are several types of attack I've observed, and will explain:
+That is about it. It comes down to sharing knowledge, power, money, sex, security, attention, love, and care. We can not stop ourselves needing these at times in our lives. Yet how we respond to a trigger undergoes a dramatic change, when we accept our needs. Accept and embrace them, and they are no longer a vulnerability.
 
-* The //Helpful Advisor//. Mallory induces an elderly Alice to gamble. He takes the form of a financial advisor working through the family. He uses the children's greed against their mother. Perhaps he proposes Alice take on extra debt, using her home as collateral. Mallory gets a good commission. The children get cash. Alice later finds herself unable to repay the debt. The family goes bankrupt. The triggers are family pressure, and greed.
+Let me illustrate. Imagine a homosexual man dealing with his sexual attraction to other men:
 
-* The //Helpless Stranger//. Mallory asks an elderly Bob for money. Any excuse gets her into the living room. A little chat to establish trust. Then, something like, "the problem with society today is how selfish people are. No-one cares any more. Like, my mother is dying from cancer, and our bank is kicking us out of our home!" Bob may ask if he can help. Mallory refuses point-blank, with tears in her eyes. Bob insists! Mallory again refuses, saying she'll find a way. Bob's suggestion offends her. Yet Bob is adamant, and Mallory leaves with an envelope of money. Guilt is the trigger here.
+* He may deny it, to conform to social expectations. This makes him vulnerable to predators, as he will ignore weak cues. He will respond only to the exaggerated cues that psychopaths are good at projecting.
 
-* The //Parental Authority//. Mallory gains full control over the elderly Alice. The control is emotional, physical, and then financial. I'm not saying all private nursing homes are like this. Only a certain fraction of them. Push Alice to act and feel like a child. She responds to your authority when you then say "please, sign this document."
+* He may accept and embrace it. This lets him recognize weak cues, and project them in turn. When someone projects exaggerated cues, he can now see these as a red flag.
 
-* The //Surrogate Child//. Mallory acts as the elderly Bob's child. She finds a way to spend time with him. She listens, and asks innocent questions. Just by being attentive and submissive, she triggers the parental response in Bob. She can then come with her problems and worries. Bon will take try to solve them. The bigger the problem, the more he responds.
+Mallory picks up on the first case, to flip into a super-stimulus response. When you have hidden dreams and desires, you are vulnerable. Anyone with the talent can guess those dreams. And if they then promise to make them come true, they carve a hole into your mind. Yet if you embrace your desires and carry them in the open, it changes. You will find small, real comforts in most of the people you meet every day. It adds up to much more than any dream.
 
-++ Guess Who's Coming to Dinner?
+Normally, hiding our deepest desires, we see a crowd and feel, "most of these people are uninteresting." We narrow our vision and become passive, waiting for others to provoke a response in us. We appear bland, uninterested, perhaps shy and quiet. Every encounter feels risky, and if someone does break through our shields, we treat this as a special event.
 
-There is one more arena where Mallory hunts. That is, within the family itself. Family life does not bring frequent strangers. Yet it makes up for that with good cover. Families tolerate significant imbalances of power. Mallory can do extraordinary damage to a family from the inside. And this can be invisible to outsiders, even active observers.
+When we understand, and accept our motivations, we can shift our perspective to "everyone here is interesting in some way." We broaden our vision and become active, trying to provoke a response in everyone we meet. We become playful, and outgoing. We have no shields to break. We're like a song bird sitting happily on every round object it sees, blue or not.
 
-We can break this into two main cases. In some cases, Mallory is already in control of the family. He works to keep and extend his power. In most cases, the family is not... //infected//... and Mallory is trying to enter and gain control. The first case is about stealing any newcomer's resources. The second is about stealing the resources of a whole group.
+It is also healthy to understand the motivations of others around us. You can of course ask out loud, and get an answer. The answer will often be wrong in all the most important places. You have to go past spoken words and borrow one of Mallory's tricks.
 
-The damage Mallory can cause to a family can be extreme. There is the personal damage, the trauma and loss of power. There is the collective damage, the loss of property and savings. Look at a family fractured by dispute. Look closer, and you may see Mallory at work.
+When you are among strangers, practice cold reading them. Every person you see or meet is a story. Something happened to bring them to that exact place and time. What is their story? What are they hoping for, afraid of, dreaming of? Sometimes it is explicit, or obvious. Even then you will see layers. There is the story we show to others. There is the story we tell to ourselves. And there is the hidden truth.
 
-How does Mallory enter a host family? The most obvious way is to marry into it. The reaction of parents to a new partner is often so extreme it is a popular caricature. Yet given the risk of a psychopath, suspicion and hostility are normal. Anything else would be negligent.
+It doesn't matter how well you guess. It is the perspective that matters. You can see strangers as words, bodies, and faces to respond to. Or you can see them as stories waiting to speak. That viewpoint lets you pick up on details that otherwise slip past you. Things people say, or don't say. The way they control, or respond to others. Their body language. How their friends act. Whether they appear alone, or part of a group. Whether they keep trying to get your attention, or not.
 
-It is hard for men to understand women's real motivations and character. There are too many signals and triggers getting in the way. Thus, it's the mother's job to vet new girlfriends. Likewise, women are often poor at judging men. So, new boyfriends must win the father's approval.
+When you see strangeness, and you will, try to document it. Make a mental note and if you can, keep a journal. Anything that seems unusual. Over time you'll start to see patterns emerging. Many will be familiar from this book. You will start to see pain and hurt. You'll see through the many acts people play. You may now and then see Mallory, when she's not paying attention to you.
 
-The classic pattern starts with an interrogation and checking of credentials. There follows either conditional approval or rejection. Then, a period of probation. Then, celebration and maybe babies, at least in the parents' minds.
+++ Emotional Awareness
 
-This drama plays out over and over, in real life and in popular culture. We have the parents and their desire to see their daughters and sons making babies. We have their distrust of the newcomer. We have youth and its demands for independence and self-definition. These allow for a wide range of characters and plot points.
+One of the core techniques to learn is emotional control. This is essential to escaping a relationship with a psychopath. It is also a useful skill in a broader social and professional context.
 
-Take for example the much-maligned mother-in-law, the butt of jokes in every human society. Few married men like their mothers-in-law. It is hard to forgive someone who kicks off on the assumption you're a psychopath. The irony is rich. A mother-in-law who does not question her daughters' choices often conceals trouble ahead.
+Like motivations, our emotions form an identifiable core set. These are universal across cultures, and live in our genes. The psychologist Paul Ekman proposed six original universal emotions. These were: happiness, sadness, fear, anger, disgust, and surprise. He seems to have missed jealousy, loneliness, despair, and self-pity and a few others. Later he added others including guilt and shame. The full list I explain in [#emotions] runs to about fifty emotions.
 
-Divorce divides a family and exposes it to predators. If the father is absent, it is easier for male psychopaths. If the mother is absent, it is easier for female psychopaths. Divorce usually spreads the assets. So while post-divorce families make easier targets, they tend to be less profitable.
+The emotions evolved to coordinate our bodies for actions like fighting, or running away. They also evolved as a language that expresses on our faces and bodies. This is a universal language that babies can speak before they can form words. They live in the areas of our brain also responsible for empathy. These are the anterior insula and the amygdala. These areas also process our sense of smell. In humans this sense has strong ties to emotions.
 
-When a family is wealthy, in a country with a weak state, it presents a lucrative target. Strong families in developing countries develop a culture of arranged marriages. They vet candidates with paranoia. One bad choice can destroy generations of accumulated family wealth.
+Psychopaths do not have the same wiring in these areas of the brain. It's not clear yet what their anterior insula and amygdala do. Perhaps emotional mimicry that drives facial expressions. In any case, they do not share the same emotions as non-psychopaths. Their emotional range is limited, as I'll explain in [#emotions]. They have limited empathy. They have no disgust at mutilation, visible or imagined. They have a different sense of smell.
 
-This model lets us make a prediction about any given society: //the rate of arranged marriages will correlate with social status of the pair.// The higher their status, the less free choice in marriage. This seems true in all societies. Between societies, the weaker the state, the higher will be the rate of arranged marriages. This is because weak states cannot protect a family's wealth from predators.
+As a social human, we cannot control how our emotions display. If we feel an emotion, it shows. This is their value as social signals: they are honest. To fake or suppress an emotion takes training, or psychopathic talent.
 
-After union, the next way into a family's coffers is by seduction. These relationships tend to become common knowledge. When a young man dines with a widow, or a woman dates a man twice her age, we ask the same question. "How much money is on the table?" If the answer is "a lot," we conclude the worst. Only if there is no money at risk, do we consider it might be love.
+While emotions are powerful social signals, they also affect our senses and behavior. If we feel a strong emotion, that affects how we see others. If we are happy, we see others in a positive light. If we are sad or anxious, we see others in a worse light.
 
-Mallory can seduce a married man for gifts and money. She will use her sexual triggers to create an all-consuming dependency in the man. It's all the more potent when the man is in a marriage where the romance is long gone. This is banal. Sometimes, Mallory will make friends with the wife. She will convince her there is no cause for worry. She will become her best friend, without a twinge of fear or regret.
+Since they affect our awareness, emotions also make us vulnerable. If Mallory makes us happy, we like him more. If Mallory makes us jealous of someone, we start to hate that person. If Mallory makes us afraid, we will do what he demands.
 
-It's harder for Mallory-the-male to hack into families like this. He may pull Bob into money-making schemes that end in disaster and loss. This is how the Mallorys of Wall Street empty many savings accounts. Or, he may seduce Bob's wife Alice, and convince her to steal for him.
+To see clearly, and to resist Mallory's attacks, we must control our own emotions. Controlling your emotions is as hard as faking them. I'm sure there are many techniques. I call my technique "grounding." It works by identifying and resolving emotions one by one. I'll explain grounding in detail in [#emotions]. For now, here is a summary.
+
+The basis for grounding is that emotions are distinct, yet trigger in chains. Fear of being alone may trigger jealousy of others. That may trigger anger, which in turn triggers shame. The result is a soup of emotions, dominated by anger and shame. We can learn to identify the strongest emotion, shame, and sense what triggered it.
+
+We can then work backwards until we come to the root emotion. The root emotion rests on a belief that we can negate. That fear of being alone is baseless. Doing that, the fear disappears. And then the whole chain of emotions is gone.
+
+One of my sons is angry with his brother. I can see the small jealousies that provoke it. Those come from insecurity. Rather than ask them to stop bickering, I cuddle them both. The insecurity and jealousy and anger disappear.
+
+To fake an emotion you do the same in reverse. Start with a belief or hypothesis that generates a strong emotion. Let this trigger other emotions. Express these emotions. It can be a useful skill if you need it. For one thing, Mallory does not expect it from others.
+
+Grounding works in real-time, when you are in a difficult situation. You do not need peace and quiet. It does take practice, for most people.
+
+It can help you deal with people who antagonize you, in real life and online. A common root belief is, "feeling and expressing this emotion will get them to behave better." That is false with trolls and psychopaths.
+
+++ Situational Awareness
+
+The focus on others is a form of active meditation. Mallory likes you to listen to her and think of yourself, so she can push your buttons. That only works if you are unaware and lost in your own thoughts. It is good to search for others' motivations. It is also good to understand the situations you find yourself in.
+
+This means active listening and watching. Even among strangers, the most valuable data about a person comes from other people. It is a good question to ask: "how long have you known each other, and how did you meet?" When you observe how one person affects a group, you can tell a lot about them. This is much harder when it's just the two of you.
+
+So situational awareness is social awareness. Each person tells you their stories, and you build small theories of each person. Other people add weight to these theories, or falsify them. You throw away the theories that break, keep the ones that work. This sounds like a lot of effort. Yet it's just a set of small habits you can teach yourself, over months and years.
+
+Once you are good at this, you can understand the dynamics of dozens of people, in a short time. You can respond in ways that deflect conflict, and absorb shotgunning without effect. You can start to see psychopaths by reflection off others.
+
+It is wise to stay alert, sober, and with friends when possible. Alcohol and fatigue make it harder to stay aware of the people around you.
+
+++ Contextual Awareness
+
+Finally, situations are not context-free. The question is, how much of the context do you know? You will always be safer in a place that you are familiar with. You will know the kinds of people who come there, and why. You will know the economics of the place. In an unfamiliar place, you have to guess these, and you will often be wrong.
+
+This doesn't mean avoiding the unknown. It is only by exploring the unknown that we can learn. This applies to people and places alike. The point of context is to know that we're out of our depth. If you are in an unfamiliar place your first goal should be to understand it.
+
+You can look at a place in several ways. One perspective that you can try is that of the hunter. What are they looking for? Are you being that person? If so, what can you change to regain control of the situation.
+
+For example, I've traveled and worked a lot in Africa. A non-African always attracts interest, for various reasons. Much of this interest is constructive and benign. Some is life-changing in the best way. And a lot is predatory, pure and simple. The best way to escape the stream of predators is to stay away from other non-Africans. This either means staying locked up in a hotel room, or making local friends. The second strategy is by far the more pleasant.
 
 ++ Conclusions
 
-Mallory is insatiable, always hungry and thinking about her next meal. When she finds plausible opportunities, she approaches and shifts her manners and behavior. Here, she appears timid and modest. There, she looks dominant and arrogant. She shows astonishing range. She shifts voice and body language, posture and accent. She becomes whomever she must to move in closer to her prey.
+In this chapter I've described the first half of the psychopathic relationship. I've explained how Mallory can trick otherwise sane people into insane commitments. Her goal is to isolate her target. Alone, they will give her what she wants.
 
-Beneath her shape-shifting masks, Mallory does have a real and consistent personality and character. You will almost never see it, and even if you do, it is hardly recognizable as human. Psychologist [https://carlsonschool.umn.edu/faculty/kathleen-vohs Kathleen Vohs] has shown how priming people to think about money makes them anti-social, unempathic, and more likely to cheat. In other words, more like Mallory.
+Maybe I've made it seem easy for Mallory. And often it seems to be. Yet the stakes are high on both sides. If her trap fails, Mallory has lost an opportunity. Worse, she may have revealed herself. So she must select her targets with care.
 
-This is how Mallory sees the world the whole time. She is not like other people, in her own mind. And other people are not like her. Others are paper-thin shapes with a simple set of properties. Some are tasty, some are boring, some are useful, some are dangerous. She see a world of prey, and herself as a natural-born predator.
+The best defenses against a psychopath are proactive. It is easier to keep Mallory away, than to fight her off once she is part of your life. I've explained how to be aware of oneself and others, of the situation and context. When you need nothing, and accept everything, you are immune to Mallory's charms.
+
+This strategy is not only an effective tool against Mallory. It also lets you build deeper, more solid relationships with Bobs and Alices. To find every person interesting is a humanistic and optimistic perspective.
+
+Yet there are no guarantees. You, or someone you care about, will sooner or later get caught. Mallory will switch from charm and promises to different shades of violence. In the next chapter I'll explain how this works and what it looks like.

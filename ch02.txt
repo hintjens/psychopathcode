@@ -1,171 +1,484 @@
 // kate: font Liberation Sans; font-size 16; syntax None; bom off; indent-mode none;
-.bookmark predator
-+ Predator
+.bookmark hunting
++ The Hunt
+>  He wanders into his favorite place, a large bar and restaurant. The spot is popular with noisy young people looking for good times. It's early on this Saturday summer evening. He chats with the bouncer, Mike. The large man enjoys the distraction, and tells him little fragments of his life. His ex-girlfriend and the unexpected baby. His boss. He high-fives the bouncer and cuts the conversation. "Catch you later, Mike, I'm gonna get myself a beer". He crosses over to the bar.
 
-"//Human predators populate our society//" -- Stefan Verstappen.
+> Outside on the terrace he finds a large round table and sits with his cold bottle. People are trickling in. He watches them. A good mix, typical of this part of Texas. Migrants come here from all over the US, and beyond. Men check out women. The women pretend to ignore the men. Some couples. Some loners, backs to the wall, body language shouting, "I wish I was taller."
 
-> Keith is talking to a man in the corner of the room. I've known Keith for ages, so I go to say hi. He's agitated, stressed. It's not like him. He's always been a calm man, confident and quiet. He owns a plane, a little Cessna. He does small commercial gigs, takes tourists over the Grand Canyon. When he gets something extra, he puts it aside. "One day I'm going to buy our ranch," he tells me. Keith and Alexis, and their retirement dream.
+> The place is getting full now. A small group of young men sit on the steps beside his table. White, black, Hispanic. They look uncomfortable. He turns to them, asks "where y'all from?" Soldiers from a nearby army base, on a night out. He sweeps his arm to show his table. "Come join me," he says, "it's more fun at a table," he smiles. The men accept, and get up and join him. They're glad for the chairs, and the welcome.
 
-> "Hey Keith, how's it going?" I ask. The other man sits there, says nothing. Dark curls, Shaded glasses. Good suit, heavy gold watch. Keith shakes his head and shoulders in anger. "Fine! It's going fine!" he tells me. "Now can you please leave us alone? //Please//?"
+> These young men are smart, and curious. Not yet deployed, they're optimistic and trusting. He tells them sweeping stories of his own foreign adventures. They laugh with excitement. He stops, puts his hand on the table, and states the obvious. "We need women!" One soldier points with his chin. "How about those two?" He turns to see two pretty dark-haired women. They look bored and uncertain. "OK, don't move!" he tells the men, and gets up.
 
-> I'm shocked. I've never seen him like this. "Sure, catch you later," I tell him, and go back to my place at the bar. I watch them. They're arguing about something. The man shrugs, talks. He's quiet and intense. Keith calms down, stop shaking his head. He's nodding now. The small drama ends with them shaking hands. Keith signs a piece of paper. The man folds it, puts it in his jacket pocket, stands, leaves. I wait a minute, then take my drink and sit across from Keith.
+> "Hi ladies, how you doing?" he asks them, not listening to the answer, which is always "fine" or "great." He watches for any signs of irritation. They seem happy to talk to him. "You waiting for someone else?" he asks, and they say no, it's just the two of them. He frowns, studying their features.
 
-> "Mind if I sit?" I ask him, already sitting. It's our running joke. He looks at me, not laughing, and sighs. "What was that?" I ask, still somewhat annoyed at him for sending me away before. "Nothing," he says, "Business." He changes the subject, asks about my kids. We chat for a while. He's distant, skinnier, hasn't shaved. I want to ask more about the guy in the suit. Then I don't. No need to stir the pot, right?
+> "Where are you from?" he asks. "Guess," says one, laughing. He tries to place them. Dark eyebrows, dark green eyes, pale skin, high cheekbones. Lebanon? Georgia (the country, not the state)? They laugh and shake their heads, "no."
 
-> That's the last time I see Keith. Two weeks later I get a funeral card from Alexis. His //widow//. I call her immediately. Keith is dead. He crashed his plane. No passengers, just him. I'm lost for words. "So sorry." It's all I can say. Keith?
+> "Won't you join us? We've space," he invites the women with a broad sweep of his arm. They look at the handsome, crew-cut male faces, shrug, and accept. "Sure, why not."
 
-> The investigator finds the plane had no technical problems. It didn't hit anything. The skies were clear. So he rules it a suicide. Keith crashed on purpose. No insurance for Alexis. The worst part is Keith cleared out their joint savings account. And just a few days before I saw him. Over $180,000 gone, no explanation.
+> The two women sit beside him, and he chats with them, making more wrong guesses. Russia? Armenia? They laugh. The soldiers buy them drinks. Everyone is happy, it's a great party. Finally, he admits defeat, and they tell him, "India." He's shocked, impressed, and fascinated.
 
-++ Psychopathy as Adaptation
+> "The most beautiful woman I ever met," he says, "was from Georgia. We talked for five minutes, and I wanted to marry her right on the spot. You both have the same features. I was //sure// you were Georgian! But India, wow... India!"
 
-Some researchers have suggested that [http://justnotsaid.blogspot.be/2013/11/sociopathy-as-evolutionarily-adaptive.html psychopathy is an adaptation], rather than a disorder. I had the same idea many years ago when involved with a difficult young woman. She was in treatment for borderline personality disorder. She moved from job to job, always blaming others. Her life was a long story of abusive parents, ex-partners, and friends.
+> "Yes, India!" they laugh, flattered and enjoying themselves. They chat through the evening. The bar closes, and the public empties into the car park . His group is last to leave. The soldiers say goodbye and go their way, and the two women stay with him. "Do you want to go somewhere else?" he asks. "My car's there." He pushes his remote and the lights on his new Mustang convertible flash on and off.
 
-She lived in a cloud of chaos and emotional pain. Yet it was others who always showed the real hurt. No matter how bad the situation got, she was able to find a way out, and attract new friends. Behind her, she left a trail of damage and trauma. She was on medication, which she rarely took. She had a therapist, whom she later seduced. The "sufferer" always got what she wanted.
+> Later, one of the women asks him, "so how long have you known those guys?" He answers, "Oh, I only met them this evening." "What?!" she exclaims, shocked. "We thought you'd known them for years! You were like best friends!"
 
-Above all, she was //predatory// in a confident and innocent way. It took me a long time to realize I'd been sleeping with a psychopath. She wore the mask of "borderline" to be a more successful victim. At the time I also took notes. They documented my descent into an alternate universe. In a relationship with a psychopath, our core laws of social conduct are gone. In their place grows something alien and hungry.
+Psychopaths can exert a fascinating level of power over others. It is like a cult of two. When we meet such people and start to snarl our lives with them, we feel carried by destiny. It is a strange mix of certainty and loss of control. It is like falling in a strong wind. It is the hot fire of religious fanaticism. And it always seems to end in tears.
 
-There are already plenty of people studying psychopathy-as-a-disorder. I wanted to explore psychopathy-as-an-adaptation because it fit my data better. Further, it seemed to lead to more positive, and useful conclusions.
+The question others often ask is "why?" The relationships between psychopaths and other people are so destructive and bitter. "Why" is a good place to start. When we can answer that, then we can start to look at "how" and "who" and other deeper questions.
 
-To model psychopathy as an adaptation rather than a disorder opens a door to a new world. Our questions change. We ask what struggle pushed this evolution. We ask what specific adaptations they actually own. Do psychopaths have longer teeth? Sharper claws? Or are their talents more discrete?
+My stories in the last chapter were all about predators of one shape or another. Every psychopath works this way. Psychopaths hunt other humans. They attack and capture them. They feed on their time, resources, power, and energy. They dispose of the remains. And they move on.
 
-We also ask what counter-adaptations might exist in social humans (the non-psychopath majority). We ask, "Could the psychopath-social relationship in fact be a predator-prey story?" And the answer turns out to be an emphatic "Yes, of course!" We ask, "How old is this story?" and the answer is, "Millions of years."
+The violence is covert. It sometimes ends in self-harm or suicide of victim. More often it ends in depression. Every relationship between a social human and a psychopath follows the same pattern. There seem to be no exceptions, no "nice" psychopaths. To be a psychopath is to be a predator.
 
-++ The Predator Model
+This is no metaphor. This is the key to decoding psychopathy. //They are predators or parasites who feed off other humans//. Without this key, psychopathy is mysterious and baffling. It is like an ancient manuscript filled with symbols and glyphs. A text that affects so many of us, yet is indecipherable. With the key, we can read the stories and we can understand.
 
-The author of "Dracula," Bram Stoker, drew the psychopath as predator. Perhaps he had personal experience. The story is not meant as literal truth. It is a metaphor, and a good one. Dracula comes in the night, dressed to kill. He drains the life blood out of you, even as he seduces you with his charm and sexuality.
+While my descriptions are often of individual relationships, the patterns apply in many situations. We see them in cults, abusive businesses, and other predatory organizations.
 
-Dracula does not kill outright. Rather, he turns you into a weak copy of himself. He is powerful and animalistic. He can read your thoughts, even as you scramble to escape. And the best tension is human versus vampire, with vampire-on-vampire conflict as cherry topping.
+++ Mallory, Alice, and Bob
 
-Dr Robert Hare started describing psychopaths as social predators in [https://www.psychologytoday.com/articles/199401/charming-psychopath his landmark 1994 article in Psychology Today]. The subtitle is: "This Charming Psychopath -- How to spot social predators before they attack." In this article and his work he focuses on identifying psychopaths. Many of us are familiar with his "Psychopath Checklist."
+In the information security business, we sometimes call a hostile attacker "Mallory." Likewise, we call the innocent targets "Alice" and "Bob." I'll use these names in this book, to make it easier to read and digest.
 
-Predators deceive their prey as a core strategy. Human predators cheat their victims as a core strategy. It is the same thing. Animal models are essential to understanding and predicting human behavior. We find it hard to look at ourselves without lying. Our self-analysis crashes into notions of "free will" and "consciousness." We cannot improve nor discard these notions, so they obsess us. Yet we have no trouble dissecting animal behavior without such distractions.
+Mallory can be a man or a woman. I'll switch between "he" and "she" as it suits. Mallory is an adult, at least 14-16 years old, and under 70. Mallory is a psychopath.
 
-What I've done in this book is use the predator model as a backbone onto which all the rest can hang. We start with predators that cheat their way through the human social universe. All the rest derives from that, and makes sense in that context.
+Alice and Bob are altruistic, social people. They are targets of Mallory's attention.
 
-My first exposure to the predator model was in Stefan Verstappen's excellent work, [http://www.chinastrategies.com/defense-against-the-psychopath/ //Defense Against the Psychopath//]. This was the first text I read that suggested strategies for confronting and defeating a psychopath, which is the path I've taken in this book.
+++ Walk This Way
 
-++ Not the Ants You Are Looking For
+The first time you meet Mallory, it is an intense, personal, and deep experience. That is, to Alice or Bob. For Mallory it is insignificant, casual, a reflex. When she says "Hello" to a hundred people, 96% will feel affected. It is the smile, the eyes, the //depth// of that simple greeting. For Mallory, there is no effort, no emotional cost at all.
 
-"//There are spiders in Australia that smell and behave like ants: some are so convincing that the ants will allow a spider to live permanently as one of them. This spider will then feast upon its new friends, but it won't eat all the ants, or even a significant number; instead, it extracts resources slowly, sustainably, and over time.//" -- [http://aeon.co/magazine/science/animal-deception-illuminates-the-human-variety/ Daniel N. Jones, "Snake in the grass"]
+This is the "charisma" we speak of. It is the projection of joy at meeting someone we care a lot about. Alice and Bob cannot fake this. They show it only for those they cherish. To cherish //everyone// you meet is an extreme perspective that takes decades to find. Mallory fakes this by reflex, from youth. It does not take learning. It is her first rule of survival: //others must adore you//.
 
-It's not just a few spiders. Thousands of different insects have hacked into the ant colony in one way or another. One caterpillar [http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130541 mimics the queen ant's voice] to trick workers. The //Paussus// beetle is born, lives, and dies inside the ant colony. Not only does it smell right (ants use smells to detect friends from foes), it also mimics the sounds the ants make. Literally, it mimics the queen ant, saying "it's OK" to ants and larvae, even as it gobbles up.
+It's such a strong effect you can use it to spot psychopaths in the wild. I'll come back to this in [#diagnosis]. Most who cross paths with Mallory tend to feel little kicks of pleasure. If they are even a little lonely, this lures them back for more conversation. Meanwhile she is scanning for interesting targets. It doesn't take conversation. She can see vulnerability in people from their body language.
 
-Ants evolved to work together to collect food and protect it from thieves. They divide the work, care for their young together, and live in large colonies. They communicate, and they think collectively. An ant colony shows intelligent behavior.
+Social humans can learn this skill, with years of practice. Mallory needs no training for this. It is one of her many inborn talents. [http://www.forbes.com/sites/kareanderson/2012/09/11/what-vulnerability-looks-like-to-psychopaths-monks-and-the-rest-of-us/ Forbes Magazine writes], "it appears that psychopaths don't need that meditative practice to be inordinately observant... of weaknesses in others."
 
-Ants thrive, despite the parasites and predators after them, their protection, and their food. Indeed, ants are one of the most successful species. Ants have languages, tribal identity, social organization, the ability to work together. These are adaptations. One must ask, //to solve what problems?// and the answer seems to be: exactly that horde of cheats.
+Two signs above all show us as vulnerable. One, is to be alone or show solitary body language. Two, is to show fear and insecurity, and especially the signs of past abuse.
 
-Ants started by spreading the risk of a seasonal food supply. Many ants can harvest a wider area than a single ant. A lucky ant can share with unlucky ones. An unlucky ant will survive a bad spell. So ants evolved altruism, which is a good answer to a risky food supply. Other answers are migration, hibernation, and synchronized breeding cycles.
+Many people believe abuse victims often go on to become abusers. Yet the [http://www.webmd.com/mental-health/news/20030206/do-sexually-abused-kids-become-abusers rate is around 10%], unless abused and abuser are in the same family. Then it rises significantly. And one third of these adult abusers were cruel to animals, as children.
 
-Yet altruism has a weakness, which is cheating behavior. The ants' food supply is open to anyone who needs it. If you get into the colony, you can eat ants, larvae and food without work. Thus altruists had to evolve defenses against cheats, or go extinct. For an ant colony, this means to detect intruders, and then kill them. Genes for altruism can only survive if they also enforce reciprocity.
+I don't doubt that psychopaths abuse, neglect, and mentally torture their children, and that many of these go on to become psychopaths. It's a mechanism I've observed, and will explain later. Yet the "abuse causes abuse" model misses the 90% of children who are sexually abused and grow up to harm no others. I think it comes from social workers fooled by young psychopaths. "My father abused me, that is why I'm hurting others." Psychopaths never take responsibility for their acts.
 
-As Daniel Jones [http://aeon.co/magazine/science/animal-deception-illuminates-the-human-variety/ writes]:
+In reality, abuse victims tend to be silent witnesses to their own life of traumas. Or, as Joanna Moore writes in [http://facesofnarcissism.com/2015/06/16/if-you-havent-dealt-with-a-narcissist-or-a-sociopath-you-should-know-this/ The Faces of Narcissism], "It's easy to blame the angry victim and support the calm abuser."
 
-> Some predators are fast, mobile and wide-ranging, executing their deceptions on as many others as they can; they resemble human psychopaths. Others are slow, stalking their prey in a specific, strategic (almost Machiavellian) way... There is a never-ending arms race between the deceiver and the deceived among most living things.
+Past abuse is a prime predictor of future abuse. Coming from an abusive family stamp us with fear and insecurity. Having an abusive employer, or an abusive partner does the same. Our fear and insecurity flash a neon "Eat Me!" to passing psychopaths.
 
-So the ants evolved languages of smell, touch, and sound to identify each other. The cheats evolved to imitate these languages. The ant languages got more sophisticated. The cheats got better. And so on, over hundreds of millions of years, to give us the modern ant. One family of ants from Argentina now covers much of the world in a [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3352483/ "intercontinental super colony"]. This super colony is invasive, dominant, and drives out local ant species. An ant from Portugal can enter a nest in New Zealand, and be accepted.
+Fear of others shows in our [http://www.scribd.com/doc/35330362/Attracting-Assault-Victims-Nonverbal-Cues-Grayson-Stein#scribd body language]. Abuse victims lift their feet higher while walking. They take longer or shorter strides than average. They twitch their hands and feet. They avoid eye contact. They use submissive and defensive body postures.
 
-This should be familiar to you. Cooperative altruism appears in other species. Termites, bees, and species of wasp have evolved along the same path. So have vampire bats, killer whales, and humans. We also form an intercontinental super colony, that is invasive, dominant, and often acts like one family.
+All these cues are easy to read, if you have the right mind. Studies of criminal psychopaths [https://www.psychologytoday.com/blog/take-all-prisoners/201001/vulnerability-and-other-prey-psychopaths show how psychopaths pick-up on such cues].
 
-In his 2012 book "The Social Conquest of the Earth," Edward Wilson described humans as [http://en.wikipedia.org/wiki/Eusociality eusocial apes]. Our divisions of labor, overlapping generations, and cooperative care of young give us a "superpower" that few other species can achieve.
+I've no figures for how fast this happens, only anecdotal reports. I'd guess Mallory can work a hundred people in ten minutes or so.
 
-Humanity did not evolve in a garden of Eden. Severe climate shifts hammered us, over and over. We survived through many near-extinction bottlenecks, down to a few thousand individuals, over and over. These events didn't kill us off. Like the Argentine ants, we are descended from a single small population of genetically similar people. This lets us recognize each other as members of the same tribe.
+++ Big Blue Eggs
 
-We survived disaster after disaster by working together. We developed the ability to pass knowledge down the generations. We evolved altruism, the spreading of risk through tribes and generations.
+Mallory, looking for plausible targets, strolls through the crowd. She projects her sexuality just a little louder than the other women. She is looking for solitary, prosperous males. She watches how men look at her, and sees one nervous reaction that intrigues her. She goes up and shakes her hair, breathes in, smiles to him. She watches the man's face. He stares a little too long. She smiles to herself.
 
-Early altruistic humans had many cheats: scavengers, parasites, and above all, other humans. For every social instinct we evolved, we evolved talents for cheating others. And as cheats got smarter, social humans got better at identifying and punishing them.
+After choosing Bob out of all the potential targets, Mallory moves in. There is no visible chase, no running and screaming. The movies don't tell the truth. Mallory slides in like a long lost friend. She seem so nice, harmless, and sincere.
 
-Humans form networks of relationships. Sometimes these are hierarchical. More often we form ties to other individuals and groups. Those relationships aren't arbitrary. They build on meticulous accounting. We calculate trade in genes, food, shelter, sex, affection, information, time. It is mostly subconscious, yet it is constant and dominant.
+She opens with a range of tactics that depends on the context. These attacks work at the instinctive level, both in the attacker and the target. She begins with broad, unfocused probing. As Bob responds instinctively, Mallory shifts, tunes, and cranks up her game.
 
-We have sophisticated mental tools to track these relationships. We can remember faces for a lifetime. We remember the good and the bad, in detail. We can guess the relative value of any favor or item, in a given place or time. That roast chicken you shared with me for lunch is worth three beers tomorrow, or one in two weeks' time. We remember cheats forever, and we do not forgive them.
+The triggers for instinctive responses are usually simple caricatures. Evolution is lazy like that. For example, in many people a spider triggers screaming fear. That trigger sits in our genes as a dark dot with many legs. And we fear the [http://www.dailymail.co.uk/sciencetech/article-2158452/The-shape-fear--spiders-scare-Humans-hardwired-fear-angular-legs-unpredictability.html specific way those legs move]. A cartoon spider which walks the right way is as scary as a real spider. Make it walk like a daddy long legs, and it looks harmless. Exaggerate the spider walk, and the cartoon spider is scarier than a real spider.
 
-We have imagination, so we can plan how to work together. We have language, to exchange knowledge. We express our emotions on our faces, voices, body language, and the blush of blood on our face, ears, and body.
+Isolate and amplify the trigger, and you can amplify the response. There is no ceiling to this. Take our species' sweet tooth. We respond instinctively to fructose, which wild plants stuff into fruit in low doses. The sweetness hits the same areas of the brain as a drug like cocaine. In nature, this drove our primate ancestors to eat as much fruit as they could find. Then we bred ever-sweeter fruit. Then we refined sugar and began to load it into our diet. We eat hundreds of pounds of sugar a year, to the point of self-destruction.
 
-All of these are adaptations to defend against cheats. Just as the ant colony is the product of an arms race, so is human society. Who we are stems from this endless war between working together, and that promise: "the check is in the mail!"
+At no point in this story did we hit a limit in our instinctive response to fructose. Instead, the more we consume, the happier it seems to make us.
 
-++ The Forever War
+This escalating response to concentrated triggering is a known phenomenon, called "supernormal stimuli."
 
-//You and me, we've been at war since before either of us even existed.// -- John Conner, in //Terminator Salvation//
+Predators and parasites are specialists at using supernormal stimuli on their prey. The force behavior that is self-penalizing and illogical until you understand the trigger mechanism. So, a parasitic bird species may hijack the triggers young chicks use to beg for food. For example, an open red mouth. The parasite imitates and exaggerates the trigger. This makes the parent bird feed the parasitic chick before its own offspring.
 
-Since we're talking about evolution and a long arms' race, one question pops up. That is, when did human psychopathy start to evolve? What time period are we looking at here? It is a question no-one else has ever asked, according to Google. I'm going to try to answer it.
+In the deepest ocean waters, the angler fish dangles a bright bait that shines in the dark. This triggers prey fish to swim towards its toothy trap of a mouth.
 
-First, we can rule out a recent origin. Psychopathy is a consistent feature of humanity across the world. It is a human universal. It thus predates our expansion out of Africa, some 150,000 years ago.
+Or, take the eggs of a tree-nesting songbird. These are often pale blue with dark-gray or brown spots. This particular color scheme triggers the female or male to sit on the eggs. Perhaps instead of sitting on random stones, or eggs of a different species. The parasitic cuckoo lays eggs that are larger, and bluer, with darker dots. This causes the songbird to prefer the cuckoo's eggs over its own.
 
-The origins of humanity keep getting pushed back in time. The ritual burial cave of homo naledi in South Africa dates from around 3 million years ago. The oldest stone tools [http://www.the-scientist.com/?articles.view/articleNo/43066/title/Oldest-Stone-Tools-Discovered/ go back 3.3 million years].
+The arms race between parasite and host creates a natural balance. Overusing the trigger turns it against the parasite. If the cuckoo makes its eggs too attractive, vulnerable songbirds won't reproduce at all. Songbirds that don't react to the trigger will get an advantage, and dominate. For a parasite, killing the host is a losing strategy. It means only resistant hosts will reproduce.
 
-Ritual burials speak of empathy for the dead, and social emotions that go beyond tribe and family. Stone tools point to a structured society, a division of labor, some level of trade, and forward planning.
+Niko Tinbergen, the biologist who discovered and named supernormal stimuli, built plaster eggs. He found that birds preferred larger eggs than their own normal eggs. They preferred more saturated colors than normal. And they preferred more exaggerated markings than normal.
 
-Let me explain. To turn stone into usable tools takes incremental skill and learning, adapting techniques that follow a slow evolution. This means knowledge passing down the generations, which means specialized individuals, a caste of tool makers.
+So instead of a small light blue gray-dappled egg, he'd offer a songbird a fake. His egg was huge and bright blue, with large black dots. The bird would try to sit on this egg, over and over, and keep falling off.
 
-As Scientific American [http://blogs.scientificamerican.com/observations/archaeologists-take-wrong-turn-find-world-s-oldest-stone-tools-update/ writes,]
+It may make you laugh, yet for the bird this is insane behavior. We see that supernormal stimuli can produce insane behavior from well-evolved instincts. It is a evolutionary loophole many predators and parasites exploit. It is one human psychopaths often use to manipulate their targets into position.
 
-> The Lomekwi knappers were able to deliver sufficient intentional force to detach repeatedly series of adjacent and superposed flakes and then to continue knapping by rotating the cores. [They] intentionally selected big, heavy blocks of very hard raw material from nearby sources even though smaller blocks were available. They used various knapping techniques to remove the sharp-edged flakes from the cores.
+++ Opening Moves
 
-The raw materials are not widespread. The toolmakers had to travel to locations with the right rocks. They had to make their tools. They had to carry those tools back to people who needed them. This meant taking food and water, sacks or ropes, and so on.
+In 1989, Clark and Hatfield of Florida State University ran an infamous [http://www.lehmiller.com/blog/2013/9/23/what-would-happen-if-you-asked-100-female-strangers-for-sex study]. Their attractive research assistants walked around campus, making hookup offers.
 
-It also means the ability to plan in advance and organize with others. This means language, rich enough to express futures and maybes. This sounds advanced for hominids with small brains, until you realize that ants do much the same. This behavior does not need to be conscious. It can be instinctive.
+The results are well-known. More than half of men accepted a date, even more were willing to go home with a strange woman. Three-quarters accepted an outright offer of sex. In contrast, women generally said "no." Students are perhaps not typical of the general population. Yet others have reproduced similar results.
 
-A stone tool production chain has cores, flakes, and anvils. It goes far beyond the mental capacity of a single individual. It tells us there was a social structure. Some specialized in making tools. Others in using the tools for hunting, cleaning meat, breaking bones, cutting wood. Such a social structure means altruism, that is, the ability to share with others. And whenever there is altruism, there are cheats.
+I'll come to the gender difference in a second. The original study suggested women don't have casual sex. We know that is false, at least in some contexts. My first question is, "how can so many men be so easily hooked?" You might say, the risks that casual sex exposes men to are low, and yet that is not true. There's the obvious risk of disease and surprise parenthood. And there is the much higher risk the whole thing is a set-up for one, or other, form of mugging.
 
-The counter-notion is that early humans were generalists, and that they made their own tools as they needed them. Specialization and trade comes much later, in this view. Yet it's an easy model to discredit. Hunting demands its own sets of specialized skills. There would be extreme competition on men to be the best hunter, or the best tool maker. Women need tools as well as men, yet are unlikely to be toolmakers. Two specialists able to trade can //always// do better than two generalists. So the generalist model does not survive sexual selection, nor economics, nor the male-female division of labor.
+And yet most men will say "sure!" How can a woman's charm be such an effective bait? Are men desperate, horny and foolish? Are women smarter? Well, perhaps, yet the answer is more subtle than that. It also turns out women are no more resistant than men. It is a matter of using the appropriate bait.
 
-So I think we can date human psychopathy to at least 3 million years ago.
+As we answer these questions, we see how significant gender is. It plays a key role in the psychopath's opening moves. There are four distinct patterns: female-to-male, male-to-female, male-to-male, and female-to-female. Many of our social instincts tend towards masculine and feminine poles, like our bodies.
 
-++ The Puzzle of the Big Brain
+Our bodies and minds default to female. As a male develops, timed bursts of testosterone shift body and mind to male. Men and women differ in mind and body, driven by evolution.
 
-Our most distinctive human feature is our over-sized brain. The fossil record shows it suddenly growing larger and larger, starting around two million years ago. What drove this expansion? The answer turns out to be: other people. As [http://www.livescience.com/5540-human-brains-big.html David Geary says]:
+So when I say "male," this includes women with male-typical instincts. And when I say "female," it includes men with female-typical instincts. These opening moves do not assume heterosexual normality. Psychopaths often have [http://psychopathsandlove.com/a-hidden-fact-of-psychopaths-they-have-no-gender/ a fluid sexual identity]. They will be as confident and predatory as homosexuals as they are as heterosexuals.
 
-> There was very little change in brain size across our sample of fossil skulls until we hit a certain population size. Once that population density was hit, there was a very quick increase in brain size.
+++ Women Hunting Men
 
-Why would more people mean bigger brains? Geary credits "social competition", with more people competing for the same food supply. The smartest win, have more kids, and the genes for smaller, stupider brains die out, he argues.
+The "anti-social" part of psychopathy does not mean "not wanting the company of others." It means "not respecting social norms and customs." Psychopaths tend to be hyper-social, and obsessed with making new friends. It goes with the territory.
 
-Yet human food supply is not a static resource. Rather, it is a direct result of human activity. More people means more food, not less. Fish do not line up in shallow water, waiting for someone to collect them. Deer do not come in packets of twelve. Food fights back. It is a deep and complex puzzle, solved by technology, knowledge sharing, altruism, and trading. Our social model gets more, not less, effective with more people. So, the more people, the more food.
+They can appear private and discreet, yet that usually hides intense background activity. The Web has made this much easier, offering so many ways to speak to others in private.
 
-This only stops being true when we hit the limits of our environment. That is, during a population collapse, not a boom. Only in catastrophic situations do people compete for food.
+I'd enjoy mining Facebook data for private chats, public posts, and selfies. My guess is we'd see a distinct group with many more private chats than average. Further, talking to many more people than average. I predict you'd see two overlapping bell curves, not one.
 
-We could also ask why intelligence should win food? It does not happen in other animals. Big brains are expensive and dangerous, for mother and baby. Why not evolve larger teeth, or stronger muscles, or longer legs? It seems arbitrary to claim intelligence as the key to getting more food, without further explanation.
+Predators like to hunt in places and events where they have advantage. It must be a situation with a fresh supply of targets. The targets must want something, which the predator can exploit. The targets must offer potential benefit to the hunter. There must be cover before, during, and after any attack. It should be hard for victims to talk about it afterwards.
 
-We can make Geary's model work, if we replace "social competition" with "arms race between altruists and cheats." When populations consist of small, isolated families, cheating is a poor strategy. It is easy to detect and punish cheats. Predators need a certain population density. They must be able to move on after exhausting a given territory.
+The dating scene is the obvious opportunity. Bars, night clubs, and dating websites are ideal for psychopaths of both genders. The pop culture of dating has dealt with psychopaths for a while. They use the euphemism "narcissist."
 
-So the economic incentives for cheating increased as ancient human populations grew. At a certain point, the arms race turned hot. Co-operative humans evolved social emotions to detect and punish cheats. Cheats evolved manipulation and emotional mimicry to hack the emotional languages. Social emotions became more complex, as cheating mimicry got better. As co-operative humans developed better social memories, cheats became better liars.
+On one website [http://www.hookingupsmart.com/2010/06/28/relationshipstrategies/20-identifiable-traits-of-a-female-narcissist/ Susan Walsh discusses female narcissism] and lists the traits of such a person.
 
-And so on and on. Our brains are chock full of psychopathic talents and psychopath detectors. It's not that the more intelligent humans had more babies. The arms race did a pincer movement on small brains. We are either superb altruists, or we are superb cheats. Both take a lot of brain power: the more, the better. There is no safe middle ground.
+First, physical appearance:
 
-++ Someone Stole My Lamp. I'm Delighted.
+> Dresses provocatively, flaunting sexually suggestive body parts; focuses attention on make-up and hair, even for the most mundane tasks or events; overly confident about her looks; places high value on brand names, and feels entitled to wear “the best”; frequently purchases new clothing, and does not distinguish between wants and needs; is more likely to have plastic surgery, most commonly breast augmentation; enjoys being photographed, and often asks others to snap her picture; enthusiastically shares the best pics of herself on social media sites.
 
-Let me explore some of those psychopath detectors. One is our sense of humor. Humor is a human universal, visible in children from a young age. Babies giggle with joy when they play with their parents. We instinctively trust people who can make us laugh. We distrust those who don't like our jokes, or seem to lack a sense of humor.
+Then, personality and character:
 
-We use humor more in stressful situations. We value original humor and reward the "telling" more than the joke itself. In our horror films, the monsters don't laugh except in a creepy way that scares young children. Monsters have no sense of humor.
+> Insists on being the center of attention, often the most charming person in the room; often seeks favorable treatment, and automatic compliance; believes she is special; is highly materialistic; is prone to envy, though she presents as supremely confident; seeks opportunities to undermine others; is convinced that others are envious and jealous of her; lacks empathy, and even common courtesy at times; puts others down, including you; does not hesitate to exploit others; is competitive; believes that she is intellectually superior; blames others for problems; displays a haughty attitude when she lets her guard down or is confronted; is dishonest and often lies to get what she wants; is "psycho," engages in risky behaviors, has an addictive personality, and is prone to aggressive behavior when rejected; is unpredictable in her moods and actions.
 
-A joke is a construction, a story with a specific and consistent shape. Every joke, even puns, depends on a mystery. We don't tell the mystery. That would be "explaining the joke." Rather, we tell the joke and then we wait for the other person to "get it." When they get it, they laugh, and we laugh, and the event is complete. Or, depending on the joke, we may expect a groan.
+This is a 95% match of the various female psychopaths I know or have known. The author also says, "Based on the women of all ages I have known in my life, I think 10% is an accurate estimate of the number of narcissists in the female population." That is a high figure yet it matches the estimates of 10% of sub-clinical psychopaths. I'm convinced that this predatory and destructive "narcissism" Walsh describes is one of the masks of psychopathy.
 
-It's not enough to just laugh, either. Both parties must laugh at the right moment, not too soon, not too late. The laugh must last long enough. It must not be too loud, nor too soft. A good joke makes both the teller and the listener happy. A failed joke disturbs and irritates us. Humor is so connected to our emotions.
+The physical appearance aims like a large weapon at the male biology. It can be devastating in effect. That Florida State Univesity study measured up to 75% of men responding to such bait. Maybe it's lower in general populations, than on college campuses. Yet in a dating setting, most men are looking for casual sex. The figure will approach 100%.
 
-Such a precise thing, the humor protocol. This is not random or accidental.
+When Mallory is out hunting men, she does not just ask every man for a drink. That would be simple-minded. She knows what she's looking for. So she can select the best targets, even before they see she is there.
 
-What we have evolved with humor is an empathy detector. A joke is a card with two sides. We show one side, and keep the other hidden. If the listener has empathy for the character in the story, they get to see the hidden side. This triggers the laugh response. If the listener has no empathy, they are baffled.
+Humans respond like any lifeforms to triggers and supernormal stimuli. Women looking to attract men invest in amplifying the relevant triggers. Here is the list of triggers I've been able to identify and collect:
 
-A psychopath cannot laugh "right." He does not laugh, or he laughs too much, or too long. We are more wary of people who laugh too much, than of those who don't laugh at all. What is he hiding, we wonder?
+* **The waist-to-hip ratio, or WHR**. This is a primary signal of human female sexuality. The ideal WHR sashays between 0.6 and 0.8 depending on culture. Narrow waist indicates youth, and wide hips announce fertility. The simplest WHR cheat is to pad the hips. One can then wear a corset, and then one can resort to surgery. The honest counter-move is to wear tighter clothes, and then to show more skin.
 
-++ How Does it Make You Feel?
+* **The shape and size of breasts**. There is much debate about the evolution of human female breasts. Their size and shape do not mean more, or better, milk. Some people think they evolved as cushions for baby heads. Some argue they imitate the buttocks. To me it seems they signal female youth and availability, both triggers for men. Before modern times, babies were often breastfed for two to three years. Breast feeding changes the fat deposits and connective tissue (the Cooper's Ligaments). So the breasts show, immediately, whether a woman has already had babies or not. Babies means the woman is less available, and it hints at a protective husband. As with the WHR, a cheat can use padding, or surgery. And the honest response is, again, to show more skin.
 
-Another of those "uniquely human" talents is art. Why did our ancestors enjoy painting on rocks and cave walls? The traditional explanations are they made art for art's sake, out of boredom, while high on drugs, or as part of hunting ceremonies.
+* **Other reliable indicators of youthfulness.** First, smooth skin on the hands and face. The smoother the face, the stronger the eyes, eyebrows, and lips shine through. Women can hide blemishes with make-up. They can exaggerate the shape of their eyes, lips, and eyebrows. Striking features on a smooth, unblemished skin are a trigger. Then, full lips, and small nose and ears. Our lips thin as we age, and our nose and ears grow. Only with surgery can a woman fake these.
 
-Yet like the 40,000 year old ivory Venus, art serves no functional purpose except to stir emotions in the viewer. The talent to create is so widespread that it plays on every street corner for pennies. Yet we respect it and, it seems, our species has done so for a long time. Above all, we expect art to make us "feel" something. And we ask this of others: "how does it make you feel?" And we scan their faces as they answer.
+* **Other reliable indicators of fertility**, expressed by the hormone estrogen. The main ones are high cheekbones and voice. A high, melodious voice signals fertility and youth. Observe how some women will shift their voice higher when asking for a favor. It is close to impossible to do this without sounding fake.
 
-Psychopaths have many curious traits, which I will come to in the book. One is their lack of interest in creative acts. They do not draw, paint, sculpt, or carve. They do not take photographs, except of themselves and their possessions. They do not cook for pleasure, invent recipes, nor make their own bread as a hobby. They do not create music, though they can be an excellent performers of others' work.
+* **The leg-to-body ratio, or LBR**. Anything that interrupts growth up to young adulthood [[http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2872302/  affects the LBR]. This is a good indicator of genes, diet, and medical history. The LBR is a predictor for resistance to many diseases, from diabetes to various cancers. Long legs means healthy and healthy is sexy. This is one of the rare triggers which works in both genders. Women can cheat the LBR by wearing high heels and short skirts.
 
-This lack of creative drive is a curious thing, when you first see it. It matches their generally empty sense of humor. Their hobbies are travel, shopping, eating out, meeting new people. This is consumption, not creation.
+* **Other signals of good genetic resistance and a history of good health**. These are symmetrical face, long clean hair, clear sparkling eyes, and healthy nails. Hair and nails have become easy to cheat and there is no real defense except a ceasefire. Hence, maybe, the cultural evolution of head-scarves and such. Mascara can make the eyes look whiter and shinier.
 
-Art is a precious thing. It is a universal human language. As with comedy, we reward originality more than technical brilliance. As with comedy, we enjoy art more in company than alone. And as with comedians, we praise and respect artists, though the talent has no survival value. Finally, we measure artists by their track record: one success isn't enough. One success can be fake, stolen, or accidental. Whereas for scientists or athletes, one victory can last a lifetime.
+* **Signs of vulnerability and submissiveness**. The damsel-in-distress triggers a [http://www.slate.com/articles/health_and_science/science/2012/05/dumb_women_do_men_find_them_more_attractive_.html predatory-protective response in men]. The subtext is, "Save me and I will reward you with sex." A darker version is, "I'm alone and couldn't stop you even if I wanted to." There are various body language triggers. Feet together, wrists exposed or limp. Head down, avoiding eye contact. Or, head down and eyes looking up, to act young. And finally, to be or act drunk. I'll come back to psychopaths and alcohol later.
 
-I'm certain creativity is another secret language of empathy. It asks the world, "friend or foe? Look at this and tell me you feel something!" and the viewer responds, or fails the test. It is much like telling a joke. Like a great joke, a great creative work must speak from and to the emotions. It must tell half a story that only a social brain can complete and "get."
+* **Signs of sexual availability and desire**. That is, telling a man: "I desire you, and am willing to have sex with you right now." There are at least two sets of triggers here. One is cosmetic, coloring the lips and cheeks red. This mimics the signs of female arousal (flushed lips and glowing face). The other set of triggers is body language. The woman will sustain eye contact. She will move closer to the man. She will wear revealing clothing. She will shift her posture and clothing to show more skin. She will touch his arm, play with her hair, and open her lips. She will raise her eyebrows and half close her eyes. In general, she will act as if they are in bed and she is enjoying it. This is impossible for social women to do, except as a game, in safe circumstances. The fear of rejection is too high. Psychopaths have no such fear, so can and do take this act to extremes.
 
-A young child learns to draw at school, and takes their works back for their parents. These gifts are not useful in any concrete sense. Yet they are important and special in the moment. The child watches their parent's reaction. When they see joy at the squished faces and strange colors, the child also feels joy. They share the moment, confirming each others' social humanity. The child thinks, “See Mommy, isn't this great!” The subtext is, “See, Mommy, I’m normal. Please don't reject me!”
+* **The appearance of novelty,** also known as the Coolidge effect. While monogamous pairs are the norm, many people are opportunistic cheats. Most men prefer new receptive sexual partners than existing ones. This effect is one reason the porn industry is so hungry for new young starlets. How does a woman with no fear of ridicule, look //different// every few weeks? It is simple: she changes her hair and clothes. New hair means a new face. New clothes means a new body. Both create stronger responses in men who already know the woman.
 
-We create for ourselves and others. We create to make other people feel something. Usually, it's happiness, though sometimes it's loss, sadness, or other emotions. A creative act is a message of empathy. And we measure the quality of our art as we do our humor: by its originality, and thus its authenticity.
+This set of triggers and the unbounded male responses to them explains pornography. It's well known few women find pornography enjoyable. Yet for many men it is close to addictive. Indeed, it is like sugar: a source of refined triggers. Porn displays a stream of young, available females, hitting the full list above. Porn site statistics [http://www.pornmd.com/sex-search show the most popular category] globally is "teen."
 
-This is why imitative art is "fake." It is why engineering isn't art, and why fast food feels "cheap." It is why we don't explain jokes, and why an artist cannot explain the "point" of his or her work. It is a test, and if you don't know the answer, that itself is significant. It's why a pile of bricks in the Tate Gallery is worth a million pounds. That's the joke.
+Why the obsession with youth? OKCupid, the dating site, found women of all ages prefer partners around their own age. Men of all ages, when no-one is watching, favor women of 22 or under. Dating site profiles and searches may seem like a weak basis for science. A study of 12,000 Finns at Åbo Akademi University in Turku [http://www.eurekalert.org/pub_releases/2014-09/aof-tia092514.php found much the same:] women prefer somewhat older partners, while men prefer women in their mid-20s.
+
+The answer lies in our species' model of long-term monogamous relationships. Women's fertility peaks young, so men have evolved to see 16-22 (18-25 when others are watching) as the peak of "sexy." Chimpanzee, our close relatives, have a different family model. They live in extended families, without monogamous pairs. Thus, chimpanzee males are not triggered by female youthfulness. And, chimpanzee females do not make such displays.
+
+If you ever wondered why men are so fascinated by female beauty, you now have the answer. As I'll explain later, women are just as fascinated by male triggers.
+
+By default, adult males respond to these supernormal stimuli. They are like the songbird teetering on a football-sized super-blue egg. They try over and over to launch sexual relations with the woman. No matter how she mistreats them or others, they climb back on that egg and try again. It looks like insanity. It can be self-destructive.
+
+Most women who dress to seduce are not psychopaths. Most of the time, it is sincere and healthy. The difference lies in the level of deception. There are those who distort the truth, and there are professional liars. Female psychopaths broadcast their sexuality as a lure, more broadly and intensely than a social woman can. They use it to control the narrative. They provoke an off-the-charts response, and then they hold back. It goes far beyond a game. The promise is, "I am the ultimate woman and I am yours." The reality is, "you will suffer and pay and never get that first thrill, ever again."
+
+I'd love to provide references for this effect, yet it's undocumented as far as I can tell. I've experienced it and observed it often enough to conclude it is real and deliberate. And the mechanism seems familiar. The male response to female sexual signals lives next door to addiction.
+
+We're hardwired to feel pleasure from these triggers. It is how our biology works. Dopamine hits the brain's emotional centers. They feel joy. This reinforces whatever behavior got us the trigger. When someone amplifies the trigger, it creates a larger dopamine rush. The mind compensates by becoming less sensitive. So we need more triggering to get the same feeling of joy.
+
+Addiction is no metaphor here. It is the core of a sexual relationship with a psychopath. And such a relationship is as awesome and healthy as life on cocaine or hard liquor.
+
+Psychopaths prefer those triggers they can fake or amplify with focused effort. So, Mallory can be quite plain, and yet spellbinding when she wants to be. I explained ways to cheat the various triggers. For every cheat, say a woman who lies about her age, there is an honest player. Say, a younger woman competing for the same men. This is a slow and ancient arms race between different strategies.
+
+Female psychopaths spend more effort on appearance, less on friends and family. They fake triggers social-minded women cannot, or will not. Social women instead compete on the basis of their true assets. We have this arms race to thank for authentic female-to-male triggers. That is, full breasts, wide hips, long hair and smooth skin. They are the fruit of sexual selection and competition between cheats and honest players.
+
+++ Men Hunting Women
+
+Women are of course different, and immune to cheap flattery and fake bulges. The female response to offers of sex from strange men is low to zero. A woman will generally treat such an offer as a hostile act. She is liable to call the police, or male friends, to help.
+
+Yet it is only a question of context. Given the right triggers, most women will respond. They'll walk towards weak triggers. They'll jog towards strong triggers. And they will leap with self-destructive drama towards supernormal triggers. Just like men.
+
+So what are these triggers? What makes men attractive to women? It is somewhat of an age-old mystery. Yet the answer is obvious once you see it.
+
+Biology and empirical research rule out many obvious possibilities. Availability and willingness to have sex are not triggers. Youthfulness is not a trigger. Men do signal their genes, health record, and fertility, as women do. So there is some overlap. Long legs, well-defined buttocks, symmetrical face, nice hair, strong chin, high cheekbones. These work the same way in both genders.
+
+Yet appearance only works together with other triggers such as confidence and charm. Alone, male appearance is not a trigger to females. Social women do not find pretty yet insecure men to be attractive. Psychopaths of both genders do seem to love playing with such men.
+
+What traits do women prefer in men?
+
+Most women compete to be the most beautiful, the youngest looking. The competition may be veiled and subconscious. Yet it is omnipresent, because that is what men respond to.
+
+So what do men compete for? What do men spend their lives fighting to accumulate and hold on to? It is not youthful looks, except for a few quirky men. It is not long hair. Nor straighter features, nor longer legs.
+
+Men compete for power and its proxy, money. Just like women competing in looks, the competition may be covert, even subconscious. Yet it is everywhere. In work, sport, social activity. Male power takes many forms. It can be physical, intellectual, economic. Even men who explicitly do not compete are making a statement.
+
+There appear to be two main themes to male attractiveness. One is dominance: height, deep voice, confidence, visible facial hair, and competitiveness. At [http://pss.sagepub.com/content/15/3/203.abstract least one study suggests] this rises and falls according to the woman's fertility cycle. In other words, when women are at peak fertility, they are more likely to seek opportunistic sex. Then, they prefer men who are "manly", and socially dominant, rather than good partners or fathers.
+
+The other theme is personality, which expresses itself as "is intelligent," "has a good sense of humor," and "is kind". When women look for long term partners, they tend to focus on this theme. In other words, potentially good partners and fathers. If you rephrase this theme as "has empathy and sensitivity" then it reads as code for "not Mallory."
+
+Male power is a trigger to women, at least some of the time, just as female fertility and youth are triggers to men.
+
+The evolutionary rationale is simple. The partners of powerful men have more grandchildren than the wives of weaker men. Good genes are a good starting point. To push those down the generations against never-ending competition takes force. In human terms, that means power.
+
+Let's fix Clark and Hatfield's study. The actors were young, attractive men and women. That already introduces a huge bias. A better study would provide a range of actors, both male and female. The actors would show different levels of age, attractiveness, and power. We'd then measure their relative success on a mix of subjects.
+
+Here's my guess of what would happen. We'd find men responding most to youth, then looks, then availability, and then character. Availability is critical though. Male-on-male violence over women is significant enough that "is not available" should be a turn-off for most men. We'd find women responding to power, then character, then availability, and then looks. During peak fertility, women would respond mainly to power and looks.
+
+The question is, how does a man project the "I am powerful" trigger? How can women tell when a man is lying about their own importance? How do psychopaths exaggerate these triggers?
+
+Again, the answer lies there in plain sight. If you ask a solitary man about his status, most will lie outright. Men will exaggerate their earnings. They will lie about achievements. They will hide their failures. And so on. We assume this, and treat whatever a man says about himself as harmless fantasy.
+
+Males display power in their body language, and behavior towards others. That could be to the observing female, to one or more other men, or to another woman.
+
+Instinctively, when we meet strangers, even crossing in the street, we assess them. Watch how one person gives way to another. A roomful of strangers will self-sort. The men move into most-to-least dominant clusters, each with one man in charge. The women move into various patterns around the men, or apart from them. Men may cluster around individual women. The men check out the women. The women check out the men. The group forms an opinion. It all takes only minutes.
+
+Male power means ability to dominate other men (and women, yet mainly men). This can be subtle and indirect, going far beyond physical dominance. As a writer I can dominate simply by typing. Yet body language and face-to-face dominance is a good place to start looking.
+
+We understand dominant body language well. It is partly about appearing larger. This comes from our ape ancestry, where dominance meant being strongest. The largest, strongest male ruled the group. It is also partly about acting superior to others.
+
+To appear larger, a man stands straight and lifts his chin. He stands with his feet further apart. He takes more space than necessary. He uses hand gestures and pushes his elbows out.
+
+To act superior, a man controls the conversation. He maintains eye contact without blinking. He ignores those he is not interested in. He smiles less and moves his head less. He speaks less, at a lower pitch, and a lower volume. In general he ignores social cues. He will be late, will interrupt, and be severe to others without being rude.
+
+We have a paradox here. These traits both attract women, and repel them. They show a man as capable of dominating other men, and yet as insensitive and potentially brutal. There is a way out of the paradox. Women just assume men are liars, until proven honest. Dominance displays need a secondary trigger to work. Without that secondary trigger, the woman sees a bully's act.
+
+The secondary triggers come from other males. Like all the triggers we've examined, these are minimalistic and elegant. I see two specific triggers. The first is other men who accept the dominance, and act in the right way. That is, they show submissive body language. They are quiet when he talks. They accept his pushy attitude as if they agree he has earned the right.
+
+The second trigger is more dramatic. It takes a male challenger, from outside the group. The dominant male either asserts himself, or loses the game. Women find such winner-takes-all dramas compelling, in real life, in sports, and in entertainment. It gives the same dopamine kick men get from watching a pretty woman undress.
+
+Appeal is all relative, for sure. Yet while female attractiveness is an individual thing, male power flows from other males. No matter how large or rich or confident, a man alone is nothing. Male dominance is all about other men.
+
+There is a similar effect with female-to-male triggering. A woman's display both attracts and repels men. A woman who wears too much perfume and makeup, who flirts too aggressively, and who shows too much skin turns off most men. Yet if she is with other women, and they appear to like her, this acts as a secondary trigger. And then most men will be comfortable again.
+
+These secondary triggers seem to boil down to "is not a psychopath." Empathy and sensitivity are relatively easy to fake, so superficial displays of empathy are not triggers. I'll come to empathy tests later.
+
+Now we've pinned down the signals, let's see how to fake them. A wandering male psychopath is solitary. He has no real friends. He cannot just show his "I am important" narcissist mask to women. Rather, he must convince other men he is important. He must find or build a group to dominate, he must display the results.
+
+The underlying mechanisms are subtle. I do not know any research in this area except my own. So this is speculation and hypothesis based on long observation and analysis.
+
+I said men and women differ in key ways. One of those differences is how we communicate. It goes deeper than what we talk about. It goes to the heart of why we evolved the language instinct in the first place.
+
+Men and women both trade power and knowledge, and build structures. Yet there is a distinct gender split. Men talk to exchange technical knowledge and organize with other men into power structures. Women talk to trade social knowledge and organize with other women into rather different structures. Our language reflects these two models.
+
+I've called these ways of talking [http://hintjens.com/blog:73#toc5 the "human protocols"]. There are two main protocols, the male and the female. There are other smaller protocols such as adult-to-child. Most men can at least imitate the female protocol, and vice-versa. Yet it is hard work.
+
+Mallory is an expert in the male protocol. He can dominate groups of men with a mix of lies, promises, and confidence. A large predatory business is indistinguishable from a cult. While Alice tends to distrust solitary males, Bob and his friends do not. This is especially true when a lone male approaches a group. So Mallory likes to work his magic first on Bob and his friends. This gives him status and power he can project towards women.
+
+This can happen in minutes. The male protocol allows for instant relationships based only on future possibilities. "Follow me! I promise you gold!" Yet the female protocol is cynical and careful. Relationships between women often take years to develop. Women must invest in their relationships. Men need to just keep the future open.
+
+This is a huge difference. Both genders project their own values and measurements on the other. Alice assumes relationships take time to build. She assumes relationships express the cynical accounting of past facts. So she over-values the relationship she sees between Bob and Mallory. And in the same vein, Bob discounts Alice's relationships.
+
+This gives us a classic hunting pattern for Mallory. First, he conquers Bob and some other men with a smile and utter confidence. He implies some promises of future benefit. This can take only a few minutes. Then he presents this temporary ersatz structure to Alice as she passes. He shows dominance over the assembled men. Alice finds this charming man desirable. She begins to respond to him. When he suggests they take their discussion somewhere private, she agrees. It is just how the men would respond to inflated bosoms and welcoming smiles.
+
+++ Power Pyramids
+
+Male psychopaths can and do work at the personal level. Yet it is dust compared to the industrial-scale male psychopathy of many organizations. Before we look at how Mallory hunts Bob, we must take a small detour. I will explore how humans organize at scale.
+
+Humans seem to organize in two specific, and contrasting ways. These are the "living system" and the "power pyramid."
+
+A living system is a loose economic network of inter-independent actors or pieces. These pieces trade resources such as knowledge, work, or money. These resources flow through the system in different directions and at their own rhythm. Living systems have no obvious power structure. They have no identifiable owners and no central authority. They have no central decision making or planning.
+
+A power pyramid is an explicit structure, with a name, purpose, and leadership hierarchy. Decisions and planning move down, and profits move up. The entire pyramid is the property of those at the top. It is a clear hierarchy where position defines status, and status defines position.
+
+Living systems are unobtrusive, almost invisible. They have no marketing departments, no boards, no CEOs. They consist of thousands, even millions, of independent actors. These actors self-organize around the most interesting areas. Living systems are far more profitable than power pyramids. Yet those profits spread wide, and are hard to measure.
+
+Living systems are powerful and core to our way of life. They feed our cities and keep our shops filled with goods. They supply us with clothes, information, Internet. Every city is a living system, or it is a prison. Every economy is a living system, or it is a planned failure.
+
+The exchanges in a living system depend on contracts agreed upfront. Living systems detect and punish cheats, using the simple mechanism of free choice. They need some form of regulator. That is, laws and enforcement. Natural living systems use the laws of physics, chemistry, and biology. Artificial living systems produce their own authorities, usually by evolution and competition.
+
+Living systems are fair to all participants (or, ethical) by virtue of the need to be efficient. That is, they tend to treat discrimination and cheating as inefficiencies, and problems to solve. Living systems experiment all the time with small answers to new problems. They bury the failures and promote the successes. This makes them good at adapting to change. They are resilient and survive until broken by a catastrophic external event. Cities survive empires, unless razed to the ground.
+
+Power pyramids specialize in getting clients, suppliers, and workers to give more for less. They act like parasites. If you turn a power pyramid upside down, it looks like a feeding funnel. An extreme example are the large surface retailers who pay their suppliers and staff the minimum, while generating billions in profits.
+
+It takes some effort to keep masses of people sitting still while you feed off them. Power pyramids do this using a mix of force, bribes, and threats. They demand physical presence. The promise monthly salaries and bonuses. Failure to conform means dismissal. This is a form of constant, low-level internal violence. Power pyramids also project violence against external threats. They use force to remove competitors and achieve their goals. They are pragmatic, and remorseless.
+
+Not all large businesses are pure power pyramids, and indeed most are a mix, with some aspects of living systems. Yet I've never seen a business apologize for beating a competitor. Nor have I ever heard of a country apologize for winning a war. Survival defines morality, in the short term. In the long term, morality defines survival. That is, living systems tend to beat power pyramids.
+
+We see power pyramids most often in business, in government, and in organized religion. When the three mix together we get fascism and genocides. This happens when society is too weak or naive to resist. More often power pyramids are negligent, rather than outright destructive.
+
+When power pyramids produce goods, they aim for lowest viable quality and highest price. In some cases they will poison and addict their customers, for profit. An example would be the food and drinks industry, with its emphasis on sugar. Power pyramids do not listen to the market. Instead they try to force people to accept their goods, with heavy advertising. You could say power pyramids lack the capacity for empathy.
+
+Power pyramids are masters of deceit and hide their true nature. They market themselves, as "ethical," "positive," "good," and "fun." They spend billions on branding and image, developing narratives to sell their products. People believe these narratives and invest heavily in them.
+
+The worse the product, the heavier the marketing. Coke. Microsoft. Kraft. Heinz, USA! Power pyramids communicate in lies wrapped around elements of truth. Their core values are profits and survival, no more or less.
+
+Despite their focus on survival, power pyramids are bad at adapting to change. Over time they depend more and more on lies and force, as the world changes around them. They become fragile, and prone to rapid, catastrophic collapse. Nokia, Blackberry, the USSR.
+
+Lacking empathy, callous and predatory, abusive... Many large businesses, religions, and certain flavors of government are psychopathic power pyramids.
+
+A friend with good work experience interviewed with a large technology firm. The process left her feeling puzzled and humiliated. "Why do I have to prove myself to a young interviewer?" she asked me. "Can't they just look at my work. It is all on-line." We thought about it. I said, maybe humiliation is a goal of such interviews. If you accept that, you'll accept much worse, in return for that juicy pay check. Conformity is a test.
+
+Do these two models represent the male vs. female ways of working? It is a tempting notion. The male protocol deals with male power, the female protocol with social knowledge. Yet it would be foolish to caricature "maleness" as evil. Our species did not evolve gender specialization to divide us. It did so to let us work better together. Both men and women are happier and more effective in living systems. And power pyramids exploit both men and women.
+
+The truth is more subtle, I think. Living systems need flows of both knowledge and action. The male and female protocols work together, solving different parts of a larger puzzle. Power pyramids are a distortion, a construction of male psychopaths. They are a temporary fruit of mass industrialization and urbanization. They are so widespread we take them for granted. Yet they are I believe malignant and anti-social, and destined to slowly fade away.
+
+What male psychopaths want above all is power over others. It is rarely about money. As Frank Underwood says in the Netflix series "House of Cards,"
+
+> Such a waste of time, he chose money over power. In this town, a mistake nearly everyone makes. Money is the McMansion in Sarasota that starts falling apart after ten years. Power is the old stone building that stands for centuries. I cannot respect someone that doesn’t see the difference.
+
++++ Men Hunting Men
+
+A power pyramid recruits young men with ease. As with all our instincts we see the reason in our evolutionary history. Human men formed groups to hunt large wild animals. This is a high-risk high-benefit team activity. Older men share their knowledge, and younger men share their physical abilities and time. Young men who respond to "follow me" from older men are more likely to come back with meat. And that maps to reproductive success.
+
+A "follow me" promise of future rewards from an older man is a trigger. The bigger the promise, the bigger the response. It does not have to be logical or sane. Indeed, insane propositions are often //more// attractive than sane ones. A sane proposition requires hard work and patience. An insane one just needs suspension of disbelief. "I know some VCs and they'll invest millions in your idea!" is hard to refuse.
+
+There are a set of "follow me" triggers that let one man take control over others, even a group. The triggers work best on younger men, under 40, and without children. These are the ones I know:
+
+* //Making a solitary approach//. This shows confidence, and defuses the group's natural defense reactions. A single man cannot be a physical threat to a group.
+
+* //Showing dominant body language//, particularly towards the existing dominant male. If the dominant male does not fight back, they have stepped down, at least for a while.
+
+* //Appearing to be older and wiser//. This triggers the "wise old man" response in younger males. Wisdom is precious, as long as it is relevant.
+
+* //Controlling the conversation//. Dominant males sustain eye contact, focus on higher status males, and smile less. They speak less, at lower pitch, and lower volume. This forces others to pay close attention to them. This triggers the "is dominant" response.
+
+* //Making promises of potential wins//. These can be large and difficult as possible. The crazier, the better. Young men's biology makes them natural gamblers. A huge potential payoff triggers the gambling response, no matter how slim the chances.
+
+* //Invoking a common enemy//. This triggers the defensive reaction. It gives the group focus and energy the outsider can own and steer.
+
+* //Demanding action and proposing a plan//. This triggers the "follower" response. If a majority of the group responses, the outsider is now in charge.
+
+* //Attacking internal enemies//, especially the old leadership. This triggers the paranoia and revenge responses. With luck the new leader can purge the hierarchy of all potential threats.
+
+Not every pretty, flirtatious woman is a psychopath. Not every man who uses these techniques is a psychopath. The difference lies in outcomes. Do we see deception and exploitation or honesty and mutual gain? Are people getting burned-out and depressed, or happier and more independent? Psychopathy hides well, yet when it is organizing people for its own ends, the damage will eventually show.
+
+These triggers evolved for valid reasons. The ability to organize around charismatic leaders saved our ancestors many times. And we leap to respond. If the triggers affect us at all, the biological imperative is to be first.
+
+Once the response kicks in, it grows to match the trigger. A natural leader can push the stimuli to a certain level, no more. Mallory keeps pushing, far beyond what is normal and necessary. The effect calms down after a while. Yet that supernormal stimulus shock leaves an imprint that lasts for years.
+
+Mallory take a group towards self-destruction, while emptying the coffers. When he says, "follow me!" it hooks Bob into a situation he has no control over. Bob feels he cannot abandon without betraying his ideals, his friends, his own investments.
+
+I've seen this used hundreds of times, often with catastrophic effects. It causes burnout: utter exhaustion, disgust and depression. Today we can recognize this as the classic outcome of a psychopathic relationship.
+
+What is the clearest sign an organization is one or the other type? From my own experience, I believe it is the size of an independent team. By "independent" I mean free to organize and work as they choose. A dozen or less indicates a piece in a living system. Above twelve is likely a power pyramid or part of it.
+
+A good theory lets us make further deductions and inferences. Let's try a few:
+
+* Why are there so few women in power pyramids? Is this due to sexism and discrimination? Although sexism and discrimination are rampant, I don't think this explains it. Men enjoy working with women, for the most part. It is partly because power pyramids are incompatible with being a full-time parent, especially a mother. It is partly because women tend to ignore the "follow me" triggers that push men to sacrifice time with their family.
+
+* Can psychopathic women rise in power pyramids? This seems unlikely. Most female psychopaths disdain the male concept of mass power, and do not seem to speak the male protocol. Both male and female psychopaths lack the talents for building power pyramids, and succeeding in them, except by upward conquest. Female psychopaths will tend to target powerful men. Most men who succeed in power pyramids are not psychopaths, and thus vulnerable.
+
+* Most of us fear and distrust power pyramids for good reasons. These organizations make billions of people miserable, even if these effects are hidden in the much larger success stories of our living systems. It does not mean all businesses are toxic. Far from it. It does not mean free market economics are to blame. True free markets underlie living systems, and are the enemy of power pyramids.
+
+* We now have a evolutionary explanation for premature graying and male-pattern baldness. Graying and baldness signal male maturity and age. They trigger the "wise old man" response in younger men, and defuse the competitive instincts. When a man goes gray or bald earlier than others, he is mimicking the signals of old age. This can give him an advantage, if he is smart enough to pull it off.
+
+++ Women Hunting Women
+
+Female psychopaths hunt other women. That is a given. The question is "how," not "whether." Like the male-to-male pattern, it can be hard to see, almost cryptic. Our blindness to gender-biased behavior can make this research harder than it should be. Every time I write "women do X" or "men do Y," without qualifiers, it hurts. And yet these generalizations are a vital tool for approaching the truth.
+
+Male relationships tend to be cheap, loud, and public. Power pyramids appear to project male power over entire industries, economies, and countries.
+
+Female relationships are by contrast secretive and deep. They carry vital knowledge about people and events. Above all, they are an important defense against Mallory no matter her gender. To learn how the female Mallory hunts Alice, we must decode the female protocol. Then we must see how to cheat it.
+
+The female protocol shows as a conversation between two women who have met before. The two women talk about people and events. The talk is not random. It is an exchange, a trade. The dialog continues until both women have what they want, and then it ends.
+
+It is quite easy to see. Two women who know each other and have been apart for some time will sit apart, and chat. They will talk and listen in turns, neither woman dominant nor submissive. After a period of talking, they will defocus from each other. They switch attention back to the rest of the world. It is tempting to call this a "gossip protocol." Yet it is more accurate to call it a "grooming protocol." It is intimate, yet non-sexual. As far as I can see, it is the human version of the grooming behavior other primates engage in.
+
+Men also use a grooming protocol to deepen their relationships. Yet it is thin compared to the female version. The producers of day time soaps know this. It is the female mind that obsesses over stories of social intrigue. The male grooming protocol is little more than, "hi, everything good?" followed by drinks in a neutral setting. Males trade favors yet it is marginal.
+
+The female grooming protocol is central to a woman's identity and power. A powerful woman has many relationships with other women and gets valuable knowledge early. Valuable knowledge is timely, accurate, secret, and detailed. A weak woman has few relationships, and her knowledge of the social world is poor. That means it is inaccurate, out of date, well-known, and incomplete.
+
+The grooming protocol has three main functions, which work at the same time. First, as in any species, grooming establishes trust between two individuals. Second, the protocol spreads accurate knowledge about people and events through human society. Last, it detects and punishes long-term cheats.
+
+Of all the topics women love to talk about, sexual infidelity seems to top the list. It's not as simple as "bad news travels fast." Sexual fidelity isn't data. Cheating is, because repeated sexual misconduct is a prime trait of psychopaths.
+
+Mallory lies and exaggerates when grooming. This lets her stay dominant in that relationship. Her need to control the narrative is a red flag, if you can spot it. It's more visible than the low quality of the data she is providing. Mallory is the victim, hurt and needing affection. She reports the latest horrendous acts of her male partner. She begs for help and support. She flatters and charms.
+
+In return, Mallory gets valuable information about other people. Alice is quite lost. She gets what feels at first like a valuable and deep friendship. And yet it is empty, and over time, more and more abusive.
+
+These appear to be the key triggers:
+
+* **Dramatic story-telling**. It is the drama of a daytime Brazilian soap opera. The characters are beautiful or evil or both. They are violent and emotional, proud, and loud. The stories are false and they are endless. Alice feels as if she is five and getting a fabulous bedtime story.
+
+* **Playing the helpless victim**. The offender is a partner, employer, or the authorities. The crimes are infidelity, violence, and theft. "He beat me and the kids, took the family money, and spent it on whores." Alice feels like an older sister, compelled to offer advice and help.
+
+* **Flattering the listener**. This means compliments, attention to birthdays and personal events, and excessive amounts of attention. This is a form of "love bombing" I'll explore more in the next chapter. Alice feels important, valued, and loved.
+
+* **Revealing others' secrets**. These are negative, intimate, detailed, and often invented. The listener feels as if they are getting rare and valuable knowledge. They feel powerful. Mallory uses this to divide Alice from her friends and colleagues.
+
+* **Utter, palpable sincerity**. Mallory lies often and about anything. Yet she shows no stress response or hesitation when lying. She shows deep sincerity in voice, expression, and body language. Alice's responses is to over-value everything Mallory says. It's not just true, it's hyper-true. The stranger Mallory's lie, the truer it feels to Alice.
+
+How does Alice respond to such triggers, if she does not wake up and walk away in disgust? Usually she opens up, and provides all her secrets. She treats Mallory like a reliable BFF. Alice introduces Mallory to other friends, and engages her in social activities. The reality only hits many years later. It takes many counter-voices to undo those piercing lies. By the time Alice questions the relationship, the damage can be deep. If she can, she will walk away in shame, and never speak of Mallory again.
+
+++ Look, I'm Your Father
+
+I've covered how Mallory hunts other adults. In general adults are fair game, and expected to be capable of defending themselves. The authorities and general public have little sympathy for them. When laws get broken, then the police and courts may step in. There are two other common scenarios that create more anger and revulsion. That is, when Mallory preys on young people, or on the aged.
+
+Let's look at the case of young people first. We can see clear, recurring patterns of vulnerability. I believe these both attract, and breed psychopaths.
+
+It starts with children cut off from their family by distance, isolation, or abandonment. In stable societies, orphans and young offenders are housed in homes. In societies hit by economic collapse, young people run away and become street children. In war, families can get separated, and young people end in refugee camps.
+
+Then we see Mallory moving in, and building abuse networks. He may pose as a relief worker, religious organization, or youth worker. Or she may wait at transit points for new arrivals, picking out candidates. "Hey, you look hungry, would you like a meal?"
+
+The trigger is attachment to family. Young people away from their relatives will feel alone and insecure. They will respond to adults who act like parents. As with other triggers, Mallory can exaggerate his behavior, and get stronger responses. The adult shows confidence and gives more fake affection. The young person responds with more trust. Mallory can push this further and faster than social humans.
+
+There is a huge global trade in young people. Sometimes it calls itself "cultural" or "sporting" exchanges. Young girls from Guatemala who think they're going to become dancers. Young men from West Africa, dreaming of a future in European football.
+
+Sometimes it's desperate parents who send their children off to a "better future." They pay brokers to take their children to Europe or America. The figures are unknown. This is not a documented trade. One million a year? Ten million? No-one knows. The children often just disappear.
+
+Sometimes it's [https://en.wikipedia.org/wiki/Slavery_in_contemporary_Africa#Child_slave_trade blatant slave trading]. Brokers travel to poor villages, buying or kidnapping young boys and girls. They move these children far away. They set them to work in homes, cramped factories, or brothels.
+
+Whatever the cause, the distance from a loving and protective relative means vulnerability. Vulnerable children always attract Mallory. She sees raw material to own, shape, use, and trade. Bob should not die, may not run away, and must make a profit for Mallory. That is the limit of her concern.
+
+Then Mallory builds a trafficking network, with others like him. He starts moving young people up and down this network. He specializes in buying. Or perhaps in selecting and training children for different roles. Or in moving them across borders, into Europe or the USA, where they are worth more.
+
+It remains easy and cheap to smuggle children across borders. It is a matter of knowing how. A falsified passport costs from 500 to 2,000 Euro depending on the country. It's a real child's passport, with the photo of the victim. Dark kids all look alike, don't they? //Update: at least in Belgium, this loophole was closed in 2015, with better checks of under-aged passport holders' identities.//
+
+And then Mallory filters out young potential psychopaths. She coaches them, using other children as practice material. She promotes them and turns them into her proxies.
+
+This problem of child abuse is old, guarded in shame, and has been hard to solve. One scorns the sweatshop, then wears the t-shirt. So often it hides in families, under layers of tradition and racism.
+
+How to solve this? We can hope to reduce war, stabilize economies, and strengthen families. We can raise awareness of the mechanics of abuse. We can try to keep predators away from vulnerable children. Yet we cannot remove psychopaths, nor switch-off their predatory nature, nor guard every child. Who guards the guardians?
+
+There seems to be another answer, which I believe is emerging little by little. Mallory's strategy has one weakness. That is, young Alice or Bob must be alone and far from help. The core of the problem is isolation. This means there are no alternatives to the fake parental masks Mallory wears. When you have no-one to talk to, Mallory looks like a friend.
+
+We must give children tools to create their own social networks, face-to-face or on line. Teach children to ask for help, from their peers, and others.
+
+Access to other people over the Internet, using a personal device, is vital. It is as important as clean water, education, and access to health care. One day the technology will be close to free and available to every child on the planet.
+
+++ Good Listeners
+
+At the other end of life, let's consider elderly people with some assets. You might think as we get older, we develop more resistance to con artists. Yet it's not so. The asset-stripping of the elderly is almost an industry. It's not because the aged have dementia. Nor are they stupider than average. It is because psychopaths are good at this. To be alone is to be vulnerable.
+
+The extended family is no more, in most Western countries. This [http://www.telegraph.co.uk/news/8151986/Divorce-and-death-of-the-extended-family-leaves-pensioners-alone.html leaves many aged alone] in their houses, or retirement homes. Their children are adults with their own families, living far away. Decades of economic growth means many aged have assets. This generation presents a lucrative target to psychopaths. And Mallory targets them with care and precision.
+
+There are several types of attack I've observed, and will explain:
+
+* The //Helpful Advisor//. Mallory induces an elderly Alice to gamble. He takes the form of a financial advisor working through the family. He uses the children's greed against their mother. Perhaps he proposes Alice take on extra debt, using her home as collateral. Mallory gets a good commission. The children get cash. Alice later finds herself unable to repay the debt. The family goes bankrupt. The triggers are family pressure, and greed.
+
+* The //Helpless Stranger//. Mallory asks an elderly Bob for money. Any excuse gets her into the living room. A little chat to establish trust. Then, something like, "the problem with society today is how selfish people are. No-one cares any more. Like, my mother is dying from cancer, and our bank is kicking us out of our home!" Bob may ask if he can help. Mallory refuses point-blank, with tears in her eyes. Bob insists! Mallory again refuses, saying she'll find a way. Bob's suggestion offends her. Yet Bob is adamant, and Mallory leaves with an envelope of money. Guilt is the trigger here.
+
+* The //Parental Authority//. Mallory gains full control over the elderly Alice. The control is emotional, physical, and then financial. I'm not saying all private nursing homes are like this. Only a certain fraction of them. Push Alice to act and feel like a child. She responds to your authority when you then say "please, sign this document."
+
+* The //Surrogate Child//. Mallory acts as the elderly Bob's child. She finds a way to spend time with him. She listens, and asks innocent questions. Just by being attentive and submissive, she triggers the parental response in Bob. She can then come with her problems and worries. Bon will take try to solve them. The bigger the problem, the more he responds.
+
+++ Guess Who's Coming to Dinner?
+
+There is one more arena where Mallory hunts. That is, within the family itself. Family life does not bring frequent strangers. Yet it makes up for that with good cover. Families tolerate significant imbalances of power. Mallory can do extraordinary damage to a family from the inside. And this can be invisible to outsiders, even active observers.
+
+We can break this into two main cases. In some cases, Mallory is already in control of the family. He works to keep and extend his power. In most cases, the family is not... //infected//... and Mallory is trying to enter and gain control. The first case is about stealing any newcomer's resources. The second is about stealing the resources of a whole group.
+
+The damage Mallory can cause to a family can be extreme. There is the personal damage, the trauma and loss of power. There is the collective damage, the loss of property and savings. Look at a family fractured by dispute. Look closer, and you may see Mallory at work.
+
+How does Mallory enter a host family? The most obvious way is to marry into it. The reaction of parents to a new partner is often so extreme it is a popular caricature. Yet given the risk of a psychopath, suspicion and hostility are normal. Anything else would be negligent.
+
+It is hard for men to understand women's real motivations and character. There are too many signals and triggers getting in the way. Thus, it's the mother's job to vet new girlfriends. Likewise, women are often poor at judging men. So, new boyfriends must win the father's approval.
+
+The classic pattern starts with an interrogation and checking of credentials. There follows either conditional approval or rejection. Then, a period of probation. Then, celebration and maybe babies, at least in the parents' minds.
+
+This drama plays out over and over, in real life and in popular culture. We have the parents and their desire to see their daughters and sons making babies. We have their distrust of the newcomer. We have youth and its demands for independence and self-definition. These allow for a wide range of characters and plot points.
+
+Take for example the much-maligned mother-in-law, the butt of jokes in every human society. Few married men like their mothers-in-law. It is hard to forgive someone who kicks off on the assumption you're a psychopath. The irony is rich. A mother-in-law who does not question her daughters' choices often conceals trouble ahead.
+
+Divorce divides a family and exposes it to predators. If the father is absent, it is easier for male psychopaths. If the mother is absent, it is easier for female psychopaths. Divorce usually spreads the assets. So while post-divorce families make easier targets, they tend to be less profitable.
+
+When a family is wealthy, in a country with a weak state, it presents a lucrative target. Strong families in developing countries develop a culture of arranged marriages. They vet candidates with paranoia. One bad choice can destroy generations of accumulated family wealth.
+
+This model lets us make a prediction about any given society: //the rate of arranged marriages will correlate with social status of the pair.// The higher their status, the less free choice in marriage. This seems true in all societies. Between societies, the weaker the state, the higher will be the rate of arranged marriages. This is because weak states cannot protect a family's wealth from predators.
+
+After union, the next way into a family's coffers is by seduction. These relationships tend to become common knowledge. When a young man dines with a widow, or a woman dates a man twice her age, we ask the same question. "How much money is on the table?" If the answer is "a lot," we conclude the worst. Only if there is no money at risk, do we consider it might be love.
+
+Mallory can seduce a married man for gifts and money. She will use her sexual triggers to create an all-consuming dependency in the man. It's all the more potent when the man is in a marriage where the romance is long gone. This is banal. Sometimes, Mallory will make friends with the wife. She will convince her there is no cause for worry. She will become her best friend, without a twinge of fear or regret.
+
+It's harder for Mallory-the-male to hack into families like this. He may pull Bob into money-making schemes that end in disaster and loss. This is how the Mallorys of Wall Street empty many savings accounts. Or, he may seduce Bob's wife Alice, and convince her to steal for him.
 
 ++ Conclusions
 
-We've started to unlock the mystery of psychopaths by treating them as predators, rather than broken people. The predator model does more than explain psychopaths. It also explains the evolution of the human mind, as the result of an ancient arms race between cheaters and altruists. For 3 million years, altruists have gotten better at working together, and cheats have gotten better at faking it. In the next chapter I'll explain how psychopaths hunt.
+Mallory is insatiable, always hungry and thinking about her next meal. When she finds plausible opportunities, she approaches and shifts her manners and behavior. Here, she appears timid and modest. There, she looks dominant and arrogant. She shows astonishing range. She shifts voice and body language, posture and accent. She becomes whomever she must to move in closer to her prey.
+
+Beneath her shape-shifting masks, Mallory does have a real and consistent personality and character. You will almost never see it, and even if you do, it is hardly recognizable as human. Psychologist [https://carlsonschool.umn.edu/faculty/kathleen-vohs Kathleen Vohs] has shown how priming people to think about money makes them anti-social, unempathic, and more likely to cheat. In other words, more like Mallory.
+
+This is how Mallory sees the world the whole time. She is not like other people, in her own mind. And other people are not like her. Others are paper-thin shapes with a simple set of properties. Some are tasty, some are boring, some are useful, some are dangerous. She see a world of prey, and herself as a natural-born predator.

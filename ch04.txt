@@ -1,521 +1,539 @@
 // kate: font Liberation Sans; font-size 16; syntax None; bom off; indent-mode none;
-.bookmark capture
-+ Attack and Capture
+.bookmark consumption
++ The Feeding
 
-> She likes old people, she says, because they talk so much. The old men and women in the home seem to like her too. "She's always in a good mood," they tell each other. "Such a good listener!"
+> "You're looking chubby," he tells her, over dinner. She touches her face. She leaves her dessert. No appetite. They've been arguing a lot recently. She can't get it. The first year they were together, he was fine. It is as if he became a different person.
 
-> She's worked hard for her nursing degree. Endless books, studying, writing, exams. The other students get better marks, and she guesses they all cheat. They've got people helping them, and they bribe the teachers. Well, that's easy. She can do that too. She can't use the computer, it's so difficult! Oh, could you check my work for me? Pretty please?
+> Their fifth anniversary is coming up. He promises to take her out. She buys a new dress, she wants to be beautiful for him. On the day itself, he has to meet people. He will be home late. She spends the evening alone at home, hurt and angry. He comes home after midnight. He slides into bed beside her. She smells the alcohol, and pretends to be asleep.
 
-> Finally, the torture is over and she gets that magical piece of paper. "Qualified nurse," she repeats to herself. "Qualified nurse!" That afternoon she's already sending emails around, looking for work. Soon she has a gig lined up. She'll join a team looking after a wealthy man who has cancer.
+> He's studying again. Business school, this time. Before that, marketing. Before that, Eastern philosophy. He studies evenings and weekends. She works office hours. They live together like uncomfortable strangers in an elevator. She wishes he'd get a proper job. When she says this, they fight. "They're racist!" he tells her. "You don't know how hard it is for a black man. You whites," he says, and she winces. "Go study," she says, "I want you to be happy."
 
-> She dresses for work. Hair tied back, and the neat outfits she learned from the nursing home. Black and blue, white cap, long skirt, dark shoes. Expensive dark shoes. She has three colleagues, and they take shifts. Their patient is in his seventies and spends most of his time in bed. Before lunch they get him up, dress him, and take him for a walk in his gardens. He returns tired, and sleeps. Her colleagues prefer the evening and night shifts, as they have less to do. Despite the extra work, she prefers the morning shift, when he's awake and talkative.
+> Her mother never liked him. "He's not a nice man," she says, shaking her head, after meeting him. "He doesn't make you happy." She cuts her mother off, refuses to talk to her again. He is handsome. He is full of love. He makes her passionate and come alive. When she is with him, she feels energized, euphoric. It is magical. How can her mother be so petty and jealous?
 
-> He's an interesting man, who's built several large businesses. They get close, always talking. She asks him once, laughing, "so how much are you worth?" He laughs back, "that's one thing I regret. I never quite made a billion." She raises one eyebrow and tuts. "Silly man, I'm sure you have more regrets than that!"
+> "You have to forgive her," he tells her. "Her generation aren't used to foreigners. Jealousy and hate, I know it so well. She'll get over it in time." His eyes are moist and she sees five hundred years of pain. She hugs him and wonders how her mother can be so small-minded. She tries to kiss him, and he turns away. "I'm tired," he says, "Tomorrow."
 
-> He does. Hard work is good for you, he tells her. Yet it's no replacement for family. He married, his wife died in a car crash twenty years before. He has a son, forty-five now. The son hates his father and visits once a week, like it's a chore. They talk about nothing. He leaves as soon as he can, in his black Mercedes. She finds out he divorced his wife, and refused to help his father in his businesses.
+> They are always in debt. She doesn't understand it. Before she met him, she'd never owed anyone money. She saved every month. Now, it seems she is scrabbling at every turn. They spend so much, on wasteful luxuries. Trips they can't afford. Eating out, several times each week. A new car. New furniture. The worst part: he neglects everything.
 
-> It takes her almost six months to reconcile them. In the end, they hug, and she smiles to herself. The old man is getting stronger. He's promoted her to head of the nursing team. She replaces the other team members with her own people. Now she's the only woman. One evening, as the son is leaving, she goes with him. They have a meal in a restaurant close by, and she stays overnight at his house.
+> He takes the car and brings it back with scratches. Then, dents and broken lights. What happened? she asks, furious and shocked. "Some idiot backed into me," he says. It is always someone else's fault. "Did you fill in the insurance form?" she asks. "He drove off! I called the police of course."
 
-> When they marry, soon after, they both know it's the right time. Why wait longer? Destiny makes its own plans. They buy a ranch, high in the hills, and plan their dream home. The father dies in his sleep a few months later. They name their baby after him. It is a boy.
+> She gets the post. Credit card statement. She opens it, glances at the total. What?! She reads again. No mistake. It's more than her monthly salary. Her hands tremble, as she looks through the details. Some mistake! This isn't her. She tries to make sense of the text. Her mind is slipping on ice. She grapples for balance.
 
-We've seen a little of how Mallory operates, when he is out on the prowl. He preys on the most ruthless of apex predators: other humans. "The Most Dangerous Game", a short story by Richard Connell has entered [http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheMostDangerousGame part of popular culture]. And yet by selecting the weakest, most vulnerable people, Mallory tends to escape unscathed. Most of the damage falls on his victims. Just now and then, Mallory chooses a target that fights back, and he gets hurt.
+> The bank! The number is there on her statement. She calls them. Give me a real person... give me a person... ah.. "There's been a mistake on my credit card" she blurts. They calm her down. Client number. Name. OK. They check. Madam, was your credit card stolen? "No," she says, "no, it wasn't. I have it right here." Sorry madam, these are legitimate purchases. All confirmed with PIN code." She frowns. Who else knows her PIN code apart from her husband...?
 
-This is how it is in a classic predator-prey relationship. The predators cull the most vulnerable individuals. This drives the evolution of the prey species towards ever greater resistance. It is not the sole evolutionary driver yet it can be a significant one for both sets of genes. We'll come back to the implications of this later in the book.
+> When he comes back from his studies, she confronts him. He denies it flat out. "It's one of those websites you shop on. I told you not to trust the Internet," he says. "Cancel the card, and if the bank won't refund you, change banks. Damn thieves." It does not end well. She argues with her bank manager, and closes her accounts there. After years of the same bank! She sits shivering in anger, fear, insecurity. Her world is collapsing.
 
-After identifying Alice, Mallory attacks and tries to capture her. We might imagine a lion chasing, and then bringing down a zebra. The zebra dodges left and right. The lion leaps, and strikes. What we actually see is a lot of talk, and then sudden and unusual decisions. The violence is rarely overt, yet it is always present in one shape or another. For as Mallory attacks, Alice fights back with all her strength.
+> One day, she is too sick with flu to go to work. In the post she gets a letter with a court summons in her name. Unpaid traffic fines, more than a year of them. Her mind finds itself on slippery ice again. This is impossible! She parks with such attention! There's a number for the bailiff. She calls to ask for details. The female voice is happy to explain. Eleven different parking violations. Unpaid despite many reminders for each one. Fines and costs are now over a thousand dollars. She sits in shock, unable to process.
 
-++ Idealize, Devalue, and Discard
+> I'm going mad, she thinks. I can't take this. She weeps slow hot tears as she takes the bottle of sleeping pills, and puts a handful in her mouth. The black void pulls at her. Come, it says, why fight?
 
-The core of the psychopathic relationship is an "idealize-devalue-discard" (IDD) cycle. Many authors [https://www.google.be/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=idealize-devalue-discard describe this cycle]. Anyone who has tangled with a psychopath will recognize it. The IDD cycle starts with Mallory putting Alice on a pedestal. He rains down praise and affection. A while later, he does an about-face and turns indifferent and cold. And then he breaks it off, and walks away.
+> And then her phone rings. It's him. "Where are you?" he asks, without pause. "At home," she tries to say. It comes out as a nasal mumble. "Don't expect me home this evening," he continues, as if she'd not spoken. "I've got stuff to do, put the garbage out, OK?" He cuts the conversation. She holds the phone, stares out of window at the wordless city.
 
-The IDD cycle can run in a few hours, or over decades. Most authors see the cycle as a sign of failure. Mallory cannot create real relationships. He needs admiration to feed his narcissism, then he gets bored, goes the story. This explanation seems bogus for several reasons. It assumes there is a normative model for relationships, which Mallory fails to achieve. It assumes narcissism is a real thing, with wants and needs. And above all it ignores the many psychopaths who build relationships spanning years.
+> In her mind, an ancient door slides open. Something steps out. "No," it says, "not that way. We fight." The bottle of pills drops from her hand. She spits the pills out onto the carpet.
 
-It is more useful to see the IDD cycle as one of Mallory's many tools. She is not a broken person. She is as successful on average as Alice. Her relationships are as "normal" as Alice's. It is just a different normality, based on the dynamics of predator and prey.
+> She goes to the cupboard where her husband keeps his papers and books. It's locked as always. She has a second key that he never knew about. She opens it. Inside there are piles of papers. She takes the piles one by one and goes through them. Finally she sees it: a plastic bag with letters. They are all addressed to her. Dozens and dozens of them.
 
-The Wikipedia [https://en.wikipedia.org/wiki/Predation article on predation] says:
+> The tickets. Then reminders. And second reminders, then final warnings, and penalties, and letters from lawyers...
 
-> The act of predation can be broken down into four stages: Detection of prey, attack, capture and finally consumption.
+> She confronts him when he gets home. Waves the papers in his face, shouting, what is this? What IS this?
 
-There is a stage before detection, which is //hiding//. Mallory must remain invisible to her prey as long as possible. If Bob sees her true colors, he walks or runs away. Exposure is crippling. Only in a new city or country can Mallory hunt again.
+> He looks at the letters, and then at her, and then explodes in rage. "You looked through my papers? How DARE you?" He slaps her, once, and then again, harder. She falls to the floor, in shock. He kicks her in the ribs, in the face, in the back. He shouts. "Never." Kick. "Touch." Kick. "My stuff!" Kick!
 
-The hiding stage is critical. Yet the IDD cycle misses it, and treats "idealize" as the start of entanglement. And it misses the goal, for Mallory at least, which is "consumption." He does not eat his victims' flesh. He just empties them of money, power, and energy until death can feel welcome.
+> In the hospital, they recognize her name, and call her mother. The doctor checks her daughter. Nothing broken. She asks, "Did he do this?" and her daughter nods. She calls the police, who send a unit. They write up a statement, and then go to arrest him. He does not deny hitting her. It was her fault, he explains. She told me I'm too poor for her, and she kept taunting me with racist slurs. In the end I couldn't help it, I got angry. It's terrible, and I feel so bad about it. He is crying, miserable, a broken man.
 
-Finally, the IDD cycle misses the detailed way Mallory builds her control over time. It is not one cycle at all. Rather, there are larger and smaller cycles that overlap and repeat. This is why the timescales seem so variable. Mallory may IDD someone on their first meeting. And, then go on to a decade-long relationship with that same person. As I'll show later, this is not contradictory. It is part of the mechanism.
+> He is not charged, instead they both get warnings, he for assault, and she for hate crimes. Much later, at home, he tells her he's sorry, and that he loves her. She looks at him, and sees the man she fell in love with. For a brief moment she feels the connection again. She wants this so much, and she's so afraid of what comes next. And then she remembers his violence, his lies, his stealing. The other voice speaks. "//Leave,//" it says, and she takes a step towards him. "Make me!" he says, but takes a step back.
 
-So, the IDD cycle is accurate, consistent, and predictable. Yet it is also incomplete and shallow. It does not model the relationship between Mallory and his children. It does not model the one between Mallory and his willing helpers (secondary psychopaths). It does not explain why Mallory works to break people before he discards them.
+When we meet others suffering from abusive relationships, our first response is often disbelief. "Leave!" we say. "Change jobs! Divorce! Move out!" Yet that is like saying to a sick person, "Get better!" The victims find themselves tied down by a web of lies, promises, and threats. Escape can seem impossible. Captivity and suffering seem inevitable.
 
-As I see it, the IDD cycle tells the victim's story. The story is valid, yet biased and incomplete. We must look wider and deeper to understand the whole picture. The "discards" are lies aimed to dig the hook deeper. Only the last one is true. And when Mallory does walk away, there is no relationship any longer. It is not just over. In Mallory's mind, it //never existed//.
+In this chapter I'll describe the second half of the psychopathic relationship: the Feeding. The word sounds like there's a deadly blow. A bite to the throat, then the ripping of bloody flesh. Yet, that's not how it generally works.
 
-Let's rewind. Mallory has detected a target. Before the first IDD cycle bites, he is preparing his attack. This preparation is so consistent you can tell where you are in Mallory's eyes by the mask he shows you. By the time he is idealizing you, you are already entangled. I'll explain how the entangling starts.
+What we see is the victim accepting, even embracing their situation. If others criticize them, they become defensive, and hostile. They protect their abuser, praise him or her. They produce tortured rationalizations that make you ask, "are you //crazy//?" to which the unspoken answer is, "yes, at least for now."
 
-++ Hiding
+How does this happen? How does a psychopath force adult humans to accept such pain, neglect, and violence?
 
-Mallory cannot survive exposure. From an early age she must learn to act "normal." This is a hard challenge, as "normal" is a moving target and a devious one at that. It's almost as if social humans move the goal posts every day to mess with psychopaths. Mallory often avoids the problem by hiding in plain sight. One way is to act so loud and lurid that people don't look twice. We call this histrionic and narcissistic behavior.
+I've been researching mind control techniques since the late 1990's. I stumbled onto the [http://cultinformation.org.uk/question_what-is-mind-control.html Cult Information Centre], a website describing how cults work. The loss of self within a consuming group... it was familiar. It reminded me of working in large businesses. Of military service.
 
-I'm not claiming that every loud, flashy, extravagant person is a psychopath. There is no accurate visible test for a psychopath, and cannot ever be. This is the balance of evolution. Yet, if you think of Mallory as a cold, gray person, you're wrong. She is often dramatic, unpredictable, mysterious, ineffable. She is passionate and emotional. It is nonetheless an act, and it fools most except other psychopaths.
+What I found interesting was how many of these techniques seem to work both ways. One theme that we'll see in this chapter is pushing people into a juvenile state of mind. The adult mind needs real (even small) problems to chew on, and freedom to solve them. It's like a muscle that needs real work and freedom to move. Take away real problems, or remove freedom, and the adult mind weakens and shrivels. This leaves the juvenile mind unprotected. And that is far easier to push around.
 
-Let me draw you a scene to make this clear. You're in a party, with some friends. There is a woman who doesn't laugh, makes no expression at all. She looks at you like a butcher deciding which pig to slaughter. Now and then she looks at others, and then looks back at you. She smiles, and it's not a gentle smile. This would be Mallory wearing no mask. It is a frightening sight, and a rare one.
+If you give people full freedom and responsibility, then their adult minds get stronger. This can make them rebellious, if you are a tyrant. What it also does is unleash a self-controlled creativity.
 
-And there's a guy, wearing a stupid orange hat, dressed in lurid colors. He's laughing out loud, a huge stupid grin on his face. Everyone loves him. He's the life and soul of the party, roaring loud and happy, his face and hands animated. He looks like a harmless fool. If you meet his gaze, you feel warmth and affection. You could fall into that gaze, it's so deep. That's Mallory wearing his colors.
+My business is making software. To be more precise, I build on-line communities, and help them to make software. One tactic I used was to take the cult techniques and reverse them. Cults use arbitrary, inconsistent rules. Healthy communities need consistent, pragmatic rules. Cults form a pyramid of power. Healthy communities form a network of peers. And so on. Cults tell their members what to do, and when. Healthy communities self-organize around real problems.
 
-Mallory learns his masks from friends and family. He mimics accent and tone, speech patterns, facial expressions, body language. He is a professional actor immersing himself in his roles. He keeps these masks all his life, fine-tunes them, and wears them as needed. These masks are caricatures, yet more convincing than the real thing.
+So we can learn a lot of positive lessons, from the worst things people do to each other. Bear this in mind as you read this chapter, else it may be quite unhappy reading.
 
-The point of this is to distract and control. It's the technique of the stage magician. Drama, music, and smooth words get the audience looking one way. And so they miss Mallory's real moves. It works with a single person, and it works with a roomful.
+++ Motivations
 
-++ The Interview
+Let's recap. Mallory has persuaded Alice to invest a relationship where she's losing control. She's stopped building up her own future and is handing over resources to Mallory. In a normal healthy relationship the two parties complement and strengthen each other. The psychopathic relationship is one-sided. Mallory takes everything he can, and gives as little back as necessary.
 
-Once as a young student in York I strolled, with my band of friends, into a small house. The friendly people inside were offering a "free personality test." They let us play with science-fiction machines that measured our stress levels. They sat us down for one-on-one talks. A young woman chatted with me a little about why I was there and what I was looking for in life. She jotted down my name and address, and then started taking notes. "What's the worst thing you ever did in your life?" she asked me. It was the same casual tone as you'd use to ask someone, "what did you eat for breakfast?"
+Keep in mind, it is about economics: money or time or sex. Sometimes access to property or assets. Sometimes power of different kinds, when it benefits Mallory in some tangible way.
 
-It was an unexpected cold finger poking into my private mind. I slapped it away and thanked her for the cup of tea, and took my friends and left. One of our group, a girl, stayed a little longer. Six months later we had almost lost her. With a lot of convincing, she stopped going to the group. She stopped spending her money on their weird literature and courses. She resumed her studies.
+In pop culture, the psychopath is the caricature of an unpredictable and deadly killer. It is how the mouse describes the cat. "The monster was upon us! All teeth and claws... it got my family, luckily I escaped! Crazy!!" The cat does not share mouse emotions and psychopaths do not feel social emotions. No hate, fear of rejection, jealousy or self-pity. And no revenge, nor even enjoyment in the pain of others.
 
-The friendly people stalked her, and us. They went to her dorm, and followed us on the streets. "Why are you not coming to sessions?" they would ask her, not so friendly any more. "Why are you hurting your friend?" they would ask us, "she needs her courses," sometimes yelling at us as we ignored them. They persisted for more than a year before they gave up.
+Psychopaths are scary because they can inflict extraordinary damage onto others without restraint. Their emotional states are those of a predator. That's it. How do you talk to animal hunger? Yet I suspect the worst monsters in history are social humans. People who are aware of the pain they cause, driven by beliefs that can seem insane. At least Mallory follows the logic of the predator.
 
-I'm not mentioning names, as Scientology might take offense. Some years later that psychopathic organization took my cousin. It was years before he returned, a different person, his joy and laughter gone.
+So the "why?" is easy to understand and predict with psychopaths. As long as Alice has something of value to offer, Mallory keeps the web strong and tight. As Mallory drains Alice he shifts gears and prepares to exit in safety.
 
-People ask me sometimes where my interest in Mallory comes from. My friends and family, and myself... we've bled and wept over and over. How could I not notice the parade of predators that stalk us? I don't make it personal. I don't get angry about it. Instead, I decode, understand, and dismantle the frameworks of lies that Mallory depends on.
+Until that point, Mallory must ensure that Alice stays put. This is no simple task. We're all the descendants of an unbroken chain of survivors. There has been a long arms race between human predator and human prey. This gives even the nicest of us strengths to call on when we need them.
 
-The Interview is one of those lies. It starts as, "I care about you, and we are sharing an intimate moment." It ends with blackmail and extortion. It is rarely so overt as a person writing on a clipboard. More often it happens in a bar or club, or social setting. These are contexts where we expect small talk and are happy to chat. Often there is alcohol involved, so we drop our guard.
+Alice is an adult, and capable of walking out of the door at any point. Mallory cannot stop her by physical force. He doesn't need to. Instead, He explains to Alice, in different ways, that she has no choice but to stay. There are many ways to do this. These are Mallory's main tactics:
 
-Mallory wants to know how good a target Bob is, and what direction to work in. It's the car salesman asking, "what is your job," then, "are you married?" The probing may be gentle yet is insistent. She slices to Bob's weaknesses, and the opportunities and risks he presents.
+* Cut Alice off from the outside world and sources of help.
 
-Mallory wants to exclude false positives. That is, people who look like opportunities yet are not. So the questions focus on Bob. There may be theater and drama. Yet the conversation zooms in, and Mallory reads every microscopic reaction and twitch.
+* Strip Alice's assets so she becomes too poor to leave.
 
-The interview is part of a growing promise of some kind: sex, money, or salvation. The threat emerges side-by-side with the promise. If you don't answer, I'll walk away, and the promise will vanish with me.
+* Keep Alice confused so she accepts Mallory's arguments.
 
-You can tell when Mallory is interviewing you, if she is in a hurry. If she is careful, you cannot tell, as it will happen over days or weeks, or even longer. And the interview can happen behind your back, through people you know.
+* Break Alice's empathy and ability to care for others, and herself.
 
-Often though, you can see it. She is nicer than she needs to be. She smiles a lot at you, and acts dominant in a casual way. She approaches you, not vice-versa. She asks questions about your background, your family, your work, your relationships. It seems rather intimate for casual discussion. Your intuition is uncomfortable. Yet the interactions hit your triggers, and you get dopamine kicks of pleasure. So you keep talking.
+* Break Alice's ability to think and make plans.
 
-If you listen to your intuition, you may feel uneasy with this smiling person. You can of course walk away. Yet it's //plausible// she is sincere and interested in you. Walking away from everyone who's interested in you is a poor strategy. So there's another defense we often use. That is to keep talking, and switch to neutral topics, or back to the other person.
+* Regress Alice to a juvenile state so she accepts her situation.
 
-A person who enjoys talking to you will go with the flow, no matter what you talk about. The ability to play with conversation in random directions is a white flag. Mallory will ease the discussion back in line. She will deflect questions about her own background, or she will lie and exaggerate. She may talk about herself and share "intimate" details yet it always to position you into revealing more. It is near impossible to spot her lying, unless you catch a specific falsehood.
+Mallory could be an organization rather than a person. Organizations tend to take on the characters of their founders. When psychopaths bring people together, we see the same patterns as between individuals. We see this in organizations like investment banks, cults, and VC-funded startups. They tend to abuse their members more than they abuse the rest of the world.
 
-++ Cold Reading and Shotgunning
+++ That Big, Bad World
 
-During the Interview, Mallory will be cold reading his target. This means guessing significant details about Alice in a short time. It is a basic tool of mentalists, con artists, car salesmen, and assorted mystics. Mallory does it without effort or practice.
+Every cult and police state does the same cheap trick: "they hate us for our freedoms!" This refers to the devastated wastelands of the outside world, filled with roaming zombies. The message is clear: "stay here and follow The Rules, and you will be safe. Leave, and your death will be slow and nasty."
 
-Most of us are expert in reading people, though we may not realize it. Yet our brains interpret what we see as emotional signals and empathic reactions. We don't see stress, we feel stress. Mallory sees what is there, with no emotional lens.
+It is already hard for a single mind to make sense of an infinite and chaotic universe. We depend on others for our sense of reality, even our memories. It is the power of a social species, and also its weakness. An isolated individual is much easier to manipulate.
 
-Classic cold reading is a party trick, used by mystics to impress people. "You recently lost your father... he is sending me a message for you." In the field, it is more intrusive.
+An antagonistic "them and us" mentality is a red flag. If your company defines itself by hate for its competitors, watch out. With individuals it's harder to see. The first thing you may see (and often, accept as truth) is a "trail of tears." Here, Mallory plays the victim. She tells convincing stories of abuse from her parents, teachers, and ex-partners.
 
-Most people are readable most of the time. One engages them in conversation, and asks the right questions. One can then make good guesses about:
+After you have accepted Mallory's vulnerability, she learns your most important relationships. Then she breaks them, one by one.
 
-* Where they grew up, from their accent.
+Our relationships are rarely strong enough to survive deliberate attack. I once knew a man who's job it was to recruit experts. He didn't wait for people to answer ads. Instead, he just called a business. He chatted to the receptionist and asked, "can I speak to your best <whatever>?" He would get through. Then he would ask the expert the key question. "Would you change jobs for a promotion and a raise in salary?"
 
-* Whether they are the first child or not, from the amount of stress they show at disorder. Are they comfortable with delay, and some mess, or not?
+Once upon a time a software firm called Borland made the best software in the world. They made compilers, spreadsheets and databases. They threatened Microsoft's business. Microsoft hired away Borland's key staff, one by one. The dying firm sued, then settled and was then swallowed up piece-meal, for peanuts.
 
-* Whether they have younger siblings, or come from larger extended families, from the way they treat young children.
+People asked, at the time, how Borland's staff could be so disloyal. Yet it was easy, and cheap. Send limousines, offer million-dollar signing bonuses. Make it clear that the number of seats is limited. If you don't join us, your junior colleague will, and one day you will beg to work for him or her.
 
-* Whether their parents argued violently, and divorced or not, from their general confidence.
+There are so many ways to create conflict between people, no matter how close. Psychopaths excel in doing this, if they can see both parties and get a sense of each.
 
-* What field they studied, from the way they talk and act.
+Here are some ways Mallory discourages Bob from an independent social life:
 
-* How much they earn, from the context, their behavior.
+* Showing violent jealousy when he speaks to someone of the opposite gender. It's love, right?
 
-* Why they are there and what they expect to happen.
+* Reporting others plotting against him, with convincing detail. Of course they deny it. That just goes to prove.
 
-* How they feel, about the situation and about you.
+* Forcing Bob to spend so much time on other tasks that he neglects his social life. It is all about priorities.
 
-* What they want most, at that time and place.
+* Accusing Bob's family of prejudice and a hateful attitude. They never understood him, never accepted his choices.
 
-And so on. Most people can learn to cold read, to some extent. You must learn to ground your emotions, and then you practice. Much of this is just being open to what people express, in words or in behavior. The unreadable people are those who hide, for one reason or the other.
+* Hinting that Bob's colleagues are getting unfair promotions or earning more than him. She's obviously sleeping with the boss.
 
-Mallory cold reads at genius level. He combines perfect reading with shotgunning. He makes rapid, broad guesses at various scenarios. The guesses either fall flat, or trigger a small response. State five possibilities, see a response to number four, and he has hit home. The result looks like a shocking ability to read minds.
+* Showing flashes of "crazy" to Bob's acquaintances so they learn to stay away.
 
-You can tell when Mallory is shotgunning you. It's like the Interview except worse. He makes sharp guesses about details he should not know, nor be asking about. He makes these guesses with pure conviction, as if he is stating absolute facts. No questions, he blasts out assertion after assertion, until he scores.
+* Encouraging Bob to change his behavior and act weird, so others start to avoid him. Here's a new shirt I bought you. Bright colors suit you!
 
-Shotgunning can range from subtle scanning to overt aggression. Mallory may blast allegations aimed to cause the greatest pain. It is a curious form of discussion. It seems to have three goals. First, to hurt and destabilize an opponent or resister. Second, to get reactions and thus to discover vulnerabilities and hidden truths. Third, to convince observers of Mallory's innocence and virtue.
+* Forcing a move to a new city or country where Bob knows no-one. We have to move, it's best for my studies. We'll be together :)
 
-Internet trolls show many psychopath traits. They show no empathy nor emotion. They tend to be solitary and predatory. They also shotgun their perceived opponents. They are often as violent as one could be [http://www.urbandictionary.com/define.php?term=swatting over a keyboard].
+* Criticizing Bob so he loses the confidence needed to make new friends. Your friends say you're overweight, so you might want to wear baggy clothes.
 
-It is remarkable to see Mallory announce outright lies, to discredit others. He may be calm and sad, or burn with righteous indignation. It is theater, aimed at an audience. The best lies are plausible and colorful. They tend to be easy to disprove, yet few people do. Our minds evolved to agree with those in authority. We will accept obvious lies when they come from someone who acts superior to us. It's called the [https://en.wikipedia.org/wiki/Asch_conformity_experiments Asch effect].
+If Mallory is an organization, most of these tactics still work:
 
-++ The Imitation Game
+* Did you go for a job interview with another firm? That's treachery... You're fired!
 
-Primates and birds have social instincts for copying the behavior of others. There seem to be three main mechanisms in humans: convergence, mirroring, and mimicking. Each mechanism has its evolutionary reasons. Each is a tool in the hands of a psychopath.
+* Every quarter we expect you to rank your colleagues. Oh, and they will rank you.
 
-As a social species, our identity lives in the groups we are part of. Our concept of "group" scales from two people to millions. Many of the same mechanisms work at all these levels. Convergence is one of these.
+* Yes, we expect you to work evenings and weekends. Other people want your position.
 
-Part of the group identity is a more-or-less consistent culture. Above all, this means appearance, behavior, and language. Groups don't just aim for consistency, though. They also aim to be unique, and different from other groups, especially close competitors.
+* You need to explain to your wife how important your work is. Make her understand.
 
-There are several reasons why groups strive for consistency and originality. Individuals already in the group have an interest in expanding the group. Size is power. The group culture is its branding. "This is who we are!" is a recruiting statement. And "We're not like them!" is how groups stop their members defecting to other groups in the same area.
+* Employee grade levels and salary data are secret. You negotiate alone.
 
-For those who join a group, or are born into it, there is strong advantage in conforming. Being "different" exposes an individual to rejection from others, and to violence from outsiders. When there is conflict between groups, the first targets are the outliers.
+* Next Saturday is team building day. Your voluntary presence is mandatory.
 
-The evolutionary benefits of hiding within a group are an old cultural engine. The diversity of human language and behavior is not random chaos. It stems from every group's need to find its own niche. It expresses in accent, dialect, and memes.
+* You're going on a two week intolerance awareness program.
 
-It expresses as food taboos, which are often complex to the point of absurdity. Arbitrary, complex rules are a tool of control, as I'll explain in [#consumption]. Food taboos most likely evolved from our hunting-gathering past. "This is toxic," is easier to explain as "forbidden." We learn disgust once, and it saves our life a hundred times. The same instinct then lets tribes ban foods eaten by neighboring tribes. It stops people slipping away.
+* Good news, you're promoted. How do you feel about moving across country?
 
-Convergence happens by negotiation and imitation. Dominant individuals establish a pattern which the less dominant follow. When people share power, they negotiate a weighted average. Hence the term "slavish conformity." Even a child will try to negotiate with its parents. The result is group consistency in the short term, and evolution over time.
+* Your peer ranking for the last quarter was 20% lower than average.
 
-Convergence takes time and effort and is a negotiation between individuals. This means you can tell how close and equal people are by how they appear, act, and talk.
+If Bob insists on an independent social life, Mallory creates a crisis. In a couple, she packs her bags and walks out. A group threatens its non-compliant member with expulsion. "Imagine if you lose this job, and your health benefits. Do you want to risk that?" This is usually enough to break Bob's resistance. Bob is so lost, so in love, so //addicted// to Mallory that he will do anything to get her back. If swallowing her persecution complex is what it takes, so be it.
 
-Both men and women converge, in differing ways. Men tend to converge towards group language, behavior, and appearance. Women tend to converge towards other individual women. You rarely see two men dressing alike, unless they are part of a larger group. Yet you will often see two women converge on each other. Observe two women together, and you can often tell how well they know each other. It shows in hair, clothing, shoes, accessories, and body language.
+++ The Uphill Struggle
 
-Not everyone converges. There are at least three distinct types of people who appear to act "different." There are those with some degree of autism. There are the natural leaders. And there are the psychopaths. I'll explain each so that you can tell the difference.
+There is the ancient Greek myth of Sisyphus, whom Zeus sentenced to forever pushing a rock up a mountain. Every time he got near the top, the rock would slip out of his grip and roll back to the bottom.
 
-People with autism cannot read social cues. This means they never converge no matter the context. They look lonely, asocial, and "strange" in various ways. While popular culture has demonized "loners" as unstable and dangerous, this is a myth. Such individuals run a higher-than-average risk of discrimination.
+At the heart of every psychopathic relationship is a Sisyphean Mountain. The victim or victims push their heavy rocks up this mountain. The rocks always slip and roll back to the bottom.
 
-Natural leaders will converge when joining others of higher status. They will not converge when meeting potential followers. This forces others to make more effort to converge. We value our relationships according to how much we invest in them. So working harder to converge makes a deeper attachment to the leader. And that builds the group, as participants converge on a single person.
+This is part of the Narrative: work harder and your life may improve. If you aren't in a great place today, it's because you're not trying hard enough. Yet no matter how hard Bob tries, that rock keeps slipping out of his grasp.
 
-Mallory acts much like a natural leader at this stage. Yet he starts to abuse and mistreat members of the group almost at once. A natural leader treats and protects the group like family. Mallory treats the group as his possession or toy. This is narcissism, one of his masks.
+Go into almost any large business and you will see a Sisyphean Mountain, rising up. Cathedrals where the elites sit high and the masses toil in the lower levels. Work hard, says the Narrative, and you may rise and rise. In reality, no. That is not how it works. You will fall off, and it will be your fault.
 
-In extreme cases, he forces others to make extreme efforts to converge. To force a consistent dress, language, and behavior is a form of abuse. It breaks the individual's identity and self-image. This is a pure psychopathic trait, in individuals and organizations.
+We also see a great deal of Sisyphean Mountain propaganda in our media. It shows beautiful people, expensive lifestyles, desirable sexual partners, large homes, frequent luxury travel. This represents the top of the mountain. We are then encouraged to climb this mountain, at all costs. The 2015 movie Entourage is a prime example.
 
-++ The Cloak of Invisibility
+We take such organizations and cultural models as the norm, and yet they are predatory, and psychopathic.
 
-Convergence establishes the nature and depth of a relationship. It generally takes time and effort to become a corporate drone. There is a way to cheat, which "mirroring." In this, one person (the "actor") copies another person, in real time. The most obvious sign is the actor switching language and accent. We're less likely to notice the shifts in body language and appearance.
+++ Follow the Money
 
-What the actor is saying is, "we are close and you can trust me." When someone adopts your accent, it sounds like they are from your home region. It's an invisible sound. The sure way to know if someone is mirroring you is when they show no accent (to your ears). Unless, of course, they did in fact grow up where you did.
+Here is some advice for those seeking a partner, a new job, a new client or supplier. If you don't enjoy a meeting with someone, wait before calling them back. Either you feel happy and content and snug with them, or you don't. After a date, interview, or business meeting, we often ask the wrong questions. We ask, "are they the right person for me?" Or, "will she sleep with me on our next date?" Or, "will they pay me enough?" Or "does he like me?"
 
-Mirroring is a cloak of invisibility, a mask that triggers trust and relaxation. It is a core talent of psychopaths. When Mallory uses mirroring, he becomes a dangerous presence. He does it to get close to his targets.
+The correct question is: "did that moment make me happier or not?" Keep asking this question over time. Your first dates with Mallory will almost always be fun. It takes time for the pain to emerge.
 
-It's not malicious by definition. It evolved, presumably, as a defense mechanism. When you move to foreign places, the ability to mirror is a life-saver. We tend to see other people as fuzzy bundles of triggers. Mirroring lies about the actor's past and makes it seem they have been there for years.
+Back to Alice, who is pushing her rock up that mountain. Mallory goads her on with comments about her lack of style, and weight. She is so focused on her rock that she does not see what is happening to her world.
 
-++ Shape Shifters
+Psychopaths are often mysterious until you look at the economics of the relationship. Then it usually becomes as clear as a deer halfway down a boa's mouth. The predator feeds. This means taking resources from Alice until she is empty. This is the core of the relationship, as far as Mallory cares.
 
-Mallory does not feel social emotions. This is not a bug. It is a feature. If she had social emotions, she would be unable to work. And yet, the lack of emotional responses is a fatal give-away. Her answer, evolved and carried in her genes, is to borrow from others, using mimicry.
+It is often about money, time, or sex. Yet the range of resources Mallory may in fact be taking from Alice is quite broad:
 
-Mallory is a superb observer. She is always hunting, untroubled by emotional filters. One thing she watches for are new types of emotional scenes. Something happens, one person responds with emotions, and then others respond in turn. She watches these dramas. Somewhere in her mind, specialized neurons capture the caricature of behavior. Facial expressions, body language, voice inflection, and way of speaking.
+* Mallory will use people as cover. An organization will recruit people to boost its numbers. This projects a more solid and trustworthy image to potential targets. The recruits may believe they are getting a good job or a path to paradise. Yet they are fodder for whatever insane projects the organization comes up with. Many psychopaths will marry and have children. This screen of normality makes their hunting easier.
 
-And she replays this on demand.
+* Mallory will use people for sexual gratification. This gives a sense of power. I believe this is more common for male psychopaths (using women and/or men). It is rarely rape, since half the kick for Mallory is to get his target to say "yes". [http://www.decision-making-confidence.com/sexual-psychopaths.html Yet it often skirts close to rape]. Robert Hare has estimated that 50% of serial rapists are psychopaths.
 
-This ability makes Mallory an excellent and convincing actor. Her projection is rich and has all the right triggers. This makes it more convincing than the original.
+* Mallory will ask for money, slowly yet obsessively. Mallory might target his wife's life savings. It comes as hints, pleas, manipulations against her family, requests for help to start a small business, then losses, and the need for more. If he makes modest demands then he follows with immodest ones. In business, a corrupt startup may ask its investors for more funds to avoid bankruptcy. The total over time will be huge and crippling.
 
-For example, when Bob or Alice get angry, they show a loss of control. It is still tinged with some fear. Mallory records this and replays it, without the fear. The result is a perfect "anger" mask that is terrifying at a visceral level. The same for displays of love, jealousy, self-pity, fear, loneliness, guilt, affection, sincerity.
+* Mallory will offer his targets a lucrative business opportunity. There will be some show of early profits, and the promise of huge annual returns. If Alice invests, she will not see his money back. Pyramid schemes are a classic psychopath construction. If Alice challenges Mallory, he will insist on his innocence. He will then ask for more money to make things work again. Alice often falls for that. The psychology of sunk costs I explained in [#capture] is powerful.
 
-People talk of the psychopaths' "masks of normality." In fact these are masks of super-normality. Much of Mallory's power comes from this talent, and our hard-wired responses to it.
+* Mallory will use people as slaved labor. He has no remorse doing this. He will justify it in creative ways. "I saved them from a worse fate," or "They are paying back their debt to me." In an organization, this means volunteers and interns, cheap foreign labor, and extreme overtime. In a family, you will see Mallory avoiding work and delegating to others. In cults and prisons, you get outright slave labor.
 
-Mallory can switch masks in a heartbeat. One second, calm. The next, intense fear. The next, brooding violence. The next, dramatic self-pity. Then, calm again.
+* Mallory will convert others' assets by claiming "yours is ours is mine". In marriage, Mallory insists on sharing all property and savings. This makes them easy to plunder. Yet he will keep his own assets hidden. In business, a startup may tell its new hires, "You are part of this!" and even give them a nominal shareholding. In return the employee must contribute all their time. If the firm ever makes profits, or sells for a large amount, the employee gets little back.
 
-Mimicking is a powerful tool that works on most people, most of the time. It has some inherent weaknesses and telltales. Remember, Mallory is showing prerecorded emotions. A social person starts with a mix of emotions and then expresses these.
+* Mallory will create debt and push that onto others. He uses the reverse "mine is ours is yours" principle. This is common in business deals and marriages with psychopaths. Mallory borrows money in the name of the joint venture, and hides or spends that money. He then defaults, leaving Alice to pay the bill.
 
-These are some ways to tell that you are seeing Mallory's mask:
+* Mallory will encourage Alice to invest in new assets. This could be a new company, or property. Mallory always gets enough of a stake to be able to steal. He often insists he is the only trustworthy party. "You are too old and senile to recognize crooks!" he tells Alice, who must sign over full control of the new assets.
 
-* The emotional display is too pure, too intense. This is hard to see, as we're so vulnerable to the triggers. Yet if you can step away from your own responses, you can tell the difference. Bob is wine at 12% alcohol and Mallory is spirits at 40%.
+* Mallory will steal and defraud whenever he believes he can get away with it. This is consistent, whether the amounts are a few dollars or millions. The price to the victim is irrelevant. All that matters is the benefit/risk ratio for Mallory. Fraud works better when he knows and profiles his victims in advance. So for example, if Mallory shoplifts his groceries, he sticks to shops he knows. If he steals old peoples' identities, he targets people she knows and can control.
 
-* The masks have no gradient. Social emotions can flash on and off, yet they have ripples and echoes. It's part of being social. Fear leads to anger, then to guilt, and regret and remorse. Mallory's anger mask has no gradient, no social climbdown.
+If Mallory gets caught, he always denies the facts, and blames someone else. It may be the victim. It may be other bystanders. He denies responsibility even when confronted with material evidence. There will be no remorse, no attempts to make it right, no apologies.
 
-* The mask may be of someone you know, or even yourself. It is an interesting question to ask, when you see Mallory acting out. Who are they doing now?
+The Ukrainian serial murderer [https://en.wikipedia.org/wiki/Andrei_Chikatilo#Trial_and_conviction Andrei Chikatilo said], about his 50-60 victims: "I did not need to look for them. Every step I took, they were there."
 
-* In rare cases you may confront Mallory with a situation she has no response for. Perhaps a plan failed. You may see the "slip and recover" where the mask falls. You see no personality, just quiet, deep calculation. I've seen this last a split second, or hours. Then there is decision, and she puts on another mask.
+For every wallet and every heart, there is a story that will open it. Sometimes it's being the tragic victim of a cruel world. Sometimes the wallet opens for false promises. "Let's invest in tulip bulbs! I've a cousin who's importing them." "We should build an extension to the house. My friend will come and help." Sometimes it is simple blackmail. Give me a new car, or I'm leaving. Sometimes objects of value disappear.
 
-* Sometimes Mallory will lose control temporarily, when provoked. Mallory is not emotionless. She has some authentic emotions, like hunger, fury, and glee. You can provoke her through these emotions, and then she shows her real nature. It can be a terrifying experience.
+Wherever there are flows of money, Mallory tries to get control over them. In an organization he will try to be treasurer or get spending authority. In a family, he will "hold the purse." Mallory is as negligent in paying bills as he is quick to steal. This combination is a recipe for ruin.
 
-* When Mallory is tired, and at home, and can't keep up the act, the mask may slip.
+Many business do go bankrupt like this. Yet many more do not. It is interesting to look at the design of a modern business. The concept of a limited-liability entity may seem sinister. How can a business be a "legal person?" How is it ethical to allow a business to take risks that do not carry onto their owners? Is this a conspiracy by capitalism to defraud the general public?
 
-* When Mallory is over-confident, then her true emotions can show through. She may show flashes of glee for instance, when she believes a plan is working well.
+In fact a business entity is a one-way trapdoor. It stops debt moving back onto investors. Most often the investors are not the ones running the business. Without such a trapdoor, Mallory can load up debt, steal it, and disappear.
 
-The masks will fool anyone who is not aware of how this trick works. Her extreme emotional displays are not just for camouflage. They are also a whip and a hook. Strong emotional displays create strong responses. Those responses are addictive.
+Modern States demand annual accounts from businesses. They give owners the right to inspect these accounts. They let owners question their business managers to justify them. They often separate the roles of treasurer and chief executive. All this reduces the scope for fraud.
 
-Mallory's true emotions are worth understanding, and I explain more in [#emotions]. She feels hunger when bored, then obsession when she finds a new target. As she starts the chase, she feels euphoria, and as she closes in she feels glee. When she moves in for the kill, she feels fury, and as she inflicts damage, she feels bloodlust. As she feeds she feels gluttony, then satiation when she's had enough. And when she fails in a hunt, she feels blocked.
+So the core of modern business law is an anti-psychopath defense.
 
-All other emotions she shows are fake.
+The French proverb //Les bons comptes font les bons amis// applies here. Some misinterpret this as "debts must be repaid as fast as possible." It just means that any relationship must balance.
 
-When Mallory apologizes and shows remorse, it is an act. When Mallory stares into your eyes and says, "I promise," it is an act. When Mallory shows bad temper and burning anger it is an act. When Mallory tells you, "if you do that, I will kill you," it is an act. This can be hard to remember, so convincing is the mask. All psychopaths have the capacity for violence and yet, if they do strike, they will never warn you.
+If you look at the accounting, an abusive relationship shows up right away. "We're in an open relationship," Mallory says. He knows Alice will try harder and harder to get him to commit. Meanwhile he is "free" to sleep with other women.
 
-With mimicking, Mallory pushes people around like pieces on a game board. Only other psychopaths are immune to her, as they don't respond to emotional triggers.
+We've evolved many defenses against predators looking to empty our real or metaphorical wallets. Another of those defenses is the ritual of gift giving. This is a fascinating part of human culture. We get so much pleasure from our rituals of exchanging gifts. And particularly when they are heavy with emotional value. We get such pleasure from //making// a successful gift. That shows how important the ritual is.
 
-++ Constructing the Narrative
+Gift giving can take different forms. I believe that it's fine to work for free. It is also fine to charge a full price for your services. The first is a gift. The second is a transaction, not an investment. What I will not do is work at less than my worth, on the basis of future rewards. This is something I've learned to avoid, unless I'm working for myself.
 
-Every psychopathic relationship has the same structure. At the heart, Mallory places a core of lies and promises. I call this The Narrative. Around that, Alice wraps layers of efforts and investments, string around stone. Over time the ball becomes huge. To untangle it, and find the lies at its heart, can be difficult.
+You should be free to walk away from any relationship, at any time. This includes be it personal, business, and social relationships. It does not mean lack of commitment. It means clarity and freedom. When a relationship is healthy and makes you happy, you have no reason to end it. And when it is unhealthy and makes you unhappy, you should not have to continue it.
 
-The first of those lies is a promise that Mallory makes right after the interview. It is a cheap, simple, and unbelievable promise. Yet it aims straight at the heart and guts. "I will make you wealthy," he whispers. "I will be yours," he promises. "I will take care of you forever," he sighs, as Alice falls asleep in his arms.
+++ Techniques of Confusion
 
-Mallory speaks with confidence and authority. His lies becomes possibilities and then givens. As soon as Alice accepts a lie even as a remote possibility, the dance has started. Mallory mirrors, flatters, dominates. He weaves more promises around the core. This can happen in hours, or a few weeks. Alice starts to feel the burn of attention. We now enter the idealization stage.
+Mallory must keep Bob captive and docile while she feeds. She most often uses words rather than chains. She is a convincing speaker, quick to find the right thing to say. She is always confident and dominant. To hold Bob captive without chains, she keeps him in a state of confusion. There are many techniques, and I'll try to cover the main ones.
 
-Mallory focuses everything on Alice. Before that, she only felt short flashes of attention. Those were already strong enough to knock her out of her comfort zone. What comes next is shocking, disruptive, and addictive.
++++ It's not Me, it's You
 
-Mallory knows exactly what Alice wants. He's asked her, he's read her, and he's seen her type before many times. He spins a story of lies and magic. He gives Alice this theory and he watches as she swallows it, like a grateful child.
+There is a certain kind of lie that Mallory uses, called "gaslighting." He does this to confuse Alice, by messing with her memory and sense of reality. The term comes from a play and 1944 movie, "Gaslight." As [http://en.wikipedia.org/wiki/Gaslighting Wikipedia notes], "Sociopaths frequently use gaslighting tactics. Sociopaths consistently transgress social mores, break laws, and exploit others, but typically, are also charming and convincing liars who consistently deny wrongdoing. Thus, some who have been victimized by sociopaths may doubt their perceptions."
 
-If Alice sees herself as strong, Mallory becomes the lost boy. Oh Alice, maybe you can save me? He plays the victim well. Later, he will turn to Alice's friends and family, with tears in his eyes. He will explain how Alice abuses and betrays him. Lost, helpless, he will show them a world of suffering in his eyes. They will curse Alice and reject her.
+Some classic forms of gaslighting are:
 
-Whatever Alice's fantasy, Mallory brings it within reach. He promises, tells tales, flatters, hints at things to come. The only resistance to such an attack is to want nothing, and believe nothing. Above all, to distrust one's own voices. Mallory's magic only works on Alice because she lies to herself.
+* To lie about important past conversations. "You told me I could borrow the car! You even gave me your credit card so I could fill the gas tank!"
 
-Not that Alice is unique, or to blame. We almost all lie to ourselves, even the most honest and upright of us. Even Mallory lies to himself. It takes conscious and deliberate effort to see our own lies and step aside from them.
+* To lie about past agreements. "We agreed you would invest in my firm if I tried to get you a meeting with the vice-president. Well I tried, and now you owe me that investment!"
 
-What Alice should notice most of all is the sheer volume of chatter from Mallory. It would be overwhelming if she was not so eager for it. When they are together, it consumes their nights and their days. Alice feels like the center of Mallory's universe. When they are apart, Mallory will text and call Alice non-stop. The phone companies love Mallory. He usually finds someone else to pay the bills, though.
+* To lie about irrelevant details. "No, we didn't have Italian yesterday, it was sushi. You had the maki, remember."
 
-Cult jargon and support forums call this "love bombing." It is a well known tactic to break resistance. Love bombing is a super-normal stimulus. It triggers a rush of dopamine in Alice's brain that overwhelms. It is the same response as if she was ingesting fructose, or cocaine. We get a kick when someone we like talks to us. We get ten times that kick if they talk to us ten times. We get a hundred times the kick when they call us a hundred times.
+* To lie about others' perception of her. "Everyone tells me how paranoid you have become."
 
-This trigger and response is natural and necessary. It is how we bond. A social person can only give so much. It is exhausting to express deep emotions. Mallory pays little or no cost. His deep ululations of love and desire come from memory. They cost him no more effort than wagging a finger. He does what social humans cannot. He amplifies the trigger, and he drives the addiction deeper into Alice's mind.
+Mallory prefers to lie in private. When Alice is alone and cut off from other people, she wants to believe Mallory. Faced with a constant flow of untruths, she starts to doubt his memories and his sanity. This is a pragmatic tool for mind control. [https://en.wikipedia.org/wiki/Reid_technique Interrogators use it] to extract false confessions.
 
-Alice starts to commit time and resources. Mallory watches her and chooses his moment. He has done this so often before. It is almost too easy.
++++ The Gods of Lies
 
-Perhaps he will start slowly, when Alice is feeling most confident and intimate. A subtle comment after sex. A show of jealousy or insecurity. "Who were you thinking of, your ex?" A glum mood and argument that leaves Mallory a victim, and Alice searching anxiously for her fault.
+Mallory lies to confuse her victims. She also lies to conceal. She conceals who she talks to, where she goes, and what she does. She is so secretive about her real life that even her own family are unaware. And Mallory lies for profit, to escape criminal prosecution, and to frame other people. She mixes lies into banal truth, to confuse and distract.
 
-Or, he may simply switch his attention to someone else, seen or unseen. Alice freezes, waiting for Mallory to return. It can be for minutes, or weeks When he does return, it is without explanation or apology. He continues as if nothing had happened. If Alice makes a comment, he accuses her of being insecure, jealous, possessive.
+Mallory is Loki, the shape-shifting Norse god of trickery and untruths. Her love and talent for lying are central to her predatory nature. To be a predator is to deceive your prey. When she lies, no matter the occasion, she feels the thrill of the chase.
 
-Or he may strike more brutally, when she is feeling vulnerable. She twitches, does or says something that betrays uncertainty. Mallory lashes at her. How dare she? She stumbles, retreats, apologizes. It is what Mallory was waiting for. Fury fills him. Eyes wide, mouth in a snarl, he explodes in verbal abuse.
+I've seen Mallory lie, and it is a remarkable thing. I'm sure she can stroll through lie detector tests without leaving a trace. It goes further than not showing a stress response. When she tells you that black is a shade of white, it feels //better// than the truth.
 
-Alice has no words. It has all gone wrong somehow. Bewildered and in shock, she cannot react or process. She watches as Mallory takes his things and leaves. Come back! she pleads. And then he is gone. Mallory walks to a corner and makes some phone calls. He has business to take care of. Alice will be calling him, and hitting his voicemail. He'll give her an hour or two. Whatever. It's much the same. Alice is going nowhere.
+How does Mallory do this? How does Mallory project untruth to feel more solid than mere statements of fact? I think it is another blue egg story. Mallory mimics the signals for sincerity, and speaks with authority and confidence. This triggers our belief response. The more the psychopath amplifies those signals, the more we believe. It is like Puss in Boots' [https://www.google.be/search?q=puss+in+boots+eyes wide eyes in the movie Shrek 2].
 
-There are many points in the relationship where Alice could break free. This is the most visible one. Mallory has left. It is over. Time to move on, yes?
+To understand how Mallory can lie like Loki, first accept that we all lie. We start lying as young children and we socialize ourselves out of it. We become honest liars. We accept and repeat stories we know are only partly true yet are better than empty space. All stories are lies to some degree. "It is sunny outside" is a lie. What does "sunny" mean? Half-true stories make the world simpler and more digestible. This book is full of such stories. Only a dysfunctional mind cannot lie.
 
-Yet Mallory is a professional. This is what he does. Alice has as much free will as his phone. She will wait, and she will weep, and she will beg forgiveness. Alice always does.
+So we all lie, and we know this about each other. It is a human universal. Truth is a negotiated average of semi-lies. We have evolved ways to get more accurate stories by talking to each other. "It's sunny outside," says one person. "I just saw dark clouds on the horizon," says another. Together they get a better story: "it's sunny and may rain later." The stories become solid, reproducible. We build them into theories, share them and pass them on.
 
-When Mallory does answer her call, and returns, Alice is compliant. She is shivering from hurt, withdrawal, self-pity, and guilt. She does whatever Mallory asks. She takes all the blame, even though she does not understand what for.
+So as we talk, we exchange fluffy lies and distill them into hard truths. For this to work, we must try to believe people even when we guess they are inaccurate. We measure the speaker for sincerity, and when we see that, we accept. The more sincere the speaker, the more we accept. We can always correct mistakes later.
 
-This is the devalue stage of IDD, the withdrawal of affection. It is not a one-time event. It can start just a few days into a relationship. It can be subtle and creeping, or it can be dramatic and violent. Mallory does this over, and over. Break, and remake. Break, and remake. Alice goes fuzzy on the details, after a while. She tells no-one of it, and they would not believe her if she did. Mallory will remind her, often, of her crimes and his patient forgiving nature.
+Social humans cannot fake sincerity, by definition. When we tell an "honest" lie, we are sincere about it. When we tell a deliberate lie, we show tiny twitches. Our imaginations take over from our memories, and the shift in gears shows in our eyes. So, we are honest liars.
 
-It is the hallmark of an abusive relationship that Mallory acts highly sensitive, jealous, and volatile. At the slightest excuse, he starts a violent argument. And every argument ends in crisis. Sometimes he threatens to leave. Sometimes he packs his bags. Sometimes he just vanishes. Sometimes he kicks Alice out. It doesn't matter. The goal is to push Alice to the edge, to destabilize her, break her, and train her.
+Mallory is different. She fakes sincerity like she fakes anger, affection, jealousy, sadness. From an early age she studies others' faces and body language. She becomes a perfect mimic. She is born with this talent, visible in some children just a few years old. She can amplify the triggers at no cost, so she is better than the original.
 
-After every crisis, Mallory withdraws, goes cold and distant. If Alice was smart, she'd watch Mallory go and wipe his number from her phone. Of course, she is desperate to get him back. She is an addict. She tries harder, and he relents and returns.
+The second thing about Mallory's lies is how rich and detailed they are. You can of course catch him out, if you know what is going on. If you don't then you just get a convincing flood of detail. It is as if Mallory creates an imaginary situation, then describes this to you.
 
-The burn comes back. Mallory knows how to make her cry from pleasure, as well as pain. She forgets the arguments. Whatever he wants, she will give.
+Mallory does not seem to try to remember these imaginary situations. Maybe there are too many, for too many different people. So the reliable way to catch their lies is to record them, and compare them over time.
 
-Mallory does not forgive, nor forget, though. He tracks Alice's crimes like an accountant. It forms part of the narrative. She will now and then try to resist Mallory's demands. She will complain when he throws chaos into her schedule and life. Mallory responds with cold abuse. "You dare?" he asks, and he reads the ledger back to her.
+It is how some psychologists get the truth out of people. Ask the same question in five different ways, and compare the answers. A sincere person will tell the same story five times. A psychopath may change the story each time. This is how honest police work, when questioning a suspect. For this to work, I think the questions must come from different people, and over time.
 
-Mallory never apologizes if he can help it. He never makes steps to repair the fractures, unless Alice is on the verge of walking out. His brutality is not personal. It is a negotiation strategy, part of doing business.
+If Mallory has children, they grow up with her lies as a daily diet. The children of narcissists often report having above-average memories for events and conversations. This is anecdotal data. It could be correlation as well as causation. Mallory, after all, has genetic talents for conversation and mimicry. Her children inherit these, to some extent.
 
-While my description above has Mallory the man, and Alice the women, it works the same way when Mallory is a woman, breaking Bob. For every broken woman explaining why she loves her abuser, there is a broken man doing the same.
++++ Machines of Chaos
 
-++ The Spanish Prisoner
+Many children of psychopaths describe their parents as "chaos machines." Mallory spreads chaos in different ways. He tends to disrupt the lives of everyone around him. Sometimes it looks like incompetence, sometimes like neglect, and sometimes like simple carelessness. I've come to believe it's deliberate, even if it's often subconscious. Organizations often use the same techniques:
 
-People often stay in abusive relationships far longer than you'd expect. Abusive attachment is a counter-intuitive mechanism for everyone except psychopaths. These individuals understand it from youth, and practice it to perfection. For the rest of us, decoding the abusive bond is hard work. Yet it is a valuable exercise that teaches us much.
+* Chaotic planning, in which Mallory's time is precious and Alice's time is worthless. Mallory will make short-term demands of Alice. This interrupts her schedule and makes a mess of her planning. If Alice dares to act like this, Mallory attacks her irresponsibility and punishes her.
 
-Let's start with normal social relationships. Alice and Bob meet. They need each other in some way. Love, business, or friendship. They each invest time, money, resources, or affection in the relationship. It starts with small steps. They ease into larger commitments over time. They work to keep the relationship balanced. This is "normality," when both Alice and Bob are happy with each other. If either feels they're not doing enough, they work harder until it is solid again.
+* Alice may lose all control over her schedule, leaving Mallory to plan her every move. This is typical of cults, and also happens in some relationships and some organizations. Mallory can combine this with sleep deprivation. Then Alice has no private time in which to analyse her situation.
 
-Human social instincts are not perfect. There are at least three vulnerabilities in the bonding mechanism. These are triggers that Mallory can amplify to trap Bob or Alice. They are: sunk costs, future promises, and parental abuse. I'll take these one by one.
+* Removing Alice's personal spaces. Organizations often do this by creating communal areas for working, eating, and meeting. Some psychopathic businesses ban all personalization. They enforce "order" and sterility of spaces, the so-called "clean desk" principle. Since humans are territorial, the lack of any private space damages our self-confidence.
 
-The sunk costs fallacy is well known in economics. No-one has explained it well, so I will try now. The symptom is, "I've spent so much money on this house, it //must// be good by now!" We know the house has problems, yet the more we spend on it, the more we believe in it. Even the smartest of us falls into this trap, over and over. Houses, businesses, cars, hobbies, all kinds of projects.
+* Mistreating or neglecting items that Alice cares about. Organizations may ban personal choices when it comes to items people identify with. Here, you will use a corporate laptop. In personal relationships, Mallory will mistreat Alice's property: cars, apartments, photographs, clothes. It is violence by proxy. It depresses her, and she then detaches. She realizes she cannot stop such mistreatment. So she stops trying, and stops caring. And the less she cares about her possessions, the less she cares about himself.
 
-How do we value a project? We could put it up for sale and see what offers people make. Yet we tend to form emotional relationships with our projects. That is why we care for them. To offer them for sale violates the relationship. One cannot put a money figure on a relationship. Instead, we count our investments in the project. And we guess how much we feel it has given us back. We add these up. If we do come to a figure, it will be high.
+So chaos can take various forms. An employer may demand that Bob give up his free time. The firm may send him on business trips without notice. They may put him on irregular and disruptive shifts. At the same time, Bob will have to plan his vacation six months in advance. He may not know until the last minute whether he will actually be able to leave.
 
-The origin of what I'll call "social accounting" is clear. We're a predator species that survives risk by mutual sharing. When we succeed in a hunt we have more than we can consume or carry, so we share with others. When we fail, we beg. On average this exchange works out and keeps us alive. Yet it is vulnerable to freeloaders who cheat by always begging, never hunting. To beat them, we evolved tribal identity and accounting.
+In the home, Mallory will go out, and return, without warning. She will bring home spectacular and flashy dramas involving real or imaginary protagonists. She will crash the car and it will never be her fault. She will start disruptive projects like renovations and insist everyone get involved. And she will leave these projects half-finished for months or years. She will plan tasks for others. Yet she will rarely share her own calendar with others.
 
-Bob and Alice each hold a ledger in their minds. They keep a balance of gifts received and given. The more work it takes to calculate this balance, the more solid the bond feels. This is why the best gifts have no price tag. This is why money dissolves relationships like acid. This is why we can bond with a [https://en.wikipedia.org/wiki/Dunbar%27s_number limited number] of people. Our mental capacity is 150 ledgers, more or less.
+If talking to others is hard, maybe Alice can find a quiet moment to herself. Just to process the day's events. Mallory makes sure this is impossible. Early in their relationship, he will cling to Alice day and night. He smothers her with chatter, intense sexual activity, and passionate arguments. Later, he disrupt Alice's schedule with endless trivial-yet-urgent tasks, so she cannot relax. And later, he builds up the ever-present threat of emotional and physical violence. Alice retreats into depression and starts to shut down.
 
-The bookkeeping is delicate. We don't know the value of our gift to others. There are many intangibles like genetic closeness. We don't know the cost of their gifts to us. So we track the value of the gifts we received and the gifts we give. "He saved my life!" and "I gave her my last chicken." It is a one-sided ledger.
+Rigid sterile order has the same effect as chaos. Imagine that someone goes into your email every night and messes with your emails. They delete some, move others to the wrong folders, and so on. It is all "clean" and yet nothing is where it should be. At first you get irritated and angry. Then you try to take steps to stop it. When all this fails, you give up and abandon your email. Or, you accept that someone else is now in charge of your life.
 
-Further, we cannot read the other's ledger. We have to guess it. If we see the other person happy to see us, we assume our credit is good. Then we take our own valuation. If the other person is unhappy, we invest more until they are happy again. Then we again take our own valuation. If we feel we're getting too little from the other person, we become unhappy with them, and we dislike them.
+In a world of chaos, we regress to juvenile acceptance of authority. This reaction is well known to propagandists, who depend on it. Keep your public on a steady diet of shock and horror chaos. They won't question the corruption and repression.
 
-You can see how the social emotions of like and dislike evolved. They are the language of social accounting. You can see why we read and interpret these emotions using empathy. You can see why empathy for these emotions is an adult mental tool. Juveniles do not take part in the risk sharing. We do not keep ledgers for juveniles, nor do we expect them to do that for us.
++++ Magic and Illogic
 
-Social accounting achieves two things. First, it lets us detect and punish cheats. That takes no conscious thought. The ledger is out of balance. We dislike the cheats and then become angry with them. If they make enough effort, we become happy, and we like them again. If not, we stop sharing with them. Second, it lets us rank others from most to least important. Meaning, most to least likely to look after us when we are unlucky.
+Karl Popper wrote: "We are social creatures to the inmost center of our being."
 
-As such, social accounting is a good defense against cheats. I'd guess this mechanism evolved many millions of years ago. It is so tied to high-risk hunting.
+Our superpower, as a species, is to think together about large problems. We do this by building theories of the world. We refine these over time, and we teach them to younger generations. Our minds collect observations and use them to test our theories. We do this from our first to our last breath.
 
-Somewhat later, we evolved the ability to plan the future, and make promises. We often make and accept promises of future rewards, or just "futures". Futures are a large part of social accounting. It is how we stretch our risk balancing strategy forwards in time.
+We seem to construct theories out of nothing. We take observations and gut feelings. We chatter with others, and with ourselves. We take the endless theories delivered to us by past generations. We design new, or improved theories. We encode them in language and words. And we argue, remember, and share them.
 
-Like all gifts, we measure futures in the silence and privacy of our own minds. It is a bad tactic to tell others how you measure them, unless you dominate them. In the same way it is bad practice to tell others the futures you expect of them. Every relationship is a slow game, a negotiation. One does not show one's cards.
+Popper argued that there are two kinds of theory. There are scientific theories, which we can falsify with data or observations. And there are magical theories, which we cannot. To put this another way: you cannot ever prove that a theory is true. Absolute truth is unreachable, like an irrational number. What is the absolute value of pi? You can try, and fail to prove a theory wrong. When you remove all that is wrong, what remains is a closer approximation to the truth.
 
-So when someone promises or reveals a future, that is a trigger. As the future gets larger, our response grows. When the reveal is modest, and thus looks sincere, our response grows. These futures tend to be basic: sexual gratification, protection, affection, time, resources, opportunities, contacts.
+We can disprove or improve scientific theories like "Tiny invisible creatures spread diseases." We can neither disprove nor improve magical ones like "Evil spirits spread diseases." Magical theories are not only not true. They are -- to quote the theoretical physicist Wolfgang Pauli -- "not even wrong."
 
-The further a future, the higher the risk of default and effort of enforcement. So we discount futures, using a [http://en.wikipedia.org/wiki/Hyperbolic_discounting hyperbolic curve]. We discount a lot at first, then less over time. The closer the future, the higher we value it.
+When a social mind shapes a theory, it remixes existing theories with new observations. It adds in guesses, assumptions, and beliefs. It mixes in myths, legends, hypotheses, memes, and lies. It tries to connect those into a consistent story. The process takes time. In such minds, lies are temporary scaffolding that we correct over time.
 
-Somewhere close to the evolution of futures, we evolved the ability to lie. As I've said, Mallory is a professional liar. She is not just a good liar. She is a better-than-perfect liar. It is the key to her long-term success. Whereas Bob feels stress at lying, Mallory feels none. She fears no consequences. When Bob lies, he places his relationships at risk. Mallory has a different accounting model.
+Mallory lies to confuse, manipulate, and hide. She does not seek truth, only control. Her mind constructs magical theories in a heartbeat. She describes with complete sincerity. This is an assault, a weapon, a form of violence. In Mallory's theories, truth is temporary scaffolding to replace over time with lies.
 
-So to hack Bob's social accounting, Mallory lies about futures. Bob adds those futures to his ledger, and values the relationship higher. It sounds simple, yet that evolution must have taken hundreds of thousands of years. Presumably the necessary genes evolved in parallel with the genes for language.
+A magical theory has no solution, and can absorb infinite amounts of thought. That disrupts logical thinking. In the software security business we call this a "denial of service attack." Every cult and religion grows around magical theories. So do many business ventures, and many relationships. How can you disprove or improve "Fate means us to be together" as a theory?
 
-Mallory meets Bob and reveals some future. She then asks for help, playing the victim. Bob starts to share. Mallory shows larger futures. Bob invests more. Mallory contrives a crisis, and makes it Bob's fault. He responds by investing more. He now values the relationship higher. Mallory gives a little, then repeats the cycle. She breaks the relationship again, and Bob repairs it, again. She can make Bob see this as the primary relationship in his life. He will sacrifice everything to make it work. It only ends when Bob is empty.
+Magical theories tend to develop their own secret languages, jargons, and idioms. Invented words often carry magical meanings that the listener cannot negotiate. Psychopathic organizations tend to invent private languages that are confusing and hard to learn. And then they change these languages often and without cause. They force their members to listen to and learn complex doctrines. More magic.
 
-Futures tend to be massive compared to sincere investments. This means the bond works much faster than a normal social bond. In a typical case it takes only a few days for Mallory to hook Bob. It will take her only a few months to become the most important person in his life.
+Unable to process the flood of illogic, Alice gives up making sense of her world. She accepts Mallory's statements. She accepts his justifications. She treats him with respect and love, even as he is consuming her.
 
-Over time, Mallory replaces the futures with Bob's debts. The advantage for her is that he can never pay them off. She controls that ledger, and no matter what he does, she adds new debts to it. The sooner she can do this, the sooner she can focus on other targets.
++++ Crime and Punishment
 
-Sunk costs and future promises are the basis for many confidence tricks. The archetype is the [https://en.wikipedia.org/wiki/Spanish_Prisoner Spanish Prisoner] aka Nigerian advance-fee fraud. This is the backbone of the abusive bond. Even when Bob is bleeding empty, he will deny that Mallory is dishonest.
+After enough pain and theft, Bob may wake up and think of rebellion. So Mallory carries another weapon, which is fear. Before Bob gets to the point of revolt, Mallory has already been working hard. She redefines the relationship around fear. She creates an atmosphere of terror. It is so deep and tangible that Bob would rather kill himself than challenge her.
 
-++ Mallory's Books
+As I explained in [#hunting], you can spot abuse victims by the nervous way they walk. It's the deep-seated fear of tripping up and unleashing their tormentor's anger. Mallory builds the fear by rewarding and punishing Bob in the most confusing way.
 
-What do Mallory's ledgers look like? How does a psychopath do social accounting? In broad terms, they do not. They use different mechanisms to track their relationships. To start with, Mallory can hold many more ledgers than Alice. His Dunbar number is in the many hundreds. He does not track gifts. He does value his relationships relative to each other. He definitely knows who is most likely to feed him.
+Mallory likes to change the rules arbitrarily, and make rules that are inconsistent, intrusive, and impossible to not break. The rules never apply to her. Bob has no appeal, and no voice. He must accept the rules, or leave. So, Mallory can punish Bob arbitrarily, and keep him always on the defense.
 
-Mallory's ledger for Alice tracks the flow of resources from her to him. It tracks issues she appears to be sensitive to. Alleged crimes she has committed, that he can use as leverage. Often when he talks to Alice it is to try new accusations, and revisit old ones to see if they still work.
+Complex and arbitrary rules are a staple of religious cults and other psychopathic organizations. These rules regulate what to eat, and when. They define dress codes for every occasion. They regulate language. They limit who may talk to whom, where, when, and about what topics.
 
-You can see that this ledger is not negotiated. Alice cannot get Mallory to change by being happy, nor angry. Her social instincts work against her.
+Good rules are in fact important. They block that tactic of making up new rules to suit the purpose, so Bob is always a criminal. Bad rules become a prison. What we see often in psychopathic relationships is an asymmetry. The rules apply to Bob yet not to Mallory. This power imbalance is a sign of something rotten. When the justification for a rule is "Because I said so," it's a sign of abuse.
 
-This bond can last years, even a lifetime. Seen from the outside, it is incomprehensible and immoral. Yet it seems an inevitable consequence of the social accounting instincts. Evolution doesn't try to make everyone happy. It plays the averages. If 10% suffer so 90% can thrive, so be it.
+When Bob breaks a rule, and often when he does not, Mallory will explode in sudden anger. When Mallory projects sudden anger, it can be dramatic and terrifying. She shifts her body language to look larger, smiles with her teeth bared. She opens her eyes wide. She advances and raises her arms as if to strike. She pick up objects to use as weapons, or to smash on the floor. She raises her voice, shouts a barrage of insults and provocations.
 
-Yet there are clear ways to escape this bond, no matter what stage it is in. I will come to this later. The suffering is only inevitable as long as Alice believes Mallory to be sincere.
+Our emotions are social communication tools. They are a way to negotiate others into behaving with us. They are our original, primeval language, displayed in face and body. Sudden anger defuses and moderates conflicts between individuals. We still have conflicts, yet anger reduces the risk of violence and injury. It lets us make mistakes that could end in conflict, and then step back before we go too far.
 
-++ Stockholm Syndrome
+This is easy to see. If someone walks in your way on the sidewalk, you sidestep, smile, or nod. The little irritation (a raised eyebrow) turns into a tiny pleasant interaction. You both smile and nod. Take the same two people in two cars, trying to cross each other in a busy intersection. Instead of a polite nod, it can lead to intense sudden anger in both drivers.
 
-> "If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man." -- Mark Twain
+What makes the difference is the cage the car forms around the driver. This cuts off verbal and non-verbal communication. It is easier for a car driver and a pedestrian to understand each other than two car drivers. When the brain gets annoyed it starts to show anger. If it gets a response, it calms down. If it gets no response, it moves into "fight or flight" mode. It is the same response you might have if someone walks in your way on the sidewalk, on purpose. Road rage is a basic survival instinct caught in the wrong context.
 
-The third trigger is parental abuse.
+So the authentic anger display is a social cue. It evolved to tell another person: stop now, I am losing control of myself. It says, violence will happen if you do not step back now. It is a usually-reliable signal that most people cannot fake. The loss of cerebral control is central to the signal's weight. We can learn to control anger, to calm it or to encourage it. It remains the same authentic mechanism in most people.
 
-As Mark Twain observed, the more someone invests in us, the //less// we value them. A visible effort by the other person diminishes them in our eyes. If a dominant man is generous to a submissive man, he creates a challenger. The submissive male sees the dominant male as weak and needy. Instead of affection, he feels antagonism and rebellion. This is our ancient primate mind at work, fighting its way up the group hierarchy.
+Mallory's anger display is loud and explosive yet not authentic. She does not feel sudden anger, and does not lose control. Instead she puts on an anger mask taken from people she's watched in the past. She may have several anger masks, taken from parents, siblings, or close relatives. When Mallory believes she faces a real threat, she does not display anger. She strikes, at once and without hesitation, or she turns and leaves.
 
-Parental abuse triggers the opposite effect. It is the bond that children have with abusive parents. Mistreatment comes in many forms. It can come as verbal, emotional, or physical violence. It can come as physical confinement. It can be negligence of basic needs. It can be disregard for social cues and needs. We would expect children of abuse to hate and detest their parents. Instead, they bond hard. They identify with their parents, defend them, excuse them, and follow them.
+Mallory's volcanic anger display provokes the [https://en.wikipedia.org/wiki/Fight-or-flight_response fight or flight response] in Bob. No matter how he responds, he is in trouble. If he responds with anger, Mallory mocks and insults him and provokes him further. She does not back down, nor apologize. If Bob walks away or does not respond, she mocks him and insults him. She chases after him and threatens him with violence if he returns. If Bob gets violent, he will be accused of criminal assault.
 
-The evolutionary benefits of responding like this are clear. To survive in an abusive family, a child must accept the abuse. To rebel is to starve. More, the child must push the worst of it onto his or her siblings. That means being the most enthusiastic defender, the first to comply.
+It is how Internet trolls behave, getting people to argue, to humiliate them. If Bob accepts the violent language and anger, he takes a large burden of stress with him. It will consume him for hours, even days. If Bob fights back, he may feel better, yet he is losing control, and Mallory will use that.
 
-To provoke the parental abuse response, Mallory pushes Bob towards childishness. When we think like juveniles, we respond like juveniles. We abandon our ledgers and social accounting. We do not negotiate. We submit, or we flee. Mallory has diverse tools to push Bob into this state. I'll cover them in [#capture].
+So Bob learns to absorb the insults and anger in silence. This is how abusive relationships run. The outsider sees, if anything, violent arguments. One person tends to start the fights, and the other tends to take the blows.
 
-The parental abuse trigger is the basis for Stockholm Syndrome. That is the affection hostages feel for their kidnappers.
+There are, [https://en.wikipedia.org/?title=Anger according to Wikipedia], three types of anger. There is sudden anger, which Mallory mimics to build that atmosphere of fear. There is passive anger, which he doesn't seem to experience at all. And then there is [https://en.wikipedia.org/?title=Anger#Aggressive_anger aggressive anger].
 
-The mechanism at work is one of dominance and submission. When an individual tells us to do favors for them, we have several choices. We can comply or refuse. These are both submissive responses. We can also assert dominance by ignoring or mocking them. We can avoid the question by walking away. We can comply while mocking, which is a mixed response.
+The symptoms for aggressive anger are a checklist for the late phases of a relationship with a psychopath. The accuracy of the list shocked me when I read it. I'm going to quote it completely, in case someone edits it out of Wikipedia:
 
-If we do comply, we accept dominance and we then feel attachment. It is not just favors. If an individual mistreats us, we again have the same possible responses. Ignore them, mock them, walk away, or accept. If we accept mistreatment, we accept dominance.
+"The symptoms of aggressive anger are:
 
-The worse the mistreatment, the stronger the dominance trigger, and the stronger the attachment.
+* **Bullying**, such as threatening people directly, persecuting, pushing or shoving, using power to oppress, shouting, driving someone off the road, playing on people's weaknesses.
 
-Mallory is demanding with everyone she feels is under her spell. She puts on her anger mask at the slightest excuse. The verbal and emotional abuse she heaps on Bob can be astonishing.
+* **Destructiveness**, such as destroying objects as in vandalism, harming animals, destroying a relationship, reckless driving, substance abuse.
 
-++ Isolation Attacks
+* **Grandiosity**, such as showing off, expressing mistrust, not delegating, being a sore loser, wanting center stage all the time, not listening, talking over people's heads, expecting kiss and make-up sessions to solve problems.
 
-Our oldest defense against predators of any species is other people. When we have trouble with someone, our first instinct is often, "discuss with others." When we keep our problems private, from isolation, or fear, it usually gets worse.
+* **Hurtfulness**, such as violence, including sexual abuse and rape, verbal abuse, biased or vulgar jokes, breaking confidence, using foul language, ignoring people's feelings, willfully discriminating, blaming, punishing people for unwarranted deeds, labeling others.
 
-It is only through other people that we can understand the world. We may think of ourselves as clever individuals, yet that is self-flattery. We are only clever in groups. It is so easy for Mallory to lure people in. He spins them a fantasy, and sells it with promises, lies, threats, and half-truths. No-one is immune from such attacks, except other psychopaths.
+* **Manic behavior**, such as speaking too fast, walking too fast, working too much and expecting others to fit in, driving too fast, reckless spending.
 
-As Mallory blasts Alice with exaggerated triggers, she loses her sense of normality. When she explains her life to others, they will tell her "this is not normal." She may be stubborn, so such advice can wash off. Yet it can be the voice of reason that saves her. It just takes one person who recognizes Mallory's true character.
+* **Selfishness**, such as ignoring others' needs, not responding to requests for help, queue jumping.
 
-So Mallory must separate Alice from the people she trusts and depends on. He does this through a series of "isolation attacks." He creates a bubble environment that he controls. He levers Alice into this environment. He keeps her isolated within it, so she cannot get help.
+* **Threats**, such as frightening people by saying how one could harm them, their property or their prospects, finger pointing, fist shaking, wearing clothes or symbols associated with violent behavior, tailgating, excessively blowing a car horn, slamming doors.
 
-We see this pattern over and over. It can be one person controlling another. It can be a company asset-stripping its staff. A cult swindling its members. Mallory has many faces.
+* **Unjust blaming**, such as accusing other people for one's own mistakes, blaming people for your own feelings, making general accusations.
 
-* First, Mallory creates a bubble environment. In a couple, this will be "our new apartment." In a start-up, this will be "the new offices." In a cult, this will be "our new education center." The bubble looks and feels like home. It lacks the critical part of any home: real family.
+* **Unpredictability**, such as explosive rages over minor frustrations, attacking indiscriminately, dispensing unjust punishment, inflicting harm on others for the sake of it, using alcohol and drugs, illogical arguments.
 
-* Next, Mallory convinces Alice to move into the bubble. The further she moves from friends and family, the better for Mallory. The move is Alice's investment. It makes it harder for her to talk to others.
+* **Vengeance**, such as being over-punitive. This differs from retributive justice, as vengeance is personal, and possibly unlimited in scale."
 
-* Now, Mallory starts to cut Alice's links to other people, one by one. He'll sow distrust by telling Alice stories of what people said about her. He'll create conflicts, and make Alice believe everyone hates her. While he is doing this, he will charm her family and friends. No-one will imagine Alice is in trouble.
+I've no clue how the author captured the psychopathic relationship so well. It would be a big coincidence. Perhaps the author lived with a psychopath.
 
-When Mallory moves to isolate Alice, the stakes have risen high. This is the point where the young person leaves home, into the arms of a child abuser. This is where your brother packs a bag and moves into the cult compound. This is when the young couple announce they are moving in together. This is how the wealthy husband leaves his wife for a younger, prettier woman.
+Mallory slams Alice with sudden anger displays, and long term aggressive anger. The effect on Alice is corrosive. Her mental state suffers. She becomes sick with unusual stress-related diseases. She lives on the verge of depression and suicide for months, even years. She may start to use drugs and alcohol to self-medicate.
 
-It is always a shock to friends and family. Alice abandons them for an unknown adventure. She uses passionate language. "Destiny!" she says, when people ask "why?" Mallory is discrete, charming, plausible.
+The one thing she won't do is ask, "is this normal?" She is too busy fighting for her sanity.
 
-If Alice was sober and able to listen, I'd try to warn her. Keep your assets out of the relationship at all costs, I'd say. Define boundaries and protect them with force if you must. Keep your friends and family close. Avoid physical vulnerability. Please don't trust Mallory, he is not what he seems to be.
+++ You Can't Beat Me
 
-Yet when Alice is moving in, it is already too late by months. You cannot treat addicts with logic. If there is a clear example of temporary insanity, this phase is it. Perhaps a dose of Clozapine or some other [http://en.wikipedia.org/wiki/Dopamine_antagonist dopamine blocker] would help.
+When you read about psychopaths on line you hit a lot of theories about what makes a Mallory. Evolutionary psychologists like Steven Pinker have dismantled the old nature-versus-nurture argument. Yet it still confuses many.
 
-++ Exploring in Safety
+Pinker explained this well in his 2002 book "The Blank Slate." Human nature is the product of genes, expressing through our environment. Everything we are is the result of genetic potential, shaped by environment and use. There is no choice between nature and nurture. You need 100% of both.
 
-Reading this, you may ask how to avoid Mallory, and escape if she does decide you look interesting.
+The theory of our genes as static blueprints is also falling to a better model. That is, our genes express over our lifetimes. In other words, they switch on and off all the time, to produce different proteins. They work in cascades, so that one gene may control dozens or hundreds of others. And this happens in every cell of our body.
 
-Locking yourself in a room is a poor option. People do try this. I do not recommend it. At the same time, if you walk among strangers, you will meet Mallory, over and over. It is as inevitable as day and night.
+Look again at Mallory. We see a set of talents that switch on and develop depending on the environment. At least some adults [https://en.wikipedia.org/wiki/Stanford_prison_experiment can become psychopaths], if conditions are right.
 
-Another strategy is to become a "grey rock." This means, showing little or no response to anything people do or say. This is a decent strategy for surviving a psychopath in the room. Yet Bob and Alice don't like this and will avoid you. Grey rocks tend to be lonely, which is not a good thing.
+I'll use the term "secondary psychopath" to mean a social human who has turned to psychopathy. Some people still [https://en.wikipedia.org/?title=Psychopathy#Other_theories explain this phenomenon using the nature-versus-nurture model]. Remember that gene expression is itself an evolved mechanism. No-one becomes a psychopath just through trauma. It is always about survival.
 
-You may ask, would it help to act more like a psychopath? It is a common question. There is this notion that psychopaths are successful, with their charm and social fluency. They do not suffer the bruises of emotions. They seem strong, even invincible. Does acting like Mallory give us immunity? The answer is "yes, except it's not that simple."
+I don't think you can be a little bit psychopathic. Whether you play the social game, or the cheater game, you must play to win. Mallory is competing with other psychopaths, and Bob with other Bobs.
 
-So then we ask: can we just identify the psychopaths, and avoid them? After all, we have checklists and personality tests. In theory, yes. I'll explore this in [#diagnosis]. In practice, the answer is "most often, no". Mallory has been fooling people since she was a toddler. She fools professionals: psychologists, law enforcement, judges. She fools people who see her every day for years: partners, children, close friends. What makes you special?
+So we can model psychopathy using game theory. People are bundles of talent that are either expressing, or latent. It depends on the playing field. Depending on our age, that expression influences our mental and physical development. Many can learn to play music, yet the best musicians start young and focus on just that.
 
-Where does this leave us? We cannot distrust everyone, or we become isolated and more vulnerable. We cannot extend blind trust to everyone, or we suffer wound after wound. We cannot tell who we can trust, and who we cannot. It seems like a paradox.
+Mallory controls the playing field. If she sees the potential in Bob, she can try to turn him. If this works she gets a long-term helper, much like a master vampire. To create the necessary playing field, Mallory must:
 
-Yet what looks like a paradox is actually a set of false assumptions. The main one is that we can trust Alice and Bob, and we must distrust Mallory. Then that we must decide alone, in our own minds. The third is that we must judge each case afresh, on its own merits.
+* Break Bob's empathy. She makes him witness violence towards others, and forces him to take part. For the greatest effect, the violence happens to Alice, who Bob cares about.
 
-++ The Theory of Trust
+* Maintain the climate of fear, so that Bob lives in constant fear of punishment. Mallory will punish Bob enough to teach him who is in charge.
 
-The psychopath manipulates trust. From the first seconds of a meeting to years later, Mallory insists: "trust me!"
+* Offer Bob an escape from the constant threat of pain and violence. He just has to help Mallory by being violent to Alice.
 
-So it's worth looking at trust. Trust is a hypothesis about a person's future acts towards us. "I trust her" is shorthand for, "my hypothesis is that she will not harm me." Like any hypothesis we cannot prove it is true. We can only try to falsify it, and fail.
+* Maintain the threat of expulsion. At any point, Mallory may kick Bob back into the cell with Alice, or expel him into the unknown.
 
-To establish any depth of trust, we need opportunity and time. We need chances for the other person to break their trust. We need safe spaces where failures are not harmful. We need time for many such experiments. You need an unbiased observer to collect the data.
+Mallory creates a "them or us" dichotomy. She forces Bob to choose sides. She makes it more and more expensive and painful to stay with Alice. If Mallory judged Bob well, he takes the path of least pain. He rationalizes it by accepting Mallory's doctrines.
 
-Mallory specializes in distorting this process. He expands experimental space far beyond what is safe. He forces conclusions based on too little data. He influences others to accept lies as truth. Mallory's logic is: you trust me, thus you must invest in our relationship, now.
+This sounds awful, and it is. It's the recipe that gangsters use to make child soldiers. It's how many businesses operate. Accept and survive, or resist and die. The violence and threats may be subtle, and economic rather than physical. Yet this basic recipe is the core philosophy of many organizations.
 
-As I explained, Mallory distorts our social accounting to make us trust him. Despite ourselves, we evolved to want to trust people. The more we work to establish trust with a psychopath, the worse our conclusions. This means that trust is a poor tool for predicting others' actions. It becomes a form of gambling. Most of the time we are lucky. We come to believe we are born lucky. Now and then we have horrid accidents. Then, we believe fate wants us to lose.
+Look deeper, and the distinction between primary and secondary psychopath is vaguer. There are no "born" psychopaths, it is always genes expressing according to their environment. I'm not sure that psychopathy can always switch off. It seems impossible after a certain point.
 
-Consider this: you can create deep and loving relationships without depending on trust. Not that trust is absent. Rather, that it is not the basis for the relationship. Correlation is not causation. Trust is like happiness. It is a social emotion that you feel to show the other person how much you like them. Like happiness, it can come from real reasons, or fake ones, and we cannot tell.
+This recipe for secondary psychopaths is how Mallory raises his children, if any. He divides them into helpers and victims. The helpers practice on their brothers and sisters. They emerge at young adulthood as unflinching predators with a decade of training. The victims spend a life as hosts, stumbling from one parent figure to another. Genes have no pity, in their endless race to stay relevant.
 
-++ Motivational Awareness
+++ Let's Go Back
 
-If we cannot use our feelings of trust to predict another's actions, what do we use?
+We can model the human mind as interlinked yet distinct tools. This includes [http://en.wikipedia.org/wiki/Executive_functions the tools for decision-making]. These tools tend to pull in different directions, and balance each other. Our emotions pull us according to what other people are doing around us. Our empathy pulls us according to how we think other people are feeling. Our intuition pulls us according to slower and more careful background analysis. Our executive pulls us according to conscious analysis and forward planning. When someone yells at us in the street, our emotions say, "Yell back, louder!" Our empathy says, "Smile!" Our intuition says, "Laugh!" Our executive says, "First see who it is, then respond."
 
-The answer is motivational awareness. That is, to develop an awareness of others' motivations and intentions. As part of that, we must also be honest about our own motivations. It is our own lies that trap us.
+Our emotions develop early. A young child already experiences happiness, anger, jealousy, self-pity, fear, hate, joy. Our empathy develops later, when we are teenagers. A young child can already plan and solve problems. Our intuition and executive are only mature when we reach adulthood.
 
-Why are we in this place at all? What are we looking for? Most often we disguise our own motivations. We do this for ourselves first, and for others thereafter. There is a social process. To put our needs on the table shortcuts this process, and invites rejection. One does not ask an unknown person, "are you single?" or "how much do you earn?"
+If our executive, intuition and empathy are not working, then our emotions decide everything. It is far easier to manipulate someone's emotions than the other parts of the mind. Psychopaths often attack the executive, empathy, and intuition. This pushes their target back into juvenile acceptance of their situation.
 
-Thus we often hide our desires and needs. Yet this does not hide them from Mallory. When we push our motivations out of sight, we create denial. When someone sees that denial and pushes the trigger, our response is higher.
+I've already explained a set of techniques that do this. Each mental tool needs a certain consistency in its dealings with the world. The more Mallory controls the world, the more she can create inconsistency. And in an inconsistent world, emotions rule the stage.
 
-So instead, we look for our motivations, with honesty. We accept them, and we then resolve them. There are not a huge number of possible motivations. Indeed the set is small and depends on our age, gender, and circumstances:
+A young woman goes to her manager to ask for a raise. He does not talk about her excellent work and successful projects. Instead he chastises her for her clothing. "There have been complaints," he says, "suggestions that perhaps you dress a little too,..." he looks up and down at her, .".. flamboyantly. Now what did you want to talk about?" he asks. She shakes her head and leaves.
 
-* We look for people to trade our knowledge and skills with, to learn from, and work with.
+A company is giving its executives bonuses. Meanwhile it is also sacking staff. The CEO announces a new ranking system. Employees will score each other. Each year the company will fire the lowest ranking 10%. The emotional chaos ensures that no employee questions the bonuses. Conform or die.
 
-* We look for people to play with, be it mutual fun, or more sinister bullying.
+One can also talk straight to the child mind, to reinforce it and encourage it to dominate. One tactic is to ask for small favors. [http://en.wikipedia.org/wiki/Ben_Franklin_effect Ben Franklin wrote], "He that has once done you a kindness will be more ready to do you another, than he whom you yourself have obliged."
 
-* We look for partners for casual affection, exploratory sex, and possible long term relationships.
+Asking someone for favors makes them like you. It is simple, effective, and Mallory uses this often. This is the "Ben Franklin effect". I think it is a mild form of Stockholm Syndrome, something I've already explained. Either you rebel and say "no," or you accept. Then you feel attachment to the parental figure asking you the favor.
 
-* We look for people to look after us, with advice, resources, affection, shelter.
+Doing random favors for Mallory disrupts Alice's schedule, and keeps her afraid and uncertain. Mallory never asks "please." She demands "or else!"
 
-* We look for people to invest in, with our knowledge, resources, and affection.
+++ The Wrecking
 
-* We look for people to share experiences with, to make us feel safe and meaningful.
+It gets worse.
 
-* We look for people to like us, follow us, and listen to us, so we feel more important.
+The Feeding doesn't last forever. After a while -- it could be a few days, or many years -- Mallory decides to move on. To be more accurate, she starts to act on plans she's been making from the start. Bob is close to empty. Or, a fantastic opportunity has opened up. Or, Bob is threatening to explode and expose the whole scheme.
 
-That is about it. It comes down to sharing knowledge, power, money, sex, security, attention, love, and care. We can not stop ourselves needing these at times in our lives. Yet how we respond to a trigger undergoes a dramatic change, when we accept our needs. Accept and embrace them, and they are no longer a vulnerability.
+So her next phase is a demolition job I call the Wrecking. It is a classic part of Mallory's relationships, and yet puzzling. She doesn't work from revenge, nor vindictiveness. She is too lazy to take time and effort to hurt people unless there is a pragmatic reason. It has to be profitable.
 
-Let me illustrate. Imagine a homosexual man dealing with his sexual attraction to other men:
+The Wrecking can be hard to see. It happens in private for the most part. It is often subtle and insidious. The obvious symptom is long term depression and trauma in Bob and Alice. Years after Mallory is gone, they still hate to talk about their experiences. They feel long-lasting shame, guilt, and self-pity. Anything that reminds them of their experience triggers flashes of fear, anger, and pain.
 
-* He may deny it, to conform to social expectations. This makes him vulnerable to predators, as he will ignore weak cues. He will respond only to the exaggerated cues that psychopaths are good at projecting.
+Brenda Myers-Powell, in her article [http://www.bbc.com/news/magazine-33113238 "My 25 years as a prostitute"], wrote: "I can tell as soon as I meet a girl if she is in danger, but there is no fixed pattern. You might have one girl who's quiet and introverted and doesn't make eye contact. Then there might be another who's loud and obnoxious and always getting in trouble. They're both suffering abuse at home but they're dealing with it in different ways - the only thing they have in common is that they are not going to talk about it."
 
-* He may accept and embrace it. This lets him recognize weak cues, and project them in turn. When someone projects exaggerated cues, he can now see these as a red flag.
+During the Wrecking, Mallory only has two masks for Bob. One is neglect and absence. The other is aggressive anger. There are no rewards, only silence or punishments. And during this, she tells him over and over, "this is your fault, you are worthless." And she reminds him how he has ruined her life, how she will make him pay. "No matter where you go," she says, "I will find you and hurt you."
 
-Mallory picks up on the first case, to flip into a super-stimulus response. When you have hidden dreams and desires, you are vulnerable. Anyone with the talent can guess those dreams. And if they then promise to make them come true, they carve a hole into your mind. Yet if you embrace your desires and carry them in the open, it changes. You will find small, real comforts in most of the people you meet every day. It adds up to much more than any dream.
+Bob becomes dysfunctional, gaunt, violent, and defensive. If anyone sees the couple, Bob looks hostile and unstable. Mallory looks comfortable, easy, delicate. It is clear to observers who the victim is, if any.
 
-Normally, hiding our deepest desires, we see a crowd and feel, "most of these people are uninteresting." We narrow our vision and become passive, waiting for others to provoke a response in us. We appear bland, uninterested, perhaps shy and quiet. Every encounter feels risky, and if someone does break through our shields, we treat this as a special event.
+This wrecking bring no direct profit to Mallory. A dysfunctional Bob is worth nothing to her. This is the mysterious part. Mallory needs to feed, and yet she spends effort making Bob useless. We can see the answer in Bob's long-term PTSD.
 
-When we understand, and accept our motivations, we can shift our perspective to "everyone here is interesting in some way." We broaden our vision and become active, trying to provoke a response in everyone we meet. We become playful, and outgoing. We have no shields to break. We're like a song bird sitting happily on every round object it sees, blue or not.
+Mallory has strong incentives to keep Bob from telling people about his experiences. Mallory needs to keep her cover, or she cannot hunt. An ex-victim who talks is dangerous. This is how cults like Scientology fall. Ex-members tell stories of the insanity and criminality, and public support turns to hate. Likewise, firms have collapsed due to ex-employees exposing corruption and criminality. Governments have fallen the same way. As for serial abusers, it is the silence of their victims that lets them continue.
 
-It is also healthy to understand the motivations of others around us. You can of course ask out loud, and get an answer. The answer will often be wrong in all the most important places. You have to go past spoken words and borrow one of Mallory's tricks.
+++ Serial Killer vs. Psychopath
 
-When you are among strangers, practice cold reading them. Every person you see or meet is a story. Something happened to bring them to that exact place and time. What is their story? What are they hoping for, afraid of, dreaming of? Sometimes it is explicit, or obvious. Even then you will see layers. There is the story we show to others. There is the story we tell to ourselves. And there is the hidden truth.
+> The man sits next to him, unwraps a package, and offers him a piece of bread with sausage. "Here, take some, you're hungry," says the man. He takes a piece then nibbles at it. It's the first food he's had in days, since he left. He can hardly swallow, his mouth is so dry. The man offers him a canteen. "Drink" he says. It's water. He drinks and hands back the metal bottle, then finishes the rest of the bread.
 
-It doesn't matter how well you guess. It is the perspective that matters. You can see strangers as words, bodies, and faces to respond to. Or you can see them as stories waiting to speak. That viewpoint lets you pick up on details that otherwise slip past you. Things people say, or don't say. The way they control, or respond to others. Their body language. How their friends act. Whether they appear alone, or part of a group. Whether they keep trying to get your attention, or not.
+> "Where you from?" says the man. "Gukovo," he mumbles. "Runaway, eh? What are you, thirteen, fourteen?" says the man, and gives him another chunk of bread and sausage. He nods, says nothing, and eats. The man reaches into his pocket and takes out his wallet. He opens it, pulls out some notes. "Take this, you'll need it," says the man. He hesitates. Why is this stranger helping him?
 
-When you see strangeness, and you will, try to document it. Make a mental note and if you can, keep a journal. Anything that seems unusual. Over time you'll start to see patterns emerging. Many will be familiar from this book. You will start to see pain and hurt. You'll see through the many acts people play. You may now and then see Mallory, when she's not paying attention to you.
+> "My uncle was from Zverevo." says the man, nodding, as if he can read his mind. "Horrid little town, nothing but the mines. Just like Gukovo. You're going to a better place. Here, take this." The man hands him the money again. So he takes it, folds it, puts it into his shoe. "Come," says the man, "I will show you something important." The man gets up, stands in front of him. He's dressed like a factory worker, heavy trousers, heavy shoes, shirt, jacket. He is carrying a black bag. His face shows nothing except an easy smile. It's a face you can trust.
 
-++ Emotional Awareness
+> The young boy shrugs and gets up. He follows the man out of the waiting room, deserted for hours. They walk out of the station yard and cross the single track into the autumn woods. He wonders where the man is taking him. They get deeper into the woods, well out of sight of the station. The man opens the bag he is carrying and takes out a length of rope.
 
-One of the core techniques to learn is emotional control. This is essential to escaping a relationship with a psychopath. It is also a useful skill in a broader social and professional context.
+> "I will tie your hands behind your back now," he tells the boy.
 
-Like motivations, our emotions form an identifiable core set. These are universal across cultures, and live in our genes. The psychologist Paul Ekman proposed six original universal emotions. These were: happiness, sadness, fear, anger, disgust, and surprise. He seems to have missed jealousy, loneliness, despair, and self-pity and a few others. Later he added others including guilt and shame. The full list I explain in [#emotions] runs to about fifty emotions.
+> The boy complies. It seems inevitable.
 
-The emotions evolved to coordinate our bodies for actions like fighting, or running away. They also evolved as a language that expresses on our faces and bodies. This is a universal language that babies can speak before they can form words. They live in the areas of our brain also responsible for empathy. These are the anterior insula and the amygdala. These areas also process our sense of smell. In humans this sense has strong ties to emotions.
+With all this talk of violence, let's talk about serial killers. Popular culture has often portrayed psychopaths as serial killers. Serial killers are of course real, yet rare. The FBI estimates 35-50 active in the USA at any time. There are roughly 8 million psychopaths running around. That is 4% of Americans above 18 and under 65.
 
-Psychopaths do not have the same wiring in these areas of the brain. It's not clear yet what their anterior insula and amygdala do. Perhaps emotional mimicry that drives facial expressions. In any case, they do not share the same emotions as non-psychopaths. Their emotional range is limited, as I'll explain in [#emotions]. They have limited empathy. They have no disgust at mutilation, visible or imagined. They have a different sense of smell.
+So the chance that any given adult American is a psychopath is 1 in 25. Whereas the chance that any given psychopath is a serial killer is 1 in 200,000. The statement "all Americans are psychopaths" has a 96% error margin. The statement "all psychopaths are serial killers" has a 99.9995% error margin, by contrast.
 
-As a social human, we cannot control how our emotions display. If we feel an emotion, it shows. This is their value as social signals: they are honest. To fake or suppress an emotion takes training, or psychopathic talent.
+Can we agree at least that all serial killers are psychopaths? If you ask forensic psychologists and psychiatrists, [https://www.google.be/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=are%20all%20serial%20killers%20psychopaths there is no general consensus].
 
-While emotions are powerful social signals, they also affect our senses and behavior. If we feel a strong emotion, that affects how we see others. If we are happy, we see others in a positive light. If we are sad or anxious, we see others in a worse light.
+Some argue that most serial killers act like psychopaths. They are aware of the law yet they disregard it. They have no empathy for their victims. They are predatory, to an extreme degree. They tend to be charming, manipulative, and narcissistic. They often to hide in plain sight, fooling friends and family for years. They invent rich cover stories. They lie so well that even coming home covered in blood, [http://listverse.com/2013/03/19/10-baffling-wives-of-serial-killers/ their wives suspect nothing].
 
-Since they affect our awareness, emotions also make us vulnerable. If Mallory makes us happy, we like him more. If Mallory makes us jealous of someone, we start to hate that person. If Mallory makes us afraid, we will do what he demands.
+The list of psychopath traits that serial killers exhibit goes on. They show no remorse, and blame their victims. They are rarely alcoholics or drug users. Above all, they treat others like disposables, to use and destroy for personal gain.
 
-To see clearly, and to resist Mallory's attacks, we must control our own emotions. Controlling your emotions is as hard as faking them. I'm sure there are many techniques. I call my technique "grounding." It works by identifying and resolving emotions one by one. I'll explain grounding in detail in [#emotions]. For now, here is a summary.
+Nonetheless, when psychiatrists diagnose serial killers, they often come up with other personality disorders. The typical diagnoses for serial killers are borderline, narcissistic, and schizoid personality disorders.
 
-The basis for grounding is that emotions are distinct, yet trigger in chains. Fear of being alone may trigger jealousy of others. That may trigger anger, which in turn triggers shame. The result is a soup of emotions, dominated by anger and shame. We can learn to identify the strongest emotion, shame, and sense what triggered it.
+And others argue that serial killers do not act like psychopaths. Most psychopaths murder no-one. And when they do, it is for pragmatic reasons: for money, for power, or to escape capture. Most serial killers are men. 50% of psychopaths are female.
 
-We can then work backwards until we come to the root emotion. The root emotion rests on a belief that we can negate. That fear of being alone is baseless. Doing that, the fear disappears. And then the whole chain of emotions is gone.
+They look like different animals, and I struggle to find a model that works. Mallory, for all the pain he causes, plays a role. Predators shape their prey species. Psychopaths have been key to social human development, as I'll explain in [#redqueen]. Yet serial killers?
 
-One of my sons is angry with his brother. I can see the small jealousies that provoke it. Those come from insecurity. Rather than ask them to stop bickering, I cuddle them both. The insecurity and jealousy and anger disappear.
+The 2015 movie //Jurassic World// turns around this question. In the movie the genetic engineers grow an //Indomitus Rex// out of mystery genes. The angry hybrid animal escapes and goes on the rampage. It slaughters people and other dinosaurs. Owen (played by Chris Pratt) says the animal knows nothing of the outside world. "Now it's killing for sport," he tells us.
 
-To fake an emotion you do the same in reverse. Start with a belief or hypothesis that generates a strong emotion. Let this trigger other emotions. Express these emotions. It can be a useful skill if you need it. For one thing, Mallory does not expect it from others.
+In the end (spoiler alert!) it is the other predator dinosaurs that defeat the monster. The velociraptors and T-Rex that bring down the Indomitus Rex are just as dangerous. Yet they are part of a system, and in the end they defend that system against the threat.
 
-Grounding works in real-time, when you are in a difficult situation. You do not need peace and quiet. It does take practice, for most people.
+We see the clear difference between killing for survival, and killing for pleasure. The I-Rex has the talents of a predator, yet exists outside the natural balance. It never had an environment in which to learn its place. When the velociraptors and T-Rex bring down the dragon, we cheer.
 
-It can help you deal with people who antagonize you, in real life and online. A common root belief is, "feeling and expressing this emotion will get them to behave better." That is false with trolls and psychopaths.
+This is the theme of the popular US TV series Dexter. The protagonist is a predator who hunts serial killers. Whether Dexter is a serial killer or even a psychopath is debatable. He is charming, stealthy, and lacks all empathy. Yet he protects innocents from men who have put themselves outside society. He does not manipulate people. He has a job that involves real work, not conning people.
 
-++ Situational Awareness
+We see what appear to be serial killers in nature. The British built their first East African railways late in the nineteenth century. A [https://en.wikipedia.org/wiki/Tsavo_Man-Eaters pair of male lions in Tsavo] learned to eat humans. They started attacking railway workers. By the time Lt. Col. John Henry Patterson shot the two lions, they had eaten 35 people.
 
-The focus on others is a form of active meditation. Mallory likes you to listen to her and think of yourself, so she can push your buttons. That only works if you are unaware and lost in your own thoughts. It is good to search for others' motivations. It is also good to understand the situations you find yourself in.
+Lions evolved to eat large African wild animals. Attacking humans is a losing strategy. In normal times, male lions live with a pride of females. The pride hunts zebras, wildebeest, gnu, buffalo, gazelle, and so on. It is the sister lionesses in the pride that organize the hunts. Most male lion cubs do not survive to reproduce. So these two lions were outside the system, so to speak. It is possible they had learned to scavenge corpses. When railway workers moved into their territory, the humans became irresistible targets.
 
-This means active listening and watching. Even among strangers, the most valuable data about a person comes from other people. It is a good question to ask: "how long have you known each other, and how did you meet?" When you observe how one person affects a group, you can tell a lot about them. This is much harder when it's just the two of you.
+In 2005, the FBI published [https://www.fbi.gov/stats-services/publications/serial-murder a readable and detailed report called "Serial Murder"]. It is worth reading from start to end. Some key points: serial killers span all ethnic groups. They are territorial. They kill for a variety of motives: sexual, thrill, financial gain, anger, and attention. They may pause or stop killing when they have other priorities. They improve their skills and range over time. When they get caught, it is not on purpose. "It is not that serial killers want to get caught. They feel that they can't get caught," says the report.
 
-So situational awareness is social awareness. Each person tells you their stories, and you build small theories of each person. Other people add weight to these theories, or falsify them. You throw away the theories that break, keep the ones that work. This sounds like a lot of effort. Yet it's just a set of small habits you can teach yourself, over months and years.
+The report looks at the origins of serial killers. It argues for a mix of biology and environment. Serial killers often come from abusive homes. Young, they are often lonely or isolated in violent environments. In 70% of cases they suffer injuries or traumas to the head when young. The report says:
 
-Once you are good at this, you can understand the dynamics of dozens of people, in a short time. You can respond in ways that deflect conflict, and absorb shotgunning without effect. You can start to see psychopaths by reflection off others.
+> There are documented cases of people who suffered severe head injuries and ultimately become violent, even when there was no prior history of violence.
 
-It is wise to stay alert, sober, and with friends when possible. Alcohol and fatigue make it harder to stay aware of the people around you.
+The FBI report is pretty clear:
 
-++ Contextual Awareness
+> As a group, serial killers suffer from a variety of personality disorders, including psychopathy, anti-social personality, and others. Most, however, are not adjudicated as insane under the law.
 
-Finally, situations are not context-free. The question is, how much of the context do you know? You will always be safer in a place that you are familiar with. You will know the kinds of people who come there, and why. You will know the economics of the place. In an unfamiliar place, you have to guess these, and you will often be wrong.
+What about the different diagnoses given to serial killers? I've argued that borderline, histrionic, and narcissistic personality disorders are masks of psychopathy. The forensic psychologist may well see these masks and take them as real.
 
-This doesn't mean avoiding the unknown. It is only by exploring the unknown that we can learn. This applies to people and places alike. The point of context is to know that we're out of our depth. If you are in an unfamiliar place your first goal should be to understand it.
+Psychopaths kill rarely, and only when necessary. Serial killers butcher people for sexual gratification or sport. That seems irrational and self-destructive. Yet the serial killer feels all the benefits, and none of the costs. They do not recognize their victims as living beings. They are confident they will not get caught. That is pure, selfish pragmatism.
 
-You can look at a place in several ways. One perspective that you can try is that of the hunter. What are they looking for? Are you being that person? If so, what can you change to regain control of the situation.
+Serial killers appear to be psychopaths who have broken something. Not their empathy. Rather, their restraint and calculation of consequences.
 
-For example, I've traveled and worked a lot in Africa. A non-African always attracts interest, for various reasons. Much of this interest is constructive and benign. Some is life-changing in the best way. And a lot is predatory, pure and simple. The best way to escape the stream of predators is to stay away from other non-Africans. This either means staying locked up in a hotel room, or making local friends. The second strategy is by far the more pleasant.
+The case of [https://en.wikipedia.org/wiki/Charles_Whitman Charles Whitman] gives us a strong hint. Whitman's father appears to have been a psychopath. Whitman himself showed some of the traits. Charm and small-scale criminality. On 1 August 1966, he shot 16 people, after complaining about "tremendous" headaches. A later autopsy showed a tumor pressing on his amaygdala.
+
+Like the I-Rex and the Tsavo lions, psychopathic killers live outside the system. I'd guess most are caught rapidly. That is, if a hundred psychopaths suffer the specific damage to their amygdala that turns them into killers, then ninety-nine get caught and imprisoned after one or two murders. As such they never count as "serial killers." The careers of those we know about is likely to be [https://en.wikipedia.org/wiki/Survivorship_bias survivorship bias].
+
+Serial killers are so scary and fascinating because they epitomize the psychopath's predator traits. Every time we read about a serial killer we think of all our near escapes. You almost never see the psychopath's predatory nature naked, in the daylight. Mallory hides so well. Serial killers show us Mallory naked and exposed, in broad daylight. It is a scary and yet compelling sight.
+
+++ Paying the Bill
+
+Psychopathic households live in violence, emotional and physical. Few of the victims [https://en.wikipedia.org/wiki/Domestic_violence#Under-reporting report even physical violence] to the police. Let alone neglect and emotional violence, which can be hard to prove. About one third of women and men alike pass through an abusive relationship. About 40% of murders of women are [https://en.wikipedia.org/wiki/Domestic_violence#Forms at the hands of their partners], compared to 6% for men.
+
+I'm not claiming that violence is Mallory's monopoly. Most violent male deaths are at the hands of other men. And most often in disputes over women, territory, or status. Male-on-male violence does not shock us. We have institutionalized it as war. We glorify it in our culture.
+
+What I am claiming is that the abusive relationship is a psychopath's digestive system. How it starts, how it flows, and how it ends are a evolved mechanism. It is how Mallory consumes Alice and Bob. It can be that in some cultures, abusive relationships are the norm. I'd consider these cultures to be psychopathic, like a national cult.
+
+If you know someone who is in an abusive relationship, it is likely one of the two is a psychopath. You must take real care before making a conclusion. Psychopaths lie. They will often claim to be the victim. They will often look exactly as you'd expect a victim to look. Most often there is no visible violence. As I explained, the real victims do not like to talk about their experiences.
+
+So the violence tends to resurface in a different form: self-harm.
+
+[http://medicalxpress.com/news/2012-09-million-people-commit-suicide-year.html A million people a year take their own lives], reported the WHO in 2012. For every death, there are 20 attempts. The WHO says 5% of people will try at least once to take their own lives. I think they under-counted. 20 million x 70 (global life expectancy) makes 1.4 billion, or 1/5th of the world population in 2012.
+
+Attempted suicide is a cry for help from someone who has no other voice. For every suicidal person, how many live in long term depression? Five, ten, fifty? The WHO estimates 350 million people live in depression globally. It says, "depression is the leading cause of disability worldwide." As [http://www.ncbi.nlm.nih.gov/pubmed/12584064 men tend to not ask for help], the real figure may be much higher.
 
 ++ Conclusions
 
-In this chapter I've described the first half of the psychopathic relationship. I've explained how Mallory can trick otherwise sane people into insane commitments. Her goal is to isolate her target. Alone, they will give her what she wants.
+I've explained how Mallory feeds. It is usually a slow business, yet it is violent. It often drives Alice and Bob to long term depression, PTSD, or suicide. While Mallory is not a serial killer, he is a serial abuser. His selfish use of others can result in death.
 
-Maybe I've made it seem easy for Mallory. And often it seems to be. Yet the stakes are high on both sides. If her trap fails, Mallory has lost an opportunity. Worse, she may have revealed herself. So she must select her targets with care.
+Mallory deserves his dark caricature. It's not just that he causes such massive amounts of suffering and death. It's that he does this pragmatically, to control his victims, and to stop them talking.
 
-The best defenses against a psychopath are proactive. It is easier to keep Mallory away, than to fight her off once she is part of your life. I've explained how to be aware of oneself and others, of the situation and context. When you need nothing, and accept everything, you are immune to Mallory's charms.
+Despite this, Mallory evolved in a predator-prey relationship. Later I'll explain how this relationship has been good, even essential, for our species. First, I will provide a set of tools for breaking yourself or another person free. If you are in a relationship with a psychopath, you must have this goal. It can seem impossible. Yet there are ways out.
 
-This strategy is not only an effective tool against Mallory. It also lets you build deeper, more solid relationships with Bobs and Alices. To find every person interesting is a humanistic and optimistic perspective.
-
-Yet there are no guarantees. You, or someone you care about, will sooner or later get caught. Mallory will switch from charm and promises to different shades of violence. In the next chapter I'll explain how this works and what it looks like.
+We start by asking the essential question, "am I confronting a psychopath?" and I will answer this in the next chapter.
