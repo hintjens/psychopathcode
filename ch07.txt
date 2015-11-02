@@ -18,7 +18,7 @@ When we can control the music, we become immune to Mallory and to many other cau
 
 ++ The Evolution of Emotions
 
-Evolutionary psychology aims to explains our mind and behavior as adaptations. It is a solid theory: we are the products of natural and sexual selection, no more or less. I've used this approach to explain psychopathy as an adaption rather than a disorder. I'm going to use the same approach to explain our emotions.
+Evolutionary psychology aims to explain our mind and behavior as adaptations. It is a solid theory: we are the products of natural and sexual selection, no more or less. I've used this approach to explain psychopathy as an adaption rather than a disorder. I'm going to use the same approach to explain our emotions.
 
 Our emotions evolved over time to help our ancestors survive and reproduce. This is not an original notion. The first champion of evolution, Charles Darwin, used it when he wrote "The Expression of the Emotions in Man and Animals" [https://en.wikipedia.org/wiki/Evolution_of_emotion in 1872]. Some human emotions date from hundreds of millions of years ago. We see these in many other animals. Some date from more recent times, and seem to be specific to humanity.
 
@@ -428,7 +428,7 @@ Let's look at negative triggers for the tribal emotions:
 
 * //Loneliness// - the emotion of being disconnected. Trigger: your sister isn't talking to you any more. You mention this to Mallory, who immediately says, "such a bitch. She's jealous because I told her about the money your dad gave us." You're angry with your sister, and then you start to feel sick.
 
-* //Belonging// - the emotion of being safe within your tribe. Trigger: Mallory organizes a party for your birthday. Lots of strangers turn up. Your own friends seem to be few. Still the company make you feel secure and happy.
+* //Belonging// - the emotion of being safe within your tribe. Trigger: Mallory organizes a party for your birthday. Lots of strangers turn up. Your own friends seem to be few. Still the company makes you feel secure and happy.
 
 * //Disgust// - the emotion of tasting bad food. Trigger: Mallory decides he'll cook. He prepares pasta, from a tin. You taste the slimy concoction and try adding more pepper. It doesn't help. You force yourself to eat some, then you feel sick and you leave the rest. Mallory is offended. He never cooks again. He tells everyone how you hate his food, and prefer to eat in restaurants, wasting money.
 
@@ -462,7 +462,7 @@ These emotional whirlwinds are exhausting and traumatizing. For Mallory they are
 
 > "We start out feeling afraid of something, then that fear makes us feel weak, then that weakness makes us angry, and then we start to hate." -- Cracked.com, [https://www.youtube.com/watch?v=pWq8j0yXkMI#t=273 "4 Terrifying Psychology Lessons Behind Famous Movie Monsters"]
 
-We've looked at how individual emotions work. In practice, it is rarely as clean as I describe. Emotions cause chain reactions, where one emotion triggers another, and so on. This covers the root emotion. Here are example of some such chains. You might like to extend this with self-observation:
+We've looked at how individual emotions work. In practice, it is rarely as clean as I describe. Emotions cause chain reactions, where one emotion triggers another, and so on. This covers the root emotion. Here are some examples of such chains. You might like to extend this with self-observation:
 
 * We dislike someone, and feel somewhat threatened. That makes us angry, and then we feel rage. We then feel guilt, and then shame at our reaction.
 
