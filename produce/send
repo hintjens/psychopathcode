@@ -1,6 +1,6 @@
 #! /bin/bash
 
-TITLE=ThePsychopathCodeDRAFT
+TITLE=ThePsychopathCode
 mv main.odt.pdf $TITLE.pdf
 mv main.epub $TITLE.epub
 
