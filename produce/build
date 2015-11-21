@@ -1,6 +1,7 @@
 #! /bin/bash
 
 mkmarkdown main.book
+mkgitbook main.book
 mkodt main.book
 md2html main.book
 kindlegen main.opf
