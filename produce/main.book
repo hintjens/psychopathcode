@@ -20,11 +20,11 @@ TEXTHEIGHT=90%
 TEXTSIZE=11pt
 
 #   Copyright page
-EDITION=Edition 0.7: 2 November 2015
+EDITION=Edition 0.8: xx January 2016
 ISBN=ISBN 978-1514342022
-DEDICATION=For my children
+DEDICATION=For Noemie, Freeman, and Gregor
 COPYRIGHT=Copyright © 2015 Pieter Hintjens
-LICENSE=Free to share and remix under CC-BY-SA-3.0
+LICENSE=Free to share and remix under CC-BY-SA-4.0
 TRADEMARKS="The Psychopath Code" is a trademark of Pieter Hintjens
 PUBLISHER=Published by Pieter Hintjens
 CREDITS1=

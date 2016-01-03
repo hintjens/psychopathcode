@@ -7,3 +7,4 @@ md2html main.book
 kindlegen main.opf
 ebook-convert main.mobi main.epub
 rm -rf output
+cp gitbook/*.md ../../gitbook/psychopathcode/
