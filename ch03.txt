@@ -394,7 +394,7 @@ So then we ask: can we just identify the psychopaths, and avoid them? After all,
 
 Where does this leave us? We cannot distrust everyone, or we become isolated and more vulnerable. We cannot extend blind trust to everyone, or we suffer wound after wound. We cannot tell who we can trust, and who we cannot. It seems like a paradox.
 
-Yet what looks like a paradox is actually a set of false assumptions. The main one is that we can trust Alice and Bob, and we must distrust Mallory. Then that we must decide alone, in our own minds. The third is that we must judge each case afresh, on its own merits.
+Yet what looks like a paradox is actually a set of false assumptions. First, that we can trust Alice and Bob, and we must distrust Mallory. Second, that we must decide alone, in our own minds. Third is that we must judge each case afresh, on its own merits. When we break down these assumptions, we solve the paradox.
 
 ++ The Theory of Trust
 

@@ -82,7 +82,7 @@ So an idealistic approach can make things worse. You cannot save a dysfunctional
 
 * Use it to study Mallory in a real environment. In the science of human behavior, you are your own best instrument. You can join the group, talk to people, try to be a good member. See where it hurts. Ask others what hurts them. This is useful data which can be hard to get any other way.
 
-* Offer specific individuals a way out, if you want to work with them. When Mallory attacks a project group he will often force out mediocrity. Only those who can withstand the arguments and conflict remain.
+* Offer specific individuals a way out, if you want to work with them. When Mallory attacks a project group he will often force out the nicer people first. Only those who can withstand the arguments and conflict remain.
 
 Where is Mallory in a project group? We know his strategies for hiding and hunting. So we can predict where he will be in a project group, and how he will act:
 
@@ -98,7 +98,7 @@ Where is Mallory in a project group? We know his strategies for hiding and hunti
 
 * Mallory breaks the social conventions of the group. This is a dominance mask. Social humans feel fear and anxiety when they do this. Mallory gets a kick from how others respond to him when he does this.
 
-* Mallory is immune to the general stress and anxiety infecting the group. He doesn't see the trouble with chaos. The worse it gets, the happier he seems to be.
+* Mallory is immune to the general stress and anxiety infecting the group. He doesn't see chaos as a bad thing. The worse it gets, the happier he seems to be.
 
 * Mallory is a poor organizer, and depends on others to do that for him. He lacks the ability to plan events. He cannot orchestrate people, without empathy. He does not ask, he demands.
 
@@ -128,7 +128,7 @@ The rules must remove all scope for manipulation, secret agreements, and power s
 
 If the group produces music, photos, software, or designs, then licensing matters. Standard copyright rules make it easy for psychopaths to capture people. Capture a work, and you capture the authors and users. So use a license that lets people move, with their work. For photos and music, use a Creative Commons "share-alike" license. For software, the Mozilla Public License (v2) is a good choice.
 
-In my software communities the rule book I use has this section on psychopaths:
+In my software communities the rule book I use ([rfc.zeromq.org/spec:22 called C4]) has this section on psychopaths:
 
 > Administrators SHOULD block or ban "bad actors" who cause stress and pain to others in the project. This should be done after public discussion, with a chance for all parties to speak. A bad actor is someone who repeatedly ignores the rules and culture of the project, who is needlessly argumentative or hostile, or who is offensive, and who is unable to self-correct their behavior when asked to do so by others.
 

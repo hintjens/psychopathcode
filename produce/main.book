@@ -33,7 +33,7 @@ PURCHASE=http://www.amazon.com/dp/B016MRW9KS
 
 #   Author page
 BIOGRAPHY=Pieter Hintjens has spent years building on-line communities and helping others to work better together. He is an expert in the dynamics of group psychology. He has researched cults and abusive manipulation since 2000, and psychopaths since 2010. He is also a software programmer, musician, and father.
-OTHERBOOKS=Other books by the same author: "ZeroMQ - Messaging for Many Applications" (O'Reilly), "Culture and Empire: Digital Revolution" (Amazon.com).
+OTHERBOOKS=Other books by the same author: [http://www.amazon.com/ZeroMQ-Messaging-Applications-Pieter-Hintjens/dp/1449334067 "ZeroMQ - Messaging for Many Applications"] (O'Reilly), [http://cultureandempire.com "Culture and Empire: Digital Revolution"] (Amazon.com).
 
 #   Build index
 #INDEX=../index.txt
