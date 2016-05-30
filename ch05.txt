@@ -32,7 +32,7 @@
 
 I've explained how Mallory hides, hunts, attacks, feeds, and buries her corpses. Your next question is likely to be: "how can I tell if someone is a psychopath?" Once you realize psychopaths walk among us, things change. You start to wonder how many shape-shifting predators you know, or knew. You start to look at the people you meet, and ask, "you too?" The question may become an obsession. Yet it is the wrong question.
 
-Or rather, it is only half the question. It is almost impossible to tell if someone is a psychopath or not. You need more than good observational skills. You need more than the awareness I described in [#consumption]. You must actually get entangled, then analyze them as they attack you. If they attack you. And if you even realize that is what is happening. This is not an experiment I would recommend.
+Or rather, it is only half the question. It is almost impossible to tell if a given person is a psychopath or not, without time to see how they interact with others. You need more than good observational skills. You need more than the awareness I described in [#consumption]. You must actually get entangled, then analyze them as they attack you. If they attack you. And if you even realize that is what is happening. This is not an experiment I would recommend.
 
 So a better question is, "how can I tell if a psychopath is active in my circles?" This is a valid question, and a necessary one. It is a question with solid answers. Psychopathy is like a disease that causes long-term mental damage in the entangled. This damage is Mallory's impact crater. You can see that impact crater if you search for it. Look at yourself, other individuals, families, businesses, and other organizations.
 
@@ -74,11 +74,11 @@ The symptoms of infection are clear and easy to see, once you know what you are 
 
 * A healthy group spends little time on decision making. Its members have high independence. They tend to do first, talk second. There is little or no argument. An infected group struggles to get consensus. Its members argue over irrelevant details. Even the smallest project takes huge planning, and stresses everyone.
 
-You cannot fix such groups. I have tried many times. Groups grow around founders and rules. You cannot change the rules after the fact. And to keep out bad actors, you must have the right rules. It doesn't help to identify Mallory and chase him out. That just makes space for a new Mallory to come in.
+You cannot fix such groups. I have tried many times. Groups grow around founders and rules. You cannot change the rules after the fact unless you are the founder. And to keep out bad actors, you must have the right rules. It doesn't help to identify Mallory and chase him out. That just makes space for a new Mallory to come in.
 
 You could start a new group with a healthier structure, and offer it as an alternative. You may then find yourself at the sharp end of a campaign to discredit you. If you become a plausible threat to a group, they will rally around even the worst leaders.
 
-So an idealistic approach can make things worse. You cannot save a dysfunctional project group. You cannot recreate it without risking a lot of conflict. What you can do, though, is:
+So an idealistic approach can make things worse. You cannot save a dysfunctional project group from its founders. You cannot recreate it without risking a lot of conflict. What you can do, though, is:
 
 * Use it to study Mallory in a real environment. In the science of human behavior, you are your own best instrument. You can join the group, talk to people, try to be a good member. See where it hurts. Ask others what hurts them. This is useful data which can be hard to get any other way.
 
@@ -100,7 +100,7 @@ Where is Mallory in a project group? We know his strategies for hiding and hunti
 
 * Mallory is immune to the general stress and anxiety infecting the group. He doesn't see chaos as a bad thing. The worse it gets, the happier he seems to be.
 
-* Mallory is a poor organizer, and depends on others to do that for him. He lacks the ability to plan events. He cannot orchestrate people, without empathy. He does not ask, he demands.
+* Mallory is a poor organizer, and depends on others to do that for him. He lacks the ability to plan events. He cannot orchestrate people, without empathy. He does not ask openly: he demands, bullies, and intimidates.
 
 * Mallory cannot execute long term plans within the group. Everything is short term, and last-minute drama. As good as he is at one-on-one manipulation, he is incompetent at collective works.
 
@@ -128,7 +128,7 @@ The rules must remove all scope for manipulation, secret agreements, and power s
 
 If the group produces music, photos, software, or designs, then licensing matters. Standard copyright rules make it easy for psychopaths to capture people. Capture a work, and you capture the authors and users. So use a license that lets people move, with their work. For photos and music, use a Creative Commons "share-alike" license. For software, the Mozilla Public License (v2) is a good choice.
 
-In my software communities the rule book I use ([rfc.zeromq.org/spec:22 called C4]) has this section on psychopaths:
+In my software communities the rule book I use ([http://rfc.zeromq.org/spec:42 called C4]) has this section on psychopaths:
 
 > Administrators SHOULD block or ban "bad actors" who cause stress and pain to others in the project. This should be done after public discussion, with a chance for all parties to speak. A bad actor is someone who repeatedly ignores the rules and culture of the project, who is needlessly argumentative or hostile, or who is offensive, and who is unable to self-correct their behavior when asked to do so by others.
 
@@ -154,9 +154,9 @@ Mallory leaves more specific tell-tales, in the workplace:
 
 * Mallory makes nothing of use to others. She makes no helpful documents, presentations, websites, manuals. If she does show off such materials, it is others' work.
 
-* Mallory does not build projects. If she does get involved in a project, it tends to be bad for it. She manipulates projects for her own benefit. That means, she may sabotage it to make someone look bad. Or, she may help it, so she can take credit for it.
+* Mallory does not build projects. If she does get involved in a project, that tends to be a death sentence. She manipulates projects for her own benefit. She may sabotage a successful project to make someone look bad. Or, she may join a successful project, and then take credit for it.
 
-* Mallory has no solid track record. Anyone who has worked with her before is loath to speak of their experience. They seem afraid of her in some silent way.
+* Mallory has no solid track record. Anyone who has worked with her before is loath to speak of their experience. They seem afraid of her in some silent traumatized way.
 
 * Mallory may collect credentials, awards, and certificates. Her resume may be impressive. She will display these credentials like feathers. In reality they may be fake. People do not generally check.
 
@@ -166,7 +166,7 @@ Mallory leaves more specific tell-tales, in the workplace:
 
 We all meet psychopaths at work. If you know how Mallory works, you can see this happen almost in real-time. If not, it can take years to realize "it was not normal."
 
-You may want to try to fix things. It is unwise to accuse co-workers of being psychopaths. Only a trained professional can make such a diagnosis. And even then, only with cooperation from the subject. Mallory is not going to walk with you into Human Resources and agree that she's a problem.
+You may want to try to fix things. It is unwise to accuse co-workers of being psychopaths. Only a trained professional can make a formal diagnosis. And even then, only with cooperation from the subject. Mallory is not going to walk with you into Human Resources and agree that she's a problem.
 
 If you confront a psychopath in the workplace, have your exit ready. You will not be staying long. Mallory knows exactly how to make people hate and fear you. She will with tears in her eyes accuse you of sex crimes, financial fraud, and worse. She will explain in clear detail why all the trouble is your doing.
 
@@ -186,9 +186,9 @@ Perhaps it is surprising, yet psychopaths have families and children, like anyon
 
 * To keep his spouse captive and responsible for childcare at least. If possible, he will use his spouse and her family for income as well.
 
-He has less obvious goals too. He needs to ensure his children grow up successful psychopaths. Or, grow up to seek psychopaths as partners. Either way, his psychopath genes stand more chance of survival.
+He has less obvious goals too. He needs to ensure his children grow up successful psychopaths. Or, grow up to seek psychopaths as partners. Either way, his psychopath genes stand more chance of being passed down the generations.
 
-What this translates to are a set of behaviors. These are consistent across psychopath's families. We know that Mallory is abusive and dominating. This is how he keeps his spouse in a long-term bond. Here are some less well-known traits of Mallory, the parent:
+What this translates to are a set of behaviors. These appear to be fairly consistent across psychopath's families. We know that Mallory is abusive and dominating. This is how he keeps his spouse in a long-term bond. Here are some less well-known traits of Mallory, the parent:
 
 * Mallory neglects his children's emotional needs. They exist to him as extensions of his identity, not separate individuals with needs. Yet he can focus such power on them they feel intense love.
 
@@ -198,7 +198,7 @@ What this translates to are a set of behaviors. These are consistent across psyc
 
 * Mallory often disappears on trips. It may be one night, or a month. If he announces his departure or return in advance, it is for his own reasons.
 
-* Mallory will plan family vacations, yet always with a personal motive. Often such trips are cover for one or other hunting trip. On a true getaway, Mallory is aggressive and irritable.
+* Mallory will plan family vacations, yet always with a personal motive. Often such travel is cover for one or other hunting trip. On a true getaway, Mallory is aggressive and irritable.
 
 * Mallory is the star of the family. He enjoys taking photos of himself, his travels, and his possessions. He always looks great in these photos, and he shares them with others whenever he can.
 
@@ -458,15 +458,15 @@ If this is familiar to you, I'm half-sorry for taking you back to your memories.
 
 ++ The Dark Side of the Moon
 
-Sleeping with Mallory is one of those "well, I thought it was a good idea at the time" things. Susan Walsh, the narcissist watcher I already quoted, writes, "//Please don't date one. I beg you not to fall in love with one. And never, ever marry one//." It is good advice, yet quite useless.
+Sleeping with Mallory is one of those "well, I thought it was a good idea at the time" things. Susan Walsh, the narcissist watcher I already quoted, writes, "//Please don't date one. I beg you not to fall in love with one. And never, ever marry one//." It is good advice, yet assumes a level of control that often just isn't there, any more.
 
-It is more likely that you tangle with Mallory at work. It is inevitable unless you are lucky enough to be in a small business that has escaped infection.
+It is more likely that you tangle with Mallory at work. I'd say it's inevitable unless you are lucky enough to be in a small business that has escaped infection.
 
-Larger organizations are rarely fun places to work. Forbes [http://www.forbes.com/sites/work-in-progress/2014/01/20/8-common-causes-of-workplace-demotivation/ reports] that 80% of US workers "feel stressed" at the office and only 30% feel "engaged." Almost 20% are "actively disengaged." That mean they go to work and take the pay check, yet hate every minute of it.
+Larger organizations are rarely fun places to work. Forbes [http://www.forbes.com/sites/work-in-progress/2014/01/20/8-common-causes-of-workplace-demotivation/ reports] that 80% of US workers "feel stressed" at the office and only 30% feel "engaged." Almost 20% are "actively disengaged." That means they go to work, take the pay check, yet hate every minute of it.
 
 Forbes cites a list of reasons. There is lack of trust from and in management. There is the insecurity, boredom, and lack of progress. There are the poor communications and unpleasant co-workers. All except boredom are classic symptoms of a relationship with Mallory.
 
-So here's an idea. Big business is the dark side of the Moon. It is a surface disfigured by psychopath impact craters. Hundreds of millions of them, impact after impact. And they cover everything.
+So here's an idea. Big business is the dark side of the Moon. It is an unseen surface disfigured by psychopath impact craters. Hundreds of millions of them, impact after impact. And they cover everything.
 
 Here is how it feels to work in a healthy workplace:
 
@@ -496,9 +496,9 @@ Here is how it feels to work on the dark side of the Moon:
 
 * The commute is like riding the slow bus to Hell. A dark pit of despair fills you as you get to your stop. It's raining. You left your umbrella on the bus. Of course.
 
-* The notion of seeing your colleagues fills you with dread. You hope they don't notice how hungover you are. You hope you don't meet the boss.
+* The notion of seeing your colleagues fills you with dread. You hope they don't notice how hungover you are. You hope you don't meet the boss on the way to your desk.
 
-* The office is sterile, and impersonal. You can't think. You'd take a music player and headset, except that's forbidden. In the toilet, a new note from HR. It says, "Collarless t-shirts forbidden except on last Friday of each month, when mandatory. Enjoy casual Friday."
+* The office is sterile, and impersonal. You can't think. You'd take a music player and headset, except that's forbidden. In the toilet, a new note from HR. It says, "Collarless t-shirts forbidden except on last Friday of each month. Enjoy mandatory casual Friday!"
 
 * The coffee wakes you, and you find the energy to start on the report. Except, it's meeting time. Everyone crowds into the meeting room. Planning time. Always the same. Your mind goes back to sleep.
 
@@ -520,7 +520,7 @@ Here is how it feels to work on the dark side of the Moon:
 
 * When you get home, it's late and the kids are already asleep. Your wife is silent in the living room. You sit on the other couch, and open your laptop. One more day and it's Friday.
 
-You can estimate how many psychopaths (M) are active in any given organization. Start with an estimate of 4% of total workforce (W). Multiply by three for the financial, legal, or religious sectors (F = 1 or 3). Now imagine you are a client, and give the organization a "ripoff factor" of one to five (R = 1 to 5). One is your local baker. Five is Wall Street. Multiply your estimate by the ripoff factor. Round down to the nearest whole number. You now have your estimate.
+You can estimate how many psychopaths (M) are active in any given organization. Start with an estimate of 4% of total workforce (W). Multiply by three for finance-related businesses (F = 1 or 3). Now imagine you are a client, and give the organization a "ripoff factor" of one to five (R = 1 to 5). One is your local baker. Five is Comcast. Multiply your estimate by the ripoff factor. Round down to the nearest whole number. You now have your estimate.
 
 ++ The Ages of Mallory
 
@@ -584,7 +584,7 @@ If you look at older Mallory you may see these traits:
 
 * People exist to serve her. This goes beyond her children. She collects a circle of admirers who look after her. Her social life is about recruiting and keeping this circle alive.
 
-* She does nothing for other people: no charity work, no community work. She despises her neighbors and ignores them as far as she can.
+* She does nothing sincere for other people. If she does charity work or community work, it is always a display, in public view. She despises her neighbors and ignores them as far as she can.
 
 * Her main hobby is watching television soap operas. She does not keep house plants or cats. If her family give her a companion dog, it becomes sick or disturbed.
 
