@@ -334,7 +334,7 @@ There are a set of "follow me" triggers that let one man take control over other
 
 * //Invoking a common enemy//. This triggers the defensive reaction. It gives the group focus and energy the outsider can own and steer.
 
-* //Demanding action and proposing a plan//. This triggers the "follower" response. If a majority of the group responsds, the outsider is now in charge.
+* //Demanding action and proposing a plan//. This triggers the "follower" response. If a majority of the group responds, the outsider is now in charge.
 
 * //Attacking internal enemies//, especially the old leadership. This triggers the paranoia and revenge responses. With luck the new leader can purge the hierarchy of all potential threats.
 
