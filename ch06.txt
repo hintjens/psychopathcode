@@ -334,7 +334,7 @@ This dynamic can be confusing for anyone trying to establish normality with Mall
 
 ++ The Social Emotions
 
-Around three million years ago, we began to evolve the emotions that accomodate arbitrary relationships. This happened before the development of spoken language. These emotions let us work with an unlimited number of people, building social networks that stretch over time and space:
+Around three million years ago, we began to evolve the emotions that accomodate arbitrary relationships. This happened before the development of spoken language. These emotions let us work with an unlimited number of people, and to build social networks that stretch over time and space:
 
 * //Like// - the emotion of a positive relationship. In [#capture] I explained how social accounting works. When you like someone, you feel happy in their presence, or when you think of them. This shows in the usual ways: wide eyes and open pupils, smiles, open body language, shining face. This emotion is all about display, to the person involved, and to third parties. There is some empathic response. Thus we tend to like people who are happy, as they seem to like us. Yet most of the time we base our response off our internal accounting.
 
@@ -346,7 +346,7 @@ Around three million years ago, we began to evolve the emotions that accomodate 
 
 * //Shame// - the emotion of humiliation. You feel sick in your stomach. You believe everyone is looking at you, and talking about you. Blood flows to your ears in a visible sign to others. You look at the ground. You avoid eye contact and do not engage in conversation. You want to hide. The social response to //shame// depends on the level of misconduct.
 
-* //Remorse// - the emotion of apology. //Remorse// is close to //defeat//. Yet you feel it in the specific context of being caught while breaking a social code. You feel //remorse// when faced with //hate//, //anger//, or //disgust// at some crime. You feel //remorse// as a strong desire to recreate balance. You want people to accept you again. The empathic response to //remorse// may be //like//, or it may be more //anger//.
+* //Remorse// - the emotion of apology. //Remorse// is close to //defeat//. Yet you feel it only in the context of being caught while breaking a social code. You feel //remorse// when your actions evoke //hate//, //anger//, or //disgust// from others. You feel //remorse// as a strong desire to recreate balance. You want people to accept you again. The empathic response to //remorse// may be //like//, or it may be more //anger//.
 
 * //Impatience// - the emotion of losing time. You feel irritated. You make repeated movements of the feet or hands. Your adrenalin is high, as you are eager to move. You gesticulate and make offended noises. The empathic response to impatience is to apologize and feel //shame//.
 
@@ -524,7 +524,7 @@ Some of these chains are positive and some less so. Some chains turn into cycles
 
 There's a good reason for this. A root emotion triggers off some core belief or assumption. As long as you don't challenge and discredit this belief, it remains active. It will sooner or later trigger the root emotion again, and restart the chain reaction.
 
-To break an emotional chain, we cannot just add more emotions on top. Rather, we must find and understand the root belief, and then discredit it. When we do that, the triggering stops, and the emotional chain reaction ends. Then we can feel other emotions like happiness and belonging and love.
+To break an emotional chain, we cannot just add more emotions on top. Rather, we must find and understand the root belief, and then discredit it. When we do that, the triggering stops, and the emotional chain reaction ends. We can then feel other emotions, like happiness, belonging, and love.
 
 Take the example from Cracked. The fear comes from the assumption that the monster is dangerous. Look again, and you see an image, poor computer graphics, and a shaky camera. The fear disappears. Then the weakness, the anger, and the hate vanish too.
 
@@ -550,7 +550,7 @@ When you focus, you realize you feel hate, fear, and intense loneliness. Three d
 
 * The hate comes from anger at the thieves. The anger is a normal defense emotion. Except, of course, it's too late. The event has come and gone, and no amount of anger will stop it. As you realize this, the anger and the hate go away.
 
-* The fear comes from anxiety that there will be another robbery. The anxiety comes from self-pity, as you cry for help from friends and family. Except of course, you can fix this yourself. You install a better lock. The self-pity goes away, and so does the anxiety and fear.
+* The fear comes from anxiety that there will be another robbery. The anxiety comes from self-pity, you are crying out for help from friends and family. Except of course, you can fix this yourself. You install a better lock. The self-pity goes away, and so does the anxiety and fear.
 
 * The loneliness comes from the loss of your treasured possessions. You loved them so much. If they were people, then displaying pain might bring them back to you. Stolen goods don't care. They are gone forever. As you realize that, and stop hoping they'll turn up, the loss goes away, and you stop feeling so alone.
 
